@@ -1,6 +1,10 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Feature films" tvg-id="the-dance-of-life-1929-colorized" tvg-name="The Dance Of Life 1929 Colorized" tvg-logo="https://archive.org/download/the-dance-of-life-1929-colorized/format=Thumbnail" tvg-language="eng",The Dance Of Life 1929 Colorized
+https://archive.org/download/the-dance-of-life-1929-colorized/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="the-original-meet-the-parents-full-length-feature-film" tvg-name="Meet The Parents (1992)" tvg-logo="https://archive.org/download/the-original-meet-the-parents-full-length-feature-film/format=Thumbnail" tvg-language="eng",Meet The Parents (1992)
 https://archive.org/download/the-original-meet-the-parents-full-length-feature-film/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="deluge-1933-sidney-blackmer-colorized" tvg-name="Deluge 1933 Colorized" tvg-logo="https://archive.org/download/deluge-1933-sidney-blackmer-colorized/format=Thumbnail" tvg-language="eng",Deluge 1933 Colorized
+https://archive.org/download/deluge-1933-sidney-blackmer-colorized/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="corsair-1931-colorized" tvg-name="Corsair 1931 Colorized" tvg-logo="https://archive.org/download/corsair-1931-colorized/format=Thumbnail" tvg-language="eng",Corsair 1931 Colorized
 https://archive.org/download/corsair-1931-colorized/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="sub-115-mb-test-to-see-if-it-can-get-through-the-beta-uploader" tvg-name="The Unknown 1927 colorized" tvg-logo="https://archive.org/download/sub-115-mb-test-to-see-if-it-can-get-through-the-beta-uploader/format=Thumbnail" tvg-language="eng",The Unknown 1927 colorized
@@ -2749,10 +2753,10 @@ https://archive.org/download/silent-vive-la-france/format=h.264
 https://archive.org/download/silent-victory/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-unknown-love" tvg-name="Unknown Love" tvg-logo="https://archive.org/download/silent-unknown-love/format=Thumbnail" tvg-language="eng" channel-id="tt0010822",Unknown Love (1919)
 https://archive.org/download/silent-unknown-love/format=h.264
-#EXTINF:-1 group-title="Silent films" tvg-id="silent-uncle-sam-and-the-bolsheviki--i-w-w-rat" tvg-name="Uncle Sam and the Bolsheviki - I.W.W. Rat" tvg-logo="https://archive.org/download/silent-uncle-sam-and-the-bolsheviki--i-w-w-rat/format=Thumbnail" tvg-language="eng" channel-id="tt1496024",Uncle Sam and the Bolsheviki - I.W.W. Rat (1919)
-https://archive.org/download/silent-uncle-sam-and-the-bolsheviki--i-w-w-rat/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-uncle-sam-donates-for-liberty-loans" tvg-name="Uncle Sam Donates for Liberty Loans" tvg-logo="https://archive.org/download/silent-uncle-sam-donates-for-liberty-loans/format=Thumbnail" tvg-language="eng" channel-id="tt1496023",Uncle Sam Donates for Liberty Loans (1919)
 https://archive.org/download/silent-uncle-sam-donates-for-liberty-loans/format=h.264
+#EXTINF:-1 group-title="Silent films" tvg-id="silent-uncle-sam-and-the-bolsheviki--i-w-w-rat" tvg-name="Uncle Sam and the Bolsheviki - I.W.W. Rat" tvg-logo="https://archive.org/download/silent-uncle-sam-and-the-bolsheviki--i-w-w-rat/format=Thumbnail" tvg-language="eng" channel-id="tt1496024",Uncle Sam and the Bolsheviki - I.W.W. Rat (1919)
+https://archive.org/download/silent-uncle-sam-and-the-bolsheviki--i-w-w-rat/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-trapped-by-the-mormons" tvg-name="Trapped by the Mormons" tvg-logo="https://archive.org/download/silent-trapped-by-the-mormons/format=Thumbnail" tvg-language="eng" channel-id="tt0013705",Trapped by the Mormons (1922)
 https://archive.org/download/silent-trapped-by-the-mormons/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-true-heart-susie" tvg-name="True Heart Susie" tvg-logo="https://archive.org/download/silent-true-heart-susie/format=Thumbnail" tvg-language="eng" channel-id="tt0010806",True Heart Susie (1919)
