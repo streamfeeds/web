@@ -2783,10 +2783,10 @@ https://archive.org/download/silent-vive-la-france/format=h.264
 https://archive.org/download/silent-victory/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-unknown-love" tvg-name="Unknown Love" tvg-logo="https://archive.org/download/silent-unknown-love/format=Thumbnail" tvg-language="eng" channel-id="tt0010822",Unknown Love (1919)
 https://archive.org/download/silent-unknown-love/format=h.264
-#EXTINF:-1 group-title="Silent films" tvg-id="silent-uncle-sam-donates-for-liberty-loans" tvg-name="Uncle Sam Donates for Liberty Loans" tvg-logo="https://archive.org/download/silent-uncle-sam-donates-for-liberty-loans/format=Thumbnail" tvg-language="eng" channel-id="tt1496023",Uncle Sam Donates for Liberty Loans (1919)
-https://archive.org/download/silent-uncle-sam-donates-for-liberty-loans/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-uncle-sam-and-the-bolsheviki--i-w-w-rat" tvg-name="Uncle Sam and the Bolsheviki - I.W.W. Rat" tvg-logo="https://archive.org/download/silent-uncle-sam-and-the-bolsheviki--i-w-w-rat/format=Thumbnail" tvg-language="eng" channel-id="tt1496024",Uncle Sam and the Bolsheviki - I.W.W. Rat (1919)
 https://archive.org/download/silent-uncle-sam-and-the-bolsheviki--i-w-w-rat/format=h.264
+#EXTINF:-1 group-title="Silent films" tvg-id="silent-uncle-sam-donates-for-liberty-loans" tvg-name="Uncle Sam Donates for Liberty Loans" tvg-logo="https://archive.org/download/silent-uncle-sam-donates-for-liberty-loans/format=Thumbnail" tvg-language="eng" channel-id="tt1496023",Uncle Sam Donates for Liberty Loans (1919)
+https://archive.org/download/silent-uncle-sam-donates-for-liberty-loans/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-trapped-by-the-mormons" tvg-name="Trapped by the Mormons" tvg-logo="https://archive.org/download/silent-trapped-by-the-mormons/format=Thumbnail" tvg-language="eng" channel-id="tt0013705",Trapped by the Mormons (1922)
 https://archive.org/download/silent-trapped-by-the-mormons/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-true-heart-susie" tvg-name="True Heart Susie" tvg-logo="https://archive.org/download/silent-true-heart-susie/format=Thumbnail" tvg-language="eng" channel-id="tt0010806",True Heart Susie (1919)
@@ -4275,16 +4275,10 @@ https://archive.org/download/Excelsior/format=h.264
 https://archive.org/download/TheSpanishCapeMystery1935/format=h.264
 #EXTINF:-1 group-title="Georgesmelies" tvg-id="LeCauchemar" tvg-name="Le Cauchemar" tvg-logo="https://archive.org/download/LeCauchemar/format=Thumbnail" tvg-language="eng",Le Cauchemar (1896)
 https://archive.org/download/LeCauchemar/format=h.264
-#EXTINF:-1 group-title="Georgesmelies" tvg-id="BobKickLenfantTerrible" tvg-name="Bob Kick‚ l'enfant terrible" tvg-logo="https://archive.org/download/BobKickLenfantTerrible/format=Thumbnail" tvg-language="eng",Bob Kick‚ l'enfant terrible (1903)
-https://archive.org/download/BobKickLenfantTerrible/format=h.264
 #EXTINF:-1 group-title="Georgesmelies" tvg-id="LeMlomane" tvg-name="Le Mélomane" tvg-logo="https://archive.org/download/LeMlomane/format=Thumbnail" tvg-language="eng",Le Mélomane (1902)
 https://archive.org/download/LeMlomane/format=h.264
 #EXTINF:-1 group-title="Segundodechomon" tvg-id="LeScarabeDor" tvg-name="Le Scarabe d'or" tvg-logo="https://archive.org/download/LeScarabeDor/format=Thumbnail" tvg-language="eng",Le Scarabe d'or (1907)
 https://archive.org/download/LeScarabeDor/format=MPEG4
-#EXTINF:-1 group-title="Georgesmelies" tvg-id="LeDiableAuCouvent" tvg-name="Le Diable au Couvent" tvg-logo="https://archive.org/download/LeDiableAuCouvent/format=Thumbnail" tvg-language="eng",Le Diable au Couvent (1900)
-https://archive.org/download/LeDiableAuCouvent/format=h.264
-#EXTINF:-1 group-title="Georgesmelies" tvg-id="PanoramaPrisDunTrainEnMarche" tvg-name="Panorama Pris d'un Train En Marche" tvg-logo="https://archive.org/download/PanoramaPrisDunTrainEnMarche/format=Thumbnail" tvg-language="eng",Panorama Pris d'un Train En Marche (1898)
-https://archive.org/download/PanoramaPrisDunTrainEnMarche/format=h.264
 #EXTINF:-1 group-title="Georgesmelies" tvg-id="CombatNavalEnGrce" tvg-name="Combat Naval en Grèce" tvg-logo="https://archive.org/download/CombatNavalEnGrce/format=Thumbnail" tvg-language="eng",Combat Naval en Grèce (1897)
 https://archive.org/download/CombatNavalEnGrce/format=h.264
 #EXTINF:-1 group-title="Georgesmelies" tvg-id="EvocationSpirite" tvg-name="Évocation Spirite" tvg-logo="https://archive.org/download/EvocationSpirite/format=Thumbnail" tvg-language="eng",Évocation Spirite (1899)
@@ -4293,8 +4287,6 @@ https://archive.org/download/EvocationSpirite/format=h.264
 https://archive.org/download/Cendrilloncinderella/format=h.264
 #EXTINF:-1 group-title="Georgesmelies" tvg-id="LuneAUnMetre" tvg-name="La Lune à un Mètre" tvg-logo="https://archive.org/download/LuneAUnMetre/format=Thumbnail" tvg-language="eng",La Lune à un Mètre (1898)
 https://archive.org/download/LuneAUnMetre/format=h.264
-#EXTINF:-1 group-title="Georgesmelies" tvg-id="LeChteauHanttinted" tvg-name="Le Château Hanté (tinted)" tvg-logo="https://archive.org/download/LeChteauHanttinted/format=Thumbnail" tvg-language="eng",Le Château Hanté (tinted) (1897)
-https://archive.org/download/LeChteauHanttinted/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="1921Camille" tvg-name="1921 Camille" tvg-logo="https://archive.org/download/1921Camille/format=Thumbnail" tvg-language="eng",1921 Camille
 https://archive.org/download/1921Camille/format=MPEG4
 #EXTINF:-1 group-title="Silent films" tvg-id="EyesOfYouth" tvg-name="Eyes of Youth" tvg-logo="https://archive.org/download/EyesOfYouth/format=Thumbnail" tvg-language="eng",Eyes of Youth (1919)
