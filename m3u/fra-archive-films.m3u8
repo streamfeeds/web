@@ -281,8 +281,6 @@ https://archive.org/download/silent-the-faithful-heart/format=h.264
 https://archive.org/download/silent-the-curse-of-greed/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-the-dancing-pig" tvg-name="The Dancing Pig" tvg-logo="https://archive.org/download/silent-the-dancing-pig/format=Thumbnail" tvg-language="fra" channel-id="tt0246507",The Dancing Pig (1907)
 https://archive.org/download/silent-the-dancing-pig/format=h.264
-#EXTINF:-1 group-title="Silent films" tvg-id="silent-the-conquest-of-the-pole" tvg-name="The Conquest of the Pole" tvg-logo="https://archive.org/download/silent-the-conquest-of-the-pole/format=Thumbnail" tvg-language="fra" channel-id="tt0002113",The Conquest of the Pole (1912)
-https://archive.org/download/silent-the-conquest-of-the-pole/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-the-city-struck-by-lightning" tvg-name="The City Struck by Lightning" tvg-logo="https://archive.org/download/silent-the-city-struck-by-lightning/format=Thumbnail" tvg-language="fra" channel-id="tt0201528",The City Struck by Lightning (1924)
 https://archive.org/download/silent-the-city-struck-by-lightning/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-the-bewitched-shepherd" tvg-name="The Bewitched Shepherd" tvg-logo="https://archive.org/download/silent-the-bewitched-shepherd/format=Thumbnail" tvg-language="fra" channel-id="tt0449181",The Bewitched Shepherd (1906)
@@ -503,8 +501,6 @@ https://archive.org/download/LeVoleurInvisible/format=h.264
 https://archive.org/download/LeThtrelectriqueDeBob/format=h.264
 #EXTINF:-1 group-title="Georgesmelies" tvg-id="LhommeLaTteDuCabinet" tvg-name="L'Homme à la tête de Caoutchouc" tvg-logo="https://archive.org/download/LhommeLaTteDuCabinet/format=Thumbnail" tvg-language="fra",L'Homme à la tête de Caoutchouc (1901)
 https://archive.org/download/LhommeLaTteDuCabinet/format=MPEG4
-#EXTINF:-1 group-title="Georgesmelies" tvg-id="LeDiableGeantOuLeMircaleDeLaMadone" tvg-name="Le Diable Géant ou Le Miracle de la Madonne" tvg-logo="https://archive.org/download/LeDiableGeantOuLeMircaleDeLaMadone/format=Thumbnail" tvg-language="fra",Le Diable Géant ou Le Miracle de la Madonne (1901)
-https://archive.org/download/LeDiableGeantOuLeMircaleDeLaMadone/format=h.264
 #EXTINF:-1 group-title="Georgesmelies" tvg-id="LeCake-walkInfernal" tvg-name="Le Cake-Walk Infernal" tvg-logo="https://archive.org/download/LeCake-walkInfernal/format=Thumbnail" tvg-language="fra",Le Cake-Walk Infernal (1903)
 https://archive.org/download/LeCake-walkInfernal/format=MPEG4
 #EXTINF:-1 group-title="Segundodechomon" tvg-id="SymphonieBizarre" tvg-name="Symphonie Bizarre" tvg-logo="https://archive.org/download/SymphonieBizarre/format=Thumbnail" tvg-language="fra",Symphonie Bizarre (1909)
