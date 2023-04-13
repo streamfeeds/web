@@ -1,10 +1,16 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="stagecoach-outlaws" tvg-name="Stagecoach Outlaws 1945 colorized (Buster Crabbe)" tvg-logo="https://archive.org/download/stagecoach-outlaws/format=Thumbnail" tvg-language="eng",Stagecoach Outlaws 1945 colorized (Buster Crabbe)
+https://archive.org/download/stagecoach-outlaws/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="perils-of-pauline-1947" tvg-name="The Perils of Pauline 1947 (Betty Hutton)" tvg-logo="https://archive.org/download/perils-of-pauline-1947/format=Thumbnail" tvg-language="eng",The Perils of Pauline 1947 (Betty Hutton)
+https://archive.org/download/perils-of-pauline-1947/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="wild-boys-of-the-road-colorized-movie-720p-hd" tvg-name="Wild Boys of the Road (restored‚ colorized) (1933‚ pre-code controversial drama‚ imdb score: 7.5)" tvg-logo="https://archive.org/download/wild-boys-of-the-road-colorized-movie-720p-hd/format=Thumbnail" tvg-language="eng",Wild Boys of the Road (restored‚ colorized) (1933)
 https://archive.org/download/wild-boys-of-the-road-colorized-movie-720p-hd/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="the-dance-of-life-1929-colorized" tvg-name="The Dance Of Life 1929 Colorized" tvg-logo="https://archive.org/download/the-dance-of-life-1929-colorized/format=Thumbnail" tvg-language="eng",The Dance Of Life 1929 Colorized
 https://archive.org/download/the-dance-of-life-1929-colorized/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="the-third-man-1949-colorized-movie-720p-hd" tvg-name="The Third Man (restored‚ colorized) (1949‚ noir‚ imdb score: 8.1)" tvg-logo="https://archive.org/download/the-third-man-1949-colorized-movie-720p-hd/format=Thumbnail" tvg-language="eng",The Third Man (restored‚ colorized) (1949)
 https://archive.org/download/the-third-man-1949-colorized-movie-720p-hd/format=h.264
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="three-on-a-ticket" tvg-name="Michael Shayne: Three on a Ticket 1947 colorized" tvg-logo="https://archive.org/download/three-on-a-ticket/format=Thumbnail" tvg-language="eng",Michael Shayne: Three on a Ticket 1947 colorized
+https://archive.org/download/three-on-a-ticket/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="shanghai-express-1932-colorized-movie-720p-hd" tvg-name="Shanghai Express (restored‚ colorized) (1932‚ pre-code drama‚ imdb score: 7.3)" tvg-logo="https://archive.org/download/shanghai-express-1932-colorized-movie-720p-hd/format=Thumbnail" tvg-language="eng",Shanghai Express (restored‚ colorized) (1932)
 https://archive.org/download/shanghai-express-1932-colorized-movie-720p-hd/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="the-original-meet-the-parents-full-length-feature-film" tvg-name="Meet The Parents (1992)" tvg-logo="https://archive.org/download/the-original-meet-the-parents-full-length-feature-film/format=Thumbnail" tvg-language="eng",Meet The Parents (1992)
@@ -13,6 +19,8 @@ https://archive.org/download/the-original-meet-the-parents-full-length-feature-f
 https://archive.org/download/gilda-1946-colorized-movie-720p-hd/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="the-maltese-falcon-colorized-movie-720p-hd" tvg-name="The Maltese Falcon (restored‚ colorized) (1941‚ film-noir‚ imdb score: 8)" tvg-logo="https://archive.org/download/the-maltese-falcon-colorized-movie-720p-hd/format=Thumbnail" tvg-language="eng",The Maltese Falcon (restored‚ colorized) (1941)
 https://archive.org/download/the-maltese-falcon-colorized-movie-720p-hd/format=h.264
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="earth-vs-the-flying-saucers-color" tvg-name="Earth vs the Flying Saucers 1956 colorized (Hugh Marlowe)" tvg-logo="https://archive.org/download/earth-vs-the-flying-saucers-color/format=Thumbnail" tvg-language="eng",Earth vs the Flying Saucers 1956 colorized (Hugh Marlowe)
+https://archive.org/download/earth-vs-the-flying-saucers-color/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="son-of-frankenstein-1939-colorized-movie-720p-hd" tvg-name="Son of Frankenstein (restored‚ colorized) (1939‚ horror‚ imdb score: 7.1)" tvg-logo="https://archive.org/download/son-of-frankenstein-1939-colorized-movie-720p-hd/format=Thumbnail" tvg-language="eng",Son of Frankenstein (restored‚ colorized) (1939)
 https://archive.org/download/son-of-frankenstein-1939-colorized-movie-720p-hd/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="scarface-1932-colorized-movie-720p-hd" tvg-name="Scarface (restored‚ colorized) (1932‚ pre-code crime‚ imdb score: 7.8)" tvg-logo="https://archive.org/download/scarface-1932-colorized-movie-720p-hd/format=Thumbnail" tvg-language="eng",Scarface (restored‚ colorized) (1932)
@@ -23,12 +31,22 @@ https://archive.org/download/deluge-1933-sidney-blackmer-colorized/format=MPEG4
 https://archive.org/download/cat-people-1942-colorized-movie-720p-hd/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="bride-of-frankenstein-1935-colorized-movie-720p-hd_202303" tvg-name="Bride of Frankenstein (restored‚ colorized) (1935‚ horror‚ imdb score: 7.8)" tvg-logo="https://archive.org/download/bride-of-frankenstein-1935-colorized-movie-720p-hd_202303/format=Thumbnail" tvg-language="eng",Bride of Frankenstein (restored‚ colorized) (1935)
 https://archive.org/download/bride-of-frankenstein-1935-colorized-movie-720p-hd_202303/format=h.264
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="it-the-terror-from-beyond-space-colorized" tvg-name="It The Terror from Beyond Space 1958 colorized (Marshall Thompson)" tvg-logo="https://archive.org/download/it-the-terror-from-beyond-space-colorized/format=Thumbnail" tvg-language="eng",It The Terror from Beyond Space 1958 colorized (Marshall Thompson)
+https://archive.org/download/it-the-terror-from-beyond-space-colorized/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="abominable-snowman-1957-colorized" tvg-name="The Abominable Snowman 1957 colorized (Peter Cushing)" tvg-language="eng",The Abominable Snowman 1957 colorized (Peter Cushing)
+https://archive.org/download/abominable-snowman-1957-colorized/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="the-asphalt-jungle-1950-colorized-movie-720p-hd" tvg-name="The Asphalt Jungle (restored‚ colorized) (1950‚ Dir: John Huston‚ noir‚ imdb score: 7.9)" tvg-logo="https://archive.org/download/the-asphalt-jungle-1950-colorized-movie-720p-hd/format=Thumbnail" tvg-language="eng",The Asphalt Jungle (restored‚ colorized) (1950)
 https://archive.org/download/the-asphalt-jungle-1950-colorized-movie-720p-hd/format=h.264
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="day-the-earth-caught-fire" tvg-name="The Day the Earth Caught Fire 1961 colorized (Edward Judd)" tvg-logo="https://archive.org/download/day-the-earth-caught-fire/format=Thumbnail" tvg-language="eng",The Day the Earth Caught Fire 1961 colorized (Edward Judd)
+https://archive.org/download/day-the-earth-caught-fire/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="corsair-1931-colorized" tvg-name="Corsair 1931 Colorized" tvg-logo="https://archive.org/download/corsair-1931-colorized/format=Thumbnail" tvg-language="eng",Corsair 1931 Colorized
 https://archive.org/download/corsair-1931-colorized/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="i-bury-the-living-1958-colorized-movie-576p-sd" tvg-name="I Bury the Living (restored‚ colorized) (1958‚ horror‚ imdb score: 6.3)" tvg-logo="https://archive.org/download/i-bury-the-living-1958-colorized-movie-576p-sd/format=Thumbnail" tvg-language="eng",I Bury the Living (restored‚ colorized) (1958)
 https://archive.org/download/i-bury-the-living-1958-colorized-movie-576p-sd/format=h.264
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="war-of-the-satellites-colorized" tvg-name="War of the Satellites 1958 (Dick Miller) colorized" tvg-logo="https://archive.org/download/war-of-the-satellites-colorized/format=Thumbnail" tvg-language="eng",War of the Satellites 1958 (Dick Miller) colorized
+https://archive.org/download/war-of-the-satellites-colorized/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="strange-world-of-planet-x" tvg-name="The Strange World of Planet X AKA Cosmic Monsters (1958)" tvg-logo="https://archive.org/download/strange-world-of-planet-x/format=Thumbnail" tvg-language="eng",The Strange World of Planet X AKA Cosmic Monsters (1958)
+https://archive.org/download/strange-world-of-planet-x/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="frankenstein-1931-colorized-movie-720p-hd" tvg-name="Frankenstein (restored‚ colorized) (1931‚ pre-code horror‚ expressionist cinema‚ imdb score: 7.8)" tvg-logo="https://archive.org/download/frankenstein-1931-colorized-movie-720p-hd/format=Thumbnail" tvg-language="eng",Frankenstein (restored‚ colorized) (1931)
 https://archive.org/download/frankenstein-1931-colorized-movie-720p-hd/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="ninotchka-1939-colorized-movie-720p-hd" tvg-name="Ninotchka (restored‚ colorized) (1939‚ drama‚ imdb score: 7.9)" tvg-logo="https://archive.org/download/ninotchka-1939-colorized-movie-720p-hd/format=Thumbnail" tvg-language="eng",Ninotchka (restored‚ colorized) (1939)
@@ -37,8 +55,20 @@ https://archive.org/download/ninotchka-1939-colorized-movie-720p-hd/format=h.264
 https://archive.org/download/freaks-1932-colorized-movie-720p-hd/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="nomads-of-the-north-1920-colorized-movie-720p-hd" tvg-name="Nomads of the North (restored‚ colorized) (1920‚ drama‚ imdb score: 5.7)" tvg-logo="https://archive.org/download/nomads-of-the-north-1920-colorized-movie-720p-hd/format=Thumbnail" tvg-language="eng",Nomads of the North (restored‚ colorized) (1920)
 https://archive.org/download/nomads-of-the-north-1920-colorized-movie-720p-hd/format=h.264
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="holt-of-the-secret-service-colorized" tvg-name="Holt of the Secret Service 1941 colorized cliffhanger serial" tvg-logo="https://archive.org/download/holt-of-the-secret-service-colorized/format=Thumbnail" tvg-language="eng",Holt of the Secret Service 1941 colorized cliffhanger serial
+https://archive.org/download/holt-of-the-secret-service-colorized/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="caltiki-colorized" tvg-name="Caltiki‚ the Immortal Monster 1959 colorized" tvg-logo="https://archive.org/download/caltiki-colorized/format=Thumbnail" tvg-language="eng",Caltiki‚ the Immortal Monster 1959 colorized
+https://archive.org/download/caltiki-colorized/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="beast-from-20-000-fathoms" tvg-name="The Beast from 20‚000 Fathoms (1953) colorized" tvg-logo="https://archive.org/download/beast-from-20-000-fathoms/format=Thumbnail" tvg-language="eng",The Beast from 20‚000 Fathoms (1953)
+https://archive.org/download/beast-from-20-000-fathoms/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="sub-115-mb-test-to-see-if-it-can-get-through-the-beta-uploader" tvg-name="The Unknown 1927 colorized" tvg-logo="https://archive.org/download/sub-115-mb-test-to-see-if-it-can-get-through-the-beta-uploader/format=Thumbnail" tvg-language="eng",The Unknown 1927 colorized
 https://archive.org/download/sub-115-mb-test-to-see-if-it-can-get-through-the-beta-uploader/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="them-1954-colorized" tvg-name="Them! 1954 colorized (James Whitmore)" tvg-logo="https://archive.org/download/them-1954-colorized/format=Thumbnail" tvg-language="eng",Them! 1954 colorized (James Whitmore)
+https://archive.org/download/them-1954-colorized/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="blackhawk-colorized" tvg-name="Blackhawk 1952 cliffhanger serial (Kirk Alyn) colorized" tvg-logo="https://archive.org/download/blackhawk-colorized/format=Thumbnail" tvg-language="eng",Blackhawk 1952 cliffhanger serial (Kirk Alyn) colorized
+https://archive.org/download/blackhawk-colorized/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="invasion-of-the-body-snatchers-1956-colorized" tvg-name="Invasion of the Body Snatchers 1956 colorized" tvg-logo="https://archive.org/download/invasion-of-the-body-snatchers-1956-colorized/format=Thumbnail" tvg-language="eng",Invasion of the Body Snatchers 1956 colorized
+https://archive.org/download/invasion-of-the-body-snatchers-1956-colorized/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="the-fighting-eagle_1927" tvg-name="The Fighting Eagle" tvg-logo="https://archive.org/download/the-fighting-eagle_1927/format=Thumbnail" tvg-language="eng",The Fighting Eagle (1927)
 https://archive.org/download/the-fighting-eagle_1927/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="the-beloved-rogue_1927" tvg-name="The Beloved Rogue" tvg-logo="https://archive.org/download/the-beloved-rogue_1927/format=Thumbnail" tvg-language="eng",The Beloved Rogue (1927)
@@ -63,6 +93,8 @@ https://archive.org/download/dont-tell-everything_1927/format=MPEG4
 https://archive.org/download/captain-salvation_1927/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="benhur-a-tale-of-the-christ_1927" tvg-name="Ben-Hur: A Tale of the Christ" tvg-logo="https://archive.org/download/benhur-a-tale-of-the-christ_1927/format=Thumbnail" tvg-language="eng",Ben-Hur: A Tale of the Christ (1927)
 https://archive.org/download/benhur-a-tale-of-the-christ_1927/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="the-vanishing-shadow" tvg-name="The Vanishing Shadow 1934 colorized cliffhanger serial" tvg-logo="https://archive.org/download/the-vanishing-shadow/format=Thumbnail" tvg-language="eng",The Vanishing Shadow 1934 colorized cliffhanger serial
+https://archive.org/download/the-vanishing-shadow/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="when-a-man-loves_1927" tvg-name="When a Man Loves" tvg-logo="https://archive.org/download/when-a-man-loves_1927/format=Thumbnail" tvg-language="eng",When a Man Loves (1927)
 https://archive.org/download/when-a-man-loves_1927/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="upstream_1927" tvg-name="Upstream" tvg-logo="https://archive.org/download/upstream_1927/format=Thumbnail" tvg-language="eng",Upstream (1927)
@@ -163,14 +195,32 @@ https://archive.org/download/eves-love-letters_1927/format=MPEG4
 https://archive.org/download/dream-cafe_1927/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="character-studies_1927" tvg-name="Character Studies" tvg-logo="https://archive.org/download/character-studies_1927/format=Thumbnail" tvg-language="eng",Character Studies (1927)
 https://archive.org/download/character-studies_1927/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="day-the-earth-stood-still-1951" tvg-name="Day the Earth Stood Still 1951 colorized (Michael Rennie)" tvg-logo="https://archive.org/download/day-the-earth-stood-still-1951/format=Thumbnail" tvg-language="eng",Day the Earth Stood Still 1951 colorized (Michael Rennie)
+https://archive.org/download/day-the-earth-stood-still-1951/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="dick-tracy-1937-colorized" tvg-name="Dick Tracy 1937 colorized serial feature (Ralph Byrd)" tvg-logo="https://archive.org/download/dick-tracy-1937-colorized/format=Thumbnail" tvg-language="eng",Dick Tracy 1937 colorized serial feature (Ralph Byrd)
+https://archive.org/download/dick-tracy-1937-colorized/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="daredevils-of-the-red-circle-1939-colorized" tvg-name="Daredevils of the Red Circle 1939 colorized serial feature" tvg-logo="https://archive.org/download/daredevils-of-the-red-circle-1939-colorized/format=Thumbnail" tvg-language="eng",Daredevils of the Red Circle 1939 colorized serial feature
+https://archive.org/download/daredevils-of-the-red-circle-1939-colorized/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="batman-1943-colorized" tvg-name="Batman 1943 colorized cliffhanger serial (Lewis Wilson)" tvg-logo="https://archive.org/download/batman-1943-colorized/format=Thumbnail" tvg-language="eng",Batman 1943 colorized cliffhanger serial (Lewis Wilson)
+https://archive.org/download/batman-1943-colorized/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="batman-and-robin-1949-colorized" tvg-name="Batman and Robin 1949 colorized serial feature (Robert Lowery)" tvg-logo="https://archive.org/download/batman-and-robin-1949-colorized/format=Thumbnail" tvg-language="eng",Batman and Robin 1949 colorized serial feature (Robert Lowery)
+https://archive.org/download/batman-and-robin-1949-colorized/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="the-outlaw-1943" tvg-name="The Outlaw 1943 colorized (Jack Buetel)" tvg-logo="https://archive.org/download/the-outlaw-1943/format=Thumbnail" tvg-language="eng",The Outlaw 1943 colorized (Jack Buetel)
+https://archive.org/download/the-outlaw-1943/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="abilene-town-1946-colorized" tvg-name="Abilene Town 1946 colorized (Randolph Scott)" tvg-logo="https://archive.org/download/abilene-town-1946-colorized/format=Thumbnail" tvg-language="eng",Abilene Town 1946 colorized (Randolph Scott)
+https://archive.org/download/abilene-town-1946-colorized/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="scanners-1981-1080p" tvg-name="Scanners" tvg-logo="https://archive.org/download/scanners-1981-1080p/format=Thumbnail" tvg-language="eng",Scanners (1981)
 https://archive.org/download/scanners-1981-1080p/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="front-page-1931-pat-obrien" tvg-name="The Front Page 1931 colorized (Pat O'Brien)" tvg-logo="https://archive.org/download/front-page-1931-pat-obrien/format=Thumbnail" tvg-language="eng",The Front Page 1931 colorized (Pat O'Brien)
+https://archive.org/download/front-page-1931-pat-obrien/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="the-war-on-christmas-a-measured-response" tvg-name="The War on Christmas: A Measured Response" tvg-logo="https://archive.org/download/the-war-on-christmas-a-measured-response/format=Thumbnail" tvg-language="eng",The War on Christmas: A Measured Response (2020)
 https://archive.org/download/the-war-on-christmas-a-measured-response/format=MPEG4
 #EXTINF:-1 group-title="Film Noir" tvg-id="the-devil-thumbs-a-ride-1947" tvg-name="The Devil Thumbs A Ride ( 1947)" tvg-logo="https://archive.org/download/the-devil-thumbs-a-ride-1947/format=Thumbnail" tvg-language="eng",The Devil Thumbs A Ride (1947) (1945)
 https://archive.org/download/the-devil-thumbs-a-ride-1947/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="debunking-sneako-youtubes-biggest-man-child" tvg-name="Debunking Sneako: YouTube's Biggest Man-Child" tvg-logo="https://archive.org/download/debunking-sneako-youtubes-biggest-man-child/format=Thumbnail" tvg-language="eng",Debunking Sneako: YouTube's Biggest Man-Child (2022)
 https://archive.org/download/debunking-sneako-youtubes-biggest-man-child/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="flash-gordons-trip-to-mars-chapter-10" tvg-name="Flash Gordon's Trip to Mars - Chapter 10 (1938) colorized" tvg-logo="https://archive.org/download/flash-gordons-trip-to-mars-chapter-10/format=Thumbnail" tvg-language="eng",Flash Gordon's Trip to Mars - Chapter 10 (1938)
+https://archive.org/download/flash-gordons-trip-to-mars-chapter-10/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="lazy-content-is-radicalizing-people" tvg-name="Lazy Content is Radicalizing People" tvg-logo="https://archive.org/download/lazy-content-is-radicalizing-people/format=Thumbnail" tvg-language="eng",Lazy Content is Radicalizing People (2022)
 https://archive.org/download/lazy-content-is-radicalizing-people/format=MPEG4
 #EXTINF:-1 group-title="Film Noir" tvg-id="force-of-evil-1949-004" tvg-name="FORCE OF EVIL (1949)" tvg-logo="https://archive.org/download/force-of-evil-1949-004/format=Thumbnail" tvg-language="eng",FORCE OF EVIL (1949)
@@ -179,34 +229,60 @@ https://archive.org/download/force-of-evil-1949-004/format=MPEG4
 https://archive.org/download/Kildares_Strange_Case_1940/format=h.264
 #EXTINF:-1 group-title="Film Noir" tvg-id="the-postman-always-rings-twice-1946-colorized-version" tvg-name="THE POSTMAN ALWAYS RINGS TWICE (1946) COLORIZED VERSION" tvg-logo="https://archive.org/download/the-postman-always-rings-twice-1946-colorized-version/format=Thumbnail" tvg-language="eng",THE POSTMAN ALWAYS RINGS TWICE (1946)
 https://archive.org/download/the-postman-always-rings-twice-1946-colorized-version/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="creature-from-the-black-lagoon-1954-colorized" tvg-name="Creature from the Black Lagoon 1954 colorized (Richard Carlson)" tvg-logo="https://archive.org/download/creature-from-the-black-lagoon-1954-colorized/format=Thumbnail" tvg-language="eng",Creature from the Black Lagoon 1954 colorized (Richard Carlson)
+https://archive.org/download/creature-from-the-black-lagoon-1954-colorized/format=MPEG4
 #EXTINF:-1 group-title="Film Noir" tvg-id="jour-de-terreur-tay-garnett-1951-loretta-young-film-noir-vostfr" tvg-name="Jour De Terreur Tay Garnett 1951 Loretta Young Film Noir Vostfr" tvg-logo="https://archive.org/download/jour-de-terreur-tay-garnett-1951-loretta-young-film-noir-vostfr/format=Thumbnail" tvg-language="eng",Jour De Terreur Tay Garnett 1951 Loretta Young Film Noir Vostfr
 https://archive.org/download/jour-de-terreur-tay-garnett-1951-loretta-young-film-noir-vostfr/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="paw-patrols-dark-secret-explained" tvg-name="PAW Patrol's Dark Secret‚ Explained" tvg-logo="https://archive.org/download/paw-patrols-dark-secret-explained/format=Thumbnail" tvg-language="eng",PAW Patrol's Dark Secret‚ Explained (2022)
 https://archive.org/download/paw-patrols-dark-secret-explained/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="what-pretending-to-be-crazy-looks-like" tvg-name="What pretending to be crazy looks like" tvg-logo="https://archive.org/download/what-pretending-to-be-crazy-looks-like/format=Thumbnail" tvg-language="eng",What pretending to be crazy looks like (2021)
 https://archive.org/download/what-pretending-to-be-crazy-looks-like/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="missile-to-the-moon-1958-colorized" tvg-name="Missile to the Moon 1958 colorized" tvg-logo="https://archive.org/download/missile-to-the-moon-1958-colorized/format=Thumbnail" tvg-language="eng",Missile to the Moon 1958 colorized (1953)
+https://archive.org/download/missile-to-the-moon-1958-colorized/format=MPEG4
 #EXTINF:-1 group-title="Film Noir" tvg-id="man-on-the-run-1949-restored-movie-576p-sd" tvg-name="Man on the Run (restored) (1949‚ film-noir‚ imdb score: 6.7)" tvg-logo="https://archive.org/download/man-on-the-run-1949-restored-movie-576p-sd/format=Thumbnail" tvg-language="eng",Man on the Run  (1949)
 https://archive.org/download/man-on-the-run-1949-restored-movie-576p-sd/format=h.264
 #EXTINF:-1 group-title="Film Noir" tvg-id="impulse-1954-restored-movie-576p-sd" tvg-name="Impulse (restored) (1954‚ film-noir‚ imdb score: 6)" tvg-logo="https://archive.org/download/impulse-1954-restored-movie-576p-sd/format=Thumbnail" tvg-language="eng",Impulse  (1954)
 https://archive.org/download/impulse-1954-restored-movie-576p-sd/format=h.264
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="deadly-mantis-1957-colorized" tvg-name="The Deadly Mantis 1957 colorized (Craig Stevens)" tvg-logo="https://archive.org/download/deadly-mantis-1957-colorized/format=Thumbnail" tvg-language="eng",The Deadly Mantis 1957 colorized (Craig Stevens)
+https://archive.org/download/deadly-mantis-1957-colorized/format=MPEG4
 #EXTINF:-1 group-title="Film Noir" tvg-id="les-fantastiques-annees-vingt-raoul-walsh-1939-james-cagney-film-noir-vostfr" tvg-name="Les Fantastiques Années Vingt Raoul Walsh 1939 James Cagney Film Noir Vostfr" tvg-logo="https://archive.org/download/les-fantastiques-annees-vingt-raoul-walsh-1939-james-cagney-film-noir-vostfr/format=Thumbnail" tvg-language="eng",Les Fantastiques Années Vingt Raoul Walsh 1939 James Cagney Film Noir Vostfr
 https://archive.org/download/les-fantastiques-annees-vingt-raoul-walsh-1939-james-cagney-film-noir-vostfr/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="tarantula-1955-colorized" tvg-name="Tarantula 1955 colorized (John Agar)" tvg-logo="https://archive.org/download/tarantula-1955-colorized/format=Thumbnail" tvg-language="eng",Tarantula 1955 colorized (John Agar)
+https://archive.org/download/tarantula-1955-colorized/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="bloody.-pit.of.-horror" tvg-name="Bloody. Pit.of. Horror/Il Boia Scarlatto" tvg-logo="https://archive.org/download/bloody.-pit.of.-horror/format=Thumbnail" tvg-language="eng",Bloody. Pit.of. Horror/Il Boia Scarlatto
 https://archive.org/download/bloody.-pit.of.-horror/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="east-of-piccadilly-1941-colorized" tvg-name="East of Piccadilly 1941 colorized (Judy Campbell)" tvg-logo="https://archive.org/download/east-of-piccadilly-1941-colorized/format=Thumbnail" tvg-language="eng",East of Piccadilly 1941 colorized (Judy Campbell)
+https://archive.org/download/east-of-piccadilly-1941-colorized/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="mitchell-1975_202208" tvg-name="Mitchell ( 1975)" tvg-logo="https://archive.org/download/mitchell-1975_202208/format=Thumbnail" tvg-language="eng",Mitchell (1975)
 https://archive.org/download/mitchell-1975_202208/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="assault-on-precinct-13-1976-a-film-by-john-carpenter-1080p" tvg-name="Assault on Precinct 13" tvg-logo="https://archive.org/download/assault-on-precinct-13-1976-a-film-by-john-carpenter-1080p/format=Thumbnail" tvg-language="eng",Assault on Precinct 13 (1976)
 https://archive.org/download/assault-on-precinct-13-1976-a-film-by-john-carpenter-1080p/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="clay-pigeon-1949-colorized" tvg-name="The Clay Pigeon 1949 colorized (Bill Williams)" tvg-logo="https://archive.org/download/clay-pigeon-1949-colorized/format=Thumbnail" tvg-language="eng",The Clay Pigeon 1949 colorized (Bill Williams)
+https://archive.org/download/clay-pigeon-1949-colorized/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="passport-to-suez-1943-colorized" tvg-name="Passport to Suez 1943 colorized (Warren William)" tvg-logo="https://archive.org/download/passport-to-suez-1943-colorized/format=Thumbnail" tvg-language="eng",Passport to Suez 1943 colorized (Warren William)
+https://archive.org/download/passport-to-suez-1943-colorized/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="the-hi-jackers-1963-colorized" tvg-name="The Hi-Jackers 1963 colorized" tvg-logo="https://archive.org/download/the-hi-jackers-1963-colorized/format=Thumbnail" tvg-language="eng",The Hi-Jackers 1963 colorized
+https://archive.org/download/the-hi-jackers-1963-colorized/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="The_Headline_Woman_1935" tvg-name="The Headline Woman (1935; smallest download)" tvg-logo="https://archive.org/download/The_Headline_Woman_1935/format=Thumbnail" tvg-language="eng",The Headline Woman (1935)
 https://archive.org/download/The_Headline_Woman_1935/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="Sins_Pay_Day_1932" tvg-name="Sin's Pay Day (1932; smallest download)" tvg-logo="https://archive.org/download/Sins_Pay_Day_1932/format=Thumbnail" tvg-language="eng",Sin's Pay Day (1932)
 https://archive.org/download/Sins_Pay_Day_1932/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="the-batman-2022_20220711" tvg-name="Hollywood Bangla Dubbed" tvg-logo="https://archive.org/download/the-batman-2022_20220711/format=Thumbnail" tvg-language="eng",Hollywood Bangla Dubbed (2022)
 https://archive.org/download/the-batman-2022_20220711/format=h.264
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="the-brain-eaters-1958-colorized" tvg-name="The Brain Eaters 1958 colorized (Ed Nelson)" tvg-logo="https://archive.org/download/the-brain-eaters-1958-colorized/format=Thumbnail" tvg-language="eng",The Brain Eaters 1958 colorized (Ed Nelson)
+https://archive.org/download/the-brain-eaters-1958-colorized/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="killer-shrews-1959-colorized" tvg-name="The Killer Shrews 1959 colorized (James Best)" tvg-logo="https://archive.org/download/killer-shrews-1959-colorized/format=Thumbnail" tvg-language="eng",The Killer Shrews 1959 colorized (James Best)
+https://archive.org/download/killer-shrews-1959-colorized/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="the-tv-show-that-brainwashed-children" tvg-name="The TV Show that Brainwashed Children" tvg-logo="https://archive.org/download/the-tv-show-that-brainwashed-children/format=Thumbnail" tvg-language="eng",The TV Show that Brainwashed Children (2022)
 https://archive.org/download/the-tv-show-that-brainwashed-children/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="girl.-camp.-2003.-chained.-vengeance.-2003.-dvdrip.-xvi-d-spri-nter" tvg-name="Girl Camp: Chained Vengeance (2003)DVDRip" tvg-logo="https://archive.org/download/girl.-camp.-2003.-chained.-vengeance.-2003.-dvdrip.-xvi-d-spri-nter/format=Thumbnail" tvg-language="eng",Girl Camp: Chained Vengeance (2003)
 https://archive.org/download/girl.-camp.-2003.-chained.-vengeance.-2003.-dvdrip.-xvi-d-spri-nter/format=h.264
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="buck-benny-rides-again-1940-colorized" tvg-name="Buck Benny Rides Again 1940 colorized (Jack Benny)" tvg-logo="https://archive.org/download/buck-benny-rides-again-1940-colorized/format=Thumbnail" tvg-language="eng",Buck Benny Rides Again 1940 colorized (Jack Benny)
+https://archive.org/download/buck-benny-rides-again-1940-colorized/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="ragtime-cowboy-joe-1940-colorized" tvg-name="Ragtime Cowboy Joe 1940 colorized (Johnny Mack Brown)" tvg-logo="https://archive.org/download/ragtime-cowboy-joe-1940-colorized/format=Thumbnail" tvg-language="eng",Ragtime Cowboy Joe 1940 colorized (Johnny Mack Brown)
+https://archive.org/download/ragtime-cowboy-joe-1940-colorized/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="invisible-boy-1957-colorized" tvg-name="The Invisible Boy 1957 colorized" tvg-logo="https://archive.org/download/invisible-boy-1957-colorized/format=Thumbnail" tvg-language="eng",The Invisible Boy 1957 colorized
+https://archive.org/download/invisible-boy-1957-colorized/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="fleshpot.-on.-42nd.-street.-1973.1080p.-blu-ray.-h-264.-aac-rarbg" tvg-name="Fleshpot On 42nd Street(1972) BD RIP" tvg-logo="https://archive.org/download/fleshpot.-on.-42nd.-street.-1973.1080p.-blu-ray.-h-264.-aac-rarbg/format=Thumbnail" tvg-language="eng",Fleshpot On 42nd Street(1972)
 https://archive.org/download/fleshpot.-on.-42nd.-street.-1973.1080p.-blu-ray.-h-264.-aac-rarbg/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="Fugitive_Road_1934" tvg-name="Fugitive Road (1934; smallest download)" tvg-logo="https://archive.org/download/Fugitive_Road_1934/format=Thumbnail" tvg-language="eng",Fugitive Road (1934)
@@ -215,8 +291,14 @@ https://archive.org/download/Fugitive_Road_1934/format=h.264
 https://archive.org/download/bro-daddy-2022/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="trashy.-lady.-1985.1080p.-blu-ray.x-265-rarbg" tvg-name="Trashy Lady(1985)" tvg-logo="https://archive.org/download/trashy.-lady.-1985.1080p.-blu-ray.x-265-rarbg/format=Thumbnail" tvg-language="eng",Trashy Lady(1985)
 https://archive.org/download/trashy.-lady.-1985.1080p.-blu-ray.x-265-rarbg/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="x-the-unknown-1956-colorized" tvg-name="X the Unknown 1956 colorized (Dean Jagger)" tvg-logo="https://archive.org/download/x-the-unknown-1956-colorized/format=Thumbnail" tvg-language="eng",X the Unknown 1956 colorized (Dean Jagger)
+https://archive.org/download/x-the-unknown-1956-colorized/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="tobor-the-great-1954-colorized" tvg-name="Tobor the Great 1954 colorized (Charles Drake)" tvg-logo="https://archive.org/download/tobor-the-great-1954-colorized/format=Thumbnail" tvg-language="eng",Tobor the Great 1954 colorized (Charles Drake)
+https://archive.org/download/tobor-the-great-1954-colorized/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="final.-justice.-1984.1080p.-blu-ray.x-265-rarbg_202206" tvg-name="Final Justice(1984) HD" tvg-logo="https://archive.org/download/final.-justice.-1984.1080p.-blu-ray.x-265-rarbg_202206/format=Thumbnail" tvg-language="eng",Final Justice(1984)
 https://archive.org/download/final.-justice.-1984.1080p.-blu-ray.x-265-rarbg_202206/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="target-earth-1954-colorized" tvg-name="Target Earth 1954 colorized (Richard Denning)" tvg-logo="https://archive.org/download/target-earth-1954-colorized/format=Thumbnail" tvg-language="eng",Target Earth 1954 colorized (Richard Denning)
+https://archive.org/download/target-earth-1954-colorized/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="mr-motos-last-warning-1939-colorized" tvg-name="Mr Moto's Last Warning 1939 Colorized" tvg-logo="https://archive.org/download/mr-motos-last-warning-1939-colorized/format=Thumbnail" tvg-language="eng",Mr Moto's Last Warning 1939 Colorized
 https://archive.org/download/mr-motos-last-warning-1939-colorized/format=MPEG4
 #EXTINF:-1 group-title="Film Noir" tvg-id="detour-1945-colorized-movie-720p-hd" tvg-name="Detour (restored‚ colorized) (1946‚ film-noir‚ imdb score: 7.3)" tvg-logo="https://archive.org/download/detour-1945-colorized-movie-720p-hd/format=Thumbnail" tvg-language="eng",Detour (restored‚ colorized) (1946)
@@ -227,44 +309,84 @@ https://archive.org/download/gilda-1946-restored-movie-720p-hd/format=h.264
 https://archive.org/download/A_Stranger_in_Town_1943/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="rick-james-you-i-soul-alive-tv-performance-1978" tvg-name="Rick James You & I ( Soul Alive TV Performance 1978)" tvg-logo="https://archive.org/download/rick-james-you-i-soul-alive-tv-performance-1978/format=Thumbnail" tvg-language="eng",Rick James You & I (Soul Alive TV Performance 1978)
 https://archive.org/download/rick-james-you-i-soul-alive-tv-performance-1978/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="kronos-1957-colorized" tvg-name="Kronos 1957 colorized (Jeff Morrow)" tvg-logo="https://archive.org/download/kronos-1957-colorized/format=Thumbnail" tvg-language="eng",Kronos 1957 colorized (Jeff Morrow)
+https://archive.org/download/kronos-1957-colorized/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="acapulco.-gold.-1976.1080p.-blu-ray.-h-264.-aac-rarbg" tvg-name="Acapulco Gold(1976)" tvg-logo="https://archive.org/download/acapulco.-gold.-1976.1080p.-blu-ray.-h-264.-aac-rarbg/format=Thumbnail" tvg-language="eng",Acapulco Gold(1976)
 https://archive.org/download/acapulco.-gold.-1976.1080p.-blu-ray.-h-264.-aac-rarbg/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="dr-goldfoot-and-the-bikini-machine_202205" tvg-name="Dr Goldfoot and the Bikini Machine (1965) - Vincent Price" tvg-logo="https://archive.org/download/dr-goldfoot-and-the-bikini-machine_202205/format=Thumbnail" tvg-language="eng",Dr Goldfoot and the Bikini Machine (1965)
 https://archive.org/download/dr-goldfoot-and-the-bikini-machine_202205/format=h.264
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="crawling-eye-1958-colorized" tvg-name="The Crawling Eye 1958 colorized (Forrest Tucker)" tvg-logo="https://archive.org/download/crawling-eye-1958-colorized/format=Thumbnail" tvg-language="eng",The Crawling Eye 1958 colorized (Forrest Tucker)
+https://archive.org/download/crawling-eye-1958-colorized/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="Bowery_at_Midnight_1942" tvg-name="Bowery at Midnight (1942; smallest download)" tvg-logo="https://archive.org/download/Bowery_at_Midnight_1942/format=Thumbnail" tvg-language="eng",Bowery at Midnight (1942)
 https://archive.org/download/Bowery_at_Midnight_1942/format=h.264
 #EXTINF:-1 group-title="Film Noir" tvg-id="the-mob-1951-restored-movie-720p-hd" tvg-name="The Mob (restored) (1951‚ film-noir‚ imdb score: 7.1)" tvg-logo="https://archive.org/download/the-mob-1951-restored-movie-720p-hd/format=Thumbnail" tvg-language="eng",The Mob  (1951)
 https://archive.org/download/the-mob-1951-restored-movie-720p-hd/format=h.264
 #EXTINF:-1 group-title="Film Noir" tvg-id="he-walked-by-night-1948-colorized-720p-hd" tvg-name="He Walked by Night (restored‚ colorized) (1948‚ noir‚ imdb score: 7.2)" tvg-logo="https://archive.org/download/he-walked-by-night-1948-colorized-720p-hd/format=Thumbnail" tvg-language="eng",He Walked by Night (restored‚ colorized) (1948)
 https://archive.org/download/he-walked-by-night-1948-colorized-720p-hd/format=h.264
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="the-thing-from-another-world-1951-colorized" tvg-name="The Thing from Another World 1951 colorized (Kenneth Tobey)" tvg-logo="https://archive.org/download/the-thing-from-another-world-1951-colorized/format=Thumbnail" tvg-language="eng",The Thing from Another World 1951 colorized (Kenneth Tobey)
+https://archive.org/download/the-thing-from-another-world-1951-colorized/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="83-2021-1080p-z-flix-co" tvg-name="2021" tvg-logo="https://archive.org/download/83-2021-1080p-z-flix-co/format=Thumbnail" tvg-language="eng",2021 (2022)
 https://archive.org/download/83-2021-1080p-z-flix-co/format=h.264
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="gamma-people-1956-colorized" tvg-name="The Gamma People 1956 colorized (Paul Douglas)" tvg-logo="https://archive.org/download/gamma-people-1956-colorized/format=Thumbnail" tvg-language="eng",The Gamma People 1956 colorized (Paul Douglas)
+https://archive.org/download/gamma-people-1956-colorized/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="invisible-invaders-1959-colorized" tvg-name="Invisible Invaders 1959 colorized (John Agar)" tvg-logo="https://archive.org/download/invisible-invaders-1959-colorized/format=Thumbnail" tvg-language="eng",Invisible Invaders 1959 colorized (John Agar)
+https://archive.org/download/invisible-invaders-1959-colorized/format=MPEG4
 #EXTINF:-1 group-title="Film Noir" tvg-id="one-one-sympathy-for-the-devil-jean-luc-godard-1968" tvg-name="One + One ☆ Sympathy For The Devil ☆ Jean Luc Godard ☆ 1968" tvg-logo="https://archive.org/download/one-one-sympathy-for-the-devil-jean-luc-godard-1968/format=Thumbnail" tvg-language="eng",One + One ☆ Sympathy For The Devil ☆ Jean Luc Godard ☆ 1968
 https://archive.org/download/one-one-sympathy-for-the-devil-jean-luc-godard-1968/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="aanum-pennum-2021-malayalam-1080p-z-flix-co" tvg-name="2021" tvg-logo="https://archive.org/download/aanum-pennum-2021-malayalam-1080p-z-flix-co/format=Thumbnail" tvg-language="eng",2021 (2022)
 https://archive.org/download/aanum-pennum-2021-malayalam-1080p-z-flix-co/format=h.264
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="fiend-without-a-face-1958-colorized" tvg-name="Fiend Without a Face 1958 colorized (Marshall Thompson)" tvg-logo="https://archive.org/download/fiend-without-a-face-1958-colorized/format=Thumbnail" tvg-language="eng",Fiend Without a Face 1958 colorized (Marshall Thompson)
+https://archive.org/download/fiend-without-a-face-1958-colorized/format=MPEG4
 #EXTINF:-1 group-title="Film Noir" tvg-id="diplomatic-courier-1952-tyrone-power-patricia-neal-crime-film-noir-hathaway" tvg-name="Diplomatic Courier" tvg-logo="https://archive.org/download/diplomatic-courier-1952-tyrone-power-patricia-neal-crime-film-noir-hathaway/format=Thumbnail" tvg-language="eng",Diplomatic Courier (1952)
 https://archive.org/download/diplomatic-courier-1952-tyrone-power-patricia-neal-crime-film-noir-hathaway/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="it-came-from-outer-space-1953-colorized" tvg-name="It Came from Outer Space 1953 colorized (Richard Carlson)" tvg-logo="https://archive.org/download/it-came-from-outer-space-1953-colorized/format=Thumbnail" tvg-language="eng",It Came from Outer Space 1953 colorized (Richard Carlson)
+https://archive.org/download/it-came-from-outer-space-1953-colorized/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="black.-devil.-doll.-from.-hell.-extended.-1984.-dvdrip.-bagger-inc" tvg-name="Black Devil Doll From Hell(1984) EXTENDED VERSION DVD RIP" tvg-logo="https://archive.org/download/black.-devil.-doll.-from.-hell.-extended.-1984.-dvdrip.-bagger-inc/format=Thumbnail" tvg-language="eng",Black Devil Doll From Hell(1984)
 https://archive.org/download/black.-devil.-doll.-from.-hell.-extended.-1984.-dvdrip.-bagger-inc/format=h.264
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="twonky-1953-colorized" tvg-name="The Twonky 1953 colorized (Hans Conried)" tvg-logo="https://archive.org/download/twonky-1953-colorized/format=Thumbnail" tvg-language="eng",The Twonky 1953 colorized (Hans Conried)
+https://archive.org/download/twonky-1953-colorized/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="monster-that-challenged-the-world-1957-colorized" tvg-name="The Monster That Challenged the World 1957 colorized (Tim Holt)" tvg-logo="https://archive.org/download/monster-that-challenged-the-world-1957-colorized/format=Thumbnail" tvg-language="eng",The Monster That Challenged the World 1957 colorized (Tim Holt)
+https://archive.org/download/monster-that-challenged-the-world-1957-colorized/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="Behave_Yourself_1951" tvg-name="Behave Yourself! (1951; smallest download)" tvg-logo="https://archive.org/download/Behave_Yourself_1951/format=Thumbnail" tvg-language="eng",Behave Yourself! (1951)
 https://archive.org/download/Behave_Yourself_1951/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="The_Mystery_Man--1935" tvg-name="The Mystery Man (1935; smallest download)" tvg-logo="https://archive.org/download/The_Mystery_Man--1935/format=Thumbnail" tvg-language="eng",The Mystery Man (1935)
 https://archive.org/download/The_Mystery_Man--1935/format=h.264
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="beyond-the-time-barrier-1960" tvg-name="Beyond the Time Barrier 1960 colorized (Robert Clarke)" tvg-logo="https://archive.org/download/beyond-the-time-barrier-1960/format=Thumbnail" tvg-language="eng",Beyond the Time Barrier 1960 colorized (Robert Clarke)
+https://archive.org/download/beyond-the-time-barrier-1960/format=MPEG4
 #EXTINF:-1 group-title="Film Noir" tvg-id="is-that-you-gabriela" tvg-name="Is That You Gabriela?" tvg-logo="https://archive.org/download/is-that-you-gabriela/format=Thumbnail" tvg-language="eng",Is That You Gabriela? (2020)
 https://archive.org/download/is-that-you-gabriela/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="Small_Town_Boy--1937" tvg-name="Small Town Boy (1937; smallest download)" tvg-logo="https://archive.org/download/Small_Town_Boy--1937/format=Thumbnail" tvg-language="eng",Small Town Boy (1937)
 https://archive.org/download/Small_Town_Boy--1937/format=h.264
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="devil-girl-from-mars-1954-color" tvg-name="Devil Girl From Mars 1954 colorized" tvg-logo="https://archive.org/download/devil-girl-from-mars-1954-color/format=Thumbnail" tvg-language="eng",Devil Girl From Mars 1954 colorized
+https://archive.org/download/devil-girl-from-mars-1954-color/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="trouble-in-texas-1937" tvg-name="Trouble In Texas 1937 colorized (Tex Ritter‚ Rita Hayworth)" tvg-logo="https://archive.org/download/trouble-in-texas-1937/format=Thumbnail" tvg-language="eng",Trouble In Texas 1937 colorized (Tex Ritter‚ Rita Hayworth)
+https://archive.org/download/trouble-in-texas-1937/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="daltons-women-1950" tvg-name="The Daltons' Women 1950 colorized (Lash Larue)" tvg-logo="https://archive.org/download/daltons-women-1950/format=Thumbnail" tvg-language="eng",The Daltons' Women 1950 colorized (Lash Larue)
+https://archive.org/download/daltons-women-1950/format=MPEG4
 #EXTINF:-1 group-title="Film Noir" tvg-id="that-walks-at-night" tvg-name="That Walks At Night" tvg-logo="https://archive.org/download/that-walks-at-night/format=Thumbnail" tvg-language="eng",That Walks At Night (2020)
 https://archive.org/download/that-walks-at-night/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="law-of-the-lash-1947" tvg-name="Law of the Lash 1947 colorized (Lash Larue)" tvg-logo="https://archive.org/download/law-of-the-lash-1947/format=Thumbnail" tvg-language="eng",Law of the Lash 1947 colorized (Lash Larue)
+https://archive.org/download/law-of-the-lash-1947/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="mcgill-savoy-pirates-2022" tvg-name="The Pirates of Penzance" tvg-logo="https://archive.org/download/mcgill-savoy-pirates-2022/format=Thumbnail" tvg-language="eng",The Pirates of Penzance (2022)
 https://archive.org/download/mcgill-savoy-pirates-2022/format=h.264
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="mark-of-the-lash-1948" tvg-name="Mark of the Lash 1948 colorized (Lash Larue)" tvg-logo="https://archive.org/download/mark-of-the-lash-1948/format=Thumbnail" tvg-language="eng",Mark of the Lash 1948 colorized (Lash Larue)
+https://archive.org/download/mark-of-the-lash-1948/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="the-drifter-1944" tvg-name="The Drifter 1944 colorized (Buster Crabbe)" tvg-logo="https://archive.org/download/the-drifter-1944/format=Thumbnail" tvg-language="eng",The Drifter 1944 colorized (Buster Crabbe)
+https://archive.org/download/the-drifter-1944/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="videoplayback_202204" tvg-name="Sex Pistols Longhorn Ballroom nosebleed incident video clip(1978)" tvg-logo="https://archive.org/download/videoplayback_202204/format=Thumbnail" tvg-language="eng",Sex Pistols Longhorn Ballroom nosebleed incident video clip(1978)
 https://archive.org/download/videoplayback_202204/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="colorado-kid-1937" tvg-name="Colorado Kid 1937 colorized (Bob Steele)" tvg-logo="https://archive.org/download/colorado-kid-1937/format=Thumbnail" tvg-language="eng",Colorado Kid 1937 colorized (Bob Steele)
+https://archive.org/download/colorado-kid-1937/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="cattle-stampede-1943-colorized" tvg-name="Cattle Stampede 1943 colorized (Buster Crabbe)" tvg-logo="https://archive.org/download/cattle-stampede-1943-colorized/format=Thumbnail" tvg-language="eng",Cattle Stampede 1943 colorized (Buster Crabbe)
+https://archive.org/download/cattle-stampede-1943-colorized/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="monsters-crash-the-pajama-party" tvg-name="Monsters Crash The Pajama Party" tvg-logo="https://archive.org/download/monsters-crash-the-pajama-party/format=Thumbnail" tvg-language="eng",Monsters Crash The Pajama Party
 https://archive.org/download/monsters-crash-the-pajama-party/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="ala.-vaikunthapurramuloo.-2020.1080p.-hindi-z-flix-co" tvg-name="2020" tvg-logo="https://archive.org/download/ala.-vaikunthapurramuloo.-2020.1080p.-hindi-z-flix-co/format=Thumbnail" tvg-language="eng",2020 (2022)
 https://archive.org/download/ala.-vaikunthapurramuloo.-2020.1080p.-hindi-z-flix-co/format=h.264
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="blazing-across-the-pecos-1948" tvg-name="Blazing Across the Pecos 1948 colorized (Durango Kid)" tvg-logo="https://archive.org/download/blazing-across-the-pecos-1948/format=Thumbnail" tvg-language="eng",Blazing Across the Pecos 1948 colorized (Durango Kid)
+https://archive.org/download/blazing-across-the-pecos-1948/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="secrets-of-the-wasteland-1941" tvg-name="Secrets of the Wasteland 1941 colorized (Hopalong Cassidy)" tvg-logo="https://archive.org/download/secrets-of-the-wasteland-1941/format=Thumbnail" tvg-language="eng",Secrets of the Wasteland 1941 colorized (Hopalong Cassidy)
+https://archive.org/download/secrets-of-the-wasteland-1941/format=MPEG4
 #EXTINF:-1 group-title="Film Noir" tvg-id="trapped-1949-restored-movie-720p-hd" tvg-name="Trapped (restored) (1949‚ crime‚ imdb score: 6.4)" tvg-logo="https://archive.org/download/trapped-1949-restored-movie-720p-hd/format=Thumbnail" tvg-language="eng",Trapped  (1949)
 https://archive.org/download/trapped-1949-restored-movie-720p-hd/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="One_Body_Too_Many--1944" tvg-name="One Body Too Many (1944; smallest download)" tvg-logo="https://archive.org/download/One_Body_Too_Many--1944/format=Thumbnail" tvg-language="eng",One Body Too Many (1944)
@@ -327,10 +449,10 @@ https://archive.org/download/final-justice-1984-getonlinevideos/format=MPEG4
 https://archive.org/download/niagara_falls_1941_202201/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="y-2-mate.is-felix-the-cat-the-movie-1988-x-bgwf-av-gqky-1080p-1640523499322" tvg-name="Felix The Cat The Movie ( 1988) 1080p UPSCALE" tvg-logo="https://archive.org/download/y-2-mate.is-felix-the-cat-the-movie-1988-x-bgwf-av-gqky-1080p-1640523499322/format=Thumbnail" tvg-language="eng",Felix The Cat The Movie (1988)
 https://archive.org/download/y-2-mate.is-felix-the-cat-the-movie-1988-x-bgwf-av-gqky-1080p-1640523499322/format=MPEG4
-#EXTINF:-1 group-title="Feature films" tvg-id="attraction-aka-nerosubianco-1969-tinto-brass-online-vintag" tvg-name="Nerosubianco ( 1969)" tvg-logo="https://archive.org/download/attraction-aka-nerosubianco-1969-tinto-brass-online-vintag/format=Thumbnail" tvg-language="eng",Nerosubianco (1969)
-https://archive.org/download/attraction-aka-nerosubianco-1969-tinto-brass-online-vintag/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="sundown.-the.-vampire.-in.-retreat.-1989-vose" tvg-name="Sundown: The Vampire in Retreat (1989) // Vose: Vampiros a la sombra" tvg-logo="https://archive.org/download/sundown.-the.-vampire.-in.-retreat.-1989-vose/format=Thumbnail" tvg-language="eng",Sundown: The Vampire in Retreat (1989)
 https://archive.org/download/sundown.-the.-vampire.-in.-retreat.-1989-vose/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="frontier-revenge-1948" tvg-name="Frontier Revenge 1948 colorized (Lash Larue)" tvg-logo="https://archive.org/download/frontier-revenge-1948/format=Thumbnail" tvg-language="eng",Frontier Revenge 1948 colorized (Lash Larue)
+https://archive.org/download/frontier-revenge-1948/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="Devil_Bat_1940" tvg-name="The Devil Bat (1940; smallest download)" tvg-logo="https://archive.org/download/Devil_Bat_1940/format=Thumbnail" tvg-language="eng",The Devil Bat (1940)
 https://archive.org/download/Devil_Bat_1940/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="the.-premonition.-1976-vose" tvg-name="The Premonition (1976) // Vose: Pesadilla en Dover" tvg-logo="https://archive.org/download/the.-premonition.-1976-vose/format=Thumbnail" tvg-language="eng",The Premonition (1976)
@@ -339,6 +461,8 @@ https://archive.org/download/the.-premonition.-1976-vose/format=MPEG4
 https://archive.org/download/the-man-with-two-heads-1972-vose/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="the-giant-spider-invasion-1975-vose" tvg-name="The Giant Spider Invasion (1975) // Vose: La invasión de las arañas gigantes" tvg-logo="https://archive.org/download/the-giant-spider-invasion-1975-vose/format=Thumbnail" tvg-language="eng",The Giant Spider Invasion (1975)
 https://archive.org/download/the-giant-spider-invasion-1975-vose/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="zotz-1962" tvg-name="Zotz! 1962 colorized (Tom Poston)" tvg-logo="https://archive.org/download/zotz-1962/format=Thumbnail" tvg-language="eng",Zotz! 1962 colorized (Tom Poston)
+https://archive.org/download/zotz-1962/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="return.-of.-the.-ape.-man.-1944-vose" tvg-name="Return of the Ape Man (1944) // Vose" tvg-logo="https://archive.org/download/return.-of.-the.-ape.-man.-1944-vose/format=Thumbnail" tvg-language="eng",Return of the Ape Man (1944)
 https://archive.org/download/return.-of.-the.-ape.-man.-1944-vose/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="class.-of.-nuke.-em.-high.-1986-vose" tvg-name="Class of Nuke 'Em High (1986) // Vose: Mutantes en la Universidad" tvg-logo="https://archive.org/download/class.-of.-nuke.-em.-high.-1986-vose/format=Thumbnail" tvg-language="eng",Class of Nuke 'Em High (1986)
@@ -411,18 +535,26 @@ https://archive.org/download/gas-or-.-it.-became.-necessary.to.-destroy.the.-wor
 https://archive.org/download/odd-triangle-1968/format=MPEG4
 #EXTINF:-1 group-title="Film Noir" tvg-id="the-shanghai-gesture-1941-restored-movie-720p-hd" tvg-name="The Shanghai Gesture (restored) (1941‚ Dir: Josef von Sternberg‚ noir‚ imdb score: 6.6)" tvg-logo="https://archive.org/download/the-shanghai-gesture-1941-restored-movie-720p-hd/format=Thumbnail" tvg-language="eng",The Shanghai Gesture  (1941)
 https://archive.org/download/the-shanghai-gesture-1941-restored-movie-720p-hd/format=h.264
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="buck-rogers-1939-serial-colorized" tvg-name="Buck Rogers 1939 colorized serial feature (Buster Crabbe)" tvg-logo="https://archive.org/download/buck-rogers-1939-serial-colorized/format=Thumbnail" tvg-language="eng",Buck Rogers 1939 colorized serial feature (Buster Crabbe)
+https://archive.org/download/buck-rogers-1939-serial-colorized/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="the.-creeping.-terror.-1964-vose" tvg-name="The Creeping Terror (1964) // Vose" tvg-logo="https://archive.org/download/the.-creeping.-terror.-1964-vose/format=Thumbnail" tvg-language="eng",The Creeping Terror (1964)
 https://archive.org/download/the.-creeping.-terror.-1964-vose/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="flatland_a_film_by_ladd_ehlinger_jr" tvg-name="Flatland: A Film by Ladd Ehlinger Jr." tvg-logo="https://archive.org/download/flatland_a_film_by_ladd_ehlinger_jr/format=Thumbnail" tvg-language="eng",Flatland: A Film by Ladd Ehlinger Jr. (2007)
 https://archive.org/download/flatland_a_film_by_ladd_ehlinger_jr/format=h.264
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="blane-gets-her-man-1938" tvg-name="Torchy Gets Her Man 1938 colorized (Glenda Farrell)" tvg-logo="https://archive.org/download/blane-gets-her-man-1938/format=Thumbnail" tvg-language="eng",Torchy Gets Her Man 1938 colorized (Glenda Farrell)
+https://archive.org/download/blane-gets-her-man-1938/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="ganja.and.-hess.-1973.1080p.-blu-ray.-h-264.-aac-rarbg" tvg-name="Ganja and Hess (1973)1080p" tvg-logo="https://archive.org/download/ganja.and.-hess.-1973.1080p.-blu-ray.-h-264.-aac-rarbg/format=Thumbnail" tvg-language="eng",Ganja and Hess (1973)
 https://archive.org/download/ganja.and.-hess.-1973.1080p.-blu-ray.-h-264.-aac-rarbg/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="voyage-to-the-planet-of-prehistoric-woman-1968-vose" tvg-name="Voyage to the Planet of Prehistoric Woman (1968) // Vose: Viaje al planeta de las mujeres prehistóricas" tvg-logo="https://archive.org/download/voyage-to-the-planet-of-prehistoric-woman-1968-vose/format=Thumbnail" tvg-language="eng",Voyage to the Planet of Prehistoric Woman (1968)
 https://archive.org/download/voyage-to-the-planet-of-prehistoric-woman-1968-vose/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="the-amazing-adventure-1936-colorized" tvg-name="The Amazing Adventure 1936 Colorized" tvg-logo="https://archive.org/download/the-amazing-adventure-1936-colorized/format=Thumbnail" tvg-language="eng",The Amazing Adventure 1936 Colorized
 https://archive.org/download/the-amazing-adventure-1936-colorized/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="paradise-express-1937-colorized" tvg-name="Paradise Express 1937 colorized (Grant Withers)" tvg-logo="https://archive.org/download/paradise-express-1937-colorized/format=Thumbnail" tvg-language="eng",Paradise Express 1937 colorized (Grant Withers)
+https://archive.org/download/paradise-express-1937-colorized/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="trapped-by-television-1936-colorized" tvg-name="Trapped By Television 1936 Colorized" tvg-logo="https://archive.org/download/trapped-by-television-1936-colorized/format=Thumbnail" tvg-language="eng",Trapped By Television 1936 Colorized
 https://archive.org/download/trapped-by-television-1936-colorized/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="last-stagecaoch-west-1957" tvg-name="Last Stagecaoch West 1957 colorized (Jim Davis)" tvg-logo="https://archive.org/download/last-stagecaoch-west-1957/format=Thumbnail" tvg-language="eng",Last Stagecaoch West 1957 colorized (Jim Davis)
+https://archive.org/download/last-stagecaoch-west-1957/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="desert-escape-1940-colorized" tvg-name="Desert Escape 1940 Colorized" tvg-logo="https://archive.org/download/desert-escape-1940-colorized/format=Thumbnail" tvg-language="eng",Desert Escape 1940 Colorized
 https://archive.org/download/desert-escape-1940-colorized/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="algiers-1938-colorized" tvg-name="Algiers 1938 Colorized" tvg-logo="https://archive.org/download/algiers-1938-colorized/format=Thumbnail" tvg-language="eng",Algiers 1938 Colorized
@@ -491,6 +623,10 @@ https://archive.org/download/the-pit-1981-vose/format=MPEG4
 https://archive.org/download/the-nest-1987-vose/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="airplane.vs.-volcano.-2014-vose" tvg-name="Airplane vs. Volcano (2014) // Vose: Avión vs. volcán" tvg-logo="https://archive.org/download/airplane.vs.-volcano.-2014-vose/format=Thumbnail" tvg-language="eng",Airplane vs. Volcano (2014)
 https://archive.org/download/airplane.vs.-volcano.-2014-vose/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="the-purple-monster-strikes-1945-colorized-cliffhanger-serial" tvg-name="The Purple Monster Strikes 1945 colorized cliffhanger serial" tvg-logo="https://archive.org/download/the-purple-monster-strikes-1945-colorized-cliffhanger-serial/format=Thumbnail" tvg-language="eng",The Purple Monster Strikes 1945 colorized cliffhanger serial
+https://archive.org/download/the-purple-monster-strikes-1945-colorized-cliffhanger-serial/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="mysterious-doctor-satan-1940-colorized-cliffhanger-serial" tvg-name="Mysterious Doctor Satan 1940 colorized cliffhanger serial" tvg-logo="https://archive.org/download/mysterious-doctor-satan-1940-colorized-cliffhanger-serial/format=Thumbnail" tvg-language="eng",Mysterious Doctor Satan 1940 colorized cliffhanger serial
+https://archive.org/download/mysterious-doctor-satan-1940-colorized-cliffhanger-serial/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="war.of.the.-worlds.-goliath.-2012-vose" tvg-name="War of the Worlds: Goliath (2012) // Vose: 'La guerra de los mundos: Goliath'" tvg-logo="https://archive.org/download/war.of.the.-worlds.-goliath.-2012-vose/format=Thumbnail" tvg-language="eng",War of the Worlds: Goliath (2012)
 https://archive.org/download/war.of.the.-worlds.-goliath.-2012-vose/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="tobor.-the.-great.-1954-vose" tvg-name="Tobor the Great (1954) // Vose: Tobor el grande" tvg-logo="https://archive.org/download/tobor.-the.-great.-1954-vose/format=Thumbnail" tvg-language="eng",Tobor the Great (1954)
@@ -555,6 +691,8 @@ https://archive.org/download/blood-glacier.-2013-vose/format=MPEG4
 https://archive.org/download/the-thief-of-bagdad-1924-vose/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="the-ten-commandments-1923-vose" tvg-name="The Ten Commandments (1923) // Vose: Los diez mandamientos" tvg-logo="https://archive.org/download/the-ten-commandments-1923-vose/format=Thumbnail" tvg-language="eng",The Ten Commandments (1923)
 https://archive.org/download/the-ten-commandments-1923-vose/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="raiders-of-ghost-city-1944-colorized-cliffhanger-serial" tvg-name="Raiders of Ghost City 1944 colorized cliffhanger serial" tvg-logo="https://archive.org/download/raiders-of-ghost-city-1944-colorized-cliffhanger-serial/format=Thumbnail" tvg-language="eng",Raiders of Ghost City 1944 colorized cliffhanger serial
+https://archive.org/download/raiders-of-ghost-city-1944-colorized-cliffhanger-serial/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="the-spiders-2.-the-diamond-ship-1920-vose" tvg-name="The Spiders‚ Part 2: The Diamond Ship (1920) // Vose: 'Las Arañas 2: El barco de diamantes'" tvg-logo="https://archive.org/download/the-spiders-2.-the-diamond-ship-1920-vose/format=Thumbnail" tvg-language="eng",The Spiders‚ Part 2: The Diamond Ship (1920)
 https://archive.org/download/the-spiders-2.-the-diamond-ship-1920-vose/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="the-spiders-1.-the-golden-sea-1919-vose" tvg-name="The Spiders‚ Part 1: The Golden Sea (1919) // Vose: 'Las Arañas 1: El lago dorado'" tvg-logo="https://archive.org/download/the-spiders-1.-the-golden-sea-1919-vose/format=Thumbnail" tvg-language="eng",The Spiders‚ Part 1: The Golden Sea (1919)
@@ -655,6 +793,8 @@ https://archive.org/download/maniac-1934-vose/format=MPEG4
 https://archive.org/download/l-inferno-1911-vose/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="immortel.-ad.-vitam.-2004-vose" tvg-name="Immortal (Ad Vitam) [2004] // Vose: Inmortal" tvg-logo="https://archive.org/download/immortel.-ad.-vitam.-2004-vose/format=Thumbnail" tvg-language="eng",Immortal (Ad Vitam) [2004] // Vose: Inmortal
 https://archive.org/download/immortel.-ad.-vitam.-2004-vose/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="manhunt-of-mystery-island-1945-colorized-cliffhanger-serial" tvg-name="Manhunt of Mystery Island 1945 colorized cliffhanger serial" tvg-logo="https://archive.org/download/manhunt-of-mystery-island-1945-colorized-cliffhanger-serial/format=Thumbnail" tvg-language="eng",Manhunt of Mystery Island 1945 colorized cliffhanger serial
+https://archive.org/download/manhunt-of-mystery-island-1945-colorized-cliffhanger-serial/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="edge-of-sanity-1989-vose" tvg-name="Edge of Sanity (1989) // Vose: Al borde de la locura" tvg-logo="https://archive.org/download/edge-of-sanity-1989-vose/format=Thumbnail" tvg-language="eng",Edge of Sanity (1989)
 https://archive.org/download/edge-of-sanity-1989-vose/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="dead-race-2000-1975-vose" tvg-name="Dead Race 2000 (1975) // Vose: La carrera de la muerte del año 2000" tvg-logo="https://archive.org/download/dead-race-2000-1975-vose/format=Thumbnail" tvg-language="eng",Dead Race 2000 (1975)
@@ -705,18 +845,24 @@ https://archive.org/download/land.-of.-doom.-1985-vose/format=MPEG4
 https://archive.org/download/dr..-jekyll.-and.-his.-women.-1981-vose/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="robotech.-the.-shadow.-chronicles.-2006-vose" tvg-name="Robotech: The Shadow Chronicles (2006) // Vose: Robotech. Las crónicas de la sombra" tvg-logo="https://archive.org/download/robotech.-the.-shadow.-chronicles.-2006-vose/format=Thumbnail" tvg-language="eng",Robotech: The Shadow Chronicles (2006)
 https://archive.org/download/robotech.-the.-shadow.-chronicles.-2006-vose/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="cheyenne-takes-over-1947" tvg-name="Cheyenne Takes Over 1947 colorized (Lash Larue)" tvg-logo="https://archive.org/download/cheyenne-takes-over-1947/format=Thumbnail" tvg-language="eng",Cheyenne Takes Over 1947 colorized (Lash Larue)
+https://archive.org/download/cheyenne-takes-over-1947/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="deep.-space.-1988-vose" tvg-name="Deep Space (1988) // Vose: Del espacio profundo" tvg-logo="https://archive.org/download/deep.-space.-1988-vose/format=Thumbnail" tvg-language="eng",Deep Space (1988)
 https://archive.org/download/deep.-space.-1988-vose/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="blackenstein.-1973-vose" tvg-name="Blackenstein (1973) // Vose" tvg-logo="https://archive.org/download/blackenstein.-1973-vose/format=Thumbnail" tvg-language="eng",Blackenstein (1973)
 https://archive.org/download/blackenstein.-1973-vose/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="the.-she-creature.-1956-vose" tvg-name="The She-Creature (1956) // Vose: La criatura" tvg-logo="https://archive.org/download/the.-she-creature.-1956-vose/format=Thumbnail" tvg-language="eng",The She-Creature (1956)
 https://archive.org/download/the.-she-creature.-1956-vose/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="criminals-within-1941" tvg-name="Criminals Within 1941 colorized (Eric Linden‚ Ann Doran)" tvg-logo="https://archive.org/download/criminals-within-1941/format=Thumbnail" tvg-language="eng",Criminals Within 1941 colorized (Eric Linden‚ Ann Doran)
+https://archive.org/download/criminals-within-1941/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="the-peanut-butter-solution-1985-vose" tvg-name="The Peanut Butter Solution (1985) // Vose: La fórmula mágica" tvg-logo="https://archive.org/download/the-peanut-butter-solution-1985-vose/format=Thumbnail" tvg-language="eng",The Peanut Butter Solution (1985)
 https://archive.org/download/the-peanut-butter-solution-1985-vose/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="topper-1937-vose" tvg-name="Topper (1937) // Vose: Una pareja invisible" tvg-logo="https://archive.org/download/topper-1937-vose/format=Thumbnail" tvg-language="eng",Topper (1937)
 https://archive.org/download/topper-1937-vose/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="topper.-takes.-a.-trip.-1938-vose" tvg-name="Topper Takes a Trip (1938) // Vose: La pareja invisible se divierte" tvg-logo="https://archive.org/download/topper.-takes.-a.-trip.-1938-vose/format=Thumbnail" tvg-language="eng",Topper Takes a Trip (1938)
 https://archive.org/download/topper.-takes.-a.-trip.-1938-vose/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="silver-on-the-sage-1939-colorized" tvg-name="Silver on the Sage 1939 colorized (Hopalong Cassidy‚ Russell Hayden)" tvg-logo="https://archive.org/download/silver-on-the-sage-1939-colorized/format=Thumbnail" tvg-language="eng",Silver on the Sage 1939 colorized (Hopalong Cassidy‚ Russell Hayden)
+https://archive.org/download/silver-on-the-sage-1939-colorized/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="the-old-dark-house-1932-vose" tvg-name="The Old Dark House (1932) // Vose: El caserón de las sombras" tvg-logo="https://archive.org/download/the-old-dark-house-1932-vose/format=Thumbnail" tvg-language="eng",The Old Dark House (1932)
 https://archive.org/download/the-old-dark-house-1932-vose/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="the-monster-club-1981-vose" tvg-name="The Monster Club (1981) // Vose: El club de los monstruos" tvg-logo="https://archive.org/download/the-monster-club-1981-vose/format=Thumbnail" tvg-language="eng",The Monster Club (1981)
@@ -729,12 +875,16 @@ https://archive.org/download/the-living-idol-1957-vose/format=MPEG4
 https://archive.org/download/the-little-shop-of-horrors-1960-vose/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="the-leopard-man-1943-vose" tvg-name="The Leopard Man (1943) // Vose: El hombre leopardo" tvg-logo="https://archive.org/download/the-leopard-man-1943-vose/format=Thumbnail" tvg-language="eng",The Leopard Man (1943)
 https://archive.org/download/the-leopard-man-1943-vose/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="special-inspector-1938" tvg-name="Special Inspector 1938 colorized (Rita Hayworth)" tvg-logo="https://archive.org/download/special-inspector-1938/format=Thumbnail" tvg-language="eng",Special Inspector 1938 colorized (Rita Hayworth) (1939)
+https://archive.org/download/special-inspector-1938/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="trilogy-of-terror-1975-vose" tvg-name="Trilogy of Terror (1975) // Vose: Trilogía del terror" tvg-logo="https://archive.org/download/trilogy-of-terror-1975-vose/format=Thumbnail" tvg-language="eng",Trilogy of Terror (1975)
 https://archive.org/download/trilogy-of-terror-1975-vose/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="the-neanderthal-man-1953-vose" tvg-name="The Neanderthal Man (1953) // Vose: El hombre de las cavernas" tvg-logo="https://archive.org/download/the-neanderthal-man-1953-vose/format=Thumbnail" tvg-language="eng",The Neanderthal Man (1953)
 https://archive.org/download/the-neanderthal-man-1953-vose/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="the-innocents-1961-vose" tvg-name="The Innocents (1961) // Vose: Suspense" tvg-logo="https://archive.org/download/the-innocents-1961-vose/format=Thumbnail" tvg-language="eng",The Innocents (1961)
 https://archive.org/download/the-innocents-1961-vose/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="g-men-vs-the-black-dragon" tvg-name="G-Men vs the Black Dragon 1943 colorized cliffhanger serial" tvg-logo="https://archive.org/download/g-men-vs-the-black-dragon/format=Thumbnail" tvg-language="eng",G-Men vs the Black Dragon 1943 colorized cliffhanger serial
+https://archive.org/download/g-men-vs-the-black-dragon/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="the-watcher-in-the-woods-1980-vose" tvg-name="The Watcher in the Woods (1980) // Vose: Los ojos del bosque" tvg-logo="https://archive.org/download/the-watcher-in-the-woods-1980-vose/format=Thumbnail" tvg-language="eng",The Watcher in the Woods (1980)
 https://archive.org/download/the-watcher-in-the-woods-1980-vose/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="the-vampire-bat-1933-vose" tvg-name="The Vampire Bat (1933) // Vose: Sombras trágicas‚ ¿vampiros?" tvg-logo="https://archive.org/download/the-vampire-bat-1933-vose/format=Thumbnail" tvg-language="eng",The Vampire Bat (1933)
@@ -747,6 +897,8 @@ https://archive.org/download/the-death-wheelers-1973-vose/format=MPEG4
 https://archive.org/download/watership.-down.-1978-vose/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="the-crazies-1973-vose" tvg-name="The Crazies (1973) // Vose: Los Crazies" tvg-logo="https://archive.org/download/the-crazies-1973-vose/format=Thumbnail" tvg-language="eng",The Crazies (1973)
 https://archive.org/download/the-crazies-1973-vose/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="the-black-widow-1947-colorized-serial" tvg-name="The Black Widow 1947 colorized clifhanger serial" tvg-logo="https://archive.org/download/the-black-widow-1947-colorized-serial/format=Thumbnail" tvg-language="eng",The Black Widow 1947 colorized clifhanger serial
+https://archive.org/download/the-black-widow-1947-colorized-serial/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="zombie.-high.-1987-vose" tvg-name="Zombie High (1987) // Vose: La Universidad de los zombis" tvg-logo="https://archive.org/download/zombie.-high.-1987-vose/format=Thumbnail" tvg-language="eng",Zombie High (1987)
 https://archive.org/download/zombie.-high.-1987-vose/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="the-cat-and-the-canary-1939-vose" tvg-name="The Cat and the Canary (1939) // Vose: El gato y el canario" tvg-logo="https://archive.org/download/the-cat-and-the-canary-1939-vose/format=Thumbnail" tvg-language="eng",The Cat and the Canary (1939)
@@ -763,12 +915,18 @@ https://archive.org/download/the-fantastic-four-1994-vose/format=MPEG4
 https://archive.org/download/the-boys-from-brazil-1978-vose/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="scalps.-1983-vose" tvg-name="Scalps (1983) // Vose: El cementerio indio" tvg-logo="https://archive.org/download/scalps.-1983-vose/format=Thumbnail" tvg-language="eng",Scalps (1983)
 https://archive.org/download/scalps.-1983-vose/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="the-spy-with-the-perfect-cover-the-man-who-never-was-tv-1966-compilation" tvg-name="The Spy With The Perfect Cover TV 1966 - The Man Who Never Was episode compilation movie" tvg-logo="https://archive.org/download/the-spy-with-the-perfect-cover-the-man-who-never-was-tv-1966-compilation/format=Thumbnail" tvg-language="eng",The Spy With The Perfect Cover TV 1966 - The Man Who Never Was episode compilation movie
+https://archive.org/download/the-spy-with-the-perfect-cover-the-man-who-never-was-tv-1966-compilation/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="danger-has-two-faces-the-man-who-never-was-tv-1966-compilation" tvg-name="Danger Has Two Faces TV 1966 - The Man Who Never Was episode compilation movie" tvg-logo="https://archive.org/download/danger-has-two-faces-the-man-who-never-was-tv-1966-compilation/format=Thumbnail" tvg-language="eng",Danger Has Two Faces TV 1966 - The Man Who Never Was episode compilation movie
+https://archive.org/download/danger-has-two-faces-the-man-who-never-was-tv-1966-compilation/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="saturday.-the.-14th.-1981-vose" tvg-name="Saturday the 14th (1981) // Vose: Sábado 14" tvg-logo="https://archive.org/download/saturday.-the.-14th.-1981-vose/format=Thumbnail" tvg-language="eng",Saturday the 14th (1981)
 https://archive.org/download/saturday.-the.-14th.-1981-vose/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="nomads.-1986-vose" tvg-name="Nomads (1986) // Vose: Nómadas" tvg-logo="https://archive.org/download/nomads.-1986-vose/format=Thumbnail" tvg-language="eng",Nomads (1986)
 https://archive.org/download/nomads.-1986-vose/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="night.-tide.-1961-vose" tvg-name="Night Tide (1961) // Vose: Marea nocturna" tvg-logo="https://archive.org/download/night.-tide.-1961-vose/format=Thumbnail" tvg-language="eng",Night Tide (1961)
 https://archive.org/download/night.-tide.-1961-vose/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="dead-mans-gold-1948" tvg-name="Dead Man's Gold 1948 colorized (Lash LaRue)" tvg-logo="https://archive.org/download/dead-mans-gold-1948/format=Thumbnail" tvg-language="eng",Dead Man's Gold 1948 colorized (Lash LaRue)
+https://archive.org/download/dead-mans-gold-1948/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="night.of.the.-living.-dead.-1968-vose" tvg-name="Night of the Living Dead (1968) // Vose: La noche de los muertos vivientes" tvg-logo="https://archive.org/download/night.of.the.-living.-dead.-1968-vose/format=Thumbnail" tvg-language="eng",Night of the Living Dead (1968)
 https://archive.org/download/night.of.the.-living.-dead.-1968-vose/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="the.-vampire.-1957-vose" tvg-name="The Vampire (1957) // Vose" tvg-logo="https://archive.org/download/the.-vampire.-1957-vose/format=Thumbnail" tvg-language="eng",The Vampire (1957)
@@ -809,6 +967,8 @@ https://archive.org/download/1984-1956-vose/format=MPEG4
 https://archive.org/download/the-chase-1946-remastered-movie-720p-hd/format=h.264
 #EXTINF:-1 group-title="Film Noir" tvg-id="shock-1946-remastered-movie-720p-hd" tvg-name="Shock (remastered edition) (1946‚ noir‚ imdb score: 6.3)" tvg-logo="https://archive.org/download/shock-1946-remastered-movie-720p-hd/format=Thumbnail" tvg-language="eng",Shock (remastered edition) (1946)
 https://archive.org/download/shock-1946-remastered-movie-720p-hd/format=h.264
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="zorro-s-black-whip-1944-colorized" tvg-name="Zorro's Black Whip 1944 colorized cliffhanger serial" tvg-logo="https://archive.org/download/zorro-s-black-whip-1944-colorized/format=Thumbnail" tvg-language="eng",Zorro's Black Whip 1944 colorized cliffhanger serial
+https://archive.org/download/zorro-s-black-whip-1944-colorized/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="jack.-the.-giant.-killer.-1962-vose" tvg-name="Jack the Giant Killer (1962) // Vose: Jack y el gigante asesino" tvg-logo="https://archive.org/download/jack.-the.-giant.-killer.-1962-vose/format=Thumbnail" tvg-language="eng",Jack the Giant Killer (1962)
 https://archive.org/download/jack.-the.-giant.-killer.-1962-vose/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="bride-of-the-monster-1955-vose" tvg-name="Bride of the Monster (1955) // Vose: La novia del monstruo" tvg-logo="https://archive.org/download/bride-of-the-monster-1955-vose/format=Thumbnail" tvg-language="eng",Bride of the Monster (1955)
@@ -837,6 +997,8 @@ https://archive.org/download/the-visitor-1979-vose/format=MPEG4
 https://archive.org/download/the.-thief.-of.-bagdad.-1940-vose/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="war.-of.-the.-colossal.-beast.-1958-vose" tvg-name="War of the Colossal Beast (1958) // Vose: La guerra de la bestia gigante" tvg-logo="https://archive.org/download/war.-of.-the.-colossal.-beast.-1958-vose/format=Thumbnail" tvg-language="eng",War of the Colossal Beast (1958)
 https://archive.org/download/war.-of.-the.-colossal.-beast.-1958-vose/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="spy-smasher-1942-colorized-serial-compilation" tvg-name="Spy Smasher 1942 colorized serial compilation" tvg-logo="https://archive.org/download/spy-smasher-1942-colorized-serial-compilation/format=Thumbnail" tvg-language="eng",Spy Smasher 1942 colorized serial compilation
+https://archive.org/download/spy-smasher-1942-colorized-serial-compilation/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="the.-alligator.-people.-1959-vose" tvg-name="The Alligator People (1959) // Vose: El caimán humano" tvg-logo="https://archive.org/download/the.-alligator.-people.-1959-vose/format=Thumbnail" tvg-language="eng",The Alligator People (1959)
 https://archive.org/download/the.-alligator.-people.-1959-vose/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="the-brain-that-wouldnt-die-1962-vose" tvg-name="The Brain That Wouldn't Die (1962) // Vose: El cerebro que no podía morir" tvg-logo="https://archive.org/download/the-brain-that-wouldnt-die-1962-vose/format=Thumbnail" tvg-language="eng",The Brain That Wouldn't Die (1962)
@@ -849,6 +1011,8 @@ https://archive.org/download/saturn.-3.1980-vose/format=MPEG4
 https://archive.org/download/plan.-9.-from.-outer.-space.-1959-vose/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="night.-of.-the.-comet.-1984-vose" tvg-name="Night of the Comet (1984) // Vose: La noche del cometa" tvg-logo="https://archive.org/download/night.-of.-the.-comet.-1984-vose/format=Thumbnail" tvg-language="eng",Night of the Comet (1984)
 https://archive.org/download/night.-of.-the.-comet.-1984-vose/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="sherlock-holmes-movies-colorized" tvg-name="Sherlock Holmes movies 1939-1944 colorized" tvg-logo="https://archive.org/download/sherlock-holmes-movies-colorized/format=Thumbnail" tvg-language="eng",Sherlock Holmes movies 1939-1944 colorized
+https://archive.org/download/sherlock-holmes-movies-colorized/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="master-of-the-world-1961-vose" tvg-name="Master of the World (1961) // Vose: El amo del mundo" tvg-logo="https://archive.org/download/master-of-the-world-1961-vose/format=Thumbnail" tvg-language="eng",Master of the World (1961)
 https://archive.org/download/master-of-the-world-1961-vose/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="first-man-in-space-1959-vose" tvg-name="First Man Into Space (1959) // Vose: El primer hombre en el espacio" tvg-logo="https://archive.org/download/first-man-in-space-1959-vose/format=Thumbnail" tvg-language="eng",First Man Into Space (1959)
@@ -877,8 +1041,14 @@ https://archive.org/download/dark.-star.-1974-vose/format=MPEG4
 https://archive.org/download/sunset-boulevatrd-1950-restored-movie-720p/format=h.264
 #EXTINF:-1 group-title="Film Noir" tvg-id="notorious-1946-restored-movie-720p-hd" tvg-name="Notorious (restored) (1946‚ BW cinematography benchmark‚ imdb score: 8)" tvg-logo="https://archive.org/download/notorious-1946-restored-movie-720p-hd/format=Thumbnail" tvg-language="eng",Notorious  (1946)
 https://archive.org/download/notorious-1946-restored-movie-720p-hd/format=h.264
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="the-black-arrow-1948-colorized" tvg-name="The Black Arrow 1948 colorized (Louis Hayward)" tvg-logo="https://archive.org/download/the-black-arrow-1948-colorized/format=Thumbnail" tvg-language="eng",The Black Arrow 1948 colorized (Louis Hayward)
+https://archive.org/download/the-black-arrow-1948-colorized/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="y-2-mate.is-goodbye-uncle-tom-1971-american-version-inquest-into-slavery-ldc-dq-" tvg-name="Goodbye‚ Uncle Tom ( 1971)" tvg-logo="https://archive.org/download/y-2-mate.is-goodbye-uncle-tom-1971-american-version-inquest-into-slavery-ldc-dq-/format=Thumbnail" tvg-language="eng",Goodbye‚ Uncle Tom (1971)
 https://archive.org/download/y-2-mate.is-goodbye-uncle-tom-1971-american-version-inquest-into-slavery-ldc-dq-/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="ellery-queen-and-the-murder-ring-1941-colorized" tvg-name="Ellery Queen and the Murder Ring 1941 colorized (Ralph Bellamy)" tvg-logo="https://archive.org/download/ellery-queen-and-the-murder-ring-1941-colorized/format=Thumbnail" tvg-language="eng",Ellery Queen and the Murder Ring 1941 colorized (Ralph Bellamy)
+https://archive.org/download/ellery-queen-and-the-murder-ring-1941-colorized/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="rocketship-x-m-1950" tvg-name="Rocketship X-M 1950 colorized (Lloyd Bridges)" tvg-logo="https://archive.org/download/rocketship-x-m-1950/format=Thumbnail" tvg-language="eng",Rocketship X-M 1950 colorized (Lloyd Bridges)
+https://archive.org/download/rocketship-x-m-1950/format=MPEG4
 #EXTINF:-1 group-title="Film Noir" tvg-id="the-maltese-falcon-1941-restored-movie-720p-hd" tvg-name="The Maltese Falcon (restored) (1941‚ film-noir‚ imdb score: 8)" tvg-logo="https://archive.org/download/the-maltese-falcon-1941-restored-movie-720p-hd/format=Thumbnail" tvg-language="eng",The Maltese Falcon  (1941)
 https://archive.org/download/the-maltese-falcon-1941-restored-movie-720p-hd/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="y-2-mate.is-madman-1981-full-movie.-ythtsed-y-8-uy-720p-1629086770196" tvg-name="Madman (1981)" tvg-logo="https://archive.org/download/y-2-mate.is-madman-1981-full-movie.-ythtsed-y-8-uy-720p-1629086770196/format=Thumbnail" tvg-language="eng",Madman (1981)
@@ -921,6 +1091,8 @@ https://archive.org/download/ninotchka-1939-restored-movie-720p-hd/format=h.264
 https://archive.org/download/y-2-mate.is-1970-the-house-that-would-not-die-spooky-movie-dave-oielv-7bm-mgc-720p-1629310008829/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="y-2-mate.is-big-bad-mama-1974-6z-na-1z-6-ta-94-720p-1629087198052" tvg-name="Big Bad Mama ( 1974)" tvg-logo="https://archive.org/download/y-2-mate.is-big-bad-mama-1974-6z-na-1z-6-ta-94-720p-1629087198052/format=Thumbnail" tvg-language="eng",Big Bad Mama (1974)
 https://archive.org/download/y-2-mate.is-big-bad-mama-1974-6z-na-1z-6-ta-94-720p-1629087198052/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="after-midnight-with-boston-blackie-1943" tvg-name="After Midnight With Boston Blackie 1943 colorized (Chester Morris)" tvg-logo="https://archive.org/download/after-midnight-with-boston-blackie-1943/format=Thumbnail" tvg-language="eng",After Midnight With Boston Blackie 1943 colorized (Chester Morris)
+https://archive.org/download/after-midnight-with-boston-blackie-1943/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="the-night-strangler-1973_202108" tvg-name="The Night Strangler ( 1973)" tvg-logo="https://archive.org/download/the-night-strangler-1973_202108/format=Thumbnail" tvg-language="eng",The Night Strangler (1973)
 https://archive.org/download/the-night-strangler-1973_202108/format=h.264
 #EXTINF:-1 group-title="Film Noir" tvg-id="the-cat-and-the-canary-1939-legendado-pt" tvg-name="The Cat And The Canary (1939)‚ com Bob Hope e Paulette Godard‚ legendas em português" tvg-logo="https://archive.org/download/the-cat-and-the-canary-1939-legendado-pt/format=Thumbnail" tvg-language="eng",The Cat And The Canary (1939)
@@ -931,6 +1103,8 @@ https://archive.org/download/y-2-mate.is-zaat-1971-hollywood-movie-k-8o-6-smgu-1
 https://archive.org/download/touch-of-satan-1971/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="y-2-mate.is-i-eat-your-skin-full-movie-b-w-horror-suspense-voodoo-zombies-1964-7" tvg-name="I Eat Your Skin(1971) WIDESCREEN VERSION" tvg-logo="https://archive.org/download/y-2-mate.is-i-eat-your-skin-full-movie-b-w-horror-suspense-voodoo-zombies-1964-7/format=Thumbnail" tvg-language="eng",I Eat Your Skin(1971)
 https://archive.org/download/y-2-mate.is-i-eat-your-skin-full-movie-b-w-horror-suspense-voodoo-zombies-1964-7/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="enemy-agents-meet-ellery-queen-1942" tvg-name="Enemy Agents Meet Ellery Queen 1942 colorized" tvg-logo="https://archive.org/download/enemy-agents-meet-ellery-queen-1942/format=Thumbnail" tvg-language="eng",Enemy Agents Meet Ellery Queen 1942 colorized
+https://archive.org/download/enemy-agents-meet-ellery-queen-1942/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="y-2-mate.is-manos-the-hands-of-fate-1966-horror-full-length-film-d-3-lbzla-0-v-3" tvg-name="Manos The Hands Of Fate ( 1966) HD VERSION" tvg-logo="https://archive.org/download/y-2-mate.is-manos-the-hands-of-fate-1966-horror-full-length-film-d-3-lbzla-0-v-3/format=Thumbnail" tvg-language="eng",Manos The Hands Of Fate (1966)
 https://archive.org/download/y-2-mate.is-manos-the-hands-of-fate-1966-horror-full-length-film-d-3-lbzla-0-v-3/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="supernatural_202108" tvg-name="Supernatural" tvg-logo="https://archive.org/download/supernatural_202108/format=Thumbnail" tvg-language="eng",Supernatural (1933)
@@ -1571,8 +1745,6 @@ https://archive.org/download/caesar-and-cleopatra/format=h.264
 https://archive.org/download/a-fiend-without-a-face/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="return-home-1989" tvg-name="RETURN HOME (1989)" tvg-logo="https://archive.org/download/return-home-1989/format=Thumbnail" tvg-language="eng",RETURN HOME (1989)
 https://archive.org/download/return-home-1989/format=MPEG4
-#EXTINF:-1 group-title="Feature films" tvg-id="the-matrix-1999" tvg-name="THE MATRIX (1999)" tvg-logo="https://archive.org/download/the-matrix-1999/format=Thumbnail" tvg-language="eng",THE MATRIX (1999)
-https://archive.org/download/the-matrix-1999/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="voyeur-eye-of-the-beholder-1999" tvg-name="VOYEUR (EYE OF THE BEHOLDER) (1999)" tvg-logo="https://archive.org/download/voyeur-eye-of-the-beholder-1999/format=Thumbnail" tvg-language="eng",VOYEUR (EYE OF THE BEHOLDER) (1999)
 https://archive.org/download/voyeur-eye-of-the-beholder-1999/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="komodo-1999" tvg-name="KOMODO (1999)" tvg-logo="https://archive.org/download/komodo-1999/format=Thumbnail" tvg-language="eng",KOMODO (1999)
@@ -2717,6 +2889,8 @@ https://archive.org/download/smiley-gets-a-gun-1959/format=MPEG4
 https://archive.org/download/smiley-1956/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="buster-keaton-battling-butler-1926-1" tvg-name="Battling Butler (1926) HD with score" tvg-logo="https://archive.org/download/buster-keaton-battling-butler-1926-1/format=Thumbnail" tvg-language="eng",Battling Butler (1926)
 https://archive.org/download/buster-keaton-battling-butler-1926-1/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="captain-video-serial-trailer-colorized" tvg-name="Captain Video 1951 colorized cliffhanger serial" tvg-logo="https://archive.org/download/captain-video-serial-trailer-colorized/format=Thumbnail" tvg-language="eng",Captain Video 1951 colorized cliffhanger serial
+https://archive.org/download/captain-video-serial-trailer-colorized/format=MPEG4
 #EXTINF:-1 group-title="TheVideoCellarCollection" tvg-id="the-musgrave-treasure-1912-georges-treville" tvg-name="THE MUSGRAVE TREASURE (1912)" tvg-logo="https://archive.org/download/the-musgrave-treasure-1912-georges-treville/format=Thumbnail" tvg-language="eng",THE MUSGRAVE TREASURE (1912)
 https://archive.org/download/the-musgrave-treasure-1912-georges-treville/format=h.264
 #EXTINF:-1 group-title="Film Noir" tvg-id="kjaere-morder" tvg-name="Kjære Morder" tvg-logo="https://archive.org/download/kjaere-morder/format=Thumbnail" tvg-language="eng",Kjære Morder (1947)
