@@ -1,7 +1,7 @@
 ﻿#EXTM3U
 #EXTINF:-1 group-title="Colorized-movies" tvg-id="stagecoach-outlaws" tvg-name="Stagecoach Outlaws 1945 colorized (Buster Crabbe)" tvg-logo="https://archive.org/download/stagecoach-outlaws/format=Thumbnail" tvg-language="eng",Stagecoach Outlaws 1945 colorized (Buster Crabbe)
 https://archive.org/download/stagecoach-outlaws/format=MPEG4
-#EXTINF:-1 group-title="Colorized-movies" tvg-id="perils-of-pauline-1947" tvg-name="The Perils of Pauline 1947 (Betty Hutton)" tvg-logo="https://archive.org/download/perils-of-pauline-1947/format=Thumbnail" tvg-language="eng",The Perils of Pauline 1947 (Betty Hutton)
+#EXTINF:-1 group-title="Opensource movies" tvg-id="perils-of-pauline-1947" tvg-name="The Perils of Pauline 1947 (Betty Hutton)" tvg-logo="https://archive.org/download/perils-of-pauline-1947/format=Thumbnail" tvg-language="eng",The Perils of Pauline 1947 (Betty Hutton)
 https://archive.org/download/perils-of-pauline-1947/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="wild-boys-of-the-road-colorized-movie-720p-hd" tvg-name="Wild Boys of the Road (restored‚ colorized) (1933‚ pre-code controversial drama‚ imdb score: 7.5)" tvg-logo="https://archive.org/download/wild-boys-of-the-road-colorized-movie-720p-hd/format=Thumbnail" tvg-language="eng",Wild Boys of the Road (restored‚ colorized) (1933)
 https://archive.org/download/wild-boys-of-the-road-colorized-movie-720p-hd/format=h.264
@@ -915,9 +915,9 @@ https://archive.org/download/the-fantastic-four-1994-vose/format=MPEG4
 https://archive.org/download/the-boys-from-brazil-1978-vose/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="scalps.-1983-vose" tvg-name="Scalps (1983) // Vose: El cementerio indio" tvg-logo="https://archive.org/download/scalps.-1983-vose/format=Thumbnail" tvg-language="eng",Scalps (1983)
 https://archive.org/download/scalps.-1983-vose/format=MPEG4
-#EXTINF:-1 group-title="Colorized-movies" tvg-id="the-spy-with-the-perfect-cover-the-man-who-never-was-tv-1966-compilation" tvg-name="The Spy With The Perfect Cover TV 1966 - The Man Who Never Was episode compilation movie" tvg-logo="https://archive.org/download/the-spy-with-the-perfect-cover-the-man-who-never-was-tv-1966-compilation/format=Thumbnail" tvg-language="eng",The Spy With The Perfect Cover TV 1966 - The Man Who Never Was episode compilation movie
+#EXTINF:-1 group-title="Opensource movies" tvg-id="the-spy-with-the-perfect-cover-the-man-who-never-was-tv-1966-compilation" tvg-name="The Spy With The Perfect Cover TV 1966 - The Man Who Never Was episode compilation movie" tvg-logo="https://archive.org/download/the-spy-with-the-perfect-cover-the-man-who-never-was-tv-1966-compilation/format=Thumbnail" tvg-language="eng",The Spy With The Perfect Cover TV 1966 - The Man Who Never Was episode compilation movie
 https://archive.org/download/the-spy-with-the-perfect-cover-the-man-who-never-was-tv-1966-compilation/format=MPEG4
-#EXTINF:-1 group-title="Colorized-movies" tvg-id="danger-has-two-faces-the-man-who-never-was-tv-1966-compilation" tvg-name="Danger Has Two Faces TV 1966 - The Man Who Never Was episode compilation movie" tvg-logo="https://archive.org/download/danger-has-two-faces-the-man-who-never-was-tv-1966-compilation/format=Thumbnail" tvg-language="eng",Danger Has Two Faces TV 1966 - The Man Who Never Was episode compilation movie
+#EXTINF:-1 group-title="Opensource movies" tvg-id="danger-has-two-faces-the-man-who-never-was-tv-1966-compilation" tvg-name="Danger Has Two Faces TV 1966 - The Man Who Never Was episode compilation movie" tvg-logo="https://archive.org/download/danger-has-two-faces-the-man-who-never-was-tv-1966-compilation/format=Thumbnail" tvg-language="eng",Danger Has Two Faces TV 1966 - The Man Who Never Was episode compilation movie
 https://archive.org/download/danger-has-two-faces-the-man-who-never-was-tv-1966-compilation/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="saturday.-the.-14th.-1981-vose" tvg-name="Saturday the 14th (1981) // Vose: Sábado 14" tvg-logo="https://archive.org/download/saturday.-the.-14th.-1981-vose/format=Thumbnail" tvg-language="eng",Saturday the 14th (1981)
 https://archive.org/download/saturday.-the.-14th.-1981-vose/format=MPEG4
@@ -2957,10 +2957,10 @@ https://archive.org/download/silent-vive-la-france/format=h.264
 https://archive.org/download/silent-victory/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-unknown-love" tvg-name="Unknown Love" tvg-logo="https://archive.org/download/silent-unknown-love/format=Thumbnail" tvg-language="eng" channel-id="tt0010822",Unknown Love (1919)
 https://archive.org/download/silent-unknown-love/format=h.264
-#EXTINF:-1 group-title="Silent films" tvg-id="silent-uncle-sam-donates-for-liberty-loans" tvg-name="Uncle Sam Donates for Liberty Loans" tvg-logo="https://archive.org/download/silent-uncle-sam-donates-for-liberty-loans/format=Thumbnail" tvg-language="eng" channel-id="tt1496023",Uncle Sam Donates for Liberty Loans (1919)
-https://archive.org/download/silent-uncle-sam-donates-for-liberty-loans/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-uncle-sam-and-the-bolsheviki--i-w-w-rat" tvg-name="Uncle Sam and the Bolsheviki - I.W.W. Rat" tvg-logo="https://archive.org/download/silent-uncle-sam-and-the-bolsheviki--i-w-w-rat/format=Thumbnail" tvg-language="eng" channel-id="tt1496024",Uncle Sam and the Bolsheviki - I.W.W. Rat (1919)
 https://archive.org/download/silent-uncle-sam-and-the-bolsheviki--i-w-w-rat/format=h.264
+#EXTINF:-1 group-title="Silent films" tvg-id="silent-uncle-sam-donates-for-liberty-loans" tvg-name="Uncle Sam Donates for Liberty Loans" tvg-logo="https://archive.org/download/silent-uncle-sam-donates-for-liberty-loans/format=Thumbnail" tvg-language="eng" channel-id="tt1496023",Uncle Sam Donates for Liberty Loans (1919)
+https://archive.org/download/silent-uncle-sam-donates-for-liberty-loans/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-trapped-by-the-mormons" tvg-name="Trapped by the Mormons" tvg-logo="https://archive.org/download/silent-trapped-by-the-mormons/format=Thumbnail" tvg-language="eng" channel-id="tt0013705",Trapped by the Mormons (1922)
 https://archive.org/download/silent-trapped-by-the-mormons/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-true-heart-susie" tvg-name="True Heart Susie" tvg-logo="https://archive.org/download/silent-true-heart-susie/format=Thumbnail" tvg-language="eng" channel-id="tt0010806",True Heart Susie (1919)
