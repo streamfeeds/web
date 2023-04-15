@@ -1,4 +1,6 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="teenagers-from-outer-space" tvg-name="Teenagers from Outer Space 1959 colorized" tvg-logo="https://archive.org/download/teenagers-from-outer-space/format=Thumbnail" tvg-language="eng",Teenagers from Outer Space 1959 colorized
+https://archive.org/download/teenagers-from-outer-space/format=MPEG4
 #EXTINF:-1 group-title="Colorized-movies" tvg-id="stagecoach-outlaws" tvg-name="Stagecoach Outlaws 1945 colorized (Buster Crabbe)" tvg-logo="https://archive.org/download/stagecoach-outlaws/format=Thumbnail" tvg-language="eng",Stagecoach Outlaws 1945 colorized (Buster Crabbe)
 https://archive.org/download/stagecoach-outlaws/format=MPEG4
 #EXTINF:-1 group-title="Opensource movies" tvg-id="perils-of-pauline-1947" tvg-name="The Perils of Pauline 1947 (Betty Hutton)" tvg-logo="https://archive.org/download/perils-of-pauline-1947/format=Thumbnail" tvg-language="eng",The Perils of Pauline 1947 (Betty Hutton)
