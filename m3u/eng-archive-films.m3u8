@@ -71,6 +71,8 @@ https://archive.org/download/them-1954-colorized/format=MPEG4
 https://archive.org/download/blackhawk-colorized/format=MPEG4
 #EXTINF:-1 group-title="Colorized-movies" tvg-id="invasion-of-the-body-snatchers-1956-colorized" tvg-name="Invasion of the Body Snatchers 1956 colorized" tvg-logo="https://archive.org/download/invasion-of-the-body-snatchers-1956-colorized/format=Thumbnail" tvg-language="eng",Invasion of the Body Snatchers 1956 colorized
 https://archive.org/download/invasion-of-the-body-snatchers-1956-colorized/format=MPEG4
+#EXTINF:-1 group-title="Opensource movies" tvg-id="captain-marvel-1941" tvg-name="Adventures of Captain Marvel 1941 colorized serial feature" tvg-logo="https://archive.org/download/captain-marvel-1941/format=Thumbnail" tvg-language="eng",Adventures of Captain Marvel 1941 colorized serial feature
+https://archive.org/download/captain-marvel-1941/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="the-fighting-eagle_1927" tvg-name="The Fighting Eagle" tvg-logo="https://archive.org/download/the-fighting-eagle_1927/format=Thumbnail" tvg-language="eng",The Fighting Eagle (1927)
 https://archive.org/download/the-fighting-eagle_1927/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="the-beloved-rogue_1927" tvg-name="The Beloved Rogue" tvg-logo="https://archive.org/download/the-beloved-rogue_1927/format=Thumbnail" tvg-language="eng",The Beloved Rogue (1927)
@@ -353,6 +355,8 @@ https://archive.org/download/monster-that-challenged-the-world-1957-colorized/fo
 https://archive.org/download/Behave_Yourself_1951/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="The_Mystery_Man--1935" tvg-name="The Mystery Man (1935; smallest download)" tvg-logo="https://archive.org/download/The_Mystery_Man--1935/format=Thumbnail" tvg-language="eng",The Mystery Man (1935)
 https://archive.org/download/The_Mystery_Man--1935/format=h.264
+#EXTINF:-1 group-title="Opensource movies" tvg-id="the-monolith-monsters-1957-color" tvg-name="The Monolith Monsters 1957 colorized (Grant Williams)" tvg-logo="https://archive.org/download/the-monolith-monsters-1957-color/format=Thumbnail" tvg-language="eng",The Monolith Monsters 1957 colorized (Grant Williams)
+https://archive.org/download/the-monolith-monsters-1957-color/format=MPEG4
 #EXTINF:-1 group-title="Colorized-movies" tvg-id="beyond-the-time-barrier-1960" tvg-name="Beyond the Time Barrier 1960 colorized (Robert Clarke)" tvg-logo="https://archive.org/download/beyond-the-time-barrier-1960/format=Thumbnail" tvg-language="eng",Beyond the Time Barrier 1960 colorized (Robert Clarke)
 https://archive.org/download/beyond-the-time-barrier-1960/format=MPEG4
 #EXTINF:-1 group-title="Film Noir" tvg-id="is-that-you-gabriela" tvg-name="Is That You Gabriela?" tvg-logo="https://archive.org/download/is-that-you-gabriela/format=Thumbnail" tvg-language="eng",Is That You Gabriela? (2020)
@@ -2959,10 +2963,10 @@ https://archive.org/download/silent-vive-la-france/format=h.264
 https://archive.org/download/silent-victory/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-unknown-love" tvg-name="Unknown Love" tvg-logo="https://archive.org/download/silent-unknown-love/format=Thumbnail" tvg-language="eng" channel-id="tt0010822",Unknown Love (1919)
 https://archive.org/download/silent-unknown-love/format=h.264
-#EXTINF:-1 group-title="Silent films" tvg-id="silent-uncle-sam-and-the-bolsheviki--i-w-w-rat" tvg-name="Uncle Sam and the Bolsheviki - I.W.W. Rat" tvg-logo="https://archive.org/download/silent-uncle-sam-and-the-bolsheviki--i-w-w-rat/format=Thumbnail" tvg-language="eng" channel-id="tt1496024",Uncle Sam and the Bolsheviki - I.W.W. Rat (1919)
-https://archive.org/download/silent-uncle-sam-and-the-bolsheviki--i-w-w-rat/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-uncle-sam-donates-for-liberty-loans" tvg-name="Uncle Sam Donates for Liberty Loans" tvg-logo="https://archive.org/download/silent-uncle-sam-donates-for-liberty-loans/format=Thumbnail" tvg-language="eng" channel-id="tt1496023",Uncle Sam Donates for Liberty Loans (1919)
 https://archive.org/download/silent-uncle-sam-donates-for-liberty-loans/format=h.264
+#EXTINF:-1 group-title="Silent films" tvg-id="silent-uncle-sam-and-the-bolsheviki--i-w-w-rat" tvg-name="Uncle Sam and the Bolsheviki - I.W.W. Rat" tvg-logo="https://archive.org/download/silent-uncle-sam-and-the-bolsheviki--i-w-w-rat/format=Thumbnail" tvg-language="eng" channel-id="tt1496024",Uncle Sam and the Bolsheviki - I.W.W. Rat (1919)
+https://archive.org/download/silent-uncle-sam-and-the-bolsheviki--i-w-w-rat/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-trapped-by-the-mormons" tvg-name="Trapped by the Mormons" tvg-logo="https://archive.org/download/silent-trapped-by-the-mormons/format=Thumbnail" tvg-language="eng" channel-id="tt0013705",Trapped by the Mormons (1922)
 https://archive.org/download/silent-trapped-by-the-mormons/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-true-heart-susie" tvg-name="True Heart Susie" tvg-logo="https://archive.org/download/silent-true-heart-susie/format=Thumbnail" tvg-language="eng" channel-id="tt0010806",True Heart Susie (1919)
