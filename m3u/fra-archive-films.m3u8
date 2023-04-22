@@ -51,6 +51,8 @@ https://archive.org/download/le-rouge-et-le-noir-1-autant-lara/format=h.264
 https://archive.org/download/ya.negr.-1958.-dvdrip.-divx.fenixclub.com/format=h.264
 #EXTINF:-1 group-title="Film Noir" tvg-id="esoterisme-a-la-television-francaise-dans-les-annees-60" tvg-name="Esotérisme à la Télévision Française dans les années 60-70." tvg-logo="https://archive.org/download/esoterisme-a-la-television-francaise-dans-les-annees-60/format=Thumbnail" tvg-language="fra",Esotérisme à la Télévision Française dans les années 60-70. (1969)
 https://archive.org/download/esoterisme-a-la-television-francaise-dans-les-annees-60/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="l.-homme.-de.-rio.-1964.-french.-720p.-blu-ray.x-264-rough" tvg-name="L'Homme de Rio (1964) O Homem do Rio" tvg-logo="https://archive.org/download/l.-homme.-de.-rio.-1964.-french.-720p.-blu-ray.x-264-rough/format=Thumbnail" tvg-language="fra",L'Homme de Rio (1964)
+https://archive.org/download/l.-homme.-de.-rio.-1964.-french.-720p.-blu-ray.x-264-rough/format=h.264
 #EXTINF:-1 group-title="Film Noir" tvg-id="15-un-poing-final" tvg-name="Les Cinq Dernières Minutes - Un poing final (1960)" tvg-logo="https://archive.org/download/15-un-poing-final/format=Thumbnail" tvg-language="fra",Les Cinq Dernières Minutes - Un poing final (1960)
 https://archive.org/download/15-un-poing-final/format=h.264
 #EXTINF:-1 group-title="Film Noir" tvg-id="14-au-fil-de-l-histoire" tvg-name="Les Cinq Dernières Minutes - Au fil de l'histoire (1960)" tvg-logo="https://archive.org/download/14-au-fil-de-l-histoire/format=Thumbnail" tvg-language="fra",Les Cinq Dernières Minutes - Au fil de l'histoire (1960)
@@ -135,10 +137,26 @@ https://archive.org/download/the-nude-vampire-1970-vose/format=MPEG4
 https://archive.org/download/lips.-of.-blood.-1975-vose/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="the-beast-1975-vose" tvg-name="La bête (The Beast‚ 1975) // Vose: La bestia" tvg-logo="https://archive.org/download/the-beast-1975-vose/format=Thumbnail" tvg-language="fra",La bête (The Beast‚ 1975) // Vose: La bestia
 https://archive.org/download/the-beast-1975-vose/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="um-passeio-por-paris-1981" tvg-name="Le Pont du Nord (1981) Um Passeio por Paris" tvg-logo="https://archive.org/download/um-passeio-por-paris-1981/format=Thumbnail" tvg-language="fra",Le Pont du Nord (1981)
+https://archive.org/download/um-passeio-por-paris-1981/format=MPEG4
 #EXTINF:-1 group-title="Film Noir" tvg-id="la-chauve-souris-du-diable" tvg-name="La chauve-souris du diable" tvg-logo="https://archive.org/download/la-chauve-souris-du-diable/format=Thumbnail" tvg-language="fra",La chauve-souris du diable (1940)
 https://archive.org/download/la-chauve-souris-du-diable/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="02_20210929_202109" tvg-name="02" tvg-logo="https://archive.org/download/02_20210929_202109/format=Thumbnail" tvg-language="fra",02
+https://archive.org/download/02_20210929_202109/format=h.264
 #EXTINF:-1 group-title="Film Noir" tvg-id="fritz-le-chat-robert-crumb" tvg-name="Fritz The Cat ☆ de Ralph Bakshi ☆ V.F." tvg-logo="https://archive.org/download/fritz-le-chat-robert-crumb/format=Thumbnail" tvg-language="fra",Fritz The Cat ☆ de Ralph Bakshi ☆ V.F. (1972)
 https://archive.org/download/fritz-le-chat-robert-crumb/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="cleo-de-5-as-7-1962" tvg-name="Cléo das 5 às 7 (1962)" tvg-logo="https://archive.org/download/cleo-de-5-as-7-1962/format=Thumbnail" tvg-language="fra",Cléo das 5 às 7 (1962)
+https://archive.org/download/cleo-de-5-as-7-1962/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="stolen.-kisses.-1968.-francois.-truffaut.-1080p.-brrip.x-264-classics" tvg-name="Baisers volés (1968) Beijos Proibidos" tvg-logo="https://archive.org/download/stolen.-kisses.-1968.-francois.-truffaut.-1080p.-brrip.x-264-classics/format=Thumbnail" tvg-language="fra",Baisers volés (1968)
+https://archive.org/download/stolen.-kisses.-1968.-francois.-truffaut.-1080p.-brrip.x-264-classics/format=h.264
+#EXTINF:-1 group-title="Feature films" tvg-id="antoine-et-colette-1962" tvg-name="Antoine et Colette (1962) Antoine e Colette" tvg-logo="https://archive.org/download/antoine-et-colette-1962/format=Thumbnail" tvg-language="fra",Antoine et Colette (1962)
+https://archive.org/download/antoine-et-colette-1962/format=h.264
+#EXTINF:-1 group-title="Feature films" tvg-id="les-quatre-cents-coups-1959_202109" tvg-name="Les quatre cents coups (1959) Os Incompreendidos" tvg-logo="https://archive.org/download/les-quatre-cents-coups-1959_202109/format=Thumbnail" tvg-language="fra",Les quatre cents coups (1959)
+https://archive.org/download/les-quatre-cents-coups-1959_202109/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="mon-oncle-1958-720p" tvg-name="Mon Oncle (1958) O Meu Tio" tvg-logo="https://archive.org/download/mon-oncle-1958-720p/format=Thumbnail" tvg-language="fra",Mon Oncle (1958)
+https://archive.org/download/mon-oncle-1958-720p/format=h.264
+#EXTINF:-1 group-title="Feature films" tvg-id="the.young.girls.turn.25.1993" tvg-name="Les Demoiselles ont eu 25 ans (1993) The Young Girls Turn 25" tvg-logo="https://archive.org/download/the.young.girls.turn.25.1993/format=Thumbnail" tvg-language="fra",Les Demoiselles ont eu 25 ans (1993)
+https://archive.org/download/the.young.girls.turn.25.1993/format=h.264
 #EXTINF:-1 group-title="Film Noir" tvg-id="le-criminel" tvg-name="Le criminel" tvg-logo="https://archive.org/download/le-criminel/format=Thumbnail" tvg-language="fra",Le criminel
 https://archive.org/download/le-criminel/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="y-2-mate.is-la-noire-de...-black-girl-english-subs-1966-a-pc-uia-nbe-la-720p-1629687720861_202109" tvg-name="Black Girl (1966) ENGLISH SUB" tvg-logo="https://archive.org/download/y-2-mate.is-la-noire-de...-black-girl-english-subs-1966-a-pc-uia-nbe-la-720p-1629687720861_202109/format=Thumbnail" tvg-language="fra",Black Girl (1966)
