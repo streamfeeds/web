@@ -1,4 +1,6 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="phantom-planet-1961" tvg-name="The Phantom Planet 1961 colorized (Dean Fredericks)" tvg-logo="https://archive.org/download/phantom-planet-1961/format=Thumbnail" tvg-language="eng",The Phantom Planet 1961 colorized (Dean Fredericks)
+https://archive.org/download/phantom-planet-1961/format=MPEG4
 #EXTINF:-1 group-title="Colorized-movies" tvg-id="most-dangerous-game" tvg-name="The Most Dangerous Game 1932 colorized (Joel McCrea)" tvg-logo="https://archive.org/download/most-dangerous-game/format=Thumbnail" tvg-language="eng",The Most Dangerous Game 1932 colorized (Joel McCrea)
 https://archive.org/download/most-dangerous-game/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="flirtation-1934-colorized" tvg-name="Flirtation 1934 Colorized" tvg-logo="https://archive.org/download/flirtation-1934-colorized/format=Thumbnail" tvg-language="eng",Flirtation 1934 Colorized
