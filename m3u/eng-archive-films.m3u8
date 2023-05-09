@@ -1,4 +1,6 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Opensource movies" tvg-id="mark-of-zorro-1940" tvg-name="The Mark of Zorro 1940 colorized (Tyrone Power)" tvg-logo="https://archive.org/download/mark-of-zorro-1940/format=Thumbnail" tvg-language="eng",The Mark of Zorro 1940 colorized (Tyrone Power)
+https://archive.org/download/mark-of-zorro-1940/format=MPEG4
 #EXTINF:-1 group-title="Colorized-movies" tvg-id="phantom-planet-1961" tvg-name="The Phantom Planet 1961 colorized (Dean Fredericks)" tvg-logo="https://archive.org/download/phantom-planet-1961/format=Thumbnail" tvg-language="eng",The Phantom Planet 1961 colorized (Dean Fredericks)
 https://archive.org/download/phantom-planet-1961/format=MPEG4
 #EXTINF:-1 group-title="Colorized-movies" tvg-id="most-dangerous-game" tvg-name="The Most Dangerous Game 1932 colorized (Joel McCrea)" tvg-logo="https://archive.org/download/most-dangerous-game/format=Thumbnail" tvg-language="eng",The Most Dangerous Game 1932 colorized (Joel McCrea)
@@ -1265,8 +1267,6 @@ https://archive.org/download/confidential-agent-leg-pt/format=MPEG4
 https://archive.org/download/confidential-report-leg-pt/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="videoplayback-1_20210721_2313" tvg-name="You Killed Me First(1985)" tvg-logo="https://archive.org/download/videoplayback-1_20210721_2313/format=Thumbnail" tvg-language="eng",You Killed Me First(1985)
 https://archive.org/download/videoplayback-1_20210721_2313/format=MPEG4
-#EXTINF:-1 group-title="Feature films" tvg-id="twisted-nerve-1968_202107" tvg-name="Twisted Nerve( 1968)" tvg-logo="https://archive.org/download/twisted-nerve-1968_202107/format=Thumbnail" tvg-language="eng",Twisted Nerve(1968)
-https://archive.org/download/twisted-nerve-1968_202107/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="fox-farm" tvg-name="Fox Farm (1922)" tvg-logo="https://archive.org/download/fox-farm/format=Thumbnail" tvg-language="eng",Fox Farm (1922)
 https://archive.org/download/fox-farm/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="are-you-in-the-house-alone-1978" tvg-name="Are You In The House Alone( 1978)" tvg-logo="https://archive.org/download/are-you-in-the-house-alone-1978/format=Thumbnail" tvg-language="eng",Are You In The House Alone(1978)
@@ -3039,10 +3039,10 @@ https://archive.org/download/silent-vive-la-france/format=h.264
 https://archive.org/download/silent-victory/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-unknown-love" tvg-name="Unknown Love" tvg-logo="https://archive.org/download/silent-unknown-love/format=Thumbnail" tvg-language="eng" channel-id="tt0010822",Unknown Love (1919)
 https://archive.org/download/silent-unknown-love/format=h.264
-#EXTINF:-1 group-title="Silent films" tvg-id="silent-uncle-sam-donates-for-liberty-loans" tvg-name="Uncle Sam Donates for Liberty Loans" tvg-logo="https://archive.org/download/silent-uncle-sam-donates-for-liberty-loans/format=Thumbnail" tvg-language="eng" channel-id="tt1496023",Uncle Sam Donates for Liberty Loans (1919)
-https://archive.org/download/silent-uncle-sam-donates-for-liberty-loans/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-uncle-sam-and-the-bolsheviki--i-w-w-rat" tvg-name="Uncle Sam and the Bolsheviki - I.W.W. Rat" tvg-logo="https://archive.org/download/silent-uncle-sam-and-the-bolsheviki--i-w-w-rat/format=Thumbnail" tvg-language="eng" channel-id="tt1496024",Uncle Sam and the Bolsheviki - I.W.W. Rat (1919)
 https://archive.org/download/silent-uncle-sam-and-the-bolsheviki--i-w-w-rat/format=h.264
+#EXTINF:-1 group-title="Silent films" tvg-id="silent-uncle-sam-donates-for-liberty-loans" tvg-name="Uncle Sam Donates for Liberty Loans" tvg-logo="https://archive.org/download/silent-uncle-sam-donates-for-liberty-loans/format=Thumbnail" tvg-language="eng" channel-id="tt1496023",Uncle Sam Donates for Liberty Loans (1919)
+https://archive.org/download/silent-uncle-sam-donates-for-liberty-loans/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-trapped-by-the-mormons" tvg-name="Trapped by the Mormons" tvg-logo="https://archive.org/download/silent-trapped-by-the-mormons/format=Thumbnail" tvg-language="eng" channel-id="tt0013705",Trapped by the Mormons (1922)
 https://archive.org/download/silent-trapped-by-the-mormons/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-true-heart-susie" tvg-name="True Heart Susie" tvg-logo="https://archive.org/download/silent-true-heart-susie/format=Thumbnail" tvg-language="eng" channel-id="tt0010806",True Heart Susie (1919)
