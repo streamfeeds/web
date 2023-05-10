@@ -31,8 +31,6 @@ https://archive.org/download/TheJudasProjectFilm/format=MPEG4
 https://archive.org/download/stagecoach-outlaws/format=MPEG4
 #EXTINF:-1 group-title="Opensource movies" tvg-id="perils-of-pauline-1947" tvg-name="The Perils of Pauline 1947 (Betty Hutton)" tvg-logo="https://archive.org/download/perils-of-pauline-1947/format=Thumbnail" tvg-language="eng",The Perils of Pauline 1947 (Betty Hutton)
 https://archive.org/download/perils-of-pauline-1947/format=MPEG4
-#EXTINF:-1 group-title="Feature films" tvg-id="wild-boys-of-the-road-colorized-movie-720p-hd" tvg-name="Wild Boys of the Road (restored‚ colorized) (1933‚ pre-code controversial drama‚ imdb score: 7.5)" tvg-logo="https://archive.org/download/wild-boys-of-the-road-colorized-movie-720p-hd/format=Thumbnail" tvg-language="eng",Wild Boys of the Road (restored‚ colorized) (1933)
-https://archive.org/download/wild-boys-of-the-road-colorized-movie-720p-hd/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="the-dance-of-life-1929-colorized" tvg-name="The Dance Of Life 1929 Colorized" tvg-logo="https://archive.org/download/the-dance-of-life-1929-colorized/format=Thumbnail" tvg-language="eng",The Dance Of Life 1929 Colorized
 https://archive.org/download/the-dance-of-life-1929-colorized/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="the-third-man-1949-colorized-movie-720p-hd" tvg-name="The Third Man (restored‚ colorized) (1949‚ noir‚ imdb score: 8.1)" tvg-logo="https://archive.org/download/the-third-man-1949-colorized-movie-720p-hd/format=Thumbnail" tvg-language="eng",The Third Man (restored‚ colorized) (1949)
@@ -45,8 +43,6 @@ https://archive.org/download/shanghai-express-1932-colorized-movie-720p-hd/forma
 https://archive.org/download/the-original-meet-the-parents-full-length-feature-film/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="gilda-1946-colorized-movie-720p-hd" tvg-name="Gilda (restored‚ colorized) (1946‚ film-noir‚ imdb score: 7.7)" tvg-logo="https://archive.org/download/gilda-1946-colorized-movie-720p-hd/format=Thumbnail" tvg-language="eng",Gilda (restored‚ colorized) (1946)
 https://archive.org/download/gilda-1946-colorized-movie-720p-hd/format=h.264
-#EXTINF:-1 group-title="Feature films" tvg-id="the-maltese-falcon-colorized-movie-720p-hd" tvg-name="The Maltese Falcon (restored‚ colorized) (1941‚ film-noir‚ imdb score: 8)" tvg-logo="https://archive.org/download/the-maltese-falcon-colorized-movie-720p-hd/format=Thumbnail" tvg-language="eng",The Maltese Falcon (restored‚ colorized) (1941)
-https://archive.org/download/the-maltese-falcon-colorized-movie-720p-hd/format=h.264
 #EXTINF:-1 group-title="Colorized-movies" tvg-id="earth-vs-the-flying-saucers-color" tvg-name="Earth vs the Flying Saucers 1956 colorized (Hugh Marlowe)" tvg-logo="https://archive.org/download/earth-vs-the-flying-saucers-color/format=Thumbnail" tvg-language="eng",Earth vs the Flying Saucers 1956 colorized (Hugh Marlowe)
 https://archive.org/download/earth-vs-the-flying-saucers-color/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="son-of-frankenstein-1939-colorized-movie-720p-hd" tvg-name="Son of Frankenstein (restored‚ colorized) (1939‚ horror‚ imdb score: 7.1)" tvg-logo="https://archive.org/download/son-of-frankenstein-1939-colorized-movie-720p-hd/format=Thumbnail" tvg-language="eng",Son of Frankenstein (restored‚ colorized) (1939)
@@ -55,16 +51,12 @@ https://archive.org/download/son-of-frankenstein-1939-colorized-movie-720p-hd/fo
 https://archive.org/download/scarface-1932-colorized-movie-720p-hd/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="deluge-1933-sidney-blackmer-colorized" tvg-name="Deluge 1933 Colorized" tvg-logo="https://archive.org/download/deluge-1933-sidney-blackmer-colorized/format=Thumbnail" tvg-language="eng",Deluge 1933 Colorized
 https://archive.org/download/deluge-1933-sidney-blackmer-colorized/format=MPEG4
-#EXTINF:-1 group-title="Feature films" tvg-id="cat-people-1942-colorized-movie-720p-hd" tvg-name="Cat People (restored‚ colorized) (1942‚ horror‚ fantasy‚ imdb score: 7.3)" tvg-logo="https://archive.org/download/cat-people-1942-colorized-movie-720p-hd/format=Thumbnail" tvg-language="eng",Cat People (restored‚ colorized) (1942)
-https://archive.org/download/cat-people-1942-colorized-movie-720p-hd/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="bride-of-frankenstein-1935-colorized-movie-720p-hd_202303" tvg-name="Bride of Frankenstein (restored‚ colorized) (1935‚ horror‚ imdb score: 7.8)" tvg-logo="https://archive.org/download/bride-of-frankenstein-1935-colorized-movie-720p-hd_202303/format=Thumbnail" tvg-language="eng",Bride of Frankenstein (restored‚ colorized) (1935)
 https://archive.org/download/bride-of-frankenstein-1935-colorized-movie-720p-hd_202303/format=h.264
 #EXTINF:-1 group-title="Colorized-movies" tvg-id="it-the-terror-from-beyond-space-colorized" tvg-name="It The Terror from Beyond Space 1958 colorized (Marshall Thompson)" tvg-logo="https://archive.org/download/it-the-terror-from-beyond-space-colorized/format=Thumbnail" tvg-language="eng",It The Terror from Beyond Space 1958 colorized (Marshall Thompson)
 https://archive.org/download/it-the-terror-from-beyond-space-colorized/format=MPEG4
 #EXTINF:-1 group-title="Colorized-movies" tvg-id="abominable-snowman-1957-colorized" tvg-name="The Abominable Snowman 1957 colorized (Peter Cushing)" tvg-language="eng",The Abominable Snowman 1957 colorized (Peter Cushing)
 https://archive.org/download/abominable-snowman-1957-colorized/format=MPEG4
-#EXTINF:-1 group-title="Feature films" tvg-id="the-asphalt-jungle-1950-colorized-movie-720p-hd" tvg-name="The Asphalt Jungle (restored‚ colorized) (1950‚ Dir: John Huston‚ noir‚ imdb score: 7.9)" tvg-logo="https://archive.org/download/the-asphalt-jungle-1950-colorized-movie-720p-hd/format=Thumbnail" tvg-language="eng",The Asphalt Jungle (restored‚ colorized) (1950)
-https://archive.org/download/the-asphalt-jungle-1950-colorized-movie-720p-hd/format=h.264
 #EXTINF:-1 group-title="Colorized-movies" tvg-id="day-the-earth-caught-fire" tvg-name="The Day the Earth Caught Fire 1961 colorized (Edward Judd)" tvg-logo="https://archive.org/download/day-the-earth-caught-fire/format=Thumbnail" tvg-language="eng",The Day the Earth Caught Fire 1961 colorized (Edward Judd)
 https://archive.org/download/day-the-earth-caught-fire/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="corsair-1931-colorized" tvg-name="Corsair 1931 Colorized" tvg-logo="https://archive.org/download/corsair-1931-colorized/format=Thumbnail" tvg-language="eng",Corsair 1931 Colorized
@@ -77,8 +69,6 @@ https://archive.org/download/war-of-the-satellites-colorized/format=MPEG4
 https://archive.org/download/strange-world-of-planet-x/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="frankenstein-1931-colorized-movie-720p-hd" tvg-name="Frankenstein (restored‚ colorized) (1931‚ pre-code horror‚ expressionist cinema‚ imdb score: 7.8)" tvg-logo="https://archive.org/download/frankenstein-1931-colorized-movie-720p-hd/format=Thumbnail" tvg-language="eng",Frankenstein (restored‚ colorized) (1931)
 https://archive.org/download/frankenstein-1931-colorized-movie-720p-hd/format=h.264
-#EXTINF:-1 group-title="Feature films" tvg-id="ninotchka-1939-colorized-movie-720p-hd" tvg-name="Ninotchka (restored‚ colorized) (1939‚ drama‚ imdb score: 7.9)" tvg-logo="https://archive.org/download/ninotchka-1939-colorized-movie-720p-hd/format=Thumbnail" tvg-language="eng",Ninotchka (restored‚ colorized) (1939)
-https://archive.org/download/ninotchka-1939-colorized-movie-720p-hd/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="freaks-1932-colorized-movie-720p-hd" tvg-name="Freaks (restored‚ colorized) (1932‚ horror‚ drama‚ imdb score: 7.9)" tvg-logo="https://archive.org/download/freaks-1932-colorized-movie-720p-hd/format=Thumbnail" tvg-language="eng",Freaks (restored‚ colorized) (1932)
 https://archive.org/download/freaks-1932-colorized-movie-720p-hd/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="nomads-of-the-north-1920-colorized-movie-720p-hd" tvg-name="Nomads of the North (restored‚ colorized) (1920‚ drama‚ imdb score: 5.7)" tvg-logo="https://archive.org/download/nomads-of-the-north-1920-colorized-movie-720p-hd/format=Thumbnail" tvg-language="eng",Nomads of the North (restored‚ colorized) (1920)
