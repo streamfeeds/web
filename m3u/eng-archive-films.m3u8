@@ -1,4 +1,6 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Opensource movies" tvg-id="last-of-the-mohicans-1936-colorized" tvg-name="The Last of the Mohicans 1936 colorized (Randolph Scott)" tvg-logo="https://archive.org/download/last-of-the-mohicans-1936-colorized/format=Thumbnail" tvg-language="eng",The Last of the Mohicans 1936 colorized (Randolph Scott)
+https://archive.org/download/last-of-the-mohicans-1936-colorized/format=MPEG4
 #EXTINF:-1 group-title="Colorized-movies" tvg-id="i-married-a-monster" tvg-name="I Married a Monster from Outer Space 1958 colorized (Gloria Talbott)" tvg-logo="https://archive.org/download/i-married-a-monster/format=Thumbnail" tvg-language="eng",I Married a Monster from Outer Space 1958 colorized (Gloria Talbott)
 https://archive.org/download/i-married-a-monster/format=MPEG4
 #EXTINF:-1 group-title="Colorized-movies" tvg-id="not-of-this-earth-1957" tvg-name="Not of This Earth 1957 colorized (Paul Birch)" tvg-logo="https://archive.org/download/not-of-this-earth-1957/format=Thumbnail" tvg-language="eng",Not of This Earth 1957 colorized (Paul Birch)
