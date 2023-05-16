@@ -465,8 +465,6 @@ https://archive.org/download/AncreSegundoDeChomonViajeAJupiter/format=MPEG4
 https://archive.org/download/ptp_coster-bill-of-paris_jacques-feyder_dvd_xvid_avi_640x480_220379/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="ptp_the-wheel_abel-gance_dvd_dvd9_vob-ifo_ntsc_145478" tvg-name="The Wheel / DVD / DVD9 / VOB IFO / NTSC" tvg-logo="https://archive.org/download/ptp_the-wheel_abel-gance_dvd_dvd9_vob-ifo_ntsc_145478/format=Thumbnail" tvg-language="fra" channel-id="tt0014417",The Wheel / DVD / DVD9 / VOB IFO / NTSC (1923)
 https://archive.org/download/ptp_the-wheel_abel-gance_dvd_dvd9_vob-ifo_ntsc_145478/format=h.264
-#EXTINF:-1 group-title="Feature films" tvg-id="ptp_the-wheel_abel-gance_dvd_x264_mkv_716x480_149700" tvg-name="The Wheel / DVD / x264 / MKV / 716x480 / TBB" tvg-logo="https://archive.org/download/ptp_the-wheel_abel-gance_dvd_x264_mkv_716x480_149700/format=Thumbnail" tvg-language="fra" channel-id="tt0014417",The Wheel / DVD / x264 / MKV / 716x480 / TBB (1923)
-https://archive.org/download/ptp_the-wheel_abel-gance_dvd_x264_mkv_716x480_149700/format=h.264
 #EXTINF:-1 group-title="Film Noir" tvg-id="NoirsDeFrance3319752011.LeTempsDesPassions2011" tvg-name="Noirs De France 3/3 - 1975 2011. Le Temps Des Passions (2011)" tvg-logo="https://archive.org/download/NoirsDeFrance3319752011.LeTempsDesPassions2011/format=Thumbnail" tvg-language="fra",Noirs De France 3/3 - 1975 2011. Le Temps Des Passions (2011)
 https://archive.org/download/NoirsDeFrance3319752011.LeTempsDesPassions2011/format=MPEG4
 #EXTINF:-1 group-title="Georgesmelies" tvg-id="1912GeorgesMeliesALaConqueteDuPoleConquestOfTheNorthPole" tvg-name="À La Conquête Du Pôle" tvg-logo="https://archive.org/download/1912GeorgesMeliesALaConqueteDuPoleConquestOfTheNorthPole/format=Thumbnail" tvg-language="fra",À La Conquête Du Pôle (1912)
@@ -477,8 +475,6 @@ https://archive.org/download/LePetitPoucet_733/format=h.264
 https://archive.org/download/LeVoleurInvisible/format=h.264
 #EXTINF:-1 group-title="Segundodechomon" tvg-id="LeThtrelectriqueDeBob" tvg-name="Le théâtre électrique de Bob" tvg-logo="https://archive.org/download/LeThtrelectriqueDeBob/format=Thumbnail" tvg-language="fra",Le théâtre électrique de Bob
 https://archive.org/download/LeThtrelectriqueDeBob/format=h.264
-#EXTINF:-1 group-title="Georgesmelies" tvg-id="LhommeLaTteDuCabinet" tvg-name="L'Homme à la tête de Caoutchouc" tvg-logo="https://archive.org/download/LhommeLaTteDuCabinet/format=Thumbnail" tvg-language="fra",L'Homme à la tête de Caoutchouc (1901)
-https://archive.org/download/LhommeLaTteDuCabinet/format=MPEG4
 #EXTINF:-1 group-title="Georgesmelies" tvg-id="LeCake-walkInfernal" tvg-name="Le Cake-Walk Infernal" tvg-logo="https://archive.org/download/LeCake-walkInfernal/format=Thumbnail" tvg-language="fra",Le Cake-Walk Infernal (1903)
 https://archive.org/download/LeCake-walkInfernal/format=MPEG4
 #EXTINF:-1 group-title="Segundodechomon" tvg-id="SymphonieBizarre" tvg-name="Symphonie Bizarre" tvg-logo="https://archive.org/download/SymphonieBizarre/format=Thumbnail" tvg-language="fra",Symphonie Bizarre (1909)
