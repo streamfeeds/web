@@ -1,4 +1,6 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="atomic-submarine" tvg-name="The Atomic Submarine 1959 colorized (Arthur Franz)" tvg-logo="https://archive.org/download/atomic-submarine/format=Thumbnail" tvg-language="eng",The Atomic Submarine 1959 colorized (Arthur Franz)
+https://archive.org/download/atomic-submarine/format=MPEG4
 #EXTINF:-1 group-title="Colorized-movies" tvg-id="giant-claw-1957" tvg-name="The Giant Claw 1957 colorized (Jeff Morrow)" tvg-logo="https://archive.org/download/giant-claw-1957/format=Thumbnail" tvg-language="eng",The Giant Claw 1957 colorized (Jeff Morrow)
 https://archive.org/download/giant-claw-1957/format=MPEG4
 #EXTINF:-1 group-title="Colorized-movies" tvg-id="connecticut-yankee" tvg-name="A Connecticut Yankee 1931 colorized (Will Rogers)" tvg-logo="https://archive.org/download/connecticut-yankee/format=Thumbnail" tvg-language="eng",A Connecticut Yankee 1931 colorized (Will Rogers)
