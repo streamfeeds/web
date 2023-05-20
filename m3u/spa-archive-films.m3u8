@@ -137,10 +137,6 @@ https://archive.org/download/y-2-mate.is-pero-sigo-siendo-el-rey-1988-hd-la-vida
 https://archive.org/download/kermesse_202108/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="y-2-mate.is-espiritismo-h-5yvs-usm-kj-8-1080p-1629307352975" tvg-name="Espiritismo(1962) WIDESCREEN VERSION" tvg-logo="https://archive.org/download/y-2-mate.is-espiritismo-h-5yvs-usm-kj-8-1080p-1629307352975/format=Thumbnail" tvg-language="spa",Espiritismo(1962)
 https://archive.org/download/y-2-mate.is-espiritismo-h-5yvs-usm-kj-8-1080p-1629307352975/format=MPEG4
-#EXTINF:-1 group-title="Feature films" tvg-id="lucia_202108" tvg-name="Lucía" tvg-logo="https://archive.org/download/lucia_202108/format=Thumbnail" tvg-language="spa",Lucía (1968)
-https://archive.org/download/lucia_202108/format=h.264
-#EXTINF:-1 group-title="Feature films" tvg-id="dos-monjes" tvg-name="Dos Monjes" tvg-logo="https://archive.org/download/dos-monjes/format=Thumbnail" tvg-language="spa",Dos Monjes (1934)
-https://archive.org/download/dos-monjes/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="y-2-mate.is-panic-beats-1983-8ma-gp-2i-1v-7o-720p-1628721813479" tvg-name="Latidos de pánico(1983)" tvg-logo="https://archive.org/download/y-2-mate.is-panic-beats-1983-8ma-gp-2i-1v-7o-720p-1628721813479/format=Thumbnail" tvg-language="spa",Latidos de pánico(1983)
 https://archive.org/download/y-2-mate.is-panic-beats-1983-8ma-gp-2i-1v-7o-720p-1628721813479/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="y-2-mate.is-ultimo-deseo-hd-1976-con-nadiuska-gd-0-ay-7k-2wx-e-720p-1628558015960" tvg-name="Último deseo(1976)" tvg-logo="https://archive.org/download/y-2-mate.is-ultimo-deseo-hd-1976-con-nadiuska-gd-0-ay-7k-2wx-e-720p-1628558015960/format=Thumbnail" tvg-language="spa",Último deseo(1976)
@@ -173,8 +169,6 @@ https://archive.org/download/el-robo-de-las-momias/format=MPEG4
 https://archive.org/download/juan-colorado-1966/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="el-beso-de-la-mujer-arana-1985" tvg-name="El Beso De La Mujer Araña ( 1985)" tvg-logo="https://archive.org/download/el-beso-de-la-mujer-arana-1985/format=Thumbnail" tvg-language="spa",El Beso De La Mujer Araña (1985)
 https://archive.org/download/el-beso-de-la-mujer-arana-1985/format=MPEG4
-#EXTINF:-1 group-title="Feature films" tvg-id="redes_202105" tvg-name="Redes" tvg-logo="https://archive.org/download/redes_202105/format=Thumbnail" tvg-language="spa",Redes (1936)
-https://archive.org/download/redes_202105/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-the-grey-automobile" tvg-name="The Grey Automobile" tvg-logo="https://archive.org/download/silent-the-grey-automobile/format=Thumbnail" tvg-language="spa" channel-id="tt0009894",The Grey Automobile (1919)
 https://archive.org/download/silent-the-grey-automobile/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-alma-provinciana" tvg-name="Alma provinciana" tvg-logo="https://archive.org/download/silent-alma-provinciana/format=Thumbnail" tvg-language="spa" channel-id="tt0220305",Alma provinciana (1925)
