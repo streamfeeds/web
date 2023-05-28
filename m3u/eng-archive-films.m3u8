@@ -1,4 +1,6 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="brain-from-planet-arous-colorized" tvg-name="The Brain From Planet Arous 1957 colorized (John Agar)" tvg-logo="https://archive.org/download/brain-from-planet-arous-colorized/format=Thumbnail" tvg-language="eng",The Brain From Planet Arous 1957 colorized (John Agar)
+https://archive.org/download/brain-from-planet-arous-colorized/format=MPEG4
 #EXTINF:-1 group-title="Colorized-movies" tvg-id="unearthly-stranger" tvg-name="Unearthly Stranger 1963 colorized (John Neville)" tvg-logo="https://archive.org/download/unearthly-stranger/format=Thumbnail" tvg-language="eng",Unearthly Stranger 1963 colorized (John Neville)
 https://archive.org/download/unearthly-stranger/format=MPEG4
 #EXTINF:-1 group-title="Colorized-movies" tvg-id="incredible-shrinking-man-1957" tvg-name="The Incredible Shrinking Man 1957 colorized (Grant Williams)" tvg-logo="https://archive.org/download/incredible-shrinking-man-1957/format=Thumbnail" tvg-language="eng",The Incredible Shrinking Man 1957 colorized (Grant Williams)
@@ -2611,10 +2613,10 @@ https://archive.org/download/silent-vive-la-france/format=h.264
 https://archive.org/download/silent-victory/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-unknown-love" tvg-name="Unknown Love" tvg-logo="https://archive.org/download/silent-unknown-love/format=Thumbnail" tvg-language="eng" channel-id="tt0010822",Unknown Love (1919)
 https://archive.org/download/silent-unknown-love/format=h.264
-#EXTINF:-1 group-title="Silent films" tvg-id="silent-uncle-sam-donates-for-liberty-loans" tvg-name="Uncle Sam Donates for Liberty Loans" tvg-logo="https://archive.org/download/silent-uncle-sam-donates-for-liberty-loans/format=Thumbnail" tvg-language="eng" channel-id="tt1496023",Uncle Sam Donates for Liberty Loans (1919)
-https://archive.org/download/silent-uncle-sam-donates-for-liberty-loans/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-uncle-sam-and-the-bolsheviki--i-w-w-rat" tvg-name="Uncle Sam and the Bolsheviki - I.W.W. Rat" tvg-logo="https://archive.org/download/silent-uncle-sam-and-the-bolsheviki--i-w-w-rat/format=Thumbnail" tvg-language="eng" channel-id="tt1496024",Uncle Sam and the Bolsheviki - I.W.W. Rat (1919)
 https://archive.org/download/silent-uncle-sam-and-the-bolsheviki--i-w-w-rat/format=h.264
+#EXTINF:-1 group-title="Silent films" tvg-id="silent-uncle-sam-donates-for-liberty-loans" tvg-name="Uncle Sam Donates for Liberty Loans" tvg-logo="https://archive.org/download/silent-uncle-sam-donates-for-liberty-loans/format=Thumbnail" tvg-language="eng" channel-id="tt1496023",Uncle Sam Donates for Liberty Loans (1919)
+https://archive.org/download/silent-uncle-sam-donates-for-liberty-loans/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-trapped-by-the-mormons" tvg-name="Trapped by the Mormons" tvg-logo="https://archive.org/download/silent-trapped-by-the-mormons/format=Thumbnail" tvg-language="eng" channel-id="tt0013705",Trapped by the Mormons (1922)
 https://archive.org/download/silent-trapped-by-the-mormons/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-true-heart-susie" tvg-name="True Heart Susie" tvg-logo="https://archive.org/download/silent-true-heart-susie/format=Thumbnail" tvg-language="eng" channel-id="tt0010806",True Heart Susie (1919)
