@@ -659,10 +659,10 @@ https://archive.org/download/musibet_movie/format=MPEG4
 https://archive.org/download/ates-bocegi_movie/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="amansiz-yol_movie" tvg-name="Amansız Yol‚ Turkish Movie" tvg-logo="https://archive.org/download/amansiz-yol_movie/format=Thumbnail" tvg-language="tur",Amansız Yol‚ Turkish Movie
 https://archive.org/download/amansiz-yol_movie/format=MPEG4
-#EXTINF:-1 group-title="Feature films" tvg-id="bataklikta-bir-gul_movie" tvg-name="Bataklıkta Bir Gül‚ Turkish Movie" tvg-logo="https://archive.org/download/bataklikta-bir-gul_movie/format=Thumbnail" tvg-language="tur",Bataklıkta Bir Gül‚ Turkish Movie
-https://archive.org/download/bataklikta-bir-gul_movie/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="ben-de-ozledim_movie" tvg-name="Ben De Özledim‚ Turkish Movie" tvg-logo="https://archive.org/download/ben-de-ozledim_movie/format=Thumbnail" tvg-language="tur",Ben De Özledim‚ Turkish Movie
 https://archive.org/download/ben-de-ozledim_movie/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="bataklikta-bir-gul_movie" tvg-name="Bataklıkta Bir Gül‚ Turkish Movie" tvg-logo="https://archive.org/download/bataklikta-bir-gul_movie/format=Thumbnail" tvg-language="tur",Bataklıkta Bir Gül‚ Turkish Movie
+https://archive.org/download/bataklikta-bir-gul_movie/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="basim-gozum-ustune_movie" tvg-name="Başım Gözüm Üstüne‚ Turkish Movie" tvg-logo="https://archive.org/download/basim-gozum-ustune_movie/format=Thumbnail" tvg-language="tur",Başım Gözüm Üstüne‚ Turkish Movie
 https://archive.org/download/basim-gozum-ustune_movie/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="bekciler-krali_movie" tvg-name="Bekçiler Kralı‚ Turkish Movie" tvg-logo="https://archive.org/download/bekciler-krali_movie/format=Thumbnail" tvg-language="tur",Bekçiler Kralı‚ Turkish Movie
@@ -1299,10 +1299,10 @@ https://archive.org/download/kirmizi-kelebek_movie/format=MPEG4
 https://archive.org/download/sevkat-yerimdar_movie/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="tutku_movie" tvg-name="Tutku‚ Turkish Movie" tvg-logo="https://archive.org/download/tutku_movie/format=Thumbnail" tvg-language="tur",Tutku‚ Turkish Movie
 https://archive.org/download/tutku_movie/format=MPEG4
-#EXTINF:-1 group-title="Feature films" tvg-id="oz-hakiki-karakol_movie" tvg-name="Öz Hakiki Karakol‚ Turkish Movie" tvg-logo="https://archive.org/download/oz-hakiki-karakol_movie/format=Thumbnail" tvg-language="tur",Öz Hakiki Karakol‚ Turkish Movie
-https://archive.org/download/oz-hakiki-karakol_movie/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="tas-mektep_movie" tvg-name="Taş Mektep‚ Turkish Movie" tvg-logo="https://archive.org/download/tas-mektep_movie/format=Thumbnail" tvg-language="tur",Taş Mektep‚ Turkish Movie
 https://archive.org/download/tas-mektep_movie/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="oz-hakiki-karakol_movie" tvg-name="Öz Hakiki Karakol‚ Turkish Movie" tvg-logo="https://archive.org/download/oz-hakiki-karakol_movie/format=Thumbnail" tvg-language="tur",Öz Hakiki Karakol‚ Turkish Movie
+https://archive.org/download/oz-hakiki-karakol_movie/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="sevimli-hirsiz_movie" tvg-name="Sevimli Hırsız‚ Turkish Movie" tvg-language="tur",Sevimli Hırsız‚ Turkish Movie
 https://archive.org/download/sevimli-hirsiz_movie/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="uc-arkadas_movie_202005" tvg-name="Üç Arkadaş‚ Turkish Movie" tvg-logo="https://archive.org/download/uc-arkadas_movie_202005/format=Thumbnail" tvg-language="tur",Üç Arkadaş‚ Turkish Movie
