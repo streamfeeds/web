@@ -1,4 +1,6 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="beginning-of-the-end-1957" tvg-name="Beginning of the End 1957 colorized (Peter Graves)" tvg-logo="https://archive.org/download/beginning-of-the-end-1957/format=Thumbnail" tvg-language="eng",Beginning of the End 1957 colorized (Peter Graves)
+https://archive.org/download/beginning-of-the-end-1957/format=MPEG4
 #EXTINF:-1 group-title="Colorized-movies" tvg-id="12-to-the-moon" tvg-name="12 to the Moon (1960) colorized (Ken Clark)" tvg-logo="https://archive.org/download/12-to-the-moon/format=Thumbnail" tvg-language="eng",12 to the Moon (1960) colorized (Ken Clark)
 https://archive.org/download/12-to-the-moon/format=MPEG4
 #EXTINF:-1 group-title="Colorized-movies" tvg-id="brain-from-planet-arous-colorized" tvg-name="The Brain From Planet Arous 1957 colorized (John Agar)" tvg-logo="https://archive.org/download/brain-from-planet-arous-colorized/format=Thumbnail" tvg-language="eng",The Brain From Planet Arous 1957 colorized (John Agar)

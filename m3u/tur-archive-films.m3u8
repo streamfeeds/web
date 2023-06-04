@@ -185,10 +185,10 @@ https://archive.org/download/sana-donmeyecegim_movie/format=MPEG4
 https://archive.org/download/reisin-kizi_movie/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="sehvetin-esiriyiz_movie" tvg-name="Şehvetin Esiriyiz‚ Turkish Movie" tvg-logo="https://archive.org/download/sehvetin-esiriyiz_movie/format=Thumbnail" tvg-language="tur",Şehvetin Esiriyiz‚ Turkish Movie
 https://archive.org/download/sehvetin-esiriyiz_movie/format=MPEG4
-#EXTINF:-1 group-title="Feature films" tvg-id="ozleyis_movie_202005" tvg-name="Özleyiş‚ Turkish Movie" tvg-logo="https://archive.org/download/ozleyis_movie_202005/format=Thumbnail" tvg-language="tur",Özleyiş‚ Turkish Movie
-https://archive.org/download/ozleyis_movie_202005/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="pantolon-bankasi_movie" tvg-name="Pantolon Bankası‚ Turkish Movie" tvg-logo="https://archive.org/download/pantolon-bankasi_movie/format=Thumbnail" tvg-language="tur",Pantolon Bankası‚ Turkish Movie
 https://archive.org/download/pantolon-bankasi_movie/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="ozleyis_movie_202005" tvg-name="Özleyiş‚ Turkish Movie" tvg-logo="https://archive.org/download/ozleyis_movie_202005/format=Thumbnail" tvg-language="tur",Özleyiş‚ Turkish Movie
+https://archive.org/download/ozleyis_movie_202005/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="omrumun-tek-gecesi_movie" tvg-name="Ömrümün Tek Gecesi‚ Turkish Movie" tvg-logo="https://archive.org/download/omrumun-tek-gecesi_movie/format=Thumbnail" tvg-language="tur",Ömrümün Tek Gecesi‚ Turkish Movie
 https://archive.org/download/omrumun-tek-gecesi_movie/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="oglum_movie" tvg-name="Oğlum‚ Turkish Movie" tvg-logo="https://archive.org/download/oglum_movie/format=Thumbnail" tvg-language="tur",Oğlum‚ Turkish Movie
@@ -623,10 +623,10 @@ https://archive.org/download/dugun-gecesi_movie/format=MPEG4
 https://archive.org/download/doyumsuz_movie/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="dort-yanim-cehennem_movie" tvg-name="Dört Yanım Cehennem‚ Turkish Movie" tvg-logo="https://archive.org/download/dort-yanim-cehennem_movie/format=Thumbnail" tvg-language="tur",Dört Yanım Cehennem‚ Turkish Movie
 https://archive.org/download/dort-yanim-cehennem_movie/format=MPEG4
-#EXTINF:-1 group-title="Feature films" tvg-id="dikenli-yol_movie" tvg-name="Dikenli Yol‚ Turkish Movie" tvg-logo="https://archive.org/download/dikenli-yol_movie/format=Thumbnail" tvg-language="tur",Dikenli Yol‚ Turkish Movie
-https://archive.org/download/dikenli-yol_movie/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="dinmeyen-sizi_movie" tvg-name="Dinmeyen Sızı‚ Turkish Movie" tvg-logo="https://archive.org/download/dinmeyen-sizi_movie/format=Thumbnail" tvg-language="tur",Dinmeyen Sızı‚ Turkish Movie
 https://archive.org/download/dinmeyen-sizi_movie/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="dikenli-yol_movie" tvg-name="Dikenli Yol‚ Turkish Movie" tvg-logo="https://archive.org/download/dikenli-yol_movie/format=Thumbnail" tvg-language="tur",Dikenli Yol‚ Turkish Movie
+https://archive.org/download/dikenli-yol_movie/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="deli-sahin_movie" tvg-name="Deli Şahin‚ Turkish Movie" tvg-logo="https://archive.org/download/deli-sahin_movie/format=Thumbnail" tvg-language="tur",Deli Şahin‚ Turkish Movie
 https://archive.org/download/deli-sahin_movie/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="doksan-dokuz-mustafa_movie" tvg-name="Doksan Dokuz Mustafa‚ Turkish Movie" tvg-logo="https://archive.org/download/doksan-dokuz-mustafa_movie/format=Thumbnail" tvg-language="tur",Doksan Dokuz Mustafa‚ Turkish Movie
@@ -647,10 +647,10 @@ https://archive.org/download/bir-cicek-uc-bocek_movie/format=MPEG4
 https://archive.org/download/bir-daha-asla_movie/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="ben-sana-mecburum_movie" tvg-name="Ben Sana Mecburum‚ Turkish Movie" tvg-logo="https://archive.org/download/ben-sana-mecburum_movie/format=Thumbnail" tvg-language="tur",Ben Sana Mecburum‚ Turkish Movie
 https://archive.org/download/ben-sana-mecburum_movie/format=MPEG4
-#EXTINF:-1 group-title="Feature films" tvg-id="bes-hikaye_movie" tvg-name="Beş Hikaye‚ Turkish Movie" tvg-logo="https://archive.org/download/bes-hikaye_movie/format=Thumbnail" tvg-language="tur",Beş Hikaye‚ Turkish Movie
-https://archive.org/download/bes-hikaye_movie/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="ben-milyoner-degilim_movie" tvg-name="Ben Milyoner Değilim‚ Turkish Movie" tvg-logo="https://archive.org/download/ben-milyoner-degilim_movie/format=Thumbnail" tvg-language="tur",Ben Milyoner Değilim‚ Turkish Movie
 https://archive.org/download/ben-milyoner-degilim_movie/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="bes-hikaye_movie" tvg-name="Beş Hikaye‚ Turkish Movie" tvg-logo="https://archive.org/download/bes-hikaye_movie/format=Thumbnail" tvg-language="tur",Beş Hikaye‚ Turkish Movie
+https://archive.org/download/bes-hikaye_movie/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="berduslar_movie" tvg-name="Berduşlar‚ Turkish Movie" tvg-logo="https://archive.org/download/berduslar_movie/format=Thumbnail" tvg-language="tur",Berduşlar‚ Turkish Movie
 https://archive.org/download/berduslar_movie/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="musibet_movie" tvg-name="Musibet‚ Turkish Movie" tvg-logo="https://archive.org/download/musibet_movie/format=Thumbnail" tvg-language="tur",Musibet‚ Turkish Movie
@@ -1689,10 +1689,10 @@ https://archive.org/download/japon-isi_movie/format=MPEG4
 https://archive.org/download/gazap-ruzgari_movie/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="surtugun-kizi_movie" tvg-name="Sürtüğün Kızı‚ Turkish Movie" tvg-logo="https://archive.org/download/surtugun-kizi_movie/format=Thumbnail" tvg-language="tur",Sürtüğün Kızı‚ Turkish Movie (1967)
 https://archive.org/download/surtugun-kizi_movie/format=MPEG4
-#EXTINF:-1 group-title="Feature films" tvg-id="fakir-kizi-leyla_movie" tvg-name="Fakir Kızı Leyla‚ Turkish Movie" tvg-logo="https://archive.org/download/fakir-kizi-leyla_movie/format=Thumbnail" tvg-language="tur",Fakir Kızı Leyla‚ Turkish Movie (1969)
-https://archive.org/download/fakir-kizi-leyla_movie/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="karadavut_movie" tvg-name="Kara Davut‚ Turkish Movie" tvg-logo="https://archive.org/download/karadavut_movie/format=Thumbnail" tvg-language="tur",Kara Davut‚ Turkish Movie (1967)
 https://archive.org/download/karadavut_movie/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="fakir-kizi-leyla_movie" tvg-name="Fakir Kızı Leyla‚ Turkish Movie" tvg-logo="https://archive.org/download/fakir-kizi-leyla_movie/format=Thumbnail" tvg-language="tur",Fakir Kızı Leyla‚ Turkish Movie (1969)
+https://archive.org/download/fakir-kizi-leyla_movie/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="senede-bir-gun_movie" tvg-name="Senede Bir Gün‚ Turkish Movie" tvg-logo="https://archive.org/download/senede-bir-gun_movie/format=Thumbnail" tvg-language="tur",Senede Bir Gün‚ Turkish Movie (1965)
 https://archive.org/download/senede-bir-gun_movie/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="genclik-hulyalari_movie" tvg-name="Gençlik Hülyaları‚ Turkish Movie" tvg-logo="https://archive.org/download/genclik-hulyalari_movie/format=Thumbnail" tvg-language="tur",Gençlik Hülyaları‚ Turkish Movie (1962)
