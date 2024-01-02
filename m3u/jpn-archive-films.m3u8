@@ -1,4 +1,20 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Feature films" tvg-id="tairiki-taro-no-mucha-shugyo_1928" tvg-name="Tairiki Tarô no mucha shugyô" tvg-logo="https://archive.org/download/tairiki-taro-no-mucha-shugyo_1928/format=Thumbnail" tvg-language="jpn",Tairiki Tarô no mucha shugyô (1928)
+https://archive.org/download/tairiki-taro-no-mucha-shugyo_1928/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="sakamoto-ryoma_1928" tvg-name="Sakamoto Ryôma" tvg-logo="https://archive.org/download/sakamoto-ryoma_1928/format=Thumbnail" tvg-language="jpn",Sakamoto Ryôma (1928)
+https://archive.org/download/sakamoto-ryoma_1928/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="manga-sakana-no-kuni_1928" tvg-name="Manga: Sakana no kuni" tvg-logo="https://archive.org/download/manga-sakana-no-kuni_1928/format=Thumbnail" tvg-language="jpn",Manga: Sakana no kuni (1928)
+https://archive.org/download/manga-sakana-no-kuni_1928/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="manga-hanasakajijii_1928" tvg-name="Manga: Hanasaka-jijii" tvg-logo="https://archive.org/download/manga-hanasakajijii_1928/format=Thumbnail" tvg-language="jpn",Manga: Hanasaka-jijii (1928)
+https://archive.org/download/manga-hanasakajijii_1928/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="kurama-tengu_1928" tvg-name="Kurama Tengu" tvg-logo="https://archive.org/download/kurama-tengu_1928/format=Thumbnail" tvg-language="jpn",Kurama Tengu (1928)
+https://archive.org/download/kurama-tengu_1928/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="dobutsu-olympic-taikai_1928" tvg-name="Dobutsu olympic taikai" tvg-logo="https://archive.org/download/dobutsu-olympic-taikai_1928/format=Thumbnail" tvg-language="jpn",Dobutsu olympic taikai (1928)
+https://archive.org/download/dobutsu-olympic-taikai_1928/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="crossroads_1928" tvg-name="Crossroads" tvg-logo="https://archive.org/download/crossroads_1928/format=Thumbnail" tvg-language="jpn",Crossroads (1928)
+https://archive.org/download/crossroads_1928/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="chukon-giretsu--jitsuroku-chushingura_1928" tvg-name="Chûkon giretsu - Jitsuroku Chûshingura" tvg-logo="https://archive.org/download/chukon-giretsu--jitsuroku-chushingura_1928/format=Thumbnail" tvg-language="jpn",Chûkon giretsu - Jitsuroku Chûshingura (1928)
+https://archive.org/download/chukon-giretsu--jitsuroku-chushingura_1928/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="kare-no-ootobai-kanojo-no-shima-his-motorbike-her-island-1986-nobuhiko-obayashi" tvg-name="Kare No Ootobai‚ Kanojo No Shima / His Motorbike‚ Her Island 1986" tvg-logo="https://archive.org/download/kare-no-ootobai-kanojo-no-shima-his-motorbike-her-island-1986-nobuhiko-obayashi/format=Thumbnail" tvg-language="jpn",Kare No Ootobai‚ Kanojo No Shima / His Motorbike‚ Her Island 1986
 https://archive.org/download/kare-no-ootobai-kanojo-no-shima-his-motorbike-her-island-1986-nobuhiko-obayashi/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="beautiful.-wrestlers.-down.for.the.-count.-1984.-japanese.-1080p.-blu-ray.x-264.-flac.-2.0-manji" tvg-name="Beautiful Wrestlers Down for the Count (美少女プロレス　失神１０秒前)1984 1080p Blu Ray x264 FLAC" tvg-logo="https://archive.org/download/beautiful.-wrestlers.-down.for.the.-count.-1984.-japanese.-1080p.-blu-ray.x-264.-flac.-2.0-manji/format=Thumbnail" tvg-language="jpn",Beautiful Wrestlers Down for the Count (美少女プロレス　失神１０秒前)1984 1080p Blu Ray x264 FLAC

@@ -1,4 +1,22 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Feature films" tvg-id="verdun-visions-dhistoire_1928" tvg-name="Verdun‚ visions d'histoire" tvg-logo="https://archive.org/download/verdun-visions-dhistoire_1928/format=Thumbnail" tvg-language="fra",Verdun‚ visions d'histoire (1928)
+https://archive.org/download/verdun-visions-dhistoire_1928/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="une-femme-a-passe_1928" tvg-name="Une femme a passé" tvg-logo="https://archive.org/download/une-femme-a-passe_1928/format=Thumbnail" tvg-language="fra",Une femme a passé (1928)
+https://archive.org/download/une-femme-a-passe_1928/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="two-timid-souls_1928" tvg-name="Two Timid Souls" tvg-logo="https://archive.org/download/two-timid-souls_1928/format=Thumbnail" tvg-language="fra",Two Timid Souls (1928)
+https://archive.org/download/two-timid-souls_1928/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="the-sad-sack_1928" tvg-name="The Sad Sack" tvg-logo="https://archive.org/download/the-sad-sack_1928/format=Thumbnail" tvg-language="fra",The Sad Sack (1928)
+https://archive.org/download/the-sad-sack_1928/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="the-passion-of-joan-of-arc_1928" tvg-name="The Passion of Joan of Arc" tvg-logo="https://archive.org/download/the-passion-of-joan-of-arc_1928/format=Thumbnail" tvg-language="fra",The Passion of Joan of Arc (1928)
+https://archive.org/download/the-passion-of-joan-of-arc_1928/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="the-little-match-girl_1928" tvg-name="The Little Match Girl" tvg-logo="https://archive.org/download/the-little-match-girl_1928/format=Thumbnail" tvg-language="fra",The Little Match Girl (1928)
+https://archive.org/download/the-little-match-girl_1928/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="the-horse-ate-the-hat_1928" tvg-name="The Horse Ate the Hat" tvg-logo="https://archive.org/download/the-horse-ate-the-hat_1928/format=Thumbnail" tvg-language="fra",The Horse Ate the Hat (1928)
+https://archive.org/download/the-horse-ate-the-hat_1928/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="mother-of-mine_1928" tvg-name="Mother of Mine" tvg-logo="https://archive.org/download/mother-of-mine_1928/format=Thumbnail" tvg-language="fra",Mother of Mine (1928)
+https://archive.org/download/mother-of-mine_1928/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="le-mystere-de-la-tour-eiffel_1928" tvg-name="Le mystère de la tour Eiffel" tvg-logo="https://archive.org/download/le-mystere-de-la-tour-eiffel_1928/format=Thumbnail" tvg-language="fra",Le mystère de la tour Eiffel (1928)
+https://archive.org/download/le-mystere-de-la-tour-eiffel_1928/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="rififi-1955-colorized-movie-720p-hd" tvg-name="Rififi - Du rififi chez les hommes (restored‚ colorized‚ Eng sub) (1955‚ crime‚ imdb score: 8.1)" tvg-logo="https://archive.org/download/rififi-1955-colorized-movie-720p-hd/format=Thumbnail" tvg-language="fra",Rififi - Du rififi chez les hommes (restored‚ colorized‚ Eng sub) (1955)
 https://archive.org/download/rififi-1955-colorized-movie-720p-hd/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="eyes-without-a-face-1960-colorized-movie-720p-hd" tvg-name="Eyes Without a Face - Les yeux sans visage (restored‚ colorized‚ uncut‚ Eng dub) (1960‚ France‚ horror‚ imdb score: 7.7)" tvg-logo="https://archive.org/download/eyes-without-a-face-1960-colorized-movie-720p-hd/format=Thumbnail" tvg-language="fra",Eyes Without a Face - Les yeux sans visage (restored‚ colorized‚ uncut‚ Eng dub) (1960)
