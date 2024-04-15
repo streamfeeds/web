@@ -141,12 +141,8 @@ https://archive.org/download/gia-dimanche/format=h.264
 https://archive.org/download/degustation-maison/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="cours-du-soir" tvg-name="Cours Du Soir" tvg-logo="https://archive.org/download/cours-du-soir/format=Thumbnail" tvg-language="fra",Cours Du Soir (1967)
 https://archive.org/download/cours-du-soir/format=h.264
-#EXTINF:-1 group-title="Feature films" tvg-id="bed-and-board" tvg-name="Bed And Board" tvg-logo="https://archive.org/download/bed-and-board/format=Thumbnail" tvg-language="fra",Bed And Board (1970)
-https://archive.org/download/bed-and-board/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="stolen-kisses" tvg-name="Stolen Kisses" tvg-logo="https://archive.org/download/stolen-kisses/format=Thumbnail" tvg-language="fra",Stolen Kisses (1968)
 https://archive.org/download/stolen-kisses/format=h.264
-#EXTINF:-1 group-title="Feature films" tvg-id="antoione-and-collette" tvg-name="Antoione And Collette" tvg-logo="https://archive.org/download/antoione-and-collette/format=Thumbnail" tvg-language="fra",Antoione And Collette (1962)
-https://archive.org/download/antoione-and-collette/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="the-400-blows" tvg-name="The 400 Blows" tvg-logo="https://archive.org/download/the-400-blows/format=Thumbnail" tvg-language="fra",The 400 Blows (1959)
 https://archive.org/download/the-400-blows/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="un-soir-de-rafle-1931" tvg-name="Un soir de rafle (1931)" tvg-logo="https://archive.org/download/un-soir-de-rafle-1931/format=Thumbnail" tvg-language="fra",Un soir de rafle (1931)
@@ -179,8 +175,6 @@ https://archive.org/download/blaise-pascal_202104/format=h.264
 https://archive.org/download/white-mane/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="mayerling_202103" tvg-name="Mayerling" tvg-logo="https://archive.org/download/mayerling_202103/format=Thumbnail" tvg-language="fra",Mayerling (1936)
 https://archive.org/download/mayerling_202103/format=h.264
-#EXTINF:-1 group-title="Feature films" tvg-id="nickel-queen-1971" tvg-name="NICKEL QUEEN (1971)" tvg-logo="https://archive.org/download/nickel-queen-1971/format=Thumbnail" tvg-language="fra",NICKEL QUEEN (1971)
-https://archive.org/download/nickel-queen-1971/format=h.264
 #EXTINF:-1 group-title="Film Noir" tvg-id="coplan-prend-des-risques-1964" tvg-name="Coplan Prend Des Risques - 1964" tvg-logo="https://archive.org/download/coplan-prend-des-risques-1964/format=Thumbnail" tvg-language="fra",Coplan Prend Des Risques - 1964
 https://archive.org/download/coplan-prend-des-risques-1964/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-when-paris-loves" tvg-name="When Paris Loves" tvg-logo="https://archive.org/download/silent-when-paris-loves/format=Thumbnail" tvg-language="fra" channel-id="tt0442591",When Paris Loves (1913)
@@ -437,8 +431,6 @@ https://archive.org/download/LaSortieDeLUsineLumireLyon/format=MPEG4
 https://archive.org/download/AncreSegundoDeChomonViajeAJupiter/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="ptp_coster-bill-of-paris_jacques-feyder_dvd_xvid_avi_640x480_220379" tvg-name="Coster Bill of Paris / DVD / XviD / AVI / 640x480" tvg-logo="https://archive.org/download/ptp_coster-bill-of-paris_jacques-feyder_dvd_xvid_avi_640x480_220379/format=Thumbnail" tvg-language="fra" channel-id="tt0013033",Coster Bill of Paris / DVD / XviD / AVI / 640x480 (1923)
 https://archive.org/download/ptp_coster-bill-of-paris_jacques-feyder_dvd_xvid_avi_640x480_220379/format=h.264
-#EXTINF:-1 group-title="Feature films" tvg-id="ptp_the-wheel_abel-gance_dvd_dvd9_vob-ifo_ntsc_145478" tvg-name="The Wheel / DVD / DVD9 / VOB IFO / NTSC" tvg-logo="https://archive.org/download/ptp_the-wheel_abel-gance_dvd_dvd9_vob-ifo_ntsc_145478/format=Thumbnail" tvg-language="fra" channel-id="tt0014417",The Wheel / DVD / DVD9 / VOB IFO / NTSC (1923)
-https://archive.org/download/ptp_the-wheel_abel-gance_dvd_dvd9_vob-ifo_ntsc_145478/format=h.264
 #EXTINF:-1 group-title="Film Noir" tvg-id="NoirsDeFrance3319752011.LeTempsDesPassions2011" tvg-name="Noirs De France 3/3 - 1975 2011. Le Temps Des Passions (2011)" tvg-logo="https://archive.org/download/NoirsDeFrance3319752011.LeTempsDesPassions2011/format=Thumbnail" tvg-language="fra",Noirs De France 3/3 - 1975 2011. Le Temps Des Passions (2011)
 https://archive.org/download/NoirsDeFrance3319752011.LeTempsDesPassions2011/format=MPEG4
 #EXTINF:-1 group-title="Georgesmelies" tvg-id="1912GeorgesMeliesALaConqueteDuPoleConquestOfTheNorthPole" tvg-name="À La Conquête Du Pôle" tvg-logo="https://archive.org/download/1912GeorgesMeliesALaConqueteDuPoleConquestOfTheNorthPole/format=Thumbnail" tvg-language="fra",À La Conquête Du Pôle (1912)
