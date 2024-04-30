@@ -97,12 +97,6 @@ https://archive.org/download/la-chauve-souris-du-diable/format=MPEG4
 https://archive.org/download/02_20210929_202109/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="cleo-de-5-as-7-1962" tvg-name="Cléo das 5 às 7 (1962)" tvg-logo="https://archive.org/download/cleo-de-5-as-7-1962/format=Thumbnail" tvg-language="fra",Cléo das 5 às 7 (1962)
 https://archive.org/download/cleo-de-5-as-7-1962/format=MPEG4
-#EXTINF:-1 group-title="Feature films" tvg-id="stolen.-kisses.-1968.-francois.-truffaut.-1080p.-brrip.x-264-classics" tvg-name="Baisers volés (1968) Beijos Proibidos" tvg-logo="https://archive.org/download/stolen.-kisses.-1968.-francois.-truffaut.-1080p.-brrip.x-264-classics/format=Thumbnail" tvg-language="fra",Baisers volés (1968)
-https://archive.org/download/stolen.-kisses.-1968.-francois.-truffaut.-1080p.-brrip.x-264-classics/format=h.264
-#EXTINF:-1 group-title="Feature films" tvg-id="antoine-et-colette-1962" tvg-name="Antoine et Colette (1962) Antoine e Colette" tvg-logo="https://archive.org/download/antoine-et-colette-1962/format=Thumbnail" tvg-language="fra",Antoine et Colette (1962)
-https://archive.org/download/antoine-et-colette-1962/format=h.264
-#EXTINF:-1 group-title="Feature films" tvg-id="les-quatre-cents-coups-1959_202109" tvg-name="Les quatre cents coups (1959) Os Incompreendidos" tvg-logo="https://archive.org/download/les-quatre-cents-coups-1959_202109/format=Thumbnail" tvg-language="fra",Les quatre cents coups (1959)
-https://archive.org/download/les-quatre-cents-coups-1959_202109/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="mon-oncle-1958-720p" tvg-name="Mon Oncle (1958) O Meu Tio" tvg-logo="https://archive.org/download/mon-oncle-1958-720p/format=Thumbnail" tvg-language="fra",Mon Oncle (1958)
 https://archive.org/download/mon-oncle-1958-720p/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="the.young.girls.turn.25.1993" tvg-name="Les Demoiselles ont eu 25 ans (1993) The Young Girls Turn 25" tvg-logo="https://archive.org/download/the.young.girls.turn.25.1993/format=Thumbnail" tvg-language="fra",Les Demoiselles ont eu 25 ans (1993)
@@ -141,10 +135,6 @@ https://archive.org/download/gia-dimanche/format=h.264
 https://archive.org/download/degustation-maison/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="cours-du-soir" tvg-name="Cours Du Soir" tvg-logo="https://archive.org/download/cours-du-soir/format=Thumbnail" tvg-language="fra",Cours Du Soir (1967)
 https://archive.org/download/cours-du-soir/format=h.264
-#EXTINF:-1 group-title="Feature films" tvg-id="stolen-kisses" tvg-name="Stolen Kisses" tvg-logo="https://archive.org/download/stolen-kisses/format=Thumbnail" tvg-language="fra",Stolen Kisses (1968)
-https://archive.org/download/stolen-kisses/format=h.264
-#EXTINF:-1 group-title="Feature films" tvg-id="the-400-blows" tvg-name="The 400 Blows" tvg-logo="https://archive.org/download/the-400-blows/format=Thumbnail" tvg-language="fra",The 400 Blows (1959)
-https://archive.org/download/the-400-blows/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="un-soir-de-rafle-1931" tvg-name="Un soir de rafle (1931)" tvg-logo="https://archive.org/download/un-soir-de-rafle-1931/format=Thumbnail" tvg-language="fra",Un soir de rafle (1931)
 https://archive.org/download/un-soir-de-rafle-1931/format=MPEG4
 #EXTINF:-1 group-title="Film Noir" tvg-id="lenfant-sur-la-barricade" tvg-name="L'enfant sur la barricade" tvg-logo="https://archive.org/download/lenfant-sur-la-barricade/format=Thumbnail" tvg-language="fra",L'enfant sur la barricade (1906)
