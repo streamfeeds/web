@@ -1,4 +1,6 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Feature films" tvg-id="lanneedesmeduses" tvg-name="L'Année des méduses" tvg-logo="https://archive.org/download/lanneedesmeduses/format=Thumbnail" tvg-language="fra",L'Année des méduses (1984)
+https://archive.org/download/lanneedesmeduses/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="verdun-visions-dhistoire_1928" tvg-name="Verdun‚ visions d'histoire" tvg-logo="https://archive.org/download/verdun-visions-dhistoire_1928/format=Thumbnail" tvg-language="fra",Verdun‚ visions d'histoire (1928)
 https://archive.org/download/verdun-visions-dhistoire_1928/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="une-femme-a-passe_1928" tvg-name="Une femme a passé" tvg-logo="https://archive.org/download/une-femme-a-passe_1928/format=Thumbnail" tvg-language="fra",Une femme a passé (1928)
@@ -17,6 +19,10 @@ https://archive.org/download/the-horse-ate-the-hat_1928/format=MPEG4
 https://archive.org/download/mother-of-mine_1928/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="le-mystere-de-la-tour-eiffel_1928" tvg-name="Le mystère de la tour Eiffel" tvg-logo="https://archive.org/download/le-mystere-de-la-tour-eiffel_1928/format=Thumbnail" tvg-language="fra",Le mystère de la tour Eiffel (1928)
 https://archive.org/download/le-mystere-de-la-tour-eiffel_1928/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="les-novices-libertines" tvg-name="Les Novices libertines" tvg-logo="https://archive.org/download/les-novices-libertines/format=Thumbnail" tvg-language="fra",Les Novices libertines (1980)
+https://archive.org/download/les-novices-libertines/format=h.264
+#EXTINF:-1 group-title="Feature films" tvg-id="la-dentelliere" tvg-name="La Dentellière" tvg-logo="https://archive.org/download/la-dentelliere/format=Thumbnail" tvg-language="fra",La Dentellière (1977)
+https://archive.org/download/la-dentelliere/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="rififi-1955-colorized-movie-720p-hd" tvg-name="Rififi - Du rififi chez les hommes (restored‚ colorized‚ Eng sub) (1955‚ crime‚ imdb score: 8.1)" tvg-logo="https://archive.org/download/rififi-1955-colorized-movie-720p-hd/format=Thumbnail" tvg-language="fra",Rififi - Du rififi chez les hommes (restored‚ colorized‚ Eng sub) (1955)
 https://archive.org/download/rififi-1955-colorized-movie-720p-hd/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="eyes-without-a-face-1960-colorized-movie-720p-hd" tvg-name="Eyes Without a Face - Les yeux sans visage (restored‚ colorized‚ uncut‚ Eng dub) (1960‚ France‚ horror‚ imdb score: 7.7)" tvg-logo="https://archive.org/download/eyes-without-a-face-1960-colorized-movie-720p-hd/format=Thumbnail" tvg-language="fra",Eyes Without a Face - Les yeux sans visage (restored‚ colorized‚ uncut‚ Eng dub) (1960)
