@@ -251,6 +251,8 @@ https://archive.org/download/1966OttoPienesAtelierfest/format=MPEG4
 https://archive.org/download/2018LaBelleHistoireDamour/format=MPEG4
 #EXTINF:-1 group-title="German cinema" tvg-id="2017SteuererklrungLutzMommartz" tvg-name="2017 Steuererklaerung Lutz Mommartz" tvg-logo="https://archive.org/download/2017SteuererklrungLutzMommartz/format=Thumbnail" tvg-language="deu",2017 Steuererklaerung Lutz Mommartz
 https://archive.org/download/2017SteuererklrungLutzMommartz/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="1933SchleppzugM17WernerHochbaumWithEnglishSubtitles" tvg-name="1933 Schleppzug M 17 (Werner Hochbaum)" tvg-logo="https://archive.org/download/1933SchleppzugM17WernerHochbaumWithEnglishSubtitles/format=Thumbnail" tvg-language="deu",1933 Schleppzug M 17 (Werner Hochbaum)
+https://archive.org/download/1933SchleppzugM17WernerHochbaumWithEnglishSubtitles/format=h.264
 #EXTINF:-1 group-title="German cinema" tvg-id="1975AlswarsvonBeckettOUT_201707" tvg-name="1975 Als wär´s von Beckett (No Subtitel)" tvg-logo="https://archive.org/download/1975AlswarsvonBeckettOUT_201707/format=Thumbnail" tvg-language="deu",1975 Als wär´s von Beckett (No Subtitel)
 https://archive.org/download/1975AlswarsvonBeckettOUT_201707/format=MPEG4
 #EXTINF:-1 group-title="German cinema" tvg-id="MargretsFilm_201707" tvg-name="Margrets Film (No Subtitel)" tvg-logo="https://archive.org/download/MargretsFilm_201707/format=Thumbnail" tvg-language="deu",Margrets Film (No Subtitel) (2007)
