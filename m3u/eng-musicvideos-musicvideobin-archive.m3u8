@@ -4857,6 +4857,8 @@ https://archive.org/download/Liquid_TV_S01E05_S01E06_MTV_NO-WOC_Tape/format=h.26
 https://archive.org/download/Entertainment_Weekly_It_List_MTV_WOC_2003-06/format=h.264
 #EXTINF:-1 group-title="Musictelevision" tvg-id="NirvanaUnpluggedVHSPremiere" tvg-logo="https://archive.org/download/NirvanaUnpluggedVHSPremiere/format=Thumbnail",The TV Premiere of Nirvana's MTV Unplugged Performance (VHS Rip)
 https://archive.org/download/NirvanaUnpluggedVHSPremiere/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="AlientAntFarmSmoothCriminal" tvg-logo="https://archive.org/download/AlientAntFarmSmoothCriminal/format=Thumbnail",Alient Ant Farm - Smooth Criminal
+https://archive.org/download/AlientAntFarmSmoothCriminal/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="AlabamaAngelsAmongUs" tvg-logo="https://archive.org/download/AlabamaAngelsAmongUs/format=Thumbnail",Alabama - Angels Among Us
 https://archive.org/download/AlabamaAngelsAmongUs/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="AgentsOfGoodRootsComeOn" tvg-logo="https://archive.org/download/AgentsOfGoodRootsComeOn/format=Thumbnail",Agents Of Good Roots - Come On
@@ -7367,10 +7369,10 @@ https://archive.org/download/Samantha_Fox_True_Devotion/format=h.264
 https://archive.org/download/Enya-On_My_Way_Home_dvd-2nafish/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Samantha_Fox_Nothings_Gonna_Stop_Me_Now" tvg-logo="https://archive.org/download/Samantha_Fox_Nothings_Gonna_Stop_Me_Now/format=Thumbnail",Samantha Fox Nothing's Gonna Stop Me Now
 https://archive.org/download/Samantha_Fox_Nothings_Gonna_Stop_Me_Now/format=h.264
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="Enya_Orinoco_Flow_Sail_Away_svcd" tvg-logo="https://archive.org/download/Enya_Orinoco_Flow_Sail_Away_svcd/format=Thumbnail",Enya Orinoco Flow Sail Away (svcd)
-https://archive.org/download/Enya_Orinoco_Flow_Sail_Away_svcd/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Samantha_Fox_I_Surrender" tvg-logo="https://archive.org/download/Samantha_Fox_I_Surrender/format=Thumbnail",Samantha Fox I Surrender
 https://archive.org/download/Samantha_Fox_I_Surrender/format=h.264
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Enya_Orinoco_Flow_Sail_Away_svcd" tvg-logo="https://archive.org/download/Enya_Orinoco_Flow_Sail_Away_svcd/format=Thumbnail",Enya Orinoco Flow Sail Away (svcd)
+https://archive.org/download/Enya_Orinoco_Flow_Sail_Away_svcd/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Enya_Its_In_The_Rain_WMA_2006" tvg-logo="https://archive.org/download/Enya_Its_In_The_Rain_WMA_2006/format=Thumbnail",Enya It's In The Rain (WMA 2006)
 https://archive.org/download/Enya_Its_In_The_Rain_WMA_2006/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Samantha_Fox_I_Promise_You" tvg-logo="https://archive.org/download/Samantha_Fox_I_Promise_You/format=Thumbnail",Samantha Fox I Promise You
