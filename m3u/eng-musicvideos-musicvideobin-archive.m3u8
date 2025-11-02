@@ -1,38 +1,128 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-asia-30" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-asia-30/format=Thumbnail",Tác phẩm nghệ thuật Asia 30
+https://archive.org/download/tac-pham-nghe-thuat-asia-30/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-asia-22" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-asia-22/format=Thumbnail",Tác phẩm nghệ thuật Asia 22
+https://archive.org/download/tac-pham-nghe-thuat-asia-22/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="hai-kich-anh-chang-dai-gai-vi-tinh_bao-quoc-kieu-mai-ly-hong-loan-hoang-phuc" tvg-logo="https://archive.org/download/hai-kich-anh-chang-dai-gai-vi-tinh_bao-quoc-kieu-mai-ly-hong-loan-hoang-phuc/format=Thumbnail",Hài Kịch VÌ TÌNH (Anh Chàng Dại Gái): Bảo Quốc‚ Kiều Mai Lý‚ Hồng Loan‚ Hoàng Phúc
+https://archive.org/download/hai-kich-anh-chang-dai-gai-vi-tinh_bao-quoc-kieu-mai-ly-hong-loan-hoang-phuc/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="squizur_boom_videoclips_vob_and_other" tvg-logo="https://archive.org/download/squizur_boom_videoclips_vob_and_other/format=Thumbnail",Squizur Boom Music Videos / VideoClips
 https://archive.org/download/squizur_boom_videoclips_vob_and_other/format=h.264
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-anh-ta-i-video-5" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-anh-ta-i-video-5/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong ANH TÀI VIDEO 5
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-anh-ta-i-video-5/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-paris-by-night-44" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-44/format=Thumbnail",Tác phẩm nghệ thuật Paris By Night 44
+https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-44/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="golden-book-music-video-songs-from-mother-goose-1987" tvg-logo="https://archive.org/download/golden-book-music-video-songs-from-mother-goose-1987/format=Thumbnail",Golden Book Music Video: Songs from Mother Goose (1987)
 https://archive.org/download/golden-book-music-video-songs-from-mother-goose-1987/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="golden-book-music-video-sing-giggle-grin-1986" tvg-logo="https://archive.org/download/golden-book-music-video-sing-giggle-grin-1986/format=Thumbnail",Golden Book Music Video: Sing‚ Giggle & Grin (1986)
 https://archive.org/download/golden-book-music-video-sing-giggle-grin-1986/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-van-son-12_vien-tham-my-bich-ngoc" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-van-son-12_vien-tham-my-bich-ngoc/format=Thumbnail",Tác phẩm nghệ thuật Vân Sơn 12 & VIỆN THẨM MỸ BÍCH NGỌC
+https://archive.org/download/tac-pham-nghe-thuat-van-son-12_vien-tham-my-bich-ngoc/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-28" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-28/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong PARIS BY NIGHT 28
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-28/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-36" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-36/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong PARIS BY NIGHT 36
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-36/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-35" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-35/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong PARIS BY NIGHT 35
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-35/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-kha-nh-ha-video-6" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-kha-nh-ha-video-6/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong KHÁNH HÀ VIDEO 6
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-kha-nh-ha-video-6/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-26-vhs-version" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-26-vhs-version/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong VÂN SƠN 26 (VHS Version)
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-26-vhs-version/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-25-vhs-version" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-25-vhs-version/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong VÂN SƠN 25 (VHS Version)
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-25-vhs-version/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-van-son-25" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-van-son-25/format=Thumbnail",Tác phẩm nghệ thuật Vân Sơn 25
+https://archive.org/download/tac-pham-nghe-thuat-van-son-25/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-truo-ng-thanh-4" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-truo-ng-thanh-4/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong TRƯỜNG THANH 4
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-truo-ng-thanh-4/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-29" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-29/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong PARIS BY NIGHT 29
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-29/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-27" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-27/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong PARIS BY NIGHT 27
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-27/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-26" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-26/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong PARIS BY NIGHT 26
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-26/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-20" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-20/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong PARIS BY NIGHT 20
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-20/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-paris-by-night-22" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-22/format=Thumbnail",Tác phẩm nghệ thuật Paris By Night 22
+https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-22/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-hoc-danh-van-2" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-hoc-danh-van-2/format=Thumbnail",Tác phẩm nghệ thuật Học Đánh Vần 2
+https://archive.org/download/tac-pham-nghe-thuat-hoc-danh-van-2/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="ca-nha-c-que-huo-ng-ti-nh-ye-u-tuo-i-tre-2" tvg-logo="https://archive.org/download/ca-nha-c-que-huo-ng-ti-nh-ye-u-tuo-i-tre-2/format=Thumbnail",CA NHẠC QUÊ HƯƠNG TÌNH YÊU & TUỔI TRẺ 2 (FULL)
 https://archive.org/download/ca-nha-c-que-huo-ng-ti-nh-ye-u-tuo-i-tre-2/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="ca-nha-c-que-huo-ng-ti-nh-ye-u-tuo-i-tre-3" tvg-logo="https://archive.org/download/ca-nha-c-que-huo-ng-ti-nh-ye-u-tuo-i-tre-3/format=Thumbnail",CA NHẠC QUÊ HƯƠNG TÌNH YÊU & TUỔI TRẺ 3 (FULL)
 https://archive.org/download/ca-nha-c-que-huo-ng-ti-nh-ye-u-tuo-i-tre-3/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-ca-dao-productions-1994" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-ca-dao-productions-1994/format=Thumbnail",Tác phẩm nghệ thuật Ca Dao Productions (1994)
+https://archive.org/download/tac-pham-nghe-thuat-ca-dao-productions-1994/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="vhs-companies-from-the-80s-95-music-video" tvg-logo="https://archive.org/download/vhs-companies-from-the-80s-95-music-video/format=Thumbnail",Music Video Logo
 https://archive.org/download/vhs-companies-from-the-80s-95-music-video/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-thanh-trang-music" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-thanh-trang-music/format=Thumbnail",Tác phẩm nghệ thuật Thanh Trang Music
+https://archive.org/download/tac-pham-nghe-thuat-thanh-trang-music/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-gia-ng-ngo-c-music-video-1" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-gia-ng-ngo-c-music-video-1/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong GIÁNG NGỌC MUSIC VIDEO 1
 https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-gia-ng-ngo-c-music-video-1/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="jesus-and-mary-chain-my-vhsrip" tvg-logo="https://archive.org/download/jesus-and-mary-chain-my-vhsrip/format=Thumbnail",Jesus and Mary Chain - Videos 1985 to 1989
 https://archive.org/download/jesus-and-mary-chain-my-vhsrip/format=h.264
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-paris-by-night-25" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-25/format=Thumbnail",Tác phẩm nghệ thuật Paris By Night 25
+https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-25/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-paris-by-night-28" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-28/format=Thumbnail",Tác phẩm nghệ thuật Paris By Night 28
+https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-28/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-paris-by-night-31-40" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-31-40/format=Thumbnail",Tác phẩm nghệ thuật Paris By Night 31 - 40
+https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-31-40/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-asia-31" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-asia-31/format=Thumbnail",Tác phẩm nghệ thuật Asia 31
+https://archive.org/download/tac-pham-nghe-thuat-asia-31/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-truong-hai" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-truong-hai/format=Thumbnail",Tác phẩm nghệ thuật Trường Hải
+https://archive.org/download/tac-pham-nghe-thuat-truong-hai/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="beastie-boys-sabotage-1994" tvg-logo="https://archive.org/download/beastie-boys-sabotage-1994/format=Thumbnail",Beastie Boys: Sabotage (1994)
 https://archive.org/download/beastie-boys-sabotage-1994/format=MPEG4
 #EXTINF:-1 group-title="Borisbvideos" tvg-id="47-seconds" tvg-logo="https://archive.org/download/47-seconds/format=Thumbnail",47 Seconds
 https://archive.org/download/47-seconds/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-nha-t-thu-y-video-1" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-nha-t-thu-y-video-1/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong NHẬT THỤY VIDEO 1
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-nha-t-thu-y-video-1/format=MPEG4
 #EXTINF:-1 group-title="Borisbvideos" tvg-id="borisb-the-silly-salmon-song" tvg-logo="https://archive.org/download/borisb-the-silly-salmon-song/format=Thumbnail",BorisB - The Silly Salmon Song
 https://archive.org/download/borisb-the-silly-salmon-song/format=MPEG4
 #EXTINF:-1 group-title="Borisbvideos" tvg-id="bootleggers-united-juke-box-boogie" tvg-logo="https://archive.org/download/bootleggers-united-juke-box-boogie/format=Thumbnail",Bootleggers United - Juke Box Boogie
 https://archive.org/download/bootleggers-united-juke-box-boogie/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-nang-ha-productions" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-nang-ha-productions/format=Thumbnail",Tác phẩm nghệ thuật Nắng Hạ Productions
+https://archive.org/download/tac-pham-nghe-thuat-nang-ha-productions/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-paris-by-night-6" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-6/format=Thumbnail",Tác phẩm nghệ thuật Paris By Night 6
+https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-6/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="creations-masterpiece" tvg-logo="https://archive.org/download/creations-masterpiece/format=Thumbnail",Creation's Masterpiece: Inspirational Music Video (1995) (VHS)
 https://archive.org/download/creations-masterpiece/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-giang-ngoc-2" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-giang-ngoc-2/format=Thumbnail",Tác phẩm nghệ thuật Giáng Ngọc 2
+https://archive.org/download/tac-pham-nghe-thuat-giang-ngoc-2/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-yeu-doi-productions" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-yeu-doi-productions/format=Thumbnail",Tác phẩm nghệ thuật Yêu Đời Productions
+https://archive.org/download/tac-pham-nghe-thuat-yeu-doi-productions/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="hai-kich-lu-bo-hi-d-ie-u-thuye-n-van-chung-giang-ngoc-ngoc-anh-bao-hien" tvg-logo="https://archive.org/download/hai-kich-lu-bo-hi-d-ie-u-thuye-n-van-chung-giang-ngoc-ngoc-anh-bao-hien/format=Thumbnail",Hài Kịch LỮ BỐ HÍ ĐIÊU THUYỀN: Văn Chung‚ Giáng Ngọc‚ Ngọc Anh‚ Bảo Hiền
+https://archive.org/download/hai-kich-lu-bo-hi-d-ie-u-thuye-n-van-chung-giang-ngoc-ngoc-anh-bao-hien/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="vhs-preview-hoa-i-linh-video-1" tvg-logo="https://archive.org/download/vhs-preview-hoa-i-linh-video-1/format=Thumbnail",VHS Preview: HOÀI LINH VIDEO 1
 https://archive.org/download/vhs-preview-hoa-i-linh-video-1/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-hoa-i-linh-video-1" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-hoa-i-linh-video-1/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong HOÀI LINH VIDEO 1
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-hoa-i-linh-video-1/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-the-gioi-nghe-thuat-entertainment" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-the-gioi-nghe-thuat-entertainment/format=Thumbnail",Tác phẩm nghệ thuật Thế Giới Nghệ Thuật Entertainment
+https://archive.org/download/tac-pham-nghe-thuat-the-gioi-nghe-thuat-entertainment/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-hoa-ng-thi-tho-mo-t-do-i-cho-nghe-thua-t" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-hoa-ng-thi-tho-mo-t-do-i-cho-nghe-thua-t/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong HOÀNG THI THƠ - MỘT ĐỜI CHO NGHỆ THUẬT
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-hoa-ng-thi-tho-mo-t-do-i-cho-nghe-thua-t/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="hai-kich-nam-vo-tu-u-nhu-ky-vo-phong-hoai-linh-chi-tai" tvg-logo="https://archive.org/download/hai-kich-nam-vo-tu-u-nhu-ky-vo-phong-hoai-linh-chi-tai/format=Thumbnail",Hài Kịch NAM VÔ TỬU NHƯ KỲ VÔ PHONG: Hoài Linh‚ Chí Tài
+https://archive.org/download/hai-kich-nam-vo-tu-u-nhu-ky-vo-phong-hoai-linh-chi-tai/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-the-he-tre-24" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-the-he-tre-24/format=Thumbnail",Tác phẩm nghệ thuật Thế Hệ Trẻ 24
+https://archive.org/download/tac-pham-nghe-thuat-the-he-tre-24/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-the-he-tre-48" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-the-he-tre-48/format=Thumbnail",Tác phẩm nghệ thuật Thế Hệ Trẻ 48
+https://archive.org/download/tac-pham-nghe-thuat-the-he-tre-48/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="hai-kich-ly-di-hoai-linh-chi-tai-my-trinh" tvg-logo="https://archive.org/download/hai-kich-ly-di-hoai-linh-chi-tai-my-trinh/format=Thumbnail",Hài Kịch LY DỊ: Hoài Linh‚ Chí Tài‚ Mỹ Trinh
+https://archive.org/download/hai-kich-ly-di-hoai-linh-chi-tai-my-trinh/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-hoa-i-linh-video-3" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-hoa-i-linh-video-3/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong HOÀI LINH VIDEO 3
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-hoa-i-linh-video-3/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-hoa-i-linh-video-2" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-hoa-i-linh-video-2/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong HOÀI LINH VIDEO 2
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-hoa-i-linh-video-2/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-new-york-night" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-new-york-night/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong NEW YORK NIGHT
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-new-york-night/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="hai-kich-co-hang-ga_nguyen-duong-thu-tuyet" tvg-logo="https://archive.org/download/hai-kich-co-hang-ga_nguyen-duong-thu-tuyet/format=Thumbnail",Hài Kịch CÔ HÀNG GÀ: Nguyễn Dương‚ Thu Tuyết
+https://archive.org/download/hai-kich-co-hang-ga_nguyen-duong-thu-tuyet/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="nine-inch-nails-the-day-the-world-went-away-official-video-2-k-upscale" tvg-logo="https://archive.org/download/nine-inch-nails-the-day-the-world-went-away-official-video-2-k-upscale/format=Thumbnail",Nine Inch Nails - The Day The World Went Away (Official Video) 2K Upscale
 https://archive.org/download/nine-inch-nails-the-day-the-world-went-away-official-video-2-k-upscale/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="20240727_20240727_1504" tvg-logo="https://archive.org/download/20240727_20240727_1504/format=Thumbnail",Утренняя звезда (ОРТ) (Фрагмент)
 https://archive.org/download/20240727_20240727_1504/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="reign-of-fire-tv-spot-mad-at-gravity-walk-away-music-video" tvg-logo="https://archive.org/download/reign-of-fire-tv-spot-mad-at-gravity-walk-away-music-video/format=Thumbnail",Reign Of Fire TV Spot & Mad At Gravity Walk Away Music Video
 https://archive.org/download/reign-of-fire-tv-spot-mad-at-gravity-walk-away-music-video/format=h.264
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="hai-kich-tai-tu-tu-hollywood-toi-little-saigon" tvg-logo="https://archive.org/download/hai-kich-tai-tu-tu-hollywood-toi-little-saigon/format=Thumbnail",Hài Kịch TÀI TỬ TỪ HOLLYWOOD TỚI LITTLE SAIGON: Trần Thiện‚ Lan Ngọc‚ Út Mập
+https://archive.org/download/hai-kich-tai-tu-tu-hollywood-toi-little-saigon/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="ca-nha-c-ha-i-nghe-mu-a" tvg-logo="https://archive.org/download/ca-nha-c-ha-i-nghe-mu-a/format=Thumbnail",CA NHẠC HÀI TÂY ĐÔ 1 - NGHE MƯA (FULL)
 https://archive.org/download/ca-nha-c-ha-i-nghe-mu-a/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="96_20240626" tvg-logo="https://archive.org/download/96_20240626/format=Thumbnail",Песня 96 (Фрагмент) (ОРТ)
@@ -43,6 +133,8 @@ https://archive.org/download/auf-der-maur-concerto-1-maggio-rome-2004/format=MPE
 https://archive.org/download/95_20240620/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="rage-20130413-jim-kerr" tvg-logo="https://archive.org/download/rage-20130413-jim-kerr/format=Thumbnail",rage - Jim Kerr from Simple Minds guest programming (13/04/2013)
 https://archive.org/download/rage-20130413-jim-kerr/format=h.264
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-rainbow" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-rainbow/format=Thumbnail",Tác phẩm nghệ thuật Rainbow Entertainment
+https://archive.org/download/tac-pham-nghe-thuat-rainbow/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="952-the-he-tre-classics-hat-len-tuoi-tho-1-full-hien-thuc-quang-vinh-va-cac-thie" tvg-logo="https://archive.org/download/952-the-he-tre-classics-hat-len-tuoi-tho-1-full-hien-thuc-quang-vinh-va-cac-thie/format=Thumbnail",Bà Tiên & Chú Thơ - Nhã Ý Chung Tử Lưu (DVD Ca Nhạc Thế Hệ Trẻ #8)
 https://archive.org/download/952-the-he-tre-classics-hat-len-tuoi-tho-1-full-hien-thuc-quang-vinh-va-cac-thie/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="943-dvd-xuan-mai-5-you-tube-google-chrome-2024-05-22-18-03-04" tvg-logo="https://archive.org/download/943-dvd-xuan-mai-5-you-tube-google-chrome-2024-05-22-18-03-04/format=Thumbnail",Vừa Học Vừa Chơi Phần 2 - Phần 3 Hát Bài Lời Cháo Buổi Sáng - Giá Luật (DVD Ca Nhạc Thế Hệ Trẻ Xuân Mai #5)
@@ -51,14 +143,24 @@ https://archive.org/download/943-dvd-xuan-mai-5-you-tube-google-chrome-2024-05-2
 https://archive.org/download/921-dvd-xuan-mai-5-you-tube-google-chrome-2024-05-22-15-33-07/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="914-dvd-xuan-mai-5-you-tube-google-chrome-2024-05-22-15-09-47" tvg-logo="https://archive.org/download/914-dvd-xuan-mai-5-you-tube-google-chrome-2024-05-22-15-09-47/format=Thumbnail",Liên Khúc Chu Mèo Là Bạn Em - Hợp Ca (Music Video)
 https://archive.org/download/914-dvd-xuan-mai-5-you-tube-google-chrome-2024-05-22-15-09-47/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="hai-kich-ke-hoa-ch-nguyen-duong-thu-tuyet-nguyen-sanh" tvg-logo="https://archive.org/download/hai-kich-ke-hoa-ch-nguyen-duong-thu-tuyet-nguyen-sanh/format=Thumbnail",Hài Kịch KẾ HOẠCH: Nguyễn Dương‚ Thu Tuyết‚ Nguyễn Sanh
+https://archive.org/download/hai-kich-ke-hoa-ch-nguyen-duong-thu-tuyet-nguyen-sanh/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="valentine-la-suong-suong" tvg-logo="https://archive.org/download/valentine-la-suong-suong/format=Thumbnail",VALENTINE: La Sương Sương
 https://archive.org/download/valentine-la-suong-suong/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="hai-kich-chuye-n-ti-nh-titanic-hong-van-bao-chung-hong-to" tvg-logo="https://archive.org/download/hai-kich-chuye-n-ti-nh-titanic-hong-van-bao-chung-hong-to/format=Thumbnail",Hài Kịch CHUYỆN TÌNH TITANIC: Hồng Vân‚ Bảo Chung‚ Hồng Tơ
+https://archive.org/download/hai-kich-chuye-n-ti-nh-titanic-hong-van-bao-chung-hong-to/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-new-castle-love-music" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-new-castle-love-music/format=Thumbnail",Tác phẩm nghệ thuật New Castle & Love Music
+https://archive.org/download/tac-pham-nghe-thuat-new-castle-love-music/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="concerto-voci-per-amnesty-antonello-venditti-simple-minds-khaled-18-feb-1998" tvg-logo="https://archive.org/download/concerto-voci-per-amnesty-antonello-venditti-simple-minds-khaled-18-feb-1998/format=Thumbnail",Concerto Voci Libere per Amnesty International - Antonello Venditti Simple Minds Khaled 18 febbraio 1998
 https://archive.org/download/concerto-voci-per-amnesty-antonello-venditti-simple-minds-khaled-18-feb-1998/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="sequenza-videoclip-mtv-chillout-zone-rete-a-2001" tvg-logo="https://archive.org/download/sequenza-videoclip-mtv-chillout-zone-rete-a-2001/format=Thumbnail",Sequenza Videoclip MTV Chillout Zone - Rete A 2001
 https://archive.org/download/sequenza-videoclip-mtv-chillout-zone-rete-a-2001/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-ho-i-ngo-tru-ng-duo-ng" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-ho-i-ngo-tru-ng-duo-ng/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong HỘI NGỘ TRÙNG DƯƠNG
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-ho-i-ngo-tru-ng-duo-ng/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="vhs-14_202404" tvg-logo="https://archive.org/download/vhs-14_202404/format=Thumbnail",Сборник клипов VHS (Зарубежка РЕН-ТВ) #14
 https://archive.org/download/vhs-14_202404/format=h.264
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-ca-dao-productions" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-ca-dao-productions/format=Thumbnail",Tác phẩm nghệ thuật Ca Dao Productions & Vina Video
+https://archive.org/download/tac-pham-nghe-thuat-ca-dao-productions/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="wayne-lammers-i-must-be-parisian-1995" tvg-logo="https://archive.org/download/wayne-lammers-i-must-be-parisian-1995/format=Thumbnail",Wayne Lammers - I Must Be Parisian (1995)
 https://archive.org/download/wayne-lammers-i-must-be-parisian-1995/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="wayne-lammers-grandpas-artificial-hearts-club-band-1995" tvg-logo="https://archive.org/download/wayne-lammers-grandpas-artificial-hearts-club-band-1995/format=Thumbnail",Wayne Lammers - Grandpa's Artificial Hearts Club Band (1995)
@@ -79,8 +181,12 @@ https://archive.org/download/ygbk-channel-10-parkdale-toronto-1990s-swealtering-
 https://archive.org/download/opening-and-closing-to-walt-disney-masterpiece-collection-the-little-mermaid-1998-vhs/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="concerto-di-nina-simone-festival-internazionale-di-jazz-citta-di-pompei-1983" tvg-logo="https://archive.org/download/concerto-di-nina-simone-festival-internazionale-di-jazz-citta-di-pompei-1983/format=Thumbnail",Concerto di Nina Simone - Festival Internazionale di jazz Città di Pompei 1983
 https://archive.org/download/concerto-di-nina-simone-festival-internazionale-di-jazz-citta-di-pompei-1983/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-vnvn-3" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-vnvn-3/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong VNVN 3
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-vnvn-3/format=MPEG4
 #EXTINF:-1 group-title="Borisbvideos" tvg-id="totom-subterranean-time-warp-blues" tvg-logo="https://archive.org/download/totom-subterranean-time-warp-blues/format=Thumbnail",ToToM - Subterranean Time Warp Blues (Bob Dylan & Rocky Horror Picture Show)
 https://archive.org/download/totom-subterranean-time-warp-blues/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-bien-nho-entertaiment" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-bien-nho-entertaiment/format=Thumbnail",Tác phẩm nghệ thuật Biển Nhớ Entertainment
+https://archive.org/download/tac-pham-nghe-thuat-bien-nho-entertaiment/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="opening-and-closing-to-dr.-dolittle-2-2001-vhs" tvg-logo="https://archive.org/download/opening-and-closing-to-dr.-dolittle-2-2001-vhs/format=Thumbnail",Opening and Closing to Dr. Dolittle 2 - Special Edition 2001 VHS
 https://archive.org/download/opening-and-closing-to-dr.-dolittle-2-2001-vhs/format=MPEG4
 #EXTINF:-1 group-title="Borisbvideos" tvg-id="loo-placido-toop-toop-groove" tvg-logo="https://archive.org/download/loo-placido-toop-toop-groove/format=Thumbnail",Loo & Placido - Toop Toop Groove (VJ Brewski Video) - Madonna & Cassius
@@ -97,6 +203,8 @@ https://archive.org/download/dj-le-clown-this-town/format=MPEG4
 https://archive.org/download/untold-video-history/format=MPEG4
 #EXTINF:-1 group-title="Borisbvideos" tvg-id="dj-maxentropy-dont-phunk-with-my-fortunate-son-t-papke-video" tvg-logo="https://archive.org/download/dj-maxentropy-dont-phunk-with-my-fortunate-son-t-papke-video/format=Thumbnail",DJ MaxEntropy - Dont Phunk With My Fortunate Son (T Papke Video)
 https://archive.org/download/dj-maxentropy-dont-phunk-with-my-fortunate-son-t-papke-video/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-ti-nh-xua-n-6" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-ti-nh-xua-n-6/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong TÌNH XUÂN 6
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-ti-nh-xua-n-6/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="220-volt-love-is-all-you-need-pure-rock-japan" tvg-logo="https://archive.org/download/220-volt-love-is-all-you-need-pure-rock-japan/format=Thumbnail",220 Volt - Love Is All You Need (Pure Rock Japan)
 https://archive.org/download/220-volt-love-is-all-you-need-pure-rock-japan/format=h.264
 #EXTINF:-1 group-title="Borisbvideos" tvg-id="borisb-only-in-the-city" tvg-logo="https://archive.org/download/borisb-only-in-the-city/format=Thumbnail",BorisB - Only in the City (Animals / NIN / Herb Alpert)
@@ -141,6 +249,8 @@ https://archive.org/download/bangers-and-mash-blue-tribes-2/format=MPEG4
 https://archive.org/download/aggro1-beetroots-on-film/format=MPEG4
 #EXTINF:-1 group-title="Borisbvideos" tvg-id="simon-iddol-fake-boys-girls-with-black-gloves" tvg-logo="https://archive.org/download/simon-iddol-fake-boys-girls-with-black-gloves/format=Thumbnail",Simon Iddol - Fake Boys & Girls with Black Gloves (Goose & Tigarah)
 https://archive.org/download/simon-iddol-fake-boys-girls-with-black-gloves/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="hai-kich-cam-tu-cho-i-quang-minh-truc-lam-loan-chau" tvg-logo="https://archive.org/download/hai-kich-cam-tu-cho-i-quang-minh-truc-lam-loan-chau/format=Thumbnail",Hài Kịch Câm TƯ CHƠI: Quang Minh‚ Trúc Lam‚ Loan Châu
+https://archive.org/download/hai-kich-cam-tu-cho-i-quang-minh-truc-lam-loan-chau/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="xploshis-music-and-animation-collection-youtube" tvg-logo="https://archive.org/download/xploshis-music-and-animation-collection-youtube/format=Thumbnail",Xploshi's Music and Animation Collection (2020)
 https://archive.org/download/xploshis-music-and-animation-collection-youtube/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="opening-and-closing-to-wild-wild-west-1999-vhs" tvg-logo="https://archive.org/download/opening-and-closing-to-wild-wild-west-1999-vhs/format=Thumbnail",Opening and Closing to Wild Wild West 1999 VHS
@@ -151,26 +261,60 @@ https://archive.org/download/opening-and-closing-to-robin-hood-prince-of-thieves
 https://archive.org/download/ccc-3-mcs-4-mods-2023-remodel/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="opening-and-closing-to-casper-a-spirited-beginning-1997-vhs" tvg-logo="https://archive.org/download/opening-and-closing-to-casper-a-spirited-beginning-1997-vhs/format=Thumbnail",Opening and Closing to Casper: A Spirited Beginning 1997 VHS
 https://archive.org/download/opening-and-closing-to-casper-a-spirited-beginning-1997-vhs/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="hai-kich-hoa-hau-nuoc-mam_hong-van-minh-phuong-mai-thanh-dung_thanh-loc-huu-nghia-minh-nhi" tvg-logo="https://archive.org/download/hai-kich-hoa-hau-nuoc-mam_hong-van-minh-phuong-mai-thanh-dung_thanh-loc-huu-nghia-minh-nhi/format=Thumbnail",Hài Kịch HOA HẬU NƯỚC MẮM: Hồng Vân‚ Minh Phượng‚ Mai Thanh Dung‚ Thành Lộc‚ Hữu Nghĩa‚ Minh Nhí
+https://archive.org/download/hai-kich-hoa-hau-nuoc-mam_hong-van-minh-phuong-mai-thanh-dung_thanh-loc-huu-nghia-minh-nhi/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="hai-kich-gia-c-mo-nga-y-xua-n-mai-lan-trung-tin" tvg-logo="https://archive.org/download/hai-kich-gia-c-mo-nga-y-xua-n-mai-lan-trung-tin/format=Thumbnail",Hài Kịch: GIẤC MƠ NGÀY XUÂN: Mai Lan‚ Trung Tín
+https://archive.org/download/hai-kich-gia-c-mo-nga-y-xua-n-mai-lan-trung-tin/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="opening-and-closing-to-trainspotting-1996-vhs" tvg-logo="https://archive.org/download/opening-and-closing-to-trainspotting-1996-vhs/format=Thumbnail",Opening and Closing to Trainspotting 1996 VHS
 https://archive.org/download/opening-and-closing-to-trainspotting-1996-vhs/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-tinh-productions-3" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-tinh-productions-3/format=Thumbnail",Tác phẩm nghệ thuật Tình Music Entertainment
+https://archive.org/download/tac-pham-nghe-thuat-tinh-productions-3/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="db-generique-clip-hq" tvg-logo="https://archive.org/download/db-generique-clip-hq/format=Thumbnail",Dragon Ball (French dub) - Générique Clip
 https://archive.org/download/db-generique-clip-hq/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="hai-kich_danh-ghen-van-son-hoai-linh-hong-dao-minh-phuong_202307" tvg-logo="https://archive.org/download/hai-kich_danh-ghen-van-son-hoai-linh-hong-dao-minh-phuong_202307/format=Thumbnail",Hài Kịch ĐÁNH GHEN: Vân Sơn‚ Hoài Linh‚ Hồng Đào‚ Minh Phượng
+https://archive.org/download/hai-kich_danh-ghen-van-son-hoai-linh-hong-dao-minh-phuong_202307/format=h.264
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-paris-by-night-47" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-47/format=Thumbnail",Tác phẩm nghệ thuật Paris By Night 47
+https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-47/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-paris-by-night-48" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-48/format=Thumbnail",Tác phẩm nghệ thuật Paris By Night 48
+https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-48/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-van-son-11" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-van-son-11/format=Thumbnail",Tác phẩm nghệ thuật Vân Sơn 11
+https://archive.org/download/tac-pham-nghe-thuat-van-son-11/format=MPEG4
 #EXTINF:-1 group-title="Borisbvideos" tvg-id="left-handed-bastard-flash-against-the-music-2023-ai-remodel" tvg-logo="https://archive.org/download/left-handed-bastard-flash-against-the-music-2023-ai-remodel/format=Thumbnail",Left Handed Bastard - Flash Against The Music (Deep Dish‚ Britney Spears & Madonna)
 https://archive.org/download/left-handed-bastard-flash-against-the-music-2023-ai-remodel/format=MPEG4
 #EXTINF:-1 group-title="Borisbvideos" tvg-id="divide-kreate-fallen-rock-star" tvg-logo="https://archive.org/download/divide-kreate-fallen-rock-star/format=Thumbnail",Divide & Kreate - Fallen Rock Star (Poison & The Young Punx)
 https://archive.org/download/divide-kreate-fallen-rock-star/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-van-son-12" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-van-son-12/format=Thumbnail",Tác phẩm nghệ thuật Vân Sơn 12
+https://archive.org/download/tac-pham-nghe-thuat-van-son-12/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="endless-dvd" tvg-logo="https://archive.org/download/endless-dvd/format=Thumbnail",Endless (DVD) (ISO‚ MP4 & MKV)
 https://archive.org/download/endless-dvd/format=h.264
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-paris-by-night_44-45" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-paris-by-night_44-45/format=Thumbnail",Tác phẩm nghệ thuật Paris By Night 44 & 45
+https://archive.org/download/tac-pham-nghe-thuat-paris-by-night_44-45/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-paris-by-night-43" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-43/format=Thumbnail",Tác phẩm nghệ thuật Paris By Night 43
+https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-43/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-paris-by-night-42" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-42/format=Thumbnail",Tác phẩm nghệ thuật Paris By Night 42
+https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-42/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-paris-by-night-49-51" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-49-51/format=Thumbnail",Tác phẩm nghệ thuật Paris By Night 49 & 51
+https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-49-51/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-paris-by-night-46" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-46/format=Thumbnail",Tác phẩm nghệ thuật Paris By Night 46
+https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-46/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-paris-by-night-41" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-41/format=Thumbnail",Tác phẩm nghệ thuật Paris By Night 41
+https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-41/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="lady-gaga-applause-4k-prores-music-video" tvg-logo="https://archive.org/download/lady-gaga-applause-4k-prores-music-video/format=Thumbnail",Lady Gaga - Applause (4K ProRes Music Video)
 https://archive.org/download/lady-gaga-applause-4k-prores-music-video/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="lizzie-mc-guire-i-want-candy-by-aaron-carter-vhs-capture" tvg-logo="https://archive.org/download/lizzie-mc-guire-i-want-candy-by-aaron-carter-vhs-capture/format=Thumbnail",(Lizzie McGuire) 'I Want Candy' by Aaron Carter (VHS Capture)
 https://archive.org/download/lizzie-mc-guire-i-want-candy-by-aaron-carter-vhs-capture/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-nhat-truong-productions" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-nhat-truong-productions/format=Thumbnail",Tác phẩm nghệ thuật Nhật Trường Productions
+https://archive.org/download/tac-pham-nghe-thuat-nhat-truong-productions/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="analog-20230526-2132-a-a" tvg-logo="https://archive.org/download/analog-20230526-2132-a-a/format=Thumbnail",(1990 VHS) One Little Indian - Just Is
 https://archive.org/download/analog-20230526-2132-a-a/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="oingo-boingo-private-life-" tvg-logo="https://archive.org/download/oingo-boingo-private-life-/format=Thumbnail",Private Life by OIngo Boingo Music Video
 https://archive.org/download/oingo-boingo-private-life-/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-ha-i-minh-dvd-1" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-ha-i-minh-dvd-1/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong HẢI MINH DVD 1
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-ha-i-minh-dvd-1/format=MPEG4
 #EXTINF:-1 group-title="Borisbvideos" tvg-id="lobsterdust-shut-up-now" tvg-logo="https://archive.org/download/lobsterdust-shut-up-now/format=Thumbnail",Lobsterdust - Shut Up Now (Red Hot Chilli Peppers & Ting Tings)
 https://archive.org/download/lobsterdust-shut-up-now/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-may-productions" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-may-productions/format=Thumbnail",Tác phẩm nghệ thuật Mây Productions
+https://archive.org/download/tac-pham-nghe-thuat-may-productions/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="totp-22-12-2000-eminem-dido" tvg-logo="https://archive.org/download/totp-22-12-2000-eminem-dido/format=Thumbnail",Eminem and Dido 'Stan' Top of the Pops (December 22‚ 2000)
 https://archive.org/download/totp-22-12-2000-eminem-dido/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="totp-7-7-2000-eminem" tvg-logo="https://archive.org/download/totp-7-7-2000-eminem/format=Thumbnail",Eminem 'The Real Slim Shady' Top of the Pops (July 7‚ 2000)
@@ -193,6 +337,8 @@ https://archive.org/download/various-chrysalis-alternative-video-compilation/for
 https://archive.org/download/mandy-the-video-album/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="live-and-proud-sydney-world-pride-opening-concert-2023" tvg-logo="https://archive.org/download/live-and-proud-sydney-world-pride-opening-concert-2023/format=Thumbnail",Live And Proud Sydney World Pride Opening Concert 2023
 https://archive.org/download/live-and-proud-sydney-world-pride-opening-concert-2023/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-tren-kenh-vctv1-thang-1-2005" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-tren-kenh-vctv1-thang-1-2005/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trên Kênh VCTV1 (Tháng 1/2005)
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-tren-kenh-vctv1-thang-1-2005/format=MPEG4
 #EXTINF:-1 group-title="Borisbvideos" tvg-id="dunproofin-prince-a-boo" tvg-logo="https://archive.org/download/dunproofin-prince-a-boo/format=Thumbnail",Dunproofin' - Prince-A-Boo (Siouxsie & The Banshees & Prince)
 https://archive.org/download/dunproofin-prince-a-boo/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="suzy-bogguss-nobody-love-nobody-gets-hurt-including-video-clips-from-abc-cbs-pbs" tvg-logo="https://archive.org/download/suzy-bogguss-nobody-love-nobody-gets-hurt-including-video-clips-from-abc-cbs-pbs/format=Thumbnail",Suzy Bogguss - Nobody Love‚ Nobody Gets Hurt (Including Video Clips From ABC/CBS/PBS)
@@ -249,12 +395,18 @@ https://archive.org/download/draman_prisenhangcolinenitsinainupciusol/format=MPE
 https://archive.org/download/bernie-taupin-friend-of-the-flag/format=MPEG4
 #EXTINF:-1 group-title="Borisbvideos" tvg-id="envision_youre-beautiful-kings-queens" tvg-logo="https://archive.org/download/envision_youre-beautiful-kings-queens/format=Thumbnail",Envision - You're Beautiful Kings & Queens (30 Seconds to Mars & James Blunt)
 https://archive.org/download/envision_youre-beautiful-kings-queens/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-asia-20" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-asia-20/format=Thumbnail",Tác phẩm nghệ thuật Asia 20
+https://archive.org/download/tac-pham-nghe-thuat-asia-20/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="blister-in-the-sun-cd-audio" tvg-logo="https://archive.org/download/blister-in-the-sun-cd-audio/format=Thumbnail",Blister In The Sun (VHS 'music video')
 https://archive.org/download/blister-in-the-sun-cd-audio/format=h.264
 #EXTINF:-1 group-title="Borisbvideos" tvg-id="elbartoandliamb-im-too-sexy-for-the-wu" tvg-logo="https://archive.org/download/elbartoandliamb-im-too-sexy-for-the-wu/format=Thumbnail",El Barto & Liam B - I'm Too Sexy For The Wu (Right Said Fred & The Wu Tang Clan)
 https://archive.org/download/elbartoandliamb-im-too-sexy-for-the-wu/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-asia" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-asia/format=Thumbnail",Tác Phẩm Nghệ Thuật Asia Entertainment
+https://archive.org/download/tac-pham-nghe-thuat-asia/format=MPEG4
 #EXTINF:-1 group-title="Borisbvideos" tvg-id="looandplacido-was-not-tang" tvg-logo="https://archive.org/download/looandplacido-was-not-tang/format=Thumbnail",Loo & Placido - Was(Not Tang)
 https://archive.org/download/looandplacido-was-not-tang/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-9" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-9/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong VÂN SƠN 9
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-9/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="the-tragically-hip-heksenketel" tvg-logo="https://archive.org/download/the-tragically-hip-heksenketel/format=Thumbnail",The Tragically Hip - Heksenketel (VHS)
 https://archive.org/download/the-tragically-hip-heksenketel/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="joe-diffie-epk-texas-size-heartache-w-2-generic-liners" tvg-logo="https://archive.org/download/joe-diffie-epk-texas-size-heartache-w-2-generic-liners/format=Thumbnail",Joe Diffie - EPK & Texas Size Heartache W/ 2 Generic Liners
@@ -275,6 +427,8 @@ https://archive.org/download/shannon-brown-i-wont-lie-behind-the-scenes/format=M
 https://archive.org/download/dolly-parton-epk-and-just-when-i-neede-you-most/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="allen-ginsberg-with-paul-mc-cartney-philip-glass-lenny-kaye-ballad-of-the-skeletons" tvg-logo="https://archive.org/download/allen-ginsberg-with-paul-mc-cartney-philip-glass-lenny-kaye-ballad-of-the-skeletons/format=Thumbnail",Allen Ginsberg With Paul Mc Cartney‚ Philip Glass & Lenny Kaye - Ballad Of The Skeletons
 https://archive.org/download/allen-ginsberg-with-paul-mc-cartney-philip-glass-lenny-kaye-ballad-of-the-skeletons/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-da-i-ho-i-hoa-da-ng" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-da-i-ho-i-hoa-da-ng/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong ĐẠI HỘI HOA ĐĂNG
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-da-i-ho-i-hoa-da-ng/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="eminem-mtv-02" tvg-logo="https://archive.org/download/eminem-mtv-02/format=Thumbnail",Eminem 2002 MTV Interview
 https://archive.org/download/eminem-mtv-02/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="eminem-02-snippet" tvg-logo="https://archive.org/download/eminem-02-snippet/format=Thumbnail",Eminem Interview 2002 Access Hollywood
@@ -283,6 +437,8 @@ https://archive.org/download/eminem-02-snippet/format=MPEG4
 https://archive.org/download/celebrity-murder-party-two-timing-touch-stepping-stone/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="hey-original-mix" tvg-logo="https://archive.org/download/hey-original-mix/format=Thumbnail",Tima Tyurin_Hey (Original Mix)
 https://archive.org/download/hey-original-mix/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-paris-by-night-53" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-53/format=Thumbnail",Tác phẩm nghệ thuật Paris By Night 53
+https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-53/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="eminem-rapcity-00" tvg-logo="https://archive.org/download/eminem-rapcity-00/format=Thumbnail",2000 Eminem on BET's 'Rap City: Tha Bassment'
 https://archive.org/download/eminem-rapcity-00/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="2012-whitney-houston-a-grammy-salute-to-whitney-houston" tvg-logo="https://archive.org/download/2012-whitney-houston-a-grammy-salute-to-whitney-houston/format=Thumbnail",Whitney Houston_A Grammy Salute To Whitney Houston
@@ -299,6 +455,8 @@ https://archive.org/download/pilchard-jack-the-monkey/format=MPEG4
 https://archive.org/download/dj-max-entropy-what-ive-confused-vj-brewski-video/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="crying...-silicon-tears-2001" tvg-logo="https://archive.org/download/crying...-silicon-tears-2001/format=Thumbnail",Crying... Silicon Tears (2001)
 https://archive.org/download/crying...-silicon-tears-2001/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="hai-kich-coi-bo-i-co-ut-lo-thoi-vu-bao-la-thoai-tan-tuy-hong" tvg-logo="https://archive.org/download/hai-kich-coi-bo-i-co-ut-lo-thoi-vu-bao-la-thoai-tan-tuy-hong/format=Thumbnail",Hài Kịch COI BÓI (Cô Út Lỡ Thời): Vũ Bảo‚ La Thoại Tân‚ Túy Hồng
+https://archive.org/download/hai-kich-coi-bo-i-co-ut-lo-thoi-vu-bao-la-thoai-tan-tuy-hong/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="alannah-myleshitsinglescollection" tvg-logo="https://archive.org/download/alannah-myleshitsinglescollection/format=Thumbnail",Alannah Myles_Hit Singles Collection (Video Laserdisc)
 https://archive.org/download/alannah-myleshitsinglescollection/format=h.264
 #EXTINF:-1 group-title="Borisbvideos" tvg-id="dj-zebra-processed-ring-2022-ai-remaster" tvg-logo="https://archive.org/download/dj-zebra-processed-ring-2022-ai-remaster/format=Thumbnail",DJ Zebra - Processed Ring (De La Soul & Kasabian)
@@ -307,12 +465,36 @@ https://archive.org/download/dj-zebra-processed-ring-2022-ai-remaster/format=MPE
 https://archive.org/download/sam-brown-...-the-videos/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="vasika...-kalispera-sas-1982" tvg-logo="https://archive.org/download/vasika...-kalispera-sas-1982/format=Thumbnail",Vasiká... Kalispéra Sas (1982)
 https://archive.org/download/vasika...-kalispera-sas-1982/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-56-ver.-2" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-56-ver.-2/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong PARIS BY NIGHT 56 (Ver. 2)
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-56-ver.-2/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="the-greatest-hits-of-1990-1" tvg-logo="https://archive.org/download/the-greatest-hits-of-1990-1/format=Thumbnail",The Greatest Hits Of 1990 (VHS)
 https://archive.org/download/the-greatest-hits-of-1990-1/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="adrian-crowley-the-hatchet-song" tvg-logo="https://archive.org/download/adrian-crowley-the-hatchet-song/format=Thumbnail",Dado-youtube
 https://archive.org/download/adrian-crowley-the-hatchet-song/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="stereo-mcs-elevate-my-mind" tvg-logo="https://archive.org/download/stereo-mcs-elevate-my-mind/format=Thumbnail",Stereo MC's - Elevate My Mind
 https://archive.org/download/stereo-mcs-elevate-my-mind/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-19-22" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-19-22/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong VÂN SƠN 19 - 22
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-19-22/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-nhi-p-buo-c-hoang-vu" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-nhi-p-buo-c-hoang-vu/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong NHỊP BƯỚC HOANG VU
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-nhi-p-buo-c-hoang-vu/format=h.264
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-paris-by-night-50" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-50/format=Thumbnail",Tác phẩm nghệ thuật Paris By Night 50
+https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-50/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-paris-by-night-51" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-51/format=Thumbnail",Tác phẩm nghệ thuật Paris By Night 51
+https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-51/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-50" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-50/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong PARIS BY NIGHT 50
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-50/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-51" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-51/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong PARIS BY NIGHT 51
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-51/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-paris-by-night-52" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-52/format=Thumbnail",Tác phẩm nghệ thuật Paris By Night 52
+https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-52/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-52" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-52/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong PARIS BY NIGHT 52
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-52/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-vnvn-4" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-vnvn-4/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong VNVN 4
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-vnvn-4/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-15" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-15/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong VÂN SƠN 15
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-15/format=h.264
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-14_202209" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-14_202209/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong VÂN SƠN 14
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-14_202209/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-ti-nh-music-video-2_202209" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-ti-nh-music-video-2_202209/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong TÌNH MUSIC VIDEO 2
 https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-ti-nh-music-video-2_202209/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="the-heartbreak-kid-1993-dvd" tvg-logo="https://archive.org/download/the-heartbreak-kid-1993-dvd/format=Thumbnail",The Heartbreak Kid (1993)
@@ -327,14 +509,26 @@ https://archive.org/download/bangers-mash-voodoo-elvis-2022-ai-remaster/format=M
 https://archive.org/download/20220919_20220919_1651/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="eminem-harmonie-vid" tvg-logo="https://archive.org/download/eminem-harmonie-vid/format=Thumbnail",105.1 FM The Edge‚ Eminem Freestyle at Harmonie Park‚ March 1999‚ Photo & Video
 https://archive.org/download/eminem-harmonie-vid/format=h.264
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-ca-dao-bien-productions" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-ca-dao-bien-productions/format=Thumbnail",Tác phẩm nghệ thuật Ca Dao & Biển Productions
+https://archive.org/download/tac-pham-nghe-thuat-ca-dao-bien-productions/format=h.264
 #EXTINF:-1 group-title="Borisbvideos" tvg-id="leedm101-blue-kiss-confusion" tvg-logo="https://archive.org/download/leedm101-blue-kiss-confusion/format=Thumbnail",LeeDM101 - Blue Kiss Confusion (New Order vs New Order vs New Order)
 https://archive.org/download/leedm101-blue-kiss-confusion/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="vhs_20220911" tvg-logo="https://archive.org/download/vhs_20220911/format=Thumbnail",Music videos from the 80s (Sky‚ Super channel‚ etc.)
 https://archive.org/download/vhs_20220911/format=h.264
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-20-na-m-chie-c-a-o-da-i-vie-n-xu" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-20-na-m-chie-c-a-o-da-i-vie-n-xu/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong 20 NĂM CHIẾC ÁO DÀI VIỄN XỨ
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-20-na-m-chie-c-a-o-da-i-vie-n-xu/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="90s.-alernative" tvg-logo="https://archive.org/download/90s.-alernative/format=Thumbnail",November 1995 Alternative Music Videos
 https://archive.org/download/90s.-alernative/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="eminem-harmonie" tvg-logo="https://archive.org/download/eminem-harmonie/format=Thumbnail",1999 March 14‚ Eminem Private Show‚ 105.1 FM at Harmonie
 https://archive.org/download/eminem-harmonie/format=h.264
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-tuo-i-ti-nh-ye-u" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-tuo-i-ti-nh-ye-u/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong TUỔI TÌNH YÊU
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-tuo-i-ti-nh-ye-u/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-5" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-5/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong VÂN SƠN 5
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-5/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-3" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-3/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong VÂN SƠN 3
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-3/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-to-c-mai-so-i-va-n-so-i-da-i" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-to-c-mai-so-i-va-n-so-i-da-i/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong TÓC MAI SỢI VẮN SỢI DÀI
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-to-c-mai-so-i-va-n-so-i-da-i/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="the-incel-anthem" tvg-logo="https://archive.org/download/the-incel-anthem/format=Thumbnail",The Incel Anthem
 https://archive.org/download/the-incel-anthem/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="grahamparker-cupid-bbc" tvg-logo="https://archive.org/download/grahamparker-cupid-bbc/format=Thumbnail",Graham Parker - Cupid (song: 1988) (video: 1998)
@@ -367,10 +561,22 @@ https://archive.org/download/thewho-wontgetfooledagain-shepperton-travisintro/fo
 https://archive.org/download/queensofthestoneage-rage/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="thesweet-ballroomblitz-countdown" tvg-logo="https://archive.org/download/thesweet-ballroomblitz-countdown/format=Thumbnail",The Sweet - Ballroom Blitz (on Countdown - 18/05/1986)
 https://archive.org/download/thesweet-ballroomblitz-countdown/format=h.264
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-12-13" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-12-13/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong VÂN SƠN 12 & 13
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-12-13/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="silverchair-rage-1995" tvg-logo="https://archive.org/download/silverchair-rage-1995/format=Thumbnail",Silverchair on rage (09/09/1995)
 https://archive.org/download/silverchair-rage-1995/format=h.264
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-16" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-16/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong VÂN SƠN 16
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-16/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-van-son-18" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-van-son-18/format=Thumbnail",Tác phẩm nghệ thuật Vân Sơn 18
+https://archive.org/download/tac-pham-nghe-thuat-van-son-18/format=MPEG4
 #EXTINF:-1 group-title="Borisbvideos" tvg-id="bootleggers-united-wet-bootleg" tvg-logo="https://archive.org/download/bootleggers-united-wet-bootleg/format=Thumbnail",Bootleggers United - Wet Bootleg (Wet Leg‚ Bomfunk Mc's‚ The Knack‚ Blondie)
 https://archive.org/download/bootleggers-united-wet-bootleg/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-van-son-17" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-van-son-17/format=Thumbnail",Tác phẩm nghệ thuật Vân Sơn 17
+https://archive.org/download/tac-pham-nghe-thuat-van-son-17/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-17" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-17/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong VÂN SƠN 17
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-17/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-18" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-18/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong VÂN SƠN 18
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-18/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="rhythm-blues-revue-1955-full-movie" tvg-logo="https://archive.org/download/rhythm-blues-revue-1955-full-movie/format=Thumbnail",Rhythm & Blues Revue (1955)
 https://archive.org/download/rhythm-blues-revue-1955-full-movie/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="vts-01-1_20220810_1229" tvg-logo="https://archive.org/download/vts-01-1_20220810_1229/format=Thumbnail",A Tribute to Muddy Waters - King of the Blues (1998)
@@ -379,10 +585,28 @@ https://archive.org/download/vts-01-1_20220810_1229/format=h.264
 https://archive.org/download/renaldo-clara-1978_202208/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="mvi-6962_202208" tvg-logo="https://archive.org/download/mvi-6962_202208/format=Thumbnail",Season 2022 R.16 Albion v. Parks
 https://archive.org/download/mvi-6962_202208/format=h.264
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="hai-kich-ruo-u-vo-hong-van-bao-chung" tvg-logo="https://archive.org/download/hai-kich-ruo-u-vo-hong-van-bao-chung/format=Thumbnail",Hài Kịch RƯỢU & VỢ: Hồng Vân‚ Bảo Chung
+https://archive.org/download/hai-kich-ruo-u-vo-hong-van-bao-chung/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-23" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-23/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong VÂN SƠN 23
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-23/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-van-son-9" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-van-son-9/format=Thumbnail",Tác phẩm nghệ thuật Vân Sơn 9
+https://archive.org/download/tac-pham-nghe-thuat-van-son-9/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-6" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-6/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong VÂN SƠN 6
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-6/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-54" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-54/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong PARIS BY NIGHT 54
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-54/format=h.264
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-nang-ha-ca-dao" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-nang-ha-ca-dao/format=Thumbnail",Tác phẩm nghệ thuật Nắng Hạ & Ca Dao
+https://archive.org/download/tac-pham-nghe-thuat-nang-ha-ca-dao/format=MPEG4
 #EXTINF:-1 group-title="Borisbvideos" tvg-id="bittersoundfoundation-the-tricky-mash-episode" tvg-logo="https://archive.org/download/bittersoundfoundation-the-tricky-mash-episode/format=Thumbnail",Bittersoundfoundation - The Tricky Mash Episode (Butthole Surfers‚ Chic‚ Janet Jackson‚ Snoop Dogg‚ Tricky)
 https://archive.org/download/bittersoundfoundation-the-tricky-mash-episode/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-paris-by-night-55" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-55/format=Thumbnail",Tác phẩm nghệ thuật Paris By Night 55
+https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-55/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-vnvn-1" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-vnvn-1/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong VNVN 1
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-vnvn-1/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="dre-em-00-mtv" tvg-logo="https://archive.org/download/dre-em-00-mtv/format=Thumbnail",2000 Dr. Dre MTV Documentary Eminem feature
 https://archive.org/download/dre-em-00-mtv/format=h.264
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-paris-by-night-58" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-58/format=Thumbnail",Tác phẩm nghệ thuật Paris By Night 58
+https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-58/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="salsa-1988-vhs" tvg-logo="https://archive.org/download/salsa-1988-vhs/format=Thumbnail",Salsa (1988)
 https://archive.org/download/salsa-1988-vhs/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="behind-the-scenes-que-huo-ng-ti-nh-ye-u-tuo-i-tre-11" tvg-logo="https://archive.org/download/behind-the-scenes-que-huo-ng-ti-nh-ye-u-tuo-i-tre-11/format=Thumbnail",Behind The Scenes: 'Tình Music Video 11' QUÊ HƯƠNG TÌNH YÊU & TUỔI TRẺ 11
@@ -391,6 +615,8 @@ https://archive.org/download/behind-the-scenes-que-huo-ng-ti-nh-ye-u-tuo-i-tre-1
 https://archive.org/download/tac-pham-nghe-thuat-tinh-music-video-11/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="eminem-detroit-rave-99" tvg-logo="https://archive.org/download/eminem-detroit-rave-99/format=Thumbnail",Eminem April 3‚ 1999 True Masters‚ Detroit
 https://archive.org/download/eminem-detroit-rave-99/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="hai-kich-mission-impossible-nguyen-ngoc-ngan-ky-duyen-kieu-linh" tvg-logo="https://archive.org/download/hai-kich-mission-impossible-nguyen-ngoc-ngan-ky-duyen-kieu-linh/format=Thumbnail",Hài Kịch MISSION IMPOSSIBLE: Nguyễn Ngọc Ngạn‚ Kỳ Duyên‚ Kiều Linh
+https://archive.org/download/hai-kich-mission-impossible-nguyen-ngoc-ngan-ky-duyen-kieu-linh/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="corey-feldman-singing-something-in-your-eyes" tvg-logo="https://archive.org/download/corey-feldman-singing-something-in-your-eyes/format=Thumbnail",Corey Feldman singing Something In Your Eyes
 https://archive.org/download/corey-feldman-singing-something-in-your-eyes/format=MPEG4
 #EXTINF:-1 group-title="Borisbvideos" tvg-id="borisb-crumplstock-10" tvg-logo="https://archive.org/download/borisb-crumplstock-10/format=Thumbnail",BorisB Crumplstock 10
@@ -399,20 +625,82 @@ https://archive.org/download/borisb-crumplstock-10/format=MPEG4
 https://archive.org/download/eminem-2001-cduk/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="eminem-france-2001-docu" tvg-logo="https://archive.org/download/eminem-france-2001-docu/format=Thumbnail",French 2001 Eminem Interview/Documentary
 https://archive.org/download/eminem-france-2001-docu/format=h.264
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-63" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-63/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong PARIS BY NIGHT 63
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-63/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-tinh-productions-2" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-tinh-productions-2/format=Thumbnail",Tác phẩm nghệ thuật Tình Productions 2
+https://archive.org/download/tac-pham-nghe-thuat-tinh-productions-2/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-tinh-productions" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-tinh-productions/format=Thumbnail",Tác phẩm nghệ thuật Tình Productions
+https://archive.org/download/tac-pham-nghe-thuat-tinh-productions/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-ti-nh-music-video-1" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-ti-nh-music-video-1/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong TÌNH MUSIC VIDEO 1
 https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-ti-nh-music-video-1/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-paris-by-night-14" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-14/format=Thumbnail",Tác phẩm nghệ thuật Paris By Night 14
+https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-14/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-paris-by-night-11" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-11/format=Thumbnail",Tác phẩm nghệ thuật Paris By Night 11
+https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-11/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="hai-kich-tra-n-tru-ng-tri-ta-i-xua-t-giang-ho-chi-tai-kieu-linh-trang-thanh-lan" tvg-logo="https://archive.org/download/hai-kich-tra-n-tru-ng-tri-ta-i-xua-t-giang-ho-chi-tai-kieu-linh-trang-thanh-lan/format=Thumbnail",Hài Kịch TRẦN TRỪNG TRỊ TÁI XUẤT GIANG HỒ: Chí Tài‚ Kiều Linh‚ Trang Thanh Lan
+https://archive.org/download/hai-kich-tra-n-tru-ng-tri-ta-i-xua-t-giang-ho-chi-tai-kieu-linh-trang-thanh-lan/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-53" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-53/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong PARIS BY NIGHT 53
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-53/format=MPEG4
 #EXTINF:-1 group-title="Borisbvideos" tvg-id="wax-audio-two-time-blonde" tvg-logo="https://archive.org/download/wax-audio-two-time-blonde/format=Thumbnail",Wax Audio - Two Time Blonde (INXS & The Doors)
 https://archive.org/download/wax-audio-two-time-blonde/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-67" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-67/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong PARIS BY NIGHT 67
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-67/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-paris-by-night-65" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-65/format=Thumbnail",Tác phẩm nghệ thuật Paris By Night 65
+https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-65/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-65" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-65/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong PARIS BY NIGHT 65
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-65/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-64" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-64/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong PARIS BY NIGHT 64
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-64/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-paris-by-night-63-64" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-63-64/format=Thumbnail",Tác phẩm nghệ thuật Paris By Night 63 & 64
+https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-63-64/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-paris-by-night-60-61" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-60-61/format=Thumbnail",Tác phẩm nghệ thuật Paris By Night 60 & 61
+https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-60-61/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-61" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-61/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong PARIS BY NIGHT 61
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-61/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-60" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-60/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong PARIS BY NIGHT 60
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-60/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-62" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-62/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong PARIS BY NIGHT 62
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-62/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-paris-by-night-62" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-62/format=Thumbnail",Tác phẩm nghệ thuật Paris By Night 62
+https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-62/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="madonna-secret-workprint-promo-video" tvg-logo="https://archive.org/download/madonna-secret-workprint-promo-video/format=Thumbnail",Madonna Secret (Workprint Promo Video)
 https://archive.org/download/madonna-secret-workprint-promo-video/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-paris-by-night-59" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-59/format=Thumbnail",Tác phẩm nghệ thuật Paris By Night 59
+https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-59/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-paris-by-night-56-57" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-56-57/format=Thumbnail",Tác phẩm nghệ thuật Paris By Night 56 & 57
+https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-56-57/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-59" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-59/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong PARIS BY NIGHT 59
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-59/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-57" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-57/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong PARIS BY NIGHT 57
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-57/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-66" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-66/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong PARIS BY NIGHT 66
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-66/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-paris-by-night-66" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-66/format=Thumbnail",Tác phẩm nghệ thuật Paris By Night 66
+https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-66/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="1999-brooklyn-vermont-freestlye" tvg-logo="https://archive.org/download/1999-brooklyn-vermont-freestlye/format=Thumbnail",Eminem 'I Do Pop Pills' Freestyle in Vermont in 1999
 https://archive.org/download/1999-brooklyn-vermont-freestlye/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="d-12-eminem-2001-florida1" tvg-logo="https://archive.org/download/d-12-eminem-2001-florida1/format=Thumbnail",Eminem and D12 Live in Florida 2001
 https://archive.org/download/d-12-eminem-2001-florida1/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-58" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-58/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong PARIS BY NIGHT 58
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-58/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-56" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-56/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong PARIS BY NIGHT 56
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-56/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-paris-by-night-23" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-23/format=Thumbnail",Tác phẩm nghệ thuật Paris By Night 23
+https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-23/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-paris-by-night-20" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-20/format=Thumbnail",Tác phẩm nghệ thuật Paris By Night 20
+https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-20/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-paris-by-night-29" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-29/format=Thumbnail",Tác phẩm nghệ thuật Paris By Night 29
+https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-29/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="hai-kich-tha-y-cu-ng-ga-p-xui-xuan-phat-mai-khanh" tvg-logo="https://archive.org/download/hai-kich-tha-y-cu-ng-ga-p-xui-xuan-phat-mai-khanh/format=Thumbnail",Hài Kịch THẦY CÚNG GẶP XUI: Xuân Phát‚ Mai Khanh
+https://archive.org/download/hai-kich-tha-y-cu-ng-ga-p-xui-xuan-phat-mai-khanh/format=MPEG4
 #EXTINF:-1 group-title="Borisbvideos" tvg-id="kidko-a-deeper-rigby" tvg-logo="https://archive.org/download/kidko-a-deeper-rigby/format=Thumbnail",KidKO - A Deeper Rigby (Aretha Franklin & The Beatles)
 https://archive.org/download/kidko-a-deeper-rigby/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-van-son-24-27" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-van-son-24-27/format=Thumbnail",Tác phẩm nghệ thuật Vân Sơn 24 - 27
+https://archive.org/download/tac-pham-nghe-thuat-van-son-24-27/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="black-coal-153217126mp-4-uwjz" tvg-logo="https://archive.org/download/black-coal-153217126mp-4-uwjz/format=Thumbnail",Dado - YouTube Channel
 https://archive.org/download/black-coal-153217126mp-4-uwjz/format=h.264
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-paris-by-night-32" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-32/format=Thumbnail",Tác phẩm nghệ thuật Paris By Night 32
+https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-32/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-tinh-music-video-6" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-tinh-music-video-6/format=Thumbnail",Tác phẩm nghệ thuật Tình Music Video 6
 https://archive.org/download/tac-pham-nghe-thuat-tinh-music-video-6/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-tinh-music-video-5" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-tinh-music-video-5/format=Thumbnail",Tác phẩm nghệ thuật Tình Music Video 5
@@ -433,8 +721,16 @@ https://archive.org/download/queensryche-empire-silent-lucidity/format=h.264
 https://archive.org/download/dan-reed-network-mix-it-up/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="julian-lennon-now-youre-in-heaven" tvg-logo="https://archive.org/download/julian-lennon-now-youre-in-heaven/format=Thumbnail",Julian Lennon - Now You're In Heaven
 https://archive.org/download/julian-lennon-now-youre-in-heaven/format=h.264
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="10-000-maniacs-trouble-me" tvg-logo="https://archive.org/download/10-000-maniacs-trouble-me/format=Thumbnail",10‚000 Maniacs - Trouble Me
+https://archive.org/download/10-000-maniacs-trouble-me/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="victory-never-satisfied" tvg-logo="https://archive.org/download/victory-never-satisfied/format=Thumbnail",Victory - Never Satisfied
 https://archive.org/download/victory-never-satisfied/format=h.264
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="hai-kich-bac-si-bat-dac-di_phu-quy-to-kieu-lan-cam-hien-giang-thanh" tvg-logo="https://archive.org/download/hai-kich-bac-si-bat-dac-di_phu-quy-to-kieu-lan-cam-hien-giang-thanh/format=Thumbnail",Hài Kịch BÁC SĨ BẤT ĐẮC DĨ - Phú Quý‚ Tô Kiều Lan‚ Cẩm Hiên‚ Giang Thanh
+https://archive.org/download/hai-kich-bac-si-bat-dac-di_phu-quy-to-kieu-lan-cam-hien-giang-thanh/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="hai-kich-mo-t-co-hai-cha-ng-co-hang-cafe-thoi-dai-hong-van-nguyen-duong-duy-phuong" tvg-logo="https://archive.org/download/hai-kich-mo-t-co-hai-cha-ng-co-hang-cafe-thoi-dai-hong-van-nguyen-duong-duy-phuong/format=Thumbnail",Hài Kịch MỘT CÔ HAI CHÀNG (Cô Hàng Café Thời Đại): Hồng Vân‚ Nguyễn Dương‚ Duy Phương
+https://archive.org/download/hai-kich-mo-t-co-hai-cha-ng-co-hang-cafe-thoi-dai-hong-van-nguyen-duong-duy-phuong/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-9-10" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-9-10/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong VÂN SƠN 9‚ 10
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-9-10/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="simply-red-stars_202205" tvg-logo="https://archive.org/download/simply-red-stars_202205/format=Thumbnail",Simply Red - Stars
 https://archive.org/download/simply-red-stars_202205/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="orup-my-earth-angel" tvg-logo="https://archive.org/download/orup-my-earth-angel/format=Thumbnail",Orup - My Earth-Angel
@@ -447,14 +743,26 @@ https://archive.org/download/geoffrey-williams-its-not-a-love-thing/format=h.264
 https://archive.org/download/kid-frost-la-raza/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="aaron-tippin-i-wouldnt-have-it-any-other-way" tvg-logo="https://archive.org/download/aaron-tippin-i-wouldnt-have-it-any-other-way/format=Thumbnail",Aaron Tippin - I Wouldn't Have It Any Other Way
 https://archive.org/download/aaron-tippin-i-wouldnt-have-it-any-other-way/format=h.264
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-25" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-25/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong VÂN SƠN 25
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-25/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-26" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-26/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong VÂN SƠN 26
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-26/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="moonwalker_202205" tvg-logo="https://archive.org/download/moonwalker_202205/format=Thumbnail",Michael Jackson: Moonwalker Laserdisc + HD
 https://archive.org/download/moonwalker_202205/format=h.264
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-van-son-15" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-van-son-15/format=Thumbnail",Tác phẩm nghệ thuật Vân Sơn 15
+https://archive.org/download/tac-pham-nghe-thuat-van-son-15/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-tinh-xuan-6" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-tinh-xuan-6/format=Thumbnail",Tác phẩm nghệ thuật Tình Xuân 6
+https://archive.org/download/tac-pham-nghe-thuat-tinh-xuan-6/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="family-stand-ghetto-heaven" tvg-logo="https://archive.org/download/family-stand-ghetto-heaven/format=Thumbnail",Family Stand - Ghetto Heaven
 https://archive.org/download/family-stand-ghetto-heaven/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="vixen-edge-of-a-broken-heart-concept-ver." tvg-logo="https://archive.org/download/vixen-edge-of-a-broken-heart-concept-ver./format=Thumbnail",Vixen - Edge Of A Broken Heart (Concept Ver.)
 https://archive.org/download/vixen-edge-of-a-broken-heart-concept-ver./format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="lawnmower-man-2-beyond-cyberspace-aka-jobes-war-1996-movie" tvg-logo="https://archive.org/download/lawnmower-man-2-beyond-cyberspace-aka-jobes-war-1996-movie/format=Thumbnail",Lawnmower Man 2 Beyond Cyberspace Aka Jobe's War (1996)
 https://archive.org/download/lawnmower-man-2-beyond-cyberspace-aka-jobes-war-1996-movie/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-paris-by-night-37" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-37/format=Thumbnail",Tác phẩm nghệ thuật Paris By Night 37
+https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-37/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-paris-by-night-54" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-54/format=Thumbnail",Tác phẩm nghệ thuật Paris By Night 54
+https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-54/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="the-beloved-time-after-time" tvg-logo="https://archive.org/download/the-beloved-time-after-time/format=Thumbnail",The Beloved - Time After Time
 https://archive.org/download/the-beloved-time-after-time/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="m-doc-whatever-you-need" tvg-logo="https://archive.org/download/m-doc-whatever-you-need/format=Thumbnail",M-Doc - Whatever You Need
@@ -487,12 +795,22 @@ https://archive.org/download/judas-priest-johnny-b.-goode/format=h.264
 https://archive.org/download/winger-headed-for-a-heartbreak/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="the-bellamy-brothers-she-dont-know-that-shes-perfect" tvg-logo="https://archive.org/download/the-bellamy-brothers-she-dont-know-that-shes-perfect/format=Thumbnail",The Bellamy Brothers - She Don't Know That She's Perfect
 https://archive.org/download/the-bellamy-brothers-she-dont-know-that-shes-perfect/format=h.264
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-70" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-70/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong PARIS BY NIGHT 70
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-70/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-69" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-69/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong PARIS BY NIGHT 69
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-69/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-68" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-68/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong PARIS BY NIGHT 68
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-68/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="michael-monroe-man-with-no-eyes" tvg-logo="https://archive.org/download/michael-monroe-man-with-no-eyes/format=Thumbnail",Michael Monroe - Man With No Eyes
 https://archive.org/download/michael-monroe-man-with-no-eyes/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="helen-bruner-gimme-real-love" tvg-logo="https://archive.org/download/helen-bruner-gimme-real-love/format=Thumbnail",Helen Bruner - Gimme Real Love
 https://archive.org/download/helen-bruner-gimme-real-love/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="brighton-rock-cant-wait-for-the-night" tvg-logo="https://archive.org/download/brighton-rock-cant-wait-for-the-night/format=Thumbnail",Brighton Rock - Can't Wait For The Night
 https://archive.org/download/brighton-rock-cant-wait-for-the-night/format=h.264
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-55" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-55/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong PARIS BY NIGHT 55
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-paris-by-night-55/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-van-son-14" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-van-son-14/format=Thumbnail",Tác phẩm nghệ thuật Vân Sơn 14
+https://archive.org/download/tac-pham-nghe-thuat-van-son-14/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="various-mini-comp-215" tvg-logo="https://archive.org/download/various-mini-comp-215/format=Thumbnail",Various - Mini Comp #215
 https://archive.org/download/various-mini-comp-215/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="jason-weaver-epk-stay-with-me" tvg-logo="https://archive.org/download/jason-weaver-epk-stay-with-me/format=Thumbnail",Jason Weaver - EPK / Stay With Me / (Remix)
@@ -509,14 +827,48 @@ https://archive.org/download/howlin-maggie-alcohol/format=h.264
 https://archive.org/download/catatonia-i-am-the-mob/format=h.264
 #EXTINF:-1 group-title="Borisbvideos" tvg-id="michmash-yeye-jungle-2022" tvg-logo="https://archive.org/download/michmash-yeye-jungle-2022/format=Thumbnail",Michmash - Yéyé Jungle (Emilliana Torrini‚Serge Gainsbourg‚ Boogalox)
 https://archive.org/download/michmash-yeye-jungle-2022/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-viet-productions-t.-h.-kim-loi-productions" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-viet-productions-t.-h.-kim-loi-productions/format=Thumbnail",Tác phẩm nghệ thuật Việt Productions & T. H. - Kim Lợi Productions
+https://archive.org/download/tac-pham-nghe-thuat-viet-productions-t.-h.-kim-loi-productions/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="phong-van-ti-nh-music-video-in-hawaii" tvg-logo="https://archive.org/download/phong-van-ti-nh-music-video-in-hawaii/format=Thumbnail",Phỏng Vấn 'TÌNH MUSIC VIDEO in HAWAII'
 https://archive.org/download/phong-van-ti-nh-music-video-in-hawaii/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="behind-the-scenes_tinh-music-video-5-in-hawaii" tvg-logo="https://archive.org/download/behind-the-scenes_tinh-music-video-5-in-hawaii/format=Thumbnail",Behind The Scenes 'TÌNH MUSIC VIDEO 5 in HAWAII'
 https://archive.org/download/behind-the-scenes_tinh-music-video-5-in-hawaii/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-van-son-10" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-van-son-10/format=Thumbnail",Tác phẩm nghệ thuật Vân Sơn 10
+https://archive.org/download/tac-pham-nghe-thuat-van-son-10/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-11" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-11/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong VÂN SƠN 11
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-11/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-van-son-23" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-van-son-23/format=Thumbnail",Tác phẩm nghệ thuật Vân Sơn 23
+https://archive.org/download/tac-pham-nghe-thuat-van-son-23/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-van-son-22" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-van-son-22/format=Thumbnail",Tác phẩm nghệ thuật Vân Sơn 22
+https://archive.org/download/tac-pham-nghe-thuat-van-son-22/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="hai-kich-le-n-do-ng-hoai-linh-nguyen-duong-thu-tuyet" tvg-logo="https://archive.org/download/hai-kich-le-n-do-ng-hoai-linh-nguyen-duong-thu-tuyet/format=Thumbnail",Hài Kịch LÊN ĐỒNG: Hoài Linh‚ Nguyễn Dương‚ Thu Tuyết
+https://archive.org/download/hai-kich-le-n-do-ng-hoai-linh-nguyen-duong-thu-tuyet/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="hai-kich-lan-d-ie-p-hong-dao-phuoc-sang" tvg-logo="https://archive.org/download/hai-kich-lan-d-ie-p-hong-dao-phuoc-sang/format=Thumbnail",Hài Kịch LAN & ĐIỆP: Hồng Đào & Phước Sang
+https://archive.org/download/hai-kich-lan-d-ie-p-hong-dao-phuoc-sang/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="michael-sembello-maniac-1983" tvg-logo="https://archive.org/download/michael-sembello-maniac-1983/format=Thumbnail",Michael Sembello - Maniac (from 'Flashdance') (1983)
 https://archive.org/download/michael-sembello-maniac-1983/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="faraon-love-shady-rip-resentido-freestyle-session-13-video-oficial" tvg-logo="https://archive.org/download/faraon-love-shady-rip-resentido-freestyle-session-13-video-oficial/format=Thumbnail",Faraón Love Shady Rip (R)esentido (Freestyle Session # 13) (Video Oficial)
 https://archive.org/download/faraon-love-shady-rip-resentido-freestyle-session-13-video-oficial/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="hai-kich-chuye-n-mo-ng-mo-hong-van-le-vu-cau" tvg-logo="https://archive.org/download/hai-kich-chuye-n-mo-ng-mo-hong-van-le-vu-cau/format=Thumbnail",Hài Kịch CHUYỆN MỘNG MƠ: Hồng Vân & Lê Vũ Cầu
+https://archive.org/download/hai-kich-chuye-n-mo-ng-mo-hong-van-le-vu-cau/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-24" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-24/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong VÂN SƠN 24
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-24/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-van-son-20" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-van-son-20/format=Thumbnail",Tác phẩm nghệ thuật Vân Sơn 20
+https://archive.org/download/tac-pham-nghe-thuat-van-son-20/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-vnvn-7" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-vnvn-7/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong VNVN 7
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-vnvn-7/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-vnvn-2" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-vnvn-2/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong VNVN 2
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-vnvn-2/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-van-son-8" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-van-son-8/format=Thumbnail",Tác phẩm nghệ thuật Vân Sơn 8
+https://archive.org/download/tac-pham-nghe-thuat-van-son-8/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-7" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-7/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong VÂN SƠN 7
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-7/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-8" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-8/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong VÂN SƠN 8
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-8/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-4" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-4/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong VÂN SƠN 4
+https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-va-n-so-n-4/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-diem-xua" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-diem-xua/format=Thumbnail",Tác phẩm nghệ thuật Diễm Xưa
+https://archive.org/download/tac-pham-nghe-thuat-diem-xua/format=MPEG4
 #EXTINF:-1 group-title="Borisbvideos" tvg-id="fissunix-when-the-shit-goes-zen" tvg-logo="https://archive.org/download/fissunix-when-the-shit-goes-zen/format=Thumbnail",Fissunix - When The Shit Goes Zen (Zazie & Cypress Hill)
 https://archive.org/download/fissunix-when-the-shit-goes-zen/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="madonna-turn-up-the-radio-workprint-untouched-and-unmastered" tvg-logo="https://archive.org/download/madonna-turn-up-the-radio-workprint-untouched-and-unmastered/format=Thumbnail",Madonna Turn Up The Radio (Workprint Untouched And Unmastered)
@@ -3861,10 +4213,144 @@ https://archive.org/download/MTV_News_Year_In_Rock_93/format=MPEG4
 https://archive.org/download/MC_9000_Foot_Jesus_MTV_News_Spot_Truth_Is_Out_Of_Style/format=MPEG4
 #EXTINF:-1 group-title="Musictelevision" tvg-id="Everclear_Marcy_Playground_Summer_Tour_1998_MTV_Live_Footage",Everclear & Marcy Playground Summer Tour 1998 MTV Live Footage
 https://archive.org/download/Everclear_Marcy_Playground_Summer_Tour_1998_MTV_Live_Footage/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Dwight_Yoakam_Long_White_Caidllac" tvg-logo="https://archive.org/download/Dwight_Yoakam_Long_White_Caidllac/format=Thumbnail",Dwight Yoakam Long White Caidllac
+https://archive.org/download/Dwight_Yoakam_Long_White_Caidllac/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Dreams_Come_True_Song_Of_Joy" tvg-logo="https://archive.org/download/Dreams_Come_True_Song_Of_Joy/format=Thumbnail",Dreams Come True Song Of Joy
+https://archive.org/download/Dreams_Come_True_Song_Of_Joy/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Donny_OSmond_This_Is_The_Moment" tvg-logo="https://archive.org/download/Donny_OSmond_This_Is_The_Moment/format=Thumbnail",Donny OSmond This Is The Moment
+https://archive.org/download/Donny_OSmond_This_Is_The_Moment/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Don_Cox_Honey_Dont_Pay_The_Ransom" tvg-logo="https://archive.org/download/Don_Cox_Honey_Dont_Pay_The_Ransom/format=Thumbnail",Don Cox Honey Don't Pay The Ransom
+https://archive.org/download/Don_Cox_Honey_Dont_Pay_The_Ransom/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Dolly_Parton_Light_Of_A_Clear_Blue_Morning" tvg-logo="https://archive.org/download/Dolly_Parton_Light_Of_A_Clear_Blue_Morning/format=Thumbnail",Dolly Parton Light Of A Clear Blue Morning
+https://archive.org/download/Dolly_Parton_Light_Of_A_Clear_Blue_Morning/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Dogs_Eye_View_Everything_Falls_Apart" tvg-logo="https://archive.org/download/Dogs_Eye_View_Everything_Falls_Apart/format=Thumbnail",Dog's Eye View Everything Falls Apart
+https://archive.org/download/Dogs_Eye_View_Everything_Falls_Apart/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="DJ_Polo_Freak_Of_The_Week_Version_1" tvg-logo="https://archive.org/download/DJ_Polo_Freak_Of_The_Week_Version_1/format=Thumbnail",DJ Polo Freak Of The Week (Version 1)
+https://archive.org/download/DJ_Polo_Freak_Of_The_Week_Version_1/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Diamond_Rio_Walkin_Away" tvg-logo="https://archive.org/download/Diamond_Rio_Walkin_Away/format=Thumbnail",Diamond Rio Walkin' Away
+https://archive.org/download/Diamond_Rio_Walkin_Away/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Deus_Suds_Soda" tvg-logo="https://archive.org/download/Deus_Suds_Soda/format=Thumbnail",Deus Suds & Soda
+https://archive.org/download/Deus_Suds_Soda/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Del_The_Funky_Homosapian_Catch_A_Bad_One" tvg-logo="https://archive.org/download/Del_The_Funky_Homosapian_Catch_A_Bad_One/format=Thumbnail",Del The Funky Homosapian Catch A Bad One
+https://archive.org/download/Del_The_Funky_Homosapian_Catch_A_Bad_One/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="De_La_Soul_Ego_Trippin_Part_2" tvg-logo="https://archive.org/download/De_La_Soul_Ego_Trippin_Part_2/format=Thumbnail",De La Soul Ego Trippin (Part 2)
+https://archive.org/download/De_La_Soul_Ego_Trippin_Part_2/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Debbie_Allen_Special_Look" tvg-logo="https://archive.org/download/Debbie_Allen_Special_Look/format=Thumbnail",Debbie Allen Special Look
+https://archive.org/download/Debbie_Allen_Special_Look/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Dean_Chance_Standing_Up_For_Freedom" tvg-logo="https://archive.org/download/Dean_Chance_Standing_Up_For_Freedom/format=Thumbnail",Dean Chance Standing Up For Freedom
+https://archive.org/download/Dean_Chance_Standing_Up_For_Freedom/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="DC_Talk_Jesus_Freak" tvg-logo="https://archive.org/download/DC_Talk_Jesus_Freak/format=Thumbnail",DC Talk Jesus Freak
+https://archive.org/download/DC_Talk_Jesus_Freak/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Davis_Daniel_Tyler" tvg-logo="https://archive.org/download/Davis_Daniel_Tyler/format=Thumbnail",s Daniel Tyler
+https://archive.org/download/Davis_Daniel_Tyler/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Dave_Matthews_What_Would_You_Say" tvg-logo="https://archive.org/download/Dave_Matthews_What_Would_You_Say/format=Thumbnail",Dave Matthews What Would You Say
+https://archive.org/download/Dave_Matthews_What_Would_You_Say/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Dave_Hollister_Never_Gonna_Change" tvg-logo="https://archive.org/download/Dave_Hollister_Never_Gonna_Change/format=Thumbnail",Dave Hollister Never Gonna Change
+https://archive.org/download/Dave_Hollister_Never_Gonna_Change/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Danni_Leigh_If_The_Jukebox_Took_Teardrops" tvg-logo="https://archive.org/download/Danni_Leigh_If_The_Jukebox_Took_Teardrops/format=Thumbnail",Danni Leigh If The Jukebox Took Teardrops
+https://archive.org/download/Danni_Leigh_If_The_Jukebox_Took_Teardrops/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="DAngelo_Left_Right" tvg-logo="https://archive.org/download/DAngelo_Left_Right/format=Thumbnail",D'Angelo Left & Right
+https://archive.org/download/DAngelo_Left_Right/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Damien_Every_Dog_Has_Its_Day" tvg-logo="https://archive.org/download/Damien_Every_Dog_Has_Its_Day/format=Thumbnail",Damien Every Dog Has Its Day
+https://archive.org/download/Damien_Every_Dog_Has_Its_Day/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Dallas_County_Line_Honk_If_You_Love_To_Honky_Tonk" tvg-logo="https://archive.org/download/Dallas_County_Line_Honk_If_You_Love_To_Honky_Tonk/format=Thumbnail",Dallas County Line Honk If You Love To Honky Tonk
+https://archive.org/download/Dallas_County_Line_Honk_If_You_Love_To_Honky_Tonk/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Da_Lench_Mob_Guerillas_In_The_Mist" tvg-logo="https://archive.org/download/Da_Lench_Mob_Guerillas_In_The_Mist/format=Thumbnail",Da Lench Mob Guerillas In The Mist
+https://archive.org/download/Da_Lench_Mob_Guerillas_In_The_Mist/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Dale_Daniel_Coming_Back_To_Haunt_Me" tvg-logo="https://archive.org/download/Dale_Daniel_Coming_Back_To_Haunt_Me/format=Thumbnail",Dale Daniel Coming Back To Haunt Me
+https://archive.org/download/Dale_Daniel_Coming_Back_To_Haunt_Me/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Da_King_I_Flip_Da_Scrip" tvg-logo="https://archive.org/download/Da_King_I_Flip_Da_Scrip/format=Thumbnail",Da King & I Flip Da Scrip
+https://archive.org/download/Da_King_I_Flip_Da_Scrip/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Daft_Punk_One_More_Time" tvg-logo="https://archive.org/download/Daft_Punk_One_More_Time/format=Thumbnail",Daft Punk One More Time
+https://archive.org/download/Daft_Punk_One_More_Time/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Cyclefly_Supergod" tvg-logo="https://archive.org/download/Cyclefly_Supergod/format=Thumbnail",Cyclefly Supergod
+https://archive.org/download/Cyclefly_Supergod/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Custom_Beat_Me" tvg-logo="https://archive.org/download/Custom_Beat_Me/format=Thumbnail",Custom Beat Me
+https://archive.org/download/Custom_Beat_Me/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Curve_Fait_Accompli" tvg-logo="https://archive.org/download/Curve_Fait_Accompli/format=Thumbnail",Curve Fait Accompli
+https://archive.org/download/Curve_Fait_Accompli/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Cui_Juin" tvg-logo="https://archive.org/download/Cui_Juin/format=Thumbnail",Cui Juin
+https://archive.org/download/Cui_Juin/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Crystal_Waters_What_I_Need" tvg-logo="https://archive.org/download/Crystal_Waters_What_I_Need/format=Thumbnail",Crystal Waters What I Need
+https://archive.org/download/Crystal_Waters_What_I_Need/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Crystal_Waters_Gypsy_Woman_Shes_Homeless" tvg-logo="https://archive.org/download/Crystal_Waters_Gypsy_Woman_Shes_Homeless/format=Thumbnail",Crystal Waters Gypsy Woman (She's Homeless)
+https://archive.org/download/Crystal_Waters_Gypsy_Woman_Shes_Homeless/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Creeper_Lagoon_Wrecking_Ball" tvg-logo="https://archive.org/download/Creeper_Lagoon_Wrecking_Ball/format=Thumbnail",Creeper Lagoon Wrecking Ball
+https://archive.org/download/Creeper_Lagoon_Wrecking_Ball/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Cracker_Low_Slight_audio_issues" tvg-logo="https://archive.org/download/Cracker_Low_Slight_audio_issues/format=Thumbnail",Cracker Low (Slight audio issues)
+https://archive.org/download/Cracker_Low_Slight_audio_issues/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Cookie_Crew_Got_To_Keep_On" tvg-logo="https://archive.org/download/Cookie_Crew_Got_To_Keep_On/format=Thumbnail",Cookie Crew Got To Keep On
+https://archive.org/download/Cookie_Crew_Got_To_Keep_On/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Compulsion_Mall_Monarchy" tvg-logo="https://archive.org/download/Compulsion_Mall_Monarchy/format=Thumbnail",Compulsion Mall Monarchy
+https://archive.org/download/Compulsion_Mall_Monarchy/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Comptions_Most_Wanted_Def_Wish_II" tvg-logo="https://archive.org/download/Comptions_Most_Wanted_Def_Wish_II/format=Thumbnail",Comption's Most Wanted Def Wish II
+https://archive.org/download/Comptions_Most_Wanted_Def_Wish_II/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Company_Of_Wolves_Call_Of_The_Wild" tvg-logo="https://archive.org/download/Company_Of_Wolves_Call_Of_The_Wild/format=Thumbnail",Company Of Wolves Call Of The Wild
+https://archive.org/download/Company_Of_Wolves_Call_Of_The_Wild/format=MPEG4
 #EXTINF:-1 group-title="Musictelevision" tvg-id="Commercials_MTV_1997-06-10_No_WCW" tvg-logo="https://archive.org/download/Commercials_MTV_1997-06-10_No_WCW/format=Thumbnail",Commercials MTV 1997 06 10 (No WCW)
 https://archive.org/download/Commercials_MTV_1997-06-10_No_WCW/format=MPEG4
 #EXTINF:-1 group-title="Musictelevision" tvg-id="Commercials_MTV_1997-06-10" tvg-logo="https://archive.org/download/Commercials_MTV_1997-06-10/format=Thumbnail",Commercials MTV 1997 06 10
 https://archive.org/download/Commercials_MTV_1997-06-10/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Color_Me_Badd_I_wanna_Sex_You_Up" tvg-logo="https://archive.org/download/Color_Me_Badd_I_wanna_Sex_You_Up/format=Thumbnail",Color Me Badd I wanna Sex You Up
+https://archive.org/download/Color_Me_Badd_I_wanna_Sex_You_Up/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Collin_Raye_In_The_History_Of_Country_Music..-" tvg-logo="https://archive.org/download/Collin_Raye_In_The_History_Of_Country_Music..-/format=Thumbnail",Collin Raye In The History Of Country Music..
+https://archive.org/download/Collin_Raye_In_The_History_Of_Country_Music..-/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Collin_Raye_I_Can_Still_Feel_You" tvg-logo="https://archive.org/download/Collin_Raye_I_Can_Still_Feel_You/format=Thumbnail",Collin Raye I Can Still Feel You
+https://archive.org/download/Collin_Raye_I_Can_Still_Feel_You/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Collective_Soul_Gel" tvg-logo="https://archive.org/download/Collective_Soul_Gel/format=Thumbnail",Collective Soul Gel
+https://archive.org/download/Collective_Soul_Gel/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Clay_Crosse_The_Rock" tvg-logo="https://archive.org/download/Clay_Crosse_The_Rock/format=Thumbnail",Clay Crosse The Rock
+https://archive.org/download/Clay_Crosse_The_Rock/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Clay_Crosse_La_Rue_I_Will_Follow_Christ_Reason" tvg-logo="https://archive.org/download/Clay_Crosse_La_Rue_I_Will_Follow_Christ_Reason/format=Thumbnail",Clay Crosse ‚ La Rue I Will Follow Christ ‚ Reason
+https://archive.org/download/Clay_Crosse_La_Rue_I_Will_Follow_Christ_Reason/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Circus_Of_Power_Heaven_Hell" tvg-logo="https://archive.org/download/Circus_Of_Power_Heaven_Hell/format=Thumbnail",Circus Of Power Heaven & Hell
+https://archive.org/download/Circus_Of_Power_Heaven_Hell/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Chubb_Rock_The_Big_Man" tvg-logo="https://archive.org/download/Chubb_Rock_The_Big_Man/format=Thumbnail",Chubb Rock The Big Man
+https://archive.org/download/Chubb_Rock_The_Big_Man/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Chubb_Rock_Lost_In_The_Storm" tvg-logo="https://archive.org/download/Chubb_Rock_Lost_In_The_Storm/format=Thumbnail",Chubb Rock Lost In The Storm)
+https://archive.org/download/Chubb_Rock_Lost_In_The_Storm/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Chris_Rock_Your_Mothers_Got_A_Big_Head" tvg-logo="https://archive.org/download/Chris_Rock_Your_Mothers_Got_A_Big_Head/format=Thumbnail",Chris Rock Your Mother's Got A Big Head
+https://archive.org/download/Chris_Rock_Your_Mothers_Got_A_Big_Head/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Chris_Isaak_Blue_Spanish_Sky" tvg-logo="https://archive.org/download/Chris_Isaak_Blue_Spanish_Sky/format=Thumbnail",Chris Isaak Blue Spanish Sky
+https://archive.org/download/Chris_Isaak_Blue_Spanish_Sky/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Choirboys_RUn_To_Paradise" tvg-logo="https://archive.org/download/Choirboys_RUn_To_Paradise/format=Thumbnail",Choirboys RUn To Paradise
+https://archive.org/download/Choirboys_RUn_To_Paradise/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Cherokee_Ooh_Wee_Wee" tvg-logo="https://archive.org/download/Cherokee_Ooh_Wee_Wee/format=Thumbnail",Cherokee Ooh Wee Wee
+https://archive.org/download/Cherokee_Ooh_Wee_Wee/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Chad_Brok_Lightning_Does_The_Work" tvg-logo="https://archive.org/download/Chad_Brok_Lightning_Does_The_Work/format=Thumbnail",Chad Brok Lightning Does The Work
+https://archive.org/download/Chad_Brok_Lightning_Does_The_Work/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Ce_Ce_Winans_Every_Time" tvg-logo="https://archive.org/download/Ce_Ce_Winans_Every_Time/format=Thumbnail",Ce Ce Winans Every Time
+https://archive.org/download/Ce_Ce_Winans_Every_Time/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Carnival_Art_Mr._Blue_Veins" tvg-logo="https://archive.org/download/Carnival_Art_Mr._Blue_Veins/format=Thumbnail",Carnival Art Mr. Blue Veins
+https://archive.org/download/Carnival_Art_Mr._Blue_Veins/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Camper_Van_Beethoven_Pictures_Of_Match_Stick_Men" tvg-logo="https://archive.org/download/Camper_Van_Beethoven_Pictures_Of_Match_Stick_Men/format=Thumbnail",Camper Van Beethoven Pictures Of Match Stick Men
+https://archive.org/download/Camper_Van_Beethoven_Pictures_Of_Match_Stick_Men/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Camper_Van_Beethoven_I_Was_Born_In_A_Laundromat" tvg-logo="https://archive.org/download/Camper_Van_Beethoven_I_Was_Born_In_A_Laundromat/format=Thumbnail",Camper Van Beethoven I Was Born In A Laundromat
+https://archive.org/download/Camper_Van_Beethoven_I_Was_Born_In_A_Laundromat/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Cake_The_Distance" tvg-logo="https://archive.org/download/Cake_The_Distance/format=Thumbnail",Cake The Distance
+https://archive.org/download/Cake_The_Distance/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Butthole_Surfers_Pepper" tvg-logo="https://archive.org/download/Butthole_Surfers_Pepper/format=Thumbnail",Butthole Surfers Pepper
+https://archive.org/download/Butthole_Surfers_Pepper/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Butthole_Surfers_Hurdy_Gurdy_Man" tvg-logo="https://archive.org/download/Butthole_Surfers_Hurdy_Gurdy_Man/format=Thumbnail",Butthole Surfers Hurdy Gurdy Man
+https://archive.org/download/Butthole_Surfers_Hurdy_Gurdy_Man/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Bush_Phunk_Junkeez_Comedown_Snapped" tvg-logo="https://archive.org/download/Bush_Phunk_Junkeez_Comedown_Snapped/format=Thumbnail",Bush ‚ Phunk Junkeez Comedown ‚ Snapped
+https://archive.org/download/Bush_Phunk_Junkeez_Comedown_Snapped/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Buck_Ownes_Ringo_Starr_Act_Naturally" tvg-logo="https://archive.org/download/Buck_Ownes_Ringo_Starr_Act_Naturally/format=Thumbnail",Buck Ownes & Ringo Starr Act Naturally
+https://archive.org/download/Buck_Ownes_Ringo_Starr_Act_Naturally/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Bucketheads_The_Bomb_These_Sounds_Fall_Into_My_Mind" tvg-logo="https://archive.org/download/Bucketheads_The_Bomb_These_Sounds_Fall_Into_My_Mind/format=Thumbnail",Bucketheads The Bomb (These Sounds Fall Into My Mind)
+https://archive.org/download/Bucketheads_The_Bomb_These_Sounds_Fall_Into_My_Mind/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Buckcherry_RIdin" tvg-logo="https://archive.org/download/Buckcherry_RIdin/format=Thumbnail",Buckcherry RIdin
+https://archive.org/download/Buckcherry_RIdin/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Brute_Westport_Ferry" tvg-logo="https://archive.org/download/Brute_Westport_Ferry/format=Thumbnail",Brute Westport Ferry
+https://archive.org/download/Brute_Westport_Ferry/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Brute_Good_Morning_Mr._Hard_On" tvg-logo="https://archive.org/download/Brute_Good_Morning_Mr._Hard_On/format=Thumbnail",Brute Good Morning Mr. Hard On
+https://archive.org/download/Brute_Good_Morning_Mr._Hard_On/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Bruce_McCulloch_Shame_Based_Man_Promo" tvg-logo="https://archive.org/download/Bruce_McCulloch_Shame_Based_Man_Promo/format=Thumbnail",Bruce McCulloch 'Shame Based Man' Promo
+https://archive.org/download/Bruce_McCulloch_Shame_Based_Man_Promo/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Brother_Cane_And_Fools_Shine_On" tvg-logo="https://archive.org/download/Brother_Cane_And_Fools_Shine_On/format=Thumbnail",Brother Cane And Fools Shine On
+https://archive.org/download/Brother_Cane_And_Fools_Shine_On/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Britney_Spears_Everytime" tvg-logo="https://archive.org/download/Britney_Spears_Everytime/format=Thumbnail",Britney Spears Everytime
+https://archive.org/download/Britney_Spears_Everytime/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Brian_McKnight_Roni_SizeReprazent_Anytime_Brown_Paper_Bag_Short_Version" tvg-logo="https://archive.org/download/Brian_McKnight_Roni_SizeReprazent_Anytime_Brown_Paper_Bag_Short_Version/format=Thumbnail",Brian McKnight ‚ Roni Size‚Reprazent Anytime ‚ Brown Paper Bag (Short Version)
 https://archive.org/download/Brian_McKnight_Roni_SizeReprazent_Anytime_Brown_Paper_Bag_Short_Version/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Brent_Bourgeois_Cant_Feel_The_Pain" tvg-logo="https://archive.org/download/Brent_Bourgeois_Cant_Feel_The_Pain/format=Thumbnail",Brent Bourgeois Can't Feel The Pain
@@ -4133,6 +4619,8 @@ https://archive.org/download/IanNoeBetweenTheCountry/format=MPEG4
 https://archive.org/download/FayeWebsterRightSideOfMyNeck/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="TheSadiesMyHeartOfWood" tvg-logo="https://archive.org/download/TheSadiesMyHeartOfWood/format=Thumbnail",The Sadies - My Heart Of Wood
 https://archive.org/download/TheSadiesMyHeartOfWood/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="BustaRhymesGimmeSomeMore" tvg-logo="https://archive.org/download/BustaRhymesGimmeSomeMore/format=Thumbnail",Busta Rhymes Gimme Some More
+https://archive.org/download/BustaRhymesGimmeSomeMore/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="1429892322Meunlv3euz9h435jncdl.png" tvg-logo="https://archive.org/download/1429892322Meunlv3euz9h435jncdl.png/format=Thumbnail",Tracey Emin (1963)
 https://archive.org/download/1429892322Meunlv3euz9h435jncdl.png/format=h.264
 #EXTINF:-1 group-title="Borisbvideos" tvg-id="BynarReflectionOfPuppets" tvg-logo="https://archive.org/download/BynarReflectionOfPuppets/format=Thumbnail",Bynar - Reflection of Puppets (Metallica & The Sisters of Mercy)
@@ -25195,6 +25683,8 @@ https://archive.org/download/TuyenTapCacCaKhucSaoTieuHayNhat/format=MPEG4
 https://archive.org/download/MTV92ANewYearsEveSpecial/format=MPEG4
 #EXTINF:-1 group-title="Musictelevision" tvg-id="MTVVidcheckJune161982" tvg-logo="https://archive.org/download/MTVVidcheckJune161982/format=Thumbnail",MTV Vidcheck (June 16‚ 1982)
 https://archive.org/download/MTVVidcheckJune161982/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="CONCANCLNMethBreathClimaxmusickVdDieVirgin2" tvg-logo="https://archive.org/download/CONCANCLNMethBreathClimaxmusickVdDieVirgin2/format=Thumbnail",CON CAN CLN - Method / Breath / Death / Climax (DVMVAS)
+https://archive.org/download/CONCANCLNMethBreathClimaxmusickVdDieVirgin2/format=h.264
 #EXTINF:-1 group-title="Musictelevision" tvg-id="230MTVIDIdentsAdvertsBumpers" tvg-logo="https://archive.org/download/230MTVIDIdentsAdvertsBumpers/format=Thumbnail",230 MTV ID Idents Adverts Bumpers
 https://archive.org/download/230MTVIDIdentsAdvertsBumpers/format=MPEG4
 #EXTINF:-1 group-title="Musictelevision" tvg-id="RemoteControlJanuary19901080p30fpsH264128kbitAAC" tvg-logo="https://archive.org/download/RemoteControlJanuary19901080p30fpsH264128kbitAAC/format=Thumbnail",MTV's Remote Control
@@ -25203,14 +25693,22 @@ https://archive.org/download/RemoteControlJanuary19901080p30fpsH264128kbitAAC/fo
 https://archive.org/download/LinkinParkAndDragonBallGTVHS2004/format=h.264
 #EXTINF:-1 group-title="Musictelevision" tvg-id="Coil_Live_at_the_DkGorbunova_Moscow_Russia_September_2001_EDIT3" tvg-logo="https://archive.org/download/Coil_Live_at_the_DkGorbunova_Moscow_Russia_September_2001_EDIT3/format=Thumbnail",Coil - Live at the DK Gorbunova‚ Moscow‚ RU (2001-09-15) (EDIT#2)
 https://archive.org/download/Coil_Live_at_the_DkGorbunova_Moscow_Russia_September_2001_EDIT3/format=h.264
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Coil-TaintedLoveMusicVideo" tvg-logo="https://archive.org/download/Coil-TaintedLoveMusicVideo/format=Thumbnail",Coil: Tainted Love music video
+https://archive.org/download/Coil-TaintedLoveMusicVideo/format=h.264
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Coil-WindowpaneMusicVideo" tvg-logo="https://archive.org/download/Coil-WindowpaneMusicVideo/format=Thumbnail",Coil: Windowpane music video
+https://archive.org/download/Coil-WindowpaneMusicVideo/format=h.264
 #EXTINF:-1 group-title="Musictelevision" tvg-id="NineInchNails-Broken" tvg-logo="https://archive.org/download/NineInchNails-Broken/format=Thumbnail",Nine Inch Nails: Broken
 https://archive.org/download/NineInchNails-Broken/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="BLOCKHEAD_201507" tvg-logo="https://archive.org/download/BLOCKHEAD_201507/format=Thumbnail",BLOCKHEAD
 https://archive.org/download/BLOCKHEAD_201507/format=h.264
 #EXTINF:-1 group-title="Musictelevision" tvg-id="FloydArchive" tvg-logo="https://archive.org/download/FloydArchive/format=Thumbnail",Pink Floyd Archives
 https://archive.org/download/FloydArchive/format=h.264
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="CurbCobainVideovisits" tvg-logo="https://archive.org/download/CurbCobainVideovisits/format=Thumbnail",Curb Cobain Videovisits
+https://archive.org/download/CurbCobainVideovisits/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Babestation2" tvg-logo="https://archive.org/download/Babestation2/format=Thumbnail",Babestation 2 - Babestation2
 https://archive.org/download/Babestation2/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="DownTheRiverRoad" tvg-logo="https://archive.org/download/DownTheRiverRoad/format=Thumbnail",Down The River Road
+https://archive.org/download/DownTheRiverRoad/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="DancehallJamaica" tvg-logo="https://archive.org/download/DancehallJamaica/format=Thumbnail",Dancehall Jamaica
 https://archive.org/download/DancehallJamaica/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Chukovsky" tvg-logo="https://archive.org/download/Chukovsky/format=Thumbnail",Чуковский
