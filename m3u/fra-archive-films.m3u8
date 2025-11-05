@@ -11,8 +11,14 @@ https://archive.org/download/peach-skin_1929/format=MPEG4
 https://archive.org/download/monte-cristo_1929/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="captain-fracasse_1929" tvg-name="Captain Fracasse" tvg-logo="https://archive.org/download/captain-fracasse_1929/format=Thumbnail" tvg-language="fra",Captain Fracasse (1929)
 https://archive.org/download/captain-fracasse_1929/format=MPEG4
+#EXTINF:-1 group-title="Film Noir" tvg-id="borsalino.-1970.1080p.-blu-ray.x-264.-aac" tvg-name="Borsalino (1970) Bluray" tvg-logo="https://archive.org/download/borsalino.-1970.1080p.-blu-ray.x-264.-aac/format=Thumbnail" tvg-language="fra",Borsalino (1970)
+https://archive.org/download/borsalino.-1970.1080p.-blu-ray.x-264.-aac/format=MPEG4
+#EXTINF:-1 group-title="Film Noir" tvg-id="melodie.en.sous.sol.1963.french.720p.bluray." tvg-name="Mélodie en sous-sol (1963) Bluray (English Title: Any Number Can Win)" tvg-logo="https://archive.org/download/melodie.en.sous.sol.1963.french.720p.bluray./format=Thumbnail" tvg-language="fra",Mélodie en sous-sol (1963) Bluray (English Title: Any Number Can Win)
+https://archive.org/download/melodie.en.sous.sol.1963.french.720p.bluray./format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="lanneedesmeduses" tvg-name="L'Année des méduses" tvg-logo="https://archive.org/download/lanneedesmeduses/format=Thumbnail" tvg-language="fra",L'Année des méduses (1984)
 https://archive.org/download/lanneedesmeduses/format=MPEG4
+#EXTINF:-1 group-title="Film Noir" tvg-id="breathless-1960" tvg-name="Breathless (1960)" tvg-logo="https://archive.org/download/breathless-1960/format=Thumbnail" tvg-language="fra",Breathless (1960)
+https://archive.org/download/breathless-1960/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="verdun-visions-dhistoire_1928" tvg-name="Verdun‚ visions d'histoire" tvg-logo="https://archive.org/download/verdun-visions-dhistoire_1928/format=Thumbnail" tvg-language="fra",Verdun‚ visions d'histoire (1928)
 https://archive.org/download/verdun-visions-dhistoire_1928/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="une-femme-a-passe_1928" tvg-name="Une femme a passé" tvg-logo="https://archive.org/download/une-femme-a-passe_1928/format=Thumbnail" tvg-language="fra",Une femme a passé (1928)
@@ -29,10 +35,54 @@ https://archive.org/download/the-horse-ate-the-hat_1928/format=MPEG4
 https://archive.org/download/mother-of-mine_1928/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="le-mystere-de-la-tour-eiffel_1928" tvg-name="Le mystère de la tour Eiffel" tvg-logo="https://archive.org/download/le-mystere-de-la-tour-eiffel_1928/format=Thumbnail" tvg-language="fra",Le mystère de la tour Eiffel (1928)
 https://archive.org/download/le-mystere-de-la-tour-eiffel_1928/format=MPEG4
+#EXTINF:-1 group-title="Film Noir" tvg-id="el-circulo-rojo-vose-sellada" tvg-name="EL CÍRCULO ROJO – (1970) [VOSE]" tvg-logo="https://archive.org/download/el-circulo-rojo-vose-sellada/format=Thumbnail" tvg-language="fra",EL CÍRCULO ROJO – (1970)
+https://archive.org/download/el-circulo-rojo-vose-sellada/format=h.264
+#EXTINF:-1 group-title="Film Noir" tvg-id="le-samurai-vose-sellada" tvg-name="EL SAMURAI - [VOSE] Sellada" tvg-logo="https://archive.org/download/le-samurai-vose-sellada/format=Thumbnail" tvg-language="fra",EL SAMURAI - [VOSE] Sellada (1967)
+https://archive.org/download/le-samurai-vose-sellada/format=h.264
+#EXTINF:-1 group-title="Film Noir" tvg-id="1969.-letoile-du-sud" tvg-name="1969. L'Étoile du sud" tvg-logo="https://archive.org/download/1969.-letoile-du-sud/format=Thumbnail" tvg-language="fra",1969. L'Étoile du sud (2023)
+https://archive.org/download/1969.-letoile-du-sud/format=MPEG4
+#EXTINF:-1 group-title="Film Noir" tvg-id="la-poison" tvg-name="La Poison" tvg-logo="https://archive.org/download/la-poison/format=Thumbnail" tvg-language="fra",La Poison (1951)
+https://archive.org/download/la-poison/format=h.264
+#EXTINF:-1 group-title="Film Noir" tvg-id="flesh-gordon_202309" tvg-name="Flesh Gordon" tvg-logo="https://archive.org/download/flesh-gordon_202309/format=Thumbnail" tvg-language="fra",Flesh Gordon (1974)
+https://archive.org/download/flesh-gordon_202309/format=h.264
+#EXTINF:-1 group-title="Film Noir" tvg-id="kill_20230911" tvg-name="Police Magnum (Kill)" tvg-logo="https://archive.org/download/kill_20230911/format=Thumbnail" tvg-language="fra",Police Magnum (Kill) (1971)
+https://archive.org/download/kill_20230911/format=MPEG4
+#EXTINF:-1 group-title="Film Noir" tvg-id="les-seins-de-glace_202309" tvg-name="Les Seins de glace" tvg-logo="https://archive.org/download/les-seins-de-glace_202309/format=Thumbnail" tvg-language="fra",Les Seins de glace (1974)
+https://archive.org/download/les-seins-de-glace_202309/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="les-novices-libertines" tvg-name="Les Novices libertines" tvg-logo="https://archive.org/download/les-novices-libertines/format=Thumbnail" tvg-language="fra",Les Novices libertines (1980)
 https://archive.org/download/les-novices-libertines/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="la-dentelliere" tvg-name="La Dentellière" tvg-logo="https://archive.org/download/la-dentelliere/format=Thumbnail" tvg-language="fra",La Dentellière (1977)
 https://archive.org/download/la-dentelliere/format=MPEG4
+#EXTINF:-1 group-title="Film Noir" tvg-id="belle-et-sebastien" tvg-name="Belle et Sébastien" tvg-logo="https://archive.org/download/belle-et-sebastien/format=Thumbnail" tvg-language="fra",Belle et Sébastien (1965)
+https://archive.org/download/belle-et-sebastien/format=h.264
+#EXTINF:-1 group-title="Film Noir" tvg-id="jean-de-la-tour-miracle" tvg-name="Jean de la Tour Miracle" tvg-logo="https://archive.org/download/jean-de-la-tour-miracle/format=Thumbnail" tvg-language="fra",Jean de la Tour Miracle (1967)
+https://archive.org/download/jean-de-la-tour-miracle/format=h.264
+#EXTINF:-1 group-title="Film Noir" tvg-id="les-compagnons-de-jehu-partie-02" tvg-name="Les Compagnons De Jéhu (1966)" tvg-logo="https://archive.org/download/les-compagnons-de-jehu-partie-02/format=Thumbnail" tvg-language="fra",Les Compagnons De Jéhu (1966)
+https://archive.org/download/les-compagnons-de-jehu-partie-02/format=h.264
+#EXTINF:-1 group-title="Film Noir" tvg-id="05-lile-mysterieuse-le-drapeau-noir" tvg-name="L'île Mysterieuse - 05 - Le Drapeau Noir" tvg-logo="https://archive.org/download/05-lile-mysterieuse-le-drapeau-noir/format=Thumbnail" tvg-language="fra",L'île Mysterieuse - 05 - Le Drapeau Noir (1973)
+https://archive.org/download/05-lile-mysterieuse-le-drapeau-noir/format=h.264
+#EXTINF:-1 group-title="Film Noir" tvg-id="enquetes-de-maigret-les-jean-richard-1970-ep-10-lecluse-1-dvd" tvg-name="Les Enquêtes De Maigret - Ep 10 - L'Écluse 1" tvg-logo="https://archive.org/download/enquetes-de-maigret-les-jean-richard-1970-ep-10-lecluse-1-dvd/format=Thumbnail" tvg-language="fra",Les Enquêtes De Maigret - Ep 10 - L'Écluse 1 (1970)
+https://archive.org/download/enquetes-de-maigret-les-jean-richard-1970-ep-10-lecluse-1-dvd/format=h.264
+#EXTINF:-1 group-title="Film Noir" tvg-id="enquetes-de-maigret-les-jean-richard-1969-ep-09-la-nuit-du-carrefour-dvd" tvg-name="Les Enquêtes De Maigret - Ep 09 - La Nuit Du Carrefour" tvg-logo="https://archive.org/download/enquetes-de-maigret-les-jean-richard-1969-ep-09-la-nuit-du-carrefour-dvd/format=Thumbnail" tvg-language="fra",Les Enquêtes De Maigret - Ep 09 - La Nuit Du Carrefour (1969)
+https://archive.org/download/enquetes-de-maigret-les-jean-richard-1969-ep-09-la-nuit-du-carrefour-dvd/format=h.264
+#EXTINF:-1 group-title="Film Noir" tvg-id="enquetes-de-maigret-les-jean-richard-1969-ep-08-l-ombre-chinoise-dvd" tvg-name="Les Enquêtes De Maigret - Ep 08 - L'Ombre Chinoise" tvg-logo="https://archive.org/download/enquetes-de-maigret-les-jean-richard-1969-ep-08-l-ombre-chinoise-dvd/format=Thumbnail" tvg-language="fra",Les Enquêtes De Maigret - Ep 08 - L'Ombre Chinoise (1969)
+https://archive.org/download/enquetes-de-maigret-les-jean-richard-1969-ep-08-l-ombre-chinoise-dvd/format=h.264
+#EXTINF:-1 group-title="Film Noir" tvg-id="enquetes-de-maigret-les-jean-richard-1969-ep-07-la-maison-du-juge-dvd" tvg-name="Les Enquêtes De Maigret - Ep 07 - La Maison Du Juge" tvg-logo="https://archive.org/download/enquetes-de-maigret-les-jean-richard-1969-ep-07-la-maison-du-juge-dvd/format=Thumbnail" tvg-language="fra",Les Enquêtes De Maigret - Ep 07 - La Maison Du Juge (1969)
+https://archive.org/download/enquetes-de-maigret-les-jean-richard-1969-ep-07-la-maison-du-juge-dvd/format=h.264
+#EXTINF:-1 group-title="Film Noir" tvg-id="enquetes-de-maigret-les-jean-richard-1968-ep-06-felicie-est-la-dvd" tvg-name="Les Enquêtes De Maigret - Ep 06 - Félicie Est Là" tvg-logo="https://archive.org/download/enquetes-de-maigret-les-jean-richard-1968-ep-06-felicie-est-la-dvd/format=Thumbnail" tvg-language="fra",Les Enquêtes De Maigret - Ep 06 - Félicie Est Là (1968)
+https://archive.org/download/enquetes-de-maigret-les-jean-richard-1968-ep-06-felicie-est-la-dvd/format=h.264
+#EXTINF:-1 group-title="Film Noir" tvg-id="enquetes-de-maigret-les-jean-richard-1968-ep-05-linspecteur-cadavre-dvd" tvg-name="Les Enquêtes De Maigret - Ep 05 - L'inspecteur Cadavre" tvg-logo="https://archive.org/download/enquetes-de-maigret-les-jean-richard-1968-ep-05-linspecteur-cadavre-dvd/format=Thumbnail" tvg-language="fra",Les Enquêtes De Maigret - Ep 05 - L'inspecteur Cadavre (1968)
+https://archive.org/download/enquetes-de-maigret-les-jean-richard-1968-ep-05-linspecteur-cadavre-dvd/format=h.264
+#EXTINF:-1 group-title="Film Noir" tvg-id="enquetes-de-maigret-les-jean-richard-1968-ep-04-signe-picpus-dvd" tvg-name="Les Enquêtes De Maigret - Ep 04 - Signé Picpus" tvg-logo="https://archive.org/download/enquetes-de-maigret-les-jean-richard-1968-ep-04-signe-picpus-dvd/format=Thumbnail" tvg-language="fra",Les Enquêtes De Maigret - Ep 04 - Signé Picpus (1968)
+https://archive.org/download/enquetes-de-maigret-les-jean-richard-1968-ep-04-signe-picpus-dvd/format=h.264
+#EXTINF:-1 group-title="Film Noir" tvg-id="enquetes-de-maigret-les-jean-richard-1968-ep-03-le-chien-jaune-dvd" tvg-name="Les Enquêtes De Maigret - Ep 03 - Le Chien Jaune" tvg-logo="https://archive.org/download/enquetes-de-maigret-les-jean-richard-1968-ep-03-le-chien-jaune-dvd/format=Thumbnail" tvg-language="fra",Les Enquêtes De Maigret - Ep 03 - Le Chien Jaune (1968)
+https://archive.org/download/enquetes-de-maigret-les-jean-richard-1968-ep-03-le-chien-jaune-dvd/format=h.264
+#EXTINF:-1 group-title="Film Noir" tvg-id="enquetes-de-maigret-les-jean-richard-1967-ep-02-la-tete-dun-homme-dvd" tvg-name="Les Enquêtes De Maigret - ep 02 - La Tête D'un Homme" tvg-logo="https://archive.org/download/enquetes-de-maigret-les-jean-richard-1967-ep-02-la-tete-dun-homme-dvd/format=Thumbnail" tvg-language="fra",Les Enquêtes De Maigret - ep 02 - La Tête D'un Homme (1967)
+https://archive.org/download/enquetes-de-maigret-les-jean-richard-1967-ep-02-la-tete-dun-homme-dvd/format=h.264
+#EXTINF:-1 group-title="Film Noir" tvg-id="enquetes-de-maigret-les-jean-richard-1967-ep-01-cecile-est-morte" tvg-name="Les Enquêtes De Maigret - Ep 01 - Cécile Est Morte" tvg-logo="https://archive.org/download/enquetes-de-maigret-les-jean-richard-1967-ep-01-cecile-est-morte/format=Thumbnail" tvg-language="fra",Les Enquêtes De Maigret - Ep 01 - Cécile Est Morte (1967)
+https://archive.org/download/enquetes-de-maigret-les-jean-richard-1967-ep-01-cecile-est-morte/format=h.264
+#EXTINF:-1 group-title="Film Noir" tvg-id="elevator-to-the-gallows-58" tvg-name="Elevator to the Gallows (1958)" tvg-logo="https://archive.org/download/elevator-to-the-gallows-58/format=Thumbnail" tvg-language="fra",Elevator to the Gallows (1958)
+https://archive.org/download/elevator-to-the-gallows-58/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="forbidden-games-1952-colorized-movie-720p-hd" tvg-name="Forbidden Games (restored‚ colorized‚ Eng sub) (1952‚ France‚ drama‚ imdb score: 8)" tvg-logo="https://archive.org/download/forbidden-games-1952-colorized-movie-720p-hd/format=Thumbnail" tvg-language="fra",Forbidden Games (restored‚ colorized‚ Eng sub) (1952)
 https://archive.org/download/forbidden-games-1952-colorized-movie-720p-hd/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="un-chien-andalou__1929-film__luis_bunuel" tvg-name="Un Chien Andalou" tvg-logo="https://archive.org/download/un-chien-andalou__1929-film__luis_bunuel/format=Thumbnail" tvg-language="fra",Un Chien Andalou (1929)
@@ -377,6 +427,8 @@ https://archive.org/download/moonlight-moovies-7/format=MPEG4
 https://archive.org/download/les-diaboliques-1955/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="Clodo" tvg-name="Clodo (1971)" tvg-logo="https://archive.org/download/Clodo/format=Thumbnail" tvg-language="fra",Clodo (1971) (1970)
 https://archive.org/download/Clodo/format=MPEG4
+#EXTINF:-1 group-title="Film Noir" tvg-id="lametamorphosedescloportes" tvg-name="Las alimañas ( 1965)" tvg-logo="https://archive.org/download/lametamorphosedescloportes/format=Thumbnail" tvg-language="fra",Las alimañas (1965)
+https://archive.org/download/lametamorphosedescloportes/format=h.264
 #EXTINF:-1 group-title="Film Noir" tvg-id="1971LeDrapeauNoirFlotteSurLaMarmite" tvg-name="1971 Le Drapeau Noir Flotte Sur La Marmite" tvg-logo="https://archive.org/download/1971LeDrapeauNoirFlotteSurLaMarmite/format=Thumbnail" tvg-language="fra",1971 Le Drapeau Noir Flotte Sur La Marmite
 https://archive.org/download/1971LeDrapeauNoirFlotteSurLaMarmite/format=h.264
 #EXTINF:-1 group-title="Film Noir" tvg-id="FearAndDesire1953_201808" tvg-name="Fear And Desire (1953)" tvg-logo="https://archive.org/download/FearAndDesire1953_201808/format=Thumbnail" tvg-language="fra",Fear And Desire (1953)

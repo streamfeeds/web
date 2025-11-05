@@ -731,6 +731,8 @@ https://archive.org/download/oro-en-la-mano-1943/format=h.264
 https://archive.org/download/la-tigra-1954/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="el-complejo-de-felipe-1951" tvg-name="El Complejo De Felipe (1951)" tvg-logo="https://archive.org/download/el-complejo-de-felipe-1951/format=Thumbnail" tvg-language="spa",El Complejo De Felipe (1951)
 https://archive.org/download/el-complejo-de-felipe-1951/format=h.264
+#EXTINF:-1 group-title="Film Noir" tvg-id="el-esqueleto-de-la-senora-morales-1960" tvg-name="EL ESQUELETO DE LA SEÑORA MORALES – (1960) [VOE]" tvg-logo="https://archive.org/download/el-esqueleto-de-la-senora-morales-1960/format=Thumbnail" tvg-language="spa",EL ESQUELETO DE LA SEÑORA MORALES – (1960)
+https://archive.org/download/el-esqueleto-de-la-senora-morales-1960/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="extrana-invasion-1965" tvg-name="Extraña Invasion (1965)" tvg-logo="https://archive.org/download/extrana-invasion-1965/format=Thumbnail" tvg-language="spa",Extraña Invasion (1965)
 https://archive.org/download/extrana-invasion-1965/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="el-jefe-1958" tvg-name="El Jefe (1958)" tvg-logo="https://archive.org/download/el-jefe-1958/format=Thumbnail" tvg-language="spa",El Jefe (1958)
@@ -1513,6 +1515,8 @@ https://archive.org/download/con-el-diablo-en-el-cuerpo-1947/format=h.264
 https://archive.org/download/la-barra-mendocina-1935/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="el-alma-del-bandoneon-1935" tvg-name="El Alma Del Bandoneon ( 1935)" tvg-logo="https://archive.org/download/el-alma-del-bandoneon-1935/format=Thumbnail" tvg-language="spa",El Alma Del Bandoneon (1935)
 https://archive.org/download/el-alma-del-bandoneon-1935/format=h.264
+#EXTINF:-1 group-title="Film Noir" tvg-id="the-criminal-life-of-archibaldo-de-la.-cruz-1955" tvg-name="The Criminal Life Of Archibaldo De La. Cruz (1955)" tvg-logo="https://archive.org/download/the-criminal-life-of-archibaldo-de-la.-cruz-1955/format=Thumbnail" tvg-language="spa",The Criminal Life Of Archibaldo De La. Cruz (1955)
+https://archive.org/download/the-criminal-life-of-archibaldo-de-la.-cruz-1955/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="dos-locos-en-el-aire-1976" tvg-name="Dos Locos En El Aire( 1976)" tvg-logo="https://archive.org/download/dos-locos-en-el-aire-1976/format=Thumbnail" tvg-language="spa",Dos Locos En El Aire(1976)
 https://archive.org/download/dos-locos-en-el-aire-1976/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="el-extrano-de-pelo-largo-1969" tvg-name="El Extraño De Pelo Largo( 1969)" tvg-logo="https://archive.org/download/el-extrano-de-pelo-largo-1969/format=Thumbnail" tvg-language="spa",El Extraño De Pelo Largo(1969)
@@ -2087,10 +2091,18 @@ https://archive.org/download/frankenstein-1931-doblada-al-espanol/format=h.264
 https://archive.org/download/night-of-the-living-dead-1968-doblada-al-espanol/format=h.264
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="invisible-man-1933-doblada-al-eapanol" tvg-name="Invisible Man ( 1933) Doblada Al Español FULL HD" tvg-logo="https://archive.org/download/invisible-man-1933-doblada-al-eapanol/format=Thumbnail" tvg-language="spa",Invisible Man (1933)
 https://archive.org/download/invisible-man-1933-doblada-al-eapanol/format=h.264
+#EXTINF:-1 group-title="Film Noir" tvg-id="1975.-viaje-fantastico-en-globo" tvg-name="1975. Viaje fantástico en globo" tvg-logo="https://archive.org/download/1975.-viaje-fantastico-en-globo/format=Thumbnail" tvg-language="spa",1975. Viaje fantástico en globo (2024)
+https://archive.org/download/1975.-viaje-fantastico-en-globo/format=MPEG4
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="king-kong-1933-espanol_202401" tvg-name="King Kong 1933 Español" tvg-logo="https://archive.org/download/king-kong-1933-espanol_202401/format=Thumbnail" tvg-language="spa",King Kong 1933 Español
 https://archive.org/download/king-kong-1933-espanol_202401/format=MPEG4
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="freaks-ano-1932-subtitulos-espanol" tvg-name="Freaks (año 1932) Subtitulos Español" tvg-logo="https://archive.org/download/freaks-ano-1932-subtitulos-espanol/format=Thumbnail" tvg-language="spa",Freaks (año 1932) Subtitulos Español
 https://archive.org/download/freaks-ano-1932-subtitulos-espanol/format=MPEG4
+#EXTINF:-1 group-title="Film Noir" tvg-id="1950.-con-las-horas-contadas" tvg-name="1950. Con las horas contadas" tvg-logo="https://archive.org/download/1950.-con-las-horas-contadas/format=Thumbnail" tvg-language="spa",1950. Con las horas contadas (2023)
+https://archive.org/download/1950.-con-las-horas-contadas/format=MPEG4
+#EXTINF:-1 group-title="Film Noir" tvg-id="1969.-la-estrella-del-sur" tvg-name="1969. La estrella del sur" tvg-logo="https://archive.org/download/1969.-la-estrella-del-sur/format=Thumbnail" tvg-language="spa",1969. La estrella del sur (2023)
+https://archive.org/download/1969.-la-estrella-del-sur/format=MPEG4
+#EXTINF:-1 group-title="Film Noir" tvg-id="la-sospechosa-1955" tvg-name="LA SOSPECHOSA – (1955)" tvg-logo="https://archive.org/download/la-sospechosa-1955/format=Thumbnail" tvg-language="spa",LA SOSPECHOSA – (1955)
+https://archive.org/download/la-sospechosa-1955/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="guerra-los-primeros-10000-anos" tvg-name="Guerra: Los primeros 10‚000 años" tvg-logo="https://archive.org/download/guerra-los-primeros-10000-anos/format=Thumbnail" tvg-language="spa",Guerra: Los primeros 10‚000 años (2020)
 https://archive.org/download/guerra-los-primeros-10000-anos/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="cronologia-del-doomverse-kai-doomentio100k" tvg-name="CRONOLOGIA DEL DOOMVERSE KAI #doomentio100k" tvg-logo="https://archive.org/download/cronologia-del-doomverse-kai-doomentio100k/format=Thumbnail" tvg-language="spa",CRONOLOGIA DEL DOOMVERSE KAI #doomentio100k (2022)
@@ -2277,6 +2289,12 @@ https://archive.org/download/lajungladeasfalto/format=MPEG4
 https://archive.org/download/losninosperdidosdelfranquismo/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="losojosdeamerica_201911" tvg-name="Los Ojos De América" tvg-logo="https://archive.org/download/losojosdeamerica_201911/format=Thumbnail" tvg-language="spa",Los Ojos De América
 https://archive.org/download/losojosdeamerica_201911/format=MPEG4
+#EXTINF:-1 group-title="Film Noir" tvg-id="la.huella.del.crimen..el.crimen.del.expreso.de.andalucia.1991" tvg-name="La.huella.del.crimen. . El.crimen.del.expreso.de. Andalucia.( 1991)" tvg-logo="https://archive.org/download/la.huella.del.crimen..el.crimen.del.expreso.de.andalucia.1991/format=Thumbnail" tvg-language="spa",La.huella.del.crimen. . El.crimen.del.expreso.de. Andalucia.(1991)
+https://archive.org/download/la.huella.del.crimen..el.crimen.del.expreso.de.andalucia.1991/format=MPEG4
+#EXTINF:-1 group-title="Film Noir" tvg-id="asesinoimplacable1971" tvg-name="Asesino Implacable ( 1971)" tvg-logo="https://archive.org/download/asesinoimplacable1971/format=Thumbnail" tvg-language="spa",Asesino Implacable (1971)
+https://archive.org/download/asesinoimplacable1971/format=h.264
+#EXTINF:-1 group-title="Film Noir" tvg-id="elcebo" tvg-name="El Cebo ( 1958)" tvg-logo="https://archive.org/download/elcebo/format=Thumbnail" tvg-language="spa",El Cebo (1958)
+https://archive.org/download/elcebo/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="Ondas_Yaiza_videoteca" tvg-name="Ondas_Yaiza_(videoteca)" tvg-logo="https://archive.org/download/Ondas_Yaiza_videoteca/format=Thumbnail" tvg-language="spa",Ondas_Yaiza_(videoteca) (2013)
 https://archive.org/download/Ondas_Yaiza_videoteca/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="star_wars_revelations_vose" tvg-name="star wars revelations" tvg-logo="https://archive.org/download/star_wars_revelations_vose/format=Thumbnail" tvg-language="spa",star wars revelations (2005)

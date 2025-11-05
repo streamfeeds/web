@@ -1,4 +1,20 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Film Noir" tvg-id="diabolik_202509" tvg-name="Diabolik" tvg-logo="https://archive.org/download/diabolik_202509/format=Thumbnail" tvg-language="ita",Diabolik (1968)
+https://archive.org/download/diabolik_202509/format=h.264
+#EXTINF:-1 group-title="Film Noir" tvg-id="acab_20250809" tvg-name="ACAB" tvg-logo="https://archive.org/download/acab_20250809/format=Thumbnail" tvg-language="ita",ACAB (2012)
+https://archive.org/download/acab_20250809/format=h.264
+#EXTINF:-1 group-title="Film Noir" tvg-id="f-svegliati-e-uccidi" tvg-name="F Svegliati E Uccidi" tvg-logo="https://archive.org/download/f-svegliati-e-uccidi/format=Thumbnail" tvg-language="ita",F Svegliati E Uccidi (1966)
+https://archive.org/download/f-svegliati-e-uccidi/format=h.264
+#EXTINF:-1 group-title="Film Noir" tvg-id="neve-rossa" tvg-name="Neve Rossa" tvg-logo="https://archive.org/download/neve-rossa/format=Thumbnail" tvg-language="ita",Neve Rossa (1951)
+https://archive.org/download/neve-rossa/format=h.264
+#EXTINF:-1 group-title="Film Noir" tvg-id="la-citta-si-difende" tvg-name="La Citta' Si Difende" tvg-logo="https://archive.org/download/la-citta-si-difende/format=Thumbnail" tvg-language="ita",La Citta' Si Difende (1951)
+https://archive.org/download/la-citta-si-difende/format=h.264
+#EXTINF:-1 group-title="Film Noir" tvg-id="arrivederci-amore-ciao" tvg-name="Arrivederci Amore‚ Ciao" tvg-logo="https://archive.org/download/arrivederci-amore-ciao/format=Thumbnail" tvg-language="ita",Arrivederci Amore‚ Ciao (2006)
+https://archive.org/download/arrivederci-amore-ciao/format=h.264
+#EXTINF:-1 group-title="Film Noir" tvg-id="cemento-armato" tvg-name="Cemento Armato" tvg-logo="https://archive.org/download/cemento-armato/format=Thumbnail" tvg-language="ita",Cemento Armato (2007)
+https://archive.org/download/cemento-armato/format=h.264
+#EXTINF:-1 group-title="Film Noir" tvg-id="il-caso-venere-privata" tvg-name="Il Caso Venere Privata" tvg-logo="https://archive.org/download/il-caso-venere-privata/format=Thumbnail" tvg-language="ita",Il Caso Venere Privata (1970)
+https://archive.org/download/il-caso-venere-privata/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="addio-giovinezza_1928" tvg-name="Addio giovinezza!" tvg-logo="https://archive.org/download/addio-giovinezza_1928/format=Thumbnail" tvg-language="ita",Addio giovinezza! (1928)
 https://archive.org/download/addio-giovinezza_1928/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="umberto-d-1952-colorized-movie-720p-hd" tvg-name="Umberto D. (restored‚ colorized‚ Eng sub) (1952‚ Dir: Vittorio De Sica‚ drama‚ imdb score: 8.2)" tvg-logo="https://archive.org/download/umberto-d-1952-colorized-movie-720p-hd/format=Thumbnail" tvg-language="ita",Umberto D. (restored‚ colorized‚ Eng sub) (1952)
