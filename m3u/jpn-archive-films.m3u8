@@ -31,6 +31,8 @@ https://archive.org/download/dobutsu-olympic-taikai_1928/format=MPEG4
 https://archive.org/download/crossroads_1928/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="chukon-giretsu--jitsuroku-chushingura_1928" tvg-name="Chûkon giretsu - Jitsuroku Chûshingura" tvg-logo="https://archive.org/download/chukon-giretsu--jitsuroku-chushingura_1928/format=Thumbnail" tvg-language="jpn",Chûkon giretsu - Jitsuroku Chûshingura (1928)
 https://archive.org/download/chukon-giretsu--jitsuroku-chushingura_1928/format=MPEG4
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="godzilla-1954-colorization-2020" tvg-name="Godzilla 1954 Official Toho Colorization" tvg-logo="https://archive.org/download/godzilla-1954-colorization-2020/format=Thumbnail" tvg-language="jpn",Godzilla 1954 Official Toho Colorization (2020)
+https://archive.org/download/godzilla-1954-colorization-2020/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="violence-jack-all-ovas" tvg-name="VIOLENCE JACK ALL OVAs(1986-1990) WIDESCREEN" tvg-logo="https://archive.org/download/violence-jack-all-ovas/format=Thumbnail" tvg-language="jpn",VIOLENCE JACK ALL OVAs(1986) (1990)
 https://archive.org/download/violence-jack-all-ovas/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="infection-2004" tvg-name="Infection [2004]" tvg-logo="https://archive.org/download/infection-2004/format=Thumbnail" tvg-language="jpn",Infection [2004]
@@ -69,7 +71,7 @@ https://archive.org/download/violence-at-noon/format=h.264
 https://archive.org/download/pleasures-of-the-flesh/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="japanese-summer-double-suicide" tvg-name="Japanese Summer Double Suicide" tvg-logo="https://archive.org/download/japanese-summer-double-suicide/format=Thumbnail" tvg-language="jpn",Japanese Summer Double Suicide (1967)
 https://archive.org/download/japanese-summer-double-suicide/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="house_20210324" tvg-name="House" tvg-logo="https://archive.org/download/house_20210324/format=Thumbnail" tvg-language="jpn",House (1977)
+#EXTINF:-1 group-title="Comedy Films" tvg-id="house_20210324" tvg-name="House" tvg-logo="https://archive.org/download/house_20210324/format=Thumbnail" tvg-language="jpn",House (1977)
 https://archive.org/download/house_20210324/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="in-the-realm-of-the-senses" tvg-name="In The Realm Of The Senses" tvg-logo="https://archive.org/download/in-the-realm-of-the-senses/format=Thumbnail" tvg-language="jpn",In The Realm Of The Senses (1976)
 https://archive.org/download/in-the-realm-of-the-senses/format=h.264
@@ -81,7 +83,7 @@ https://archive.org/download/the-naked-island/format=MPEG4
 https://archive.org/download/twenty-four-eyes/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="phoenix_202103" tvg-name="Phoenix" tvg-logo="https://archive.org/download/phoenix_202103/format=Thumbnail" tvg-language="jpn",Phoenix (1947)
 https://archive.org/download/phoenix_202103/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="spring-dreams" tvg-name="Spring Dreams" tvg-logo="https://archive.org/download/spring-dreams/format=Thumbnail" tvg-language="jpn",Spring Dreams (1960)
+#EXTINF:-1 group-title="Comedy Films" tvg-id="spring-dreams" tvg-name="Spring Dreams" tvg-logo="https://archive.org/download/spring-dreams/format=Thumbnail" tvg-language="jpn",Spring Dreams (1960)
 https://archive.org/download/spring-dreams/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="sword-of-the-beast" tvg-name="Sword Of The Beast" tvg-logo="https://archive.org/download/sword-of-the-beast/format=Thumbnail" tvg-language="jpn",Sword Of The Beast (1965)
 https://archive.org/download/sword-of-the-beast/format=MPEG4
@@ -195,7 +197,7 @@ https://archive.org/download/lone-wolf-and-cub-1-sword-of-vengeance/format=h.264
 https://archive.org/download/lone-wolf-and-cub-2-baby-cart-at-the-river-styx/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="25-zatoichis-conspiracy" tvg-name="25 - Zatoichi's Conspiracy" tvg-logo="https://archive.org/download/25-zatoichis-conspiracy/format=Thumbnail" tvg-language="jpn",25 - Zatoichi's Conspiracy (1973)
 https://archive.org/download/25-zatoichis-conspiracy/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="24-zatoichi-in-desperation" tvg-name="24 - Zatoichi In Desperation" tvg-logo="https://archive.org/download/24-zatoichi-in-desperation/format=Thumbnail" tvg-language="jpn",24 - Zatoichi In Desperation (1972)
+#EXTINF:-1 group-title="Comedy Films" tvg-id="24-zatoichi-in-desperation" tvg-name="24 - Zatoichi In Desperation" tvg-logo="https://archive.org/download/24-zatoichi-in-desperation/format=Thumbnail" tvg-language="jpn",24 - Zatoichi In Desperation (1972)
 https://archive.org/download/24-zatoichi-in-desperation/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="23-zatoichi-at-large" tvg-name="23 - Zatoichi At Large" tvg-logo="https://archive.org/download/23-zatoichi-at-large/format=Thumbnail" tvg-language="jpn",23 - Zatoichi At Large (1972)
 https://archive.org/download/23-zatoichi-at-large/format=h.264
@@ -233,9 +235,9 @@ https://archive.org/download/tokyo-story/format=h.264
 https://archive.org/download/early-summer_202012/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-flavor-of-green-tea-over-rice" tvg-name="The Flavor Of Green Tea Over Rice" tvg-logo="https://archive.org/download/the-flavor-of-green-tea-over-rice/format=Thumbnail" tvg-language="jpn",The Flavor Of Green Tea Over Rice (1952)
 https://archive.org/download/the-flavor-of-green-tea-over-rice/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="i-was-born-but" tvg-name="I Was Born But‚..." tvg-logo="https://archive.org/download/i-was-born-but/format=Thumbnail" tvg-language="jpn",I Was Born But‚... (1932)
+#EXTINF:-1 group-title="Comedy Films" tvg-id="i-was-born-but" tvg-name="I Was Born But‚..." tvg-logo="https://archive.org/download/i-was-born-but/format=Thumbnail" tvg-language="jpn",I Was Born But‚... (1932)
 https://archive.org/download/i-was-born-but/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="good-morning_202012" tvg-name="Good Morning" tvg-logo="https://archive.org/download/good-morning_202012/format=Thumbnail" tvg-language="jpn",Good Morning (1959)
+#EXTINF:-1 group-title="Comedy Films" tvg-id="good-morning_202012" tvg-name="Good Morning" tvg-logo="https://archive.org/download/good-morning_202012/format=Thumbnail" tvg-language="jpn",Good Morning (1959)
 https://archive.org/download/good-morning_202012/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="an-autumn-afternoon" tvg-name="An Autumn Afternoon" tvg-logo="https://archive.org/download/an-autumn-afternoon/format=Thumbnail" tvg-language="jpn",An Autumn Afternoon (1962)
 https://archive.org/download/an-autumn-afternoon/format=h.264
