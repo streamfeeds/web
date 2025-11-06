@@ -51,7 +51,7 @@ https://archive.org/download/kill_20230911/format=MPEG4
 https://archive.org/download/les-seins-de-glace_202309/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="les-novices-libertines" tvg-name="Les Novices libertines" tvg-logo="https://archive.org/download/les-novices-libertines/format=Thumbnail" tvg-language="fra",Les Novices libertines (1980)
 https://archive.org/download/les-novices-libertines/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="la-dentelliere" tvg-name="La Dentellière" tvg-logo="https://archive.org/download/la-dentelliere/format=Thumbnail" tvg-language="fra",La Dentellière (1977)
+#EXTINF:-1 group-title="Comedy Films" tvg-id="la-dentelliere" tvg-name="La Dentellière" tvg-logo="https://archive.org/download/la-dentelliere/format=Thumbnail" tvg-language="fra",La Dentellière (1977)
 https://archive.org/download/la-dentelliere/format=MPEG4
 #EXTINF:-1 group-title="Film Noir" tvg-id="belle-et-sebastien" tvg-name="Belle et Sébastien" tvg-logo="https://archive.org/download/belle-et-sebastien/format=Thumbnail" tvg-language="fra",Belle et Sébastien (1965)
 https://archive.org/download/belle-et-sebastien/format=h.264
@@ -145,7 +145,7 @@ https://archive.org/download/le-grand-amour/format=h.264
 https://archive.org/download/land-of-milk-and-honey/format=h.264
 #EXTINF:-1 group-title="Comedy Films" tvg-id="the-suitor" tvg-name="The Suitor" tvg-logo="https://archive.org/download/the-suitor/format=Thumbnail" tvg-language="fra",The Suitor (1963)
 https://archive.org/download/the-suitor/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="rupture_202108" tvg-name="Rupture" tvg-logo="https://archive.org/download/rupture_202108/format=Thumbnail" tvg-language="fra",Rupture (1961)
+#EXTINF:-1 group-title="Comedy Films" tvg-id="rupture_202108" tvg-name="Rupture" tvg-logo="https://archive.org/download/rupture_202108/format=Thumbnail" tvg-language="fra",Rupture (1961)
 https://archive.org/download/rupture_202108/format=h.264
 #EXTINF:-1 group-title="Comedy Films" tvg-id="happy-anniversary" tvg-name="Happy Anniversary" tvg-logo="https://archive.org/download/happy-anniversary/format=Thumbnail" tvg-language="fra",Happy Anniversary (1962)
 https://archive.org/download/happy-anniversary/format=h.264

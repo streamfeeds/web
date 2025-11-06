@@ -471,7 +471,7 @@ https://archive.org/download/novio-marido-y-amante-1948/format=MPEG4
 https://archive.org/download/mas-pobre-que-una-laucha-1955/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="juventud-sin-barreras-1979" tvg-name="Juventud Sin Barreras (1979)" tvg-logo="https://archive.org/download/juventud-sin-barreras-1979/format=Thumbnail" tvg-language="spa",Juventud Sin Barreras (1979)
 https://archive.org/download/juventud-sin-barreras-1979/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="el-desquite-1983" tvg-name="El Desquite (1983)" tvg-logo="https://archive.org/download/el-desquite-1983/format=Thumbnail" tvg-language="spa",El Desquite (1983)
+#EXTINF:-1 group-title="Film Noir" tvg-id="el-desquite-1983" tvg-name="El Desquite (1983)" tvg-logo="https://archive.org/download/el-desquite-1983/format=Thumbnail" tvg-language="spa",El Desquite (1983)
 https://archive.org/download/el-desquite-1983/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="el-ausente-1987" tvg-name="El Ausente (1987)" tvg-logo="https://archive.org/download/el-ausente-1987/format=Thumbnail" tvg-language="spa",El Ausente (1987)
 https://archive.org/download/el-ausente-1987/format=h.264
@@ -2197,7 +2197,7 @@ https://archive.org/download/la-banda-del-carro-rojo-1978-fullscreen/format=MPEG
 https://archive.org/download/video-4058-masacre-en-el-rio-tula-1985-dvdrip-lat-v.mkv/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="y-2-mate.is-caminos-de-michoacan-pelicula-completa-1979-0v-zp-2i-sum-j-0-720p-1639973551399" tvg-name="CAMINOS DE MICHOACAN( 1979)" tvg-logo="https://archive.org/download/y-2-mate.is-caminos-de-michoacan-pelicula-completa-1979-0v-zp-2i-sum-j-0-720p-1639973551399/format=Thumbnail" tvg-language="spa",CAMINOS DE MICHOACAN(1979)
 https://archive.org/download/y-2-mate.is-caminos-de-michoacan-pelicula-completa-1979-0v-zp-2i-sum-j-0-720p-1639973551399/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="2952-jalisco-nunca-pierde-1974-dvdrip-lat-mx-v.mkv" tvg-name="Jalisco Nunca Pierde ( 1974)" tvg-logo="https://archive.org/download/2952-jalisco-nunca-pierde-1974-dvdrip-lat-mx-v.mkv/format=Thumbnail" tvg-language="spa",Jalisco Nunca Pierde (1974)
+#EXTINF:-1 group-title="Comedy Films" tvg-id="2952-jalisco-nunca-pierde-1974-dvdrip-lat-mx-v.mkv" tvg-name="Jalisco Nunca Pierde ( 1974)" tvg-logo="https://archive.org/download/2952-jalisco-nunca-pierde-1974-dvdrip-lat-mx-v.mkv/format=Thumbnail" tvg-language="spa",Jalisco Nunca Pierde (1974)
 https://archive.org/download/2952-jalisco-nunca-pierde-1974-dvdrip-lat-mx-v.mkv/format=MPEG4
 #EXTINF:-1 group-title="Comedy Films" tvg-id="2961-picardia-mexicana-2-1980-tvrip-lat-mx-v.mkv" tvg-name="Picardia Mexicana 2 ( 1980)" tvg-logo="https://archive.org/download/2961-picardia-mexicana-2-1980-tvrip-lat-mx-v.mkv/format=Thumbnail" tvg-language="spa",Picardia Mexicana 2 (1980)
 https://archive.org/download/2961-picardia-mexicana-2-1980-tvrip-lat-mx-v.mkv/format=MPEG4
@@ -2219,7 +2219,7 @@ https://archive.org/download/y-2-mate.is-viento-negro-1965-pelicula-completa-hd-
 https://archive.org/download/y-2-mate.is-santa-claus-1959-pelicula-completa-espanol-jr-2-j-2-h-7f-gd-y-480p-1638504949281/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="el-arracadas" tvg-name="El Arracadas(1978)" tvg-logo="https://archive.org/download/el-arracadas/format=Thumbnail" tvg-language="spa",El Arracadas(1978)
 https://archive.org/download/el-arracadas/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="el-cuatrero" tvg-name="El Cuatrero(1989)" tvg-logo="https://archive.org/download/el-cuatrero/format=Thumbnail" tvg-language="spa",El Cuatrero(1989)
+#EXTINF:-1 group-title="Comedy Films" tvg-id="el-cuatrero" tvg-name="El Cuatrero(1989)" tvg-logo="https://archive.org/download/el-cuatrero/format=Thumbnail" tvg-language="spa",El Cuatrero(1989)
 https://archive.org/download/el-cuatrero/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="2954-el-tahur-1979-dvdrip-lat-mx-v.mkv" tvg-name="El Tahur ( 1979)" tvg-logo="https://archive.org/download/2954-el-tahur-1979-dvdrip-lat-mx-v.mkv/format=Thumbnail" tvg-language="spa",El Tahur (1979)
 https://archive.org/download/2954-el-tahur-1979-dvdrip-lat-mx-v.mkv/format=MPEG4
