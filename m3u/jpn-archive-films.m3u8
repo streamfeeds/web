@@ -1,4 +1,8 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="onibaba.-1964_202511" tvg-name="Onibaba (1964)" tvg-logo="https://archive.org/download/onibaba.-1964_202511/format=Thumbnail" tvg-language="jpn",Onibaba (1964)
+https://archive.org/download/onibaba.-1964_202511/format=MPEG4
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="a.-page.-of.-madness.-1926" tvg-name="A Page of Madness (1926)" tvg-logo="https://archive.org/download/a.-page.-of.-madness.-1926/format=Thumbnail" tvg-language="jpn",A Page of Madness (1926)
+https://archive.org/download/a.-page.-of.-madness.-1926/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="zanjin-zanbaken_1929" tvg-name="Zanjin zanbaken" tvg-logo="https://archive.org/download/zanjin-zanbaken_1929/format=Thumbnail" tvg-language="jpn",Zanjin zanbaken (1929)
 https://archive.org/download/zanjin-zanbaken_1929/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-stolen-lump_1929" tvg-name="The Stolen Lump" tvg-logo="https://archive.org/download/the-stolen-lump_1929/format=Thumbnail" tvg-language="jpn",The Stolen Lump (1929)

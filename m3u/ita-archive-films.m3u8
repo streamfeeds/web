@@ -1,4 +1,12 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the.-executioner.-1963" tvg-name="The Executioner (1963)" tvg-logo="https://archive.org/download/the.-executioner.-1963/format=Thumbnail" tvg-language="ita",The Executioner (1963)
+https://archive.org/download/the.-executioner.-1963/format=MPEG4
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the.day.of.the.owl.1968" tvg-name="The Day of the Owl (1968)" tvg-logo="https://archive.org/download/the.day.of.the.owl.1968/format=Thumbnail" tvg-language="ita",The Day of the Owl (1968)
+https://archive.org/download/the.day.of.the.owl.1968/format=MPEG4
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the.-great.-silence.-1968" tvg-name="The Great Silence (1968)" tvg-logo="https://archive.org/download/the.-great.-silence.-1968/format=Thumbnail" tvg-language="ita",The Great Silence (1968)
+https://archive.org/download/the.-great.-silence.-1968/format=MPEG4
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the.-italian.-connection.-1972" tvg-name="The Italian Connection (1972)" tvg-logo="https://archive.org/download/the.-italian.-connection.-1972/format=Thumbnail" tvg-language="ita",The Italian Connection (1972)
+https://archive.org/download/the.-italian.-connection.-1972/format=MPEG4
 #EXTINF:-1 group-title="Film Noir" tvg-id="diabolik_202509" tvg-name="Diabolik" tvg-logo="https://archive.org/download/diabolik_202509/format=Thumbnail" tvg-language="ita",Diabolik (1968)
 https://archive.org/download/diabolik_202509/format=h.264
 #EXTINF:-1 group-title="Film Noir" tvg-id="acab_20250809" tvg-name="ACAB" tvg-logo="https://archive.org/download/acab_20250809/format=Thumbnail" tvg-language="ita",ACAB (2012)
