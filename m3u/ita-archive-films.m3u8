@@ -1,4 +1,6 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="django.-1966_202512" tvg-name="Django (1966)" tvg-logo="https://archive.org/download/django.-1966_202512/format=Thumbnail" tvg-language="ita",Django (1966)
+https://archive.org/download/django.-1966_202512/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the.-executioner.-1963" tvg-name="The Executioner (1963)" tvg-logo="https://archive.org/download/the.-executioner.-1963/format=Thumbnail" tvg-language="ita",The Executioner (1963)
 https://archive.org/download/the.-executioner.-1963/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the.day.of.the.owl.1968" tvg-name="The Day of the Owl (1968)" tvg-logo="https://archive.org/download/the.day.of.the.owl.1968/format=Thumbnail" tvg-language="ita",The Day of the Owl (1968)
