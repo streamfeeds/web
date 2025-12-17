@@ -1,6 +1,8 @@
 ﻿#EXTM3U
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="der.-hund.-von.-baskerville.-1929" tvg-name="Der Hund Von Baskerville (1929)" tvg-logo="https://archive.org/download/der.-hund.-von.-baskerville.-1929/format=Thumbnail" tvg-language="deu",Der Hund Von Baskerville (1929)
 https://archive.org/download/der.-hund.-von.-baskerville.-1929/format=MPEG4
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the.-hands.-of.-orlac.-1924" tvg-name="The Hands of Orlac (1924)" tvg-logo="https://archive.org/download/the.-hands.-of.-orlac.-1924/format=Thumbnail" tvg-language="deu",The Hands of Orlac (1924)
+https://archive.org/download/the.-hands.-of.-orlac.-1924/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the.-golem.-1920" tvg-name="The Golem (1920)" tvg-logo="https://archive.org/download/the.-golem.-1920/format=Thumbnail" tvg-language="deu",The Golem (1920)
 https://archive.org/download/the.-golem.-1920/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="waxworks_1929" tvg-name="Waxworks" tvg-logo="https://archive.org/download/waxworks_1929/format=Thumbnail" tvg-language="deu",Waxworks (1929)
