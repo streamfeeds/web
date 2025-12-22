@@ -24731,10 +24731,10 @@ https://archive.org/download/Hithouse_Jack_To_The_Sound_Of_The_Underground.mpg/f
 https://archive.org/download/Highland_Bella_Stella/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Hit_n_Hide_Book_Of_Love.mpg" tvg-logo="https://archive.org/download/Hit_n_Hide_Book_Of_Love.mpg/format=Thumbnail",Hit 'n' Hide Book Of Love.mpg
 https://archive.org/download/Hit_n_Hide_Book_Of_Love.mpg/format=h.264
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="Herbie_-_Right_Type_Of_Mood" tvg-logo="https://archive.org/download/Herbie_-_Right_Type_Of_Mood/format=Thumbnail",Herbie Right Type Of Mood
-https://archive.org/download/Herbie_-_Right_Type_Of_Mood/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Heller_Farley_Project_-_Ultra_Flava.mpg" tvg-logo="https://archive.org/download/Heller_Farley_Project_-_Ultra_Flava.mpg/format=Thumbnail",Heller & Farley Project Ultra Flava.mpg
 https://archive.org/download/Heller_Farley_Project_-_Ultra_Flava.mpg/format=h.264
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Herbie_-_Right_Type_Of_Mood" tvg-logo="https://archive.org/download/Herbie_-_Right_Type_Of_Mood/format=Thumbnail",Herbie Right Type Of Mood
+https://archive.org/download/Herbie_-_Right_Type_Of_Mood/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Hands_Up_2001.mpg" tvg-logo="https://archive.org/download/Hands_Up_2001.mpg/format=Thumbnail",Hands Up (2001)
 https://archive.org/download/Hands_Up_2001.mpg/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Herbie_-_Pick_It_Up" tvg-logo="https://archive.org/download/Herbie_-_Pick_It_Up/format=Thumbnail",Herbie Pick It Up
@@ -25851,6 +25851,8 @@ https://archive.org/download/Coil-WindowpaneMusicVideo/format=h.264
 https://archive.org/download/NineInchNails-Broken/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="BLOCKHEAD_201507" tvg-logo="https://archive.org/download/BLOCKHEAD_201507/format=Thumbnail",BLOCKHEAD
 https://archive.org/download/BLOCKHEAD_201507/format=h.264
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="AxRaccoonsNumberOneFirstDate" tvg-logo="https://archive.org/download/AxRaccoonsNumberOneFirstDate/format=Thumbnail",Ax Raccoons - #1 First Date
+https://archive.org/download/AxRaccoonsNumberOneFirstDate/format=MPEG4
 #EXTINF:-1 group-title="Musictelevision" tvg-id="FloydArchive" tvg-logo="https://archive.org/download/FloydArchive/format=Thumbnail",Pink Floyd Archives
 https://archive.org/download/FloydArchive/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="CurbCobainVideovisits" tvg-logo="https://archive.org/download/CurbCobainVideovisits/format=Thumbnail",Curb Cobain Videovisits
