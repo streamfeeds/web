@@ -1,4 +1,6 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="extrana-ternura-1964" tvg-name="Extraña Ternura (1964)" tvg-logo="https://archive.org/download/extrana-ternura-1964/format=Thumbnail" tvg-language="spa",Extraña Ternura (1964)
+https://archive.org/download/extrana-ternura-1964/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="siete-para-un-secreto-1947" tvg-name="Siete Para Un Secreto (1947)" tvg-logo="https://archive.org/download/siete-para-un-secreto-1947/format=Thumbnail" tvg-language="spa",Siete Para Un Secreto (1947)
 https://archive.org/download/siete-para-un-secreto-1947/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="la-juventud-manda-1943" tvg-name="La Juventud Manda (1943)" tvg-logo="https://archive.org/download/la-juventud-manda-1943/format=Thumbnail" tvg-language="spa",La Juventud Manda (1943)
