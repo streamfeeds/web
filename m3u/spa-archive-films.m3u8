@@ -209,6 +209,8 @@ https://archive.org/download/la-campana-nueva-1950/format=h.264
 https://archive.org/download/vigilantes-y-ladrones-1952/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="mi-hermano-esopo-1952" tvg-name="Mi Hermano Esopo (1952)" tvg-logo="https://archive.org/download/mi-hermano-esopo-1952/format=Thumbnail" tvg-language="spa",Mi Hermano Esopo (1952)
 https://archive.org/download/mi-hermano-esopo-1952/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="el-viento-se-llevo-lo-que-1999-1080p" tvg-name="El viento se llevó lo que (1999) [1080p]" tvg-logo="https://archive.org/download/el-viento-se-llevo-lo-que-1999-1080p/format=Thumbnail" tvg-language="spa",El viento se llevó lo que (1999)
+https://archive.org/download/el-viento-se-llevo-lo-que-1999-1080p/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="cancion-de-la-nieve-1954" tvg-name="Cancion De La Nieve (1954)" tvg-logo="https://archive.org/download/cancion-de-la-nieve-1954/format=Thumbnail" tvg-language="spa",Cancion De La Nieve (1954)
 https://archive.org/download/cancion-de-la-nieve-1954/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="los-ojos-del-siglo-vol.-1-1957" tvg-name="Los Ojos Del Siglo Vol. 1 (1957)" tvg-logo="https://archive.org/download/los-ojos-del-siglo-vol.-1-1957/format=Thumbnail" tvg-language="spa",Los Ojos Del Siglo Vol. 1 (1957)
@@ -221,6 +223,8 @@ https://archive.org/download/he-nacido-en-buenos-aires-1959_202510/format=h.264
 https://archive.org/download/mis-amores-en-rio-1959/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="rebelde-con-causa-1961" tvg-name="Rebelde Con Causa (1961)" tvg-logo="https://archive.org/download/rebelde-con-causa-1961/format=Thumbnail" tvg-language="spa",Rebelde Con Causa (1961)
 https://archive.org/download/rebelde-con-causa-1961/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="sus-ojos-se-cerraron-1998-1080p" tvg-name="Sus ojos se cerraron (1998) [1080p]" tvg-logo="https://archive.org/download/sus-ojos-se-cerraron-1998-1080p/format=Thumbnail" tvg-language="spa",Sus ojos se cerraron (1998)
+https://archive.org/download/sus-ojos-se-cerraron-1998-1080p/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="amalio-reyes-un-hombre-1970" tvg-name="Amalio Reyes‚ Un Hombre (1970)" tvg-logo="https://archive.org/download/amalio-reyes-un-hombre-1970/format=Thumbnail" tvg-language="spa",Amalio Reyes‚ Un Hombre (1970)
 https://archive.org/download/amalio-reyes-un-hombre-1970/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="esquiu-una-luz-en-el-sendero-1965" tvg-name="Esquiu‚ Una Luz En El Sendero (1965)" tvg-logo="https://archive.org/download/esquiu-una-luz-en-el-sendero-1965/format=Thumbnail" tvg-language="spa",Esquiu‚ Una Luz En El Sendero (1965)
@@ -449,8 +453,12 @@ https://archive.org/download/las-ratas-1963/format=h.264
 https://archive.org/download/homenaje-a-la-hora-de-la-siesta-1962/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="los-tres-mosquiteros-1953" tvg-name="Los Tres Mosquiteros (1953)" tvg-logo="https://archive.org/download/los-tres-mosquiteros-1953/format=Thumbnail" tvg-language="spa",Los Tres Mosquiteros (1953)
 https://archive.org/download/los-tres-mosquiteros-1953/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="tango-no-me-dejes-nunca-1998-1080p" tvg-name="Tango‚ no me dejes nunca (1998) [4:3] [1080p]" tvg-logo="https://archive.org/download/tango-no-me-dejes-nunca-1998-1080p/format=Thumbnail" tvg-language="spa",Tango‚ no me dejes nunca (1998)
+https://archive.org/download/tango-no-me-dejes-nunca-1998-1080p/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="el-infierno-tan-temido-1980-1080p" tvg-name="El infierno tan temido (1980) [1080p]" tvg-logo="https://archive.org/download/el-infierno-tan-temido-1980-1080p/format=Thumbnail" tvg-language="spa",El infierno tan temido (1980)
 https://archive.org/download/el-infierno-tan-temido-1980-1080p/format=MPEG4
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="eva-peron-1996-1080p" tvg-name="Eva Perón (1996) [1080p]" tvg-logo="https://archive.org/download/eva-peron-1996-1080p/format=Thumbnail" tvg-language="spa",Eva Perón (1996)
+https://archive.org/download/eva-peron-1996-1080p/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="uei-paesano-1953" tvg-name="Uei Paesano (1953)" tvg-logo="https://archive.org/download/uei-paesano-1953/format=Thumbnail" tvg-language="spa",Uei Paesano (1953)
 https://archive.org/download/uei-paesano-1953/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="lauracha-1946" tvg-name="Lauracha (1946)" tvg-logo="https://archive.org/download/lauracha-1946/format=Thumbnail" tvg-language="spa",Lauracha (1946)
@@ -473,8 +481,12 @@ https://archive.org/download/santa-teresita-1950/format=h.264
 https://archive.org/download/y-los-suenos-pasan-1939_202507/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="la-virgencita-de-madera-1937" tvg-name="La Virgencita De Madera (1937)" tvg-logo="https://archive.org/download/la-virgencita-de-madera-1937/format=Thumbnail" tvg-language="spa",La Virgencita De Madera (1937)
 https://archive.org/download/la-virgencita-de-madera-1937/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="el-general-y-la-fiebre-1993-1080p" tvg-name="El general y la fiebre (1993) [1080p]" tvg-logo="https://archive.org/download/el-general-y-la-fiebre-1993-1080p/format=Thumbnail" tvg-language="spa",El general y la fiebre (1993)
+https://archive.org/download/el-general-y-la-fiebre-1993-1080p/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="madreselva-1938" tvg-name="Madreselva (1938)" tvg-logo="https://archive.org/download/madreselva-1938/format=Thumbnail" tvg-language="spa",Madreselva (1938)
 https://archive.org/download/madreselva-1938/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="extermineitors-iv-como-hermanos-gemelos-1992-4-3-1080p" tvg-name="Extermineitors IV: Como hermanos gemelos (1992) [4:3] [1080p]" tvg-logo="https://archive.org/download/extermineitors-iv-como-hermanos-gemelos-1992-4-3-1080p/format=Thumbnail" tvg-language="spa",Extermineitors IV: Como hermanos gemelos (1992)
+https://archive.org/download/extermineitors-iv-como-hermanos-gemelos-1992-4-3-1080p/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="extermineitors-ii-la-venganza-del-dragon-1990-43-1080p" tvg-name="Extermineitors II: La venganza del dragón (1990) [4:3] [1080p]" tvg-logo="https://archive.org/download/extermineitors-ii-la-venganza-del-dragon-1990-43-1080p/format=Thumbnail" tvg-language="spa",Extermineitors II: La venganza del dragón (1990)
 https://archive.org/download/extermineitors-ii-la-venganza-del-dragon-1990-43-1080p/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="los-medicos-1978" tvg-name="Los Medicos (1978)" tvg-logo="https://archive.org/download/los-medicos-1978/format=Thumbnail" tvg-language="spa",Los Medicos (1978)
@@ -497,6 +509,10 @@ https://archive.org/download/el-curandero-1955/format=h.264
 https://archive.org/download/gitano-1970/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="amigos-para-la-aventura-1978-parte-2" tvg-name="Amigos Para La Aventura (1978)" tvg-logo="https://archive.org/download/amigos-para-la-aventura-1978-parte-2/format=Thumbnail" tvg-language="spa",Amigos Para La Aventura (1978)
 https://archive.org/download/amigos-para-la-aventura-1978-parte-2/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="la-edad-del-sol-1999-1080p" tvg-name="La edad del sol (1999) [1080p]" tvg-logo="https://archive.org/download/la-edad-del-sol-1999-1080p/format=Thumbnail" tvg-language="spa",La edad del sol (1999)
+https://archive.org/download/la-edad-del-sol-1999-1080p/format=MPEG4
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="besos-en-la-frente-1996-1080p" tvg-name="Besos en la frente (1996) [1080p]" tvg-logo="https://archive.org/download/besos-en-la-frente-1996-1080p/format=Thumbnail" tvg-language="spa",Besos en la frente (1996)
+https://archive.org/download/besos-en-la-frente-1996-1080p/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="nativa-1939" tvg-name="Nativa (1939)" tvg-logo="https://archive.org/download/nativa-1939/format=Thumbnail" tvg-language="spa",Nativa (1939)
 https://archive.org/download/nativa-1939/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="viento-norte-1937" tvg-name="Viento Norte (1937)" tvg-logo="https://archive.org/download/viento-norte-1937/format=Thumbnail" tvg-language="spa",Viento Norte (1937)
@@ -509,6 +525,8 @@ https://archive.org/download/una-mujer-sin-cabeza-1947/format=h.264
 https://archive.org/download/cuando-florezca-el-naranjo-1943/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="la-mujer-y-el-jockey-hipodromo-1939" tvg-name="La Mujer Y El Jockey (Hipodromo) (1939)" tvg-logo="https://archive.org/download/la-mujer-y-el-jockey-hipodromo-1939/format=Thumbnail" tvg-language="spa",La Mujer Y El Jockey (Hipodromo) (1939)
 https://archive.org/download/la-mujer-y-el-jockey-hipodromo-1939/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="extermineitors-iv-como-hermanos-gemelos-1992-1080p" tvg-name="Extermineitors IV: Como hermanos gemelos (1992) [1080p]" tvg-logo="https://archive.org/download/extermineitors-iv-como-hermanos-gemelos-1992-1080p/format=Thumbnail" tvg-language="spa",Extermineitors IV: Como hermanos gemelos (1992)
+https://archive.org/download/extermineitors-iv-como-hermanos-gemelos-1992-1080p/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="pantaleon-y-las-visitadoras-1976" tvg-name="Pantaleon Y Las Visitadoras 1999" tvg-logo="https://archive.org/download/pantaleon-y-las-visitadoras-1976/format=Thumbnail" tvg-language="spa",Pantaleon Y Las Visitadoras 1999
 https://archive.org/download/pantaleon-y-las-visitadoras-1976/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="extermineitors-ii-la-venganza-del-dragon-1990-1080p" tvg-name="Extermineitors II: La venganza del dragón (1990) [1080p]" tvg-logo="https://archive.org/download/extermineitors-ii-la-venganza-del-dragon-1990-1080p/format=Thumbnail" tvg-language="spa",Extermineitors II: La venganza del dragón (1990)
@@ -527,6 +545,10 @@ https://archive.org/download/portena-de-corazon-1948/format=h.264
 https://archive.org/download/la-mujer-y-la-selva-1941/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="chimbela-1939" tvg-name="Chimbela (1939)" tvg-logo="https://archive.org/download/chimbela-1939/format=Thumbnail" tvg-language="spa",Chimbela (1939)
 https://archive.org/download/chimbela-1939/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="fantasmas-en-la-patagonia-1997-1080p" tvg-name="Fantasmas en la Patagonia (1997) [1080p]" tvg-logo="https://archive.org/download/fantasmas-en-la-patagonia-1997-1080p/format=Thumbnail" tvg-language="spa",Fantasmas en la Patagonia (1997)
+https://archive.org/download/fantasmas-en-la-patagonia-1997-1080p/format=MPEG4
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="historias-de-amor-de-locura-y-de-muerte-1996-1080p" tvg-name="Historias de amor‚ de locura y de muerte (1996) [1080p]" tvg-logo="https://archive.org/download/historias-de-amor-de-locura-y-de-muerte-1996-1080p/format=Thumbnail" tvg-language="spa",Historias de amor‚ de locura y de muerte (1996)
+https://archive.org/download/historias-de-amor-de-locura-y-de-muerte-1996-1080p/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="compacto-cupe-1963" tvg-name="Compacto Cupe (1963)" tvg-logo="https://archive.org/download/compacto-cupe-1963/format=Thumbnail" tvg-language="spa",Compacto Cupe (1963)
 https://archive.org/download/compacto-cupe-1963/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="de-balcarce-a-la-gloria-1966" tvg-name="De Balcarce A La Gloria (1966)" tvg-logo="https://archive.org/download/de-balcarce-a-la-gloria-1966/format=Thumbnail" tvg-language="spa",De Balcarce A La Gloria (1966)
@@ -649,6 +671,8 @@ https://archive.org/download/embrujo-de-amor-1971/format=h.264
 https://archive.org/download/subi-que-te-llevo-1980/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="los-padrinos-1972" tvg-name="Los Padrinos (1972)" tvg-logo="https://archive.org/download/los-padrinos-1972/format=Thumbnail" tvg-language="spa",Los Padrinos (1972)
 https://archive.org/download/los-padrinos-1972/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="sotto-voce-1996-1080p" tvg-name="Sotto voce (1996) [1080p]" tvg-logo="https://archive.org/download/sotto-voce-1996-1080p/format=Thumbnail" tvg-language="spa",Sotto voce (1996)
+https://archive.org/download/sotto-voce-1996-1080p/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="un-viaje-de-locos-1974" tvg-name="Un Viaje De Locos (1974)" tvg-logo="https://archive.org/download/un-viaje-de-locos-1974/format=Thumbnail" tvg-language="spa",Un Viaje De Locos (1974)
 https://archive.org/download/un-viaje-de-locos-1974/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="arena_20250523" tvg-name="Desnuda en la Arena 1969" tvg-logo="https://archive.org/download/arena_20250523/format=Thumbnail" tvg-language="spa",Desnuda en la Arena 1969
@@ -667,6 +691,8 @@ https://archive.org/download/humo-de-marihuana-1968/format=h.264
 https://archive.org/download/mas-alla-de-la-aventura-1980/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="olga-la-hija-de-aquella-princesa-rusa-1972" tvg-name="Olga‚ La Hija De Aquella Princesa Rusa (1972)" tvg-logo="https://archive.org/download/olga-la-hija-de-aquella-princesa-rusa-1972/format=Thumbnail" tvg-language="spa",Olga‚ La Hija De Aquella Princesa Rusa (1972)
 https://archive.org/download/olga-la-hija-de-aquella-princesa-rusa-1972/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="la-venganza-1999-1080p" tvg-name="La venganza (1999) [1080p]" tvg-logo="https://archive.org/download/la-venganza-1999-1080p/format=Thumbnail" tvg-language="spa",La venganza (1999)
+https://archive.org/download/la-venganza-1999-1080p/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="la-prodiga-1945" tvg-name="La Prodiga (1945)" tvg-logo="https://archive.org/download/la-prodiga-1945/format=Thumbnail" tvg-language="spa",La Prodiga (1945)
 https://archive.org/download/la-prodiga-1945/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="divorcio-en-montevideo-1939" tvg-name="Divorcio En Montevideo (1939)" tvg-logo="https://archive.org/download/divorcio-en-montevideo-1939/format=Thumbnail" tvg-language="spa",Divorcio En Montevideo (1939)
@@ -2449,6 +2475,8 @@ https://archive.org/download/la.huella.del.crimen..el.crimen.del.expreso.de.anda
 https://archive.org/download/asesinoimplacable1971/format=h.264
 #EXTINF:-1 group-title="Film Noir" tvg-id="elcebo" tvg-name="El Cebo ( 1958)" tvg-logo="https://archive.org/download/elcebo/format=Thumbnail" tvg-language="spa",El Cebo (1958)
 https://archive.org/download/elcebo/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="GolpeDeEstadio" tvg-name="Golpe De Estadio" tvg-logo="https://archive.org/download/GolpeDeEstadio/format=Thumbnail" tvg-language="spa",Golpe De Estadio (1998)
+https://archive.org/download/GolpeDeEstadio/format=MPEG4
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="ElHotelDelTerror1960Espanol" tvg-name="El Hotel Del Terror -1960- español" tvg-logo="https://archive.org/download/ElHotelDelTerror1960Espanol/format=Thumbnail" tvg-language="spa",El Hotel Del Terror -1960- español
 https://archive.org/download/ElHotelDelTerror1960Espanol/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="Ondas_Yaiza_videoteca" tvg-name="Ondas_Yaiza_(videoteca)" tvg-logo="https://archive.org/download/Ondas_Yaiza_videoteca/format=Thumbnail" tvg-language="spa",Ondas_Yaiza_(videoteca) (2013)
