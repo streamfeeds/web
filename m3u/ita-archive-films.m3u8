@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1 group-title="Feature films" tvg-id="la-canzone-dellamore_1930" tvg-name="La canzone dell'amore" tvg-logo="https://archive.org/download/la-canzone-dellamore_1930/format=Thumbnail" tvg-language="ita",La canzone dell'amore (1930)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="la-canzone-dellamore_1930" tvg-name="La canzone dell'amore" tvg-logo="https://archive.org/download/la-canzone-dellamore_1930/format=Thumbnail" tvg-language="ita",La canzone dell'amore (1930)
 https://archive.org/download/la-canzone-dellamore_1930/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="django.-1966_202512" tvg-name="Django (1966)" tvg-logo="https://archive.org/download/django.-1966_202512/format=Thumbnail" tvg-language="ita",Django (1966)
 https://archive.org/download/django.-1966_202512/format=MPEG4
