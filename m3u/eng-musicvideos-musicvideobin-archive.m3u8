@@ -307,6 +307,12 @@ https://archive.org/download/tac-pham-nghe-thuat-nhat-truong-productions/format=
 https://archive.org/download/analog-20230526-2132-a-a/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="oingo-boingo-private-life-" tvg-logo="https://archive.org/download/oingo-boingo-private-life-/format=Thumbnail",Private Life by OIngo Boingo Music Video
 https://archive.org/download/oingo-boingo-private-life-/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="ecorie-tv-in-the-mood-1941" tvg-logo="https://archive.org/download/ecorie-tv-in-the-mood-1941/format=Thumbnail",EcorieTv-In The Mood (1941)
+https://archive.org/download/ecorie-tv-in-the-mood-1941/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="ecorie-tv-chattanooga-choo-choo-1941" tvg-logo="https://archive.org/download/ecorie-tv-chattanooga-choo-choo-1941/format=Thumbnail",EcorieTv-Chattanooga Choo Choo (1941)
+https://archive.org/download/ecorie-tv-chattanooga-choo-choo-1941/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="ecorie-tv-moonlight-serenade-1941" tvg-logo="https://archive.org/download/ecorie-tv-moonlight-serenade-1941/format=Thumbnail",EcorieTv-Moonlight Serenade (1941)
+https://archive.org/download/ecorie-tv-moonlight-serenade-1941/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="to-ng-ho-p-qua-ng-ca-o-trong-ha-i-minh-dvd-1" tvg-logo="https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-ha-i-minh-dvd-1/format=Thumbnail",TỔNG HỢP QUẢNG CÁO trong HẢI MINH DVD 1
 https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-ha-i-minh-dvd-1/format=MPEG4
 #EXTINF:-1 group-title="Borisbvideos" tvg-id="lobsterdust-shut-up-now" tvg-logo="https://archive.org/download/lobsterdust-shut-up-now/format=Thumbnail",Lobsterdust - Shut Up Now (Red Hot Chilli Peppers & Ting Tings)
@@ -873,10 +879,14 @@ https://archive.org/download/fissunix-when-the-shit-goes-zen/format=MPEG4
 https://archive.org/download/madonna-turn-up-the-radio-workprint-untouched-and-unmastered/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="jimi-plays-monterey-1986" tvg-logo="https://archive.org/download/jimi-plays-monterey-1986/format=Thumbnail",Jimi Plays Monterey (1986)
 https://archive.org/download/jimi-plays-monterey-1986/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="baby-metal-legend-of-1997-headbanger-mix" tvg-logo="https://archive.org/download/baby-metal-legend-of-1997-headbanger-mix/format=Thumbnail",Baby Metal Legend Of 1997 ' Headbanger' Live Mix (2013)
+https://archive.org/download/baby-metal-legend-of-1997-headbanger-mix/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="joni.-mitchell.-woman.of.-heart.and.-mind.-a.-life.-story" tvg-logo="https://archive.org/download/joni.-mitchell.-woman.of.-heart.and.-mind.-a.-life.-story/format=Thumbnail",Joni Mitchell - Woman of Heart and Mind
 https://archive.org/download/joni.-mitchell.-woman.of.-heart.and.-mind.-a.-life.-story/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="country-cowboys" tvg-logo="https://archive.org/download/country-cowboys/format=Thumbnail",Country Cowboys
 https://archive.org/download/country-cowboys/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="babymetal-death-legend-1997" tvg-logo="https://archive.org/download/babymetal-death-legend-1997/format=Thumbnail",BABYMETAL DEATH Legend 1997 (2013)
+https://archive.org/download/babymetal-death-legend-1997/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="dj-marao-videomix" tvg-logo="https://archive.org/download/dj-marao-videomix/format=Thumbnail",DJ Marao Videomix
 https://archive.org/download/dj-marao-videomix/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="viva-disco" tvg-logo="https://archive.org/download/viva-disco/format=Thumbnail",Viva Disco
