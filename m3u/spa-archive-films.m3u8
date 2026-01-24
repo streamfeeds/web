@@ -1,4 +1,10 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="para-vestir-santos-1955" tvg-name="Para Vestir Santos (1955)" tvg-logo="https://archive.org/download/para-vestir-santos-1955/format=Thumbnail" tvg-language="spa",Para Vestir Santos (1955)
+https://archive.org/download/para-vestir-santos-1955/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="la-cumparsita-1947" tvg-name="La Cumparsita ( 1947)" tvg-logo="https://archive.org/download/la-cumparsita-1947/format=Thumbnail" tvg-language="spa",La Cumparsita (1947)
+https://archive.org/download/la-cumparsita-1947/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="el-mejor-papa-del-mundo-1941" tvg-name="El Mejor Papa Del Mundo (1941)" tvg-logo="https://archive.org/download/el-mejor-papa-del-mundo-1941/format=Thumbnail" tvg-language="spa",El Mejor Papa Del Mundo (1941)
+https://archive.org/download/el-mejor-papa-del-mundo-1941/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="don-bildigerno-en-pago-milagro-1948" tvg-name="Don Bildigerno En Pago Milagro (1948)" tvg-logo="https://archive.org/download/don-bildigerno-en-pago-milagro-1948/format=Thumbnail" tvg-language="spa",Don Bildigerno En Pago Milagro (1948)
 https://archive.org/download/don-bildigerno-en-pago-milagro-1948/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="pobre-pero-honrado-1955" tvg-name="Pobre Pero Honrado (1955)" tvg-logo="https://archive.org/download/pobre-pero-honrado-1955/format=Thumbnail" tvg-language="spa",Pobre Pero Honrado (1955)
