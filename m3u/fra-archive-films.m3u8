@@ -3,7 +3,7 @@
 https://archive.org/download/miracle-of-the-wolves_1930/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="miss-europe_1930" tvg-name="Miss Europe" tvg-logo="https://archive.org/download/miss-europe_1930/format=Thumbnail" tvg-language="fra",Miss Europe (1930)
 https://archive.org/download/miss-europe_1930/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="under-the-roofs-of-paris_1930" tvg-name="Under the Roofs of Paris" tvg-logo="https://archive.org/download/under-the-roofs-of-paris_1930/format=Thumbnail" tvg-language="fra",Under the Roofs of Paris (1930)
+#EXTINF:-1 group-title="Comedy Films" tvg-id="under-the-roofs-of-paris_1930" tvg-name="Under the Roofs of Paris" tvg-logo="https://archive.org/download/under-the-roofs-of-paris_1930/format=Thumbnail" tvg-language="fra",Under the Roofs of Paris (1930)
 https://archive.org/download/under-the-roofs-of-paris_1930/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-mystery-of-the-yellow-room_1930" tvg-name="The Mystery of the Yellow Room" tvg-logo="https://archive.org/download/the-mystery-of-the-yellow-room_1930/format=Thumbnail" tvg-language="fra",The Mystery of the Yellow Room (1930)
 https://archive.org/download/the-mystery-of-the-yellow-room_1930/format=MPEG4
@@ -13,7 +13,7 @@ https://archive.org/download/tarakanova_1930/format=MPEG4
 https://archive.org/download/maman-colibri_1930/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="little-lise_1930" tvg-name="Little Lise" tvg-logo="https://archive.org/download/little-lise_1930/format=Thumbnail" tvg-language="fra",Little Lise (1930)
 https://archive.org/download/little-lise_1930/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="le-pompier-des-folies-bergeres_1930" tvg-name="Le pompier des Folies Bergères" tvg-logo="https://archive.org/download/le-pompier-des-folies-bergeres_1930/format=Thumbnail" tvg-language="fra",Le pompier des Folies Bergères (1930)
+#EXTINF:-1 group-title="Comedy Films" tvg-id="le-pompier-des-folies-bergeres_1930" tvg-name="Le pompier des Folies Bergères" tvg-logo="https://archive.org/download/le-pompier-des-folies-bergeres_1930/format=Thumbnail" tvg-language="fra",Le pompier des Folies Bergères (1930)
 https://archive.org/download/le-pompier-des-folies-bergeres_1930/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="dans-la-nuit_1930" tvg-name="Dans la nuit" tvg-logo="https://archive.org/download/dans-la-nuit_1930/format=Thumbnail" tvg-language="fra",Dans la nuit (1930)
 https://archive.org/download/dans-la-nuit_1930/format=MPEG4
@@ -23,25 +23,25 @@ https://archive.org/download/au-bonheur-des-dames_1930/format=MPEG4
 https://archive.org/download/stateline-motel-lultima-chance/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="sex-i-perestroyka-1990" tvg-name="Sex I Perestroyka 1990" tvg-logo="https://archive.org/download/sex-i-perestroyka-1990/format=Thumbnail" tvg-language="fra",Sex I Perestroyka 1990
 https://archive.org/download/sex-i-perestroyka-1990/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="01-l-ami-felon" tvg-name="The House of Mystery (1923)" tvg-logo="https://archive.org/download/01-l-ami-felon/format=Thumbnail" tvg-language="fra",The House of Mystery (1923)
+#EXTINF:-1 group-title="Silent films" tvg-id="01-l-ami-felon" tvg-name="The House of Mystery (1923)" tvg-logo="https://archive.org/download/01-l-ami-felon/format=Thumbnail" tvg-language="fra",The House of Mystery (1923)
 https://archive.org/download/01-l-ami-felon/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="Tin-Minh-1918" tvg-name="Tin Minh (1918)" tvg-logo="https://archive.org/download/Tin-Minh-1918/format=Thumbnail" tvg-language="fra",Tin Minh (1918)
+#EXTINF:-1 group-title="Silent films" tvg-id="Tin-Minh-1918" tvg-name="Tin Minh (1918)" tvg-logo="https://archive.org/download/Tin-Minh-1918/format=Thumbnail" tvg-language="fra",Tin Minh (1918)
 https://archive.org/download/Tin-Minh-1918/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="i-dont-want-to-be-a-man-1918" tvg-name="I Don't Want To Be A Man (1918)" tvg-logo="https://archive.org/download/i-dont-want-to-be-a-man-1918/format=Thumbnail" tvg-language="fra",I Don't Want To Be A Man (1918)
+#EXTINF:-1 group-title="Comedy Films" tvg-id="i-dont-want-to-be-a-man-1918" tvg-name="I Don't Want To Be A Man (1918)" tvg-logo="https://archive.org/download/i-dont-want-to-be-a-man-1918/format=Thumbnail" tvg-language="fra",I Don't Want To Be A Man (1918)
 https://archive.org/download/i-dont-want-to-be-a-man-1918/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="la-coquille-et-le-clergyman-1928_202507" tvg-name="The Seashell and the Clergyman (1928)" tvg-logo="https://archive.org/download/la-coquille-et-le-clergyman-1928_202507/format=Thumbnail" tvg-language="fra",The Seashell and the Clergyman (1928)
+#EXTINF:-1 group-title="Silent films" tvg-id="la-coquille-et-le-clergyman-1928_202507" tvg-name="The Seashell and the Clergyman (1928)" tvg-logo="https://archive.org/download/la-coquille-et-le-clergyman-1928_202507/format=Thumbnail" tvg-language="fra",The Seashell and the Clergyman (1928)
 https://archive.org/download/la-coquille-et-le-clergyman-1928_202507/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="bitches-the-les-chiennes-1973" tvg-name="Bitches‚ The‚ Les Chiennes 1973" tvg-logo="https://archive.org/download/bitches-the-les-chiennes-1973/format=Thumbnail" tvg-language="fra",Bitches‚ The‚ Les Chiennes 1973
 https://archive.org/download/bitches-the-les-chiennes-1973/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-smiling-madame-beudet" tvg-name="The Smiling Madame Beudet (1923)" tvg-logo="https://archive.org/download/the-smiling-madame-beudet/format=Thumbnail" tvg-language="fra",The Smiling Madame Beudet (1923)
+#EXTINF:-1 group-title="Silent films" tvg-id="the-smiling-madame-beudet" tvg-name="The Smiling Madame Beudet (1923)" tvg-logo="https://archive.org/download/the-smiling-madame-beudet/format=Thumbnail" tvg-language="fra",The Smiling Madame Beudet (1923)
 https://archive.org/download/the-smiling-madame-beudet/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="fanny-p" tvg-name="Fanny Pelopaja 1984" tvg-logo="https://archive.org/download/fanny-p/format=Thumbnail" tvg-language="fra",Fanny Pelopaja 1984
 https://archive.org/download/fanny-p/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="paradis-pour-tous-1982-patrick-dewaaere-jacques-dutronc-fanny-cottencon-stephane" tvg-name="Paradis Pour Tous 1982" tvg-logo="https://archive.org/download/paradis-pour-tous-1982-patrick-dewaaere-jacques-dutronc-fanny-cottencon-stephane/format=Thumbnail" tvg-language="fra",Paradis Pour Tous 1982
+#EXTINF:-1 group-title="Comedy Films" tvg-id="paradis-pour-tous-1982-patrick-dewaaere-jacques-dutronc-fanny-cottencon-stephane" tvg-name="Paradis Pour Tous 1982" tvg-logo="https://archive.org/download/paradis-pour-tous-1982-patrick-dewaaere-jacques-dutronc-fanny-cottencon-stephane/format=Thumbnail" tvg-language="fra",Paradis Pour Tous 1982
 https://archive.org/download/paradis-pour-tous-1982-patrick-dewaaere-jacques-dutronc-fanny-cottencon-stephane/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="devil-by-the-tail-the-le-diable-par-la-queue-1969-yves-montand-madeleine-renaud-" tvg-name="Devil By The Tail‚ The‚ Le Diable Par La Queue 1969" tvg-logo="https://archive.org/download/devil-by-the-tail-the-le-diable-par-la-queue-1969-yves-montand-madeleine-renaud-/format=Thumbnail" tvg-language="fra",Devil By The Tail‚ The‚ Le Diable Par La Queue 1969
+#EXTINF:-1 group-title="Comedy Films" tvg-id="devil-by-the-tail-the-le-diable-par-la-queue-1969-yves-montand-madeleine-renaud-" tvg-name="Devil By The Tail‚ The‚ Le Diable Par La Queue 1969" tvg-logo="https://archive.org/download/devil-by-the-tail-the-le-diable-par-la-queue-1969-yves-montand-madeleine-renaud-/format=Thumbnail" tvg-language="fra",Devil By The Tail‚ The‚ Le Diable Par La Queue 1969
 https://archive.org/download/devil-by-the-tail-the-le-diable-par-la-queue-1969-yves-montand-madeleine-renaud-/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="un-chien-andalou_1929" tvg-name="Un Chien Andalou" tvg-logo="https://archive.org/download/un-chien-andalou_1929/format=Thumbnail" tvg-language="fra",Un Chien Andalou (1929)
+#EXTINF:-1 group-title="SciFi Horror" tvg-id="un-chien-andalou_1929" tvg-name="Un Chien Andalou" tvg-logo="https://archive.org/download/un-chien-andalou_1929/format=Thumbnail" tvg-language="fra",Un Chien Andalou (1929)
 https://archive.org/download/un-chien-andalou_1929/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-prince-of-adventurers_1929" tvg-name="The Prince of Adventurers" tvg-logo="https://archive.org/download/the-prince-of-adventurers_1929/format=Thumbnail" tvg-language="fra",The Prince of Adventurers (1929)
 https://archive.org/download/the-prince-of-adventurers_1929/format=MPEG4
@@ -139,7 +139,7 @@ https://archive.org/download/enquetes-de-maigret-les-jean-richard-1967-ep-01-cec
 https://archive.org/download/elevator-to-the-gallows-58/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="ah-the-beautiful-priestesses-of-bacchus-1954-robert-dhery-colette-brosset-jacque" tvg-name="Ah The Beautiful Priestesses Of Bacchus 1954 Robert Dhery‚ Colette Brosset‚ Jacqueline Mailalan‚ Simone Clairs‚ Marthe Serres‚ Rosine Luguet‚ Liliane Autran" tvg-logo="https://archive.org/download/ah-the-beautiful-priestesses-of-bacchus-1954-robert-dhery-colette-brosset-jacque/format=Thumbnail" tvg-language="fra",Ah The Beautiful Priestesses Of Bacchus 1954 Robert Dhery‚ Colette Brosset‚ Jacqueline Mailalan‚ Simone Clairs‚ Marthe Serres‚ Rosine Luguet‚ Liliane Autran
 https://archive.org/download/ah-the-beautiful-priestesses-of-bacchus-1954-robert-dhery-colette-brosset-jacque/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="forbidden-games-1952-colorized-movie-720p-hd" tvg-name="Forbidden Games (restored‚ colorized‚ Eng sub) (1952‚ France‚ drama‚ imdb score: 8)" tvg-logo="https://archive.org/download/forbidden-games-1952-colorized-movie-720p-hd/format=Thumbnail" tvg-language="fra",Forbidden Games (restored‚ colorized‚ Eng sub) (1952)
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="forbidden-games-1952-colorized-movie-720p-hd" tvg-name="Forbidden Games (restored‚ colorized‚ Eng sub) (1952‚ France‚ drama‚ imdb score: 8)" tvg-logo="https://archive.org/download/forbidden-games-1952-colorized-movie-720p-hd/format=Thumbnail" tvg-language="fra",Forbidden Games (restored‚ colorized‚ Eng sub) (1952)
 https://archive.org/download/forbidden-games-1952-colorized-movie-720p-hd/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="un-chien-andalou__1929-film__luis_bunuel" tvg-name="Un Chien Andalou" tvg-logo="https://archive.org/download/un-chien-andalou__1929-film__luis_bunuel/format=Thumbnail" tvg-language="fra",Un Chien Andalou (1929)
 https://archive.org/download/un-chien-andalou__1929-film__luis_bunuel/format=h.264
@@ -193,7 +193,7 @@ https://archive.org/download/le-criminel/format=MPEG4
 https://archive.org/download/y-2-mate.is-la-noire-de...-black-girl-english-subs-1966-a-pc-uia-nbe-la-720p-1629687720861_202109/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="y-2-mate.is-la-noire-de...-black-girl-english-subs-1966-a-pc-uia-nbe-la-720p-1629687720861" tvg-name="Black Girl ( 1966) HD version" tvg-logo="https://archive.org/download/y-2-mate.is-la-noire-de...-black-girl-english-subs-1966-a-pc-uia-nbe-la-720p-1629687720861/format=Thumbnail" tvg-language="fra",Black Girl (1966)
 https://archive.org/download/y-2-mate.is-la-noire-de...-black-girl-english-subs-1966-a-pc-uia-nbe-la-720p-1629687720861/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="eyes-without-a-face-1960-restored-720p-hd" tvg-name="Eyes Without a Face - Les yeux sans visage (restored‚ uncut) (1960‚ France‚ horror‚ imdb score: 7.7)" tvg-logo="https://archive.org/download/eyes-without-a-face-1960-restored-720p-hd/format=Thumbnail" tvg-language="fra",Eyes Without a Face - Les yeux sans visage (restored‚ uncut) (1960)
+#EXTINF:-1 group-title="SciFi Horror" tvg-id="eyes-without-a-face-1960-restored-720p-hd" tvg-name="Eyes Without a Face - Les yeux sans visage (restored‚ uncut) (1960‚ France‚ horror‚ imdb score: 7.7)" tvg-logo="https://archive.org/download/eyes-without-a-face-1960-restored-720p-hd/format=Thumbnail" tvg-language="fra",Eyes Without a Face - Les yeux sans visage (restored‚ uncut) (1960)
 https://archive.org/download/eyes-without-a-face-1960-restored-720p-hd/format=h.264
 #EXTINF:-1 group-title="Comedy Films" tvg-id="le-grand-amour" tvg-name="Le Grand Amour" tvg-logo="https://archive.org/download/le-grand-amour/format=Thumbnail" tvg-language="fra",Le Grand Amour (1969)
 https://archive.org/download/le-grand-amour/format=h.264

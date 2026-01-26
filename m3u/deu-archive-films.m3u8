@@ -1,11 +1,11 @@
 ﻿#EXTM3U
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="pandoras-box_1930" tvg-name="Pandora's Box" tvg-logo="https://archive.org/download/pandoras-box_1930/format=Thumbnail" tvg-language="deu",Pandora's Box (1930)
 https://archive.org/download/pandoras-box_1930/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="liebling-der-gotter_1930" tvg-name="Liebling der Götter" tvg-logo="https://archive.org/download/liebling-der-gotter_1930/format=Thumbnail" tvg-language="deu",Liebling der Götter (1930)
+#EXTINF:-1 group-title="Comedy Films" tvg-id="liebling-der-gotter_1930" tvg-name="Liebling der Götter" tvg-logo="https://archive.org/download/liebling-der-gotter_1930/format=Thumbnail" tvg-language="deu",Liebling der Götter (1930)
 https://archive.org/download/liebling-der-gotter_1930/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="nur-du_1930" tvg-name="Nur Du" tvg-logo="https://archive.org/download/nur-du_1930/format=Thumbnail" tvg-language="deu",Nur Du (1930)
 https://archive.org/download/nur-du_1930/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="murder-for-sale_1930" tvg-name="Murder for Sale" tvg-logo="https://archive.org/download/murder-for-sale_1930/format=Thumbnail" tvg-language="deu",Murder for Sale (1930)
+#EXTINF:-1 group-title="Comedy Films" tvg-id="murder-for-sale_1930" tvg-name="Murder for Sale" tvg-logo="https://archive.org/download/murder-for-sale_1930/format=Thumbnail" tvg-language="deu",Murder for Sale (1930)
 https://archive.org/download/murder-for-sale_1930/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="westfront-1918_1930" tvg-name="Westfront 1918" tvg-logo="https://archive.org/download/westfront-1918_1930/format=Thumbnail" tvg-language="deu",Westfront 1918 (1930)
 https://archive.org/download/westfront-1918_1930/format=MPEG4
@@ -13,7 +13,7 @@ https://archive.org/download/westfront-1918_1930/format=MPEG4
 https://archive.org/download/white-hell-of-pitz-palu_1930/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="zwei-herzen-im-dreivierteltakt_1930" tvg-name="Zwei Herzen im Dreiviertel-Takt" tvg-logo="https://archive.org/download/zwei-herzen-im-dreivierteltakt_1930/format=Thumbnail" tvg-language="deu",Zwei Herzen im Dreiviertel-Takt (1930)
 https://archive.org/download/zwei-herzen-im-dreivierteltakt_1930/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="zwei-krawatten_1930" tvg-name="Zwei Krawatten" tvg-logo="https://archive.org/download/zwei-krawatten_1930/format=Thumbnail" tvg-language="deu",Zwei Krawatten (1930)
+#EXTINF:-1 group-title="Comedy Films" tvg-id="zwei-krawatten_1930" tvg-name="Zwei Krawatten" tvg-logo="https://archive.org/download/zwei-krawatten_1930/format=Thumbnail" tvg-language="deu",Zwei Krawatten (1930)
 https://archive.org/download/zwei-krawatten_1930/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="under-the-lantern_1930" tvg-name="Under the Lantern" tvg-logo="https://archive.org/download/under-the-lantern_1930/format=Thumbnail" tvg-language="deu",Under the Lantern (1930)
 https://archive.org/download/under-the-lantern_1930/format=MPEG4
@@ -35,19 +35,19 @@ https://archive.org/download/manolescu--der-konig-der-hochstapler_1930/format=MP
 https://archive.org/download/ludwig-der-zweite-konig-von-bayern_1930/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="love-in-the-ring_1930" tvg-name="Love in the Ring" tvg-logo="https://archive.org/download/love-in-the-ring_1930/format=Thumbnail" tvg-language="deu",Love in the Ring (1930)
 https://archive.org/download/love-in-the-ring_1930/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="hocuspocus_1930" tvg-name="Hocuspocus" tvg-logo="https://archive.org/download/hocuspocus_1930/format=Thumbnail" tvg-language="deu",Hocuspocus (1930)
+#EXTINF:-1 group-title="Comedy Films" tvg-id="hocuspocus_1930" tvg-name="Hocuspocus" tvg-logo="https://archive.org/download/hocuspocus_1930/format=Thumbnail" tvg-language="deu",Hocuspocus (1930)
 https://archive.org/download/hocuspocus_1930/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="he-or-i_1930" tvg-name="He or I" tvg-logo="https://archive.org/download/he-or-i_1930/format=Thumbnail" tvg-language="deu",He or I (1930)
+#EXTINF:-1 group-title="Comedy Films" tvg-id="he-or-i_1930" tvg-name="He or I" tvg-logo="https://archive.org/download/he-or-i_1930/format=Thumbnail" tvg-language="deu",He or I (1930)
 https://archive.org/download/he-or-i_1930/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="harbor-drift_1930" tvg-name="Harbor Drift" tvg-logo="https://archive.org/download/harbor-drift_1930/format=Thumbnail" tvg-language="deu",Harbor Drift (1930)
 https://archive.org/download/harbor-drift_1930/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="fair-people_1930" tvg-name="Fair People" tvg-logo="https://archive.org/download/fair-people_1930/format=Thumbnail" tvg-language="deu",Fair People (1930)
+#EXTINF:-1 group-title="Comedy Films" tvg-id="fair-people_1930" tvg-name="Fair People" tvg-logo="https://archive.org/download/fair-people_1930/format=Thumbnail" tvg-language="deu",Fair People (1930)
 https://archive.org/download/fair-people_1930/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="die-drei-von-der-tankstelle_1930" tvg-name="Die Drei von der Tankstelle" tvg-logo="https://archive.org/download/die-drei-von-der-tankstelle_1930/format=Thumbnail" tvg-language="deu",Die Drei von der Tankstelle (1930)
+#EXTINF:-1 group-title="Comedy Films" tvg-id="die-drei-von-der-tankstelle_1930" tvg-name="Die Drei von der Tankstelle" tvg-logo="https://archive.org/download/die-drei-von-der-tankstelle_1930/format=Thumbnail" tvg-language="deu",Die Drei von der Tankstelle (1930)
 https://archive.org/download/die-drei-von-der-tankstelle_1930/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="diary-of-a-lost-girl_1930" tvg-name="Diary of a Lost Girl" tvg-logo="https://archive.org/download/diary-of-a-lost-girl_1930/format=Thumbnail" tvg-language="deu",Diary of a Lost Girl (1930)
 https://archive.org/download/diary-of-a-lost-girl_1930/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="der-grosse-sprung_1930" tvg-name="Der große Sprung" tvg-logo="https://archive.org/download/der-grosse-sprung_1930/format=Thumbnail" tvg-language="deu",Der große Sprung (1930)
+#EXTINF:-1 group-title="Comedy Films" tvg-id="der-grosse-sprung_1930" tvg-name="Der große Sprung" tvg-logo="https://archive.org/download/der-grosse-sprung_1930/format=Thumbnail" tvg-language="deu",Der große Sprung (1930)
 https://archive.org/download/der-grosse-sprung_1930/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="ein-burschenlied-aus-heidelberg_1930" tvg-name="Ein Burschenlied aus Heidelberg" tvg-logo="https://archive.org/download/ein-burschenlied-aus-heidelberg_1930/format=Thumbnail" tvg-language="deu",Ein Burschenlied aus Heidelberg (1930)
 https://archive.org/download/ein-burschenlied-aus-heidelberg_1930/format=MPEG4
@@ -57,9 +57,9 @@ https://archive.org/download/die-singende-stadt_1930/format=MPEG4
 https://archive.org/download/dirnentragodie_1930/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="das-wolgamadchen_1930" tvg-name="Das Wolgamädchen" tvg-logo="https://archive.org/download/das-wolgamadchen_1930/format=Thumbnail" tvg-language="deu",Das Wolgamädchen (1930)
 https://archive.org/download/das-wolgamadchen_1930/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="dangers-of-the-engagement_1930" tvg-name="Dangers of the Engagement" tvg-logo="https://archive.org/download/dangers-of-the-engagement_1930/format=Thumbnail" tvg-language="deu",Dangers of the Engagement (1930)
+#EXTINF:-1 group-title="Comedy Films" tvg-id="dangers-of-the-engagement_1930" tvg-name="Dangers of the Engagement" tvg-logo="https://archive.org/download/dangers-of-the-engagement_1930/format=Thumbnail" tvg-language="deu",Dangers of the Engagement (1930)
 https://archive.org/download/dangers-of-the-engagement_1930/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="das-kabinett-des-dr-larifari_1930" tvg-name="Das Kabinett des Dr. Larifari" tvg-logo="https://archive.org/download/das-kabinett-des-dr-larifari_1930/format=Thumbnail" tvg-language="deu",Das Kabinett des Dr. Larifari (1930)
+#EXTINF:-1 group-title="Comedy Films" tvg-id="das-kabinett-des-dr-larifari_1930" tvg-name="Das Kabinett des Dr. Larifari" tvg-logo="https://archive.org/download/das-kabinett-des-dr-larifari_1930/format=Thumbnail" tvg-language="deu",Das Kabinett des Dr. Larifari (1930)
 https://archive.org/download/das-kabinett-des-dr-larifari_1930/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="boycott_1930" tvg-name="Boycott" tvg-logo="https://archive.org/download/boycott_1930/format=Thumbnail" tvg-language="deu",Boycott (1930)
 https://archive.org/download/boycott_1930/format=MPEG4
@@ -67,47 +67,47 @@ https://archive.org/download/boycott_1930/format=MPEG4
 https://archive.org/download/asphalt_1930/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="anna-christie_1930" tvg-name="Anna Christie" tvg-logo="https://archive.org/download/anna-christie_1930/format=Thumbnail" tvg-language="deu",Anna Christie (1930)
 https://archive.org/download/anna-christie_1930/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="devil-in-miss-jonas-the-der-teufel-in-miss-jonas-1976" tvg-name="Devil In Miss Jonas‚ The‚ Der Teufel In Miss Jonas 1974" tvg-logo="https://archive.org/download/devil-in-miss-jonas-the-der-teufel-in-miss-jonas-1976/format=Thumbnail" tvg-language="deu",Devil In Miss Jonas‚ The‚ Der Teufel In Miss Jonas 1974
+#EXTINF:-1 group-title="Comedy Films" tvg-id="devil-in-miss-jonas-the-der-teufel-in-miss-jonas-1976" tvg-name="Devil In Miss Jonas‚ The‚ Der Teufel In Miss Jonas 1974" tvg-logo="https://archive.org/download/devil-in-miss-jonas-the-der-teufel-in-miss-jonas-1976/format=Thumbnail" tvg-language="deu",Devil In Miss Jonas‚ The‚ Der Teufel In Miss Jonas 1974
 https://archive.org/download/devil-in-miss-jonas-the-der-teufel-in-miss-jonas-1976/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="der.-hund.-von.-baskerville.-1929" tvg-name="Der Hund Von Baskerville (1929)" tvg-logo="https://archive.org/download/der.-hund.-von.-baskerville.-1929/format=Thumbnail" tvg-language="deu",Der Hund Von Baskerville (1929)
+#EXTINF:-1 group-title="Silent films" tvg-id="der.-hund.-von.-baskerville.-1929" tvg-name="Der Hund Von Baskerville (1929)" tvg-logo="https://archive.org/download/der.-hund.-von.-baskerville.-1929/format=Thumbnail" tvg-language="deu",Der Hund Von Baskerville (1929)
 https://archive.org/download/der.-hund.-von.-baskerville.-1929/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the.-hands.-of.-orlac.-1924" tvg-name="The Hands of Orlac (1924)" tvg-logo="https://archive.org/download/the.-hands.-of.-orlac.-1924/format=Thumbnail" tvg-language="deu",The Hands of Orlac (1924)
+#EXTINF:-1 group-title="Silent films" tvg-id="the.-hands.-of.-orlac.-1924" tvg-name="The Hands of Orlac (1924)" tvg-logo="https://archive.org/download/the.-hands.-of.-orlac.-1924/format=Thumbnail" tvg-language="deu",The Hands of Orlac (1924)
 https://archive.org/download/the.-hands.-of.-orlac.-1924/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the.-golem.-1920" tvg-name="The Golem (1920)" tvg-logo="https://archive.org/download/the.-golem.-1920/format=Thumbnail" tvg-language="deu",The Golem (1920)
+#EXTINF:-1 group-title="Silent films" tvg-id="the.-golem.-1920" tvg-name="The Golem (1920)" tvg-logo="https://archive.org/download/the.-golem.-1920/format=Thumbnail" tvg-language="deu",The Golem (1920)
 https://archive.org/download/the.-golem.-1920/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="madame-and-her-niece-madame-und-ihre-nichte" tvg-name="Madame And Her Niece‚ Madame Und Ihre Nichte" tvg-logo="https://archive.org/download/madame-and-her-niece-madame-und-ihre-nichte/format=Thumbnail" tvg-language="deu",Madame And Her Niece‚ Madame Und Ihre Nichte (1969)
+#EXTINF:-1 group-title="Comedy Films" tvg-id="madame-and-her-niece-madame-und-ihre-nichte" tvg-name="Madame And Her Niece‚ Madame Und Ihre Nichte" tvg-logo="https://archive.org/download/madame-and-her-niece-madame-und-ihre-nichte/format=Thumbnail" tvg-language="deu",Madame And Her Niece‚ Madame Und Ihre Nichte (1969)
 https://archive.org/download/madame-and-her-niece-madame-und-ihre-nichte/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="komm-nach-wien-ich-zeig-dir-was-1970" tvg-name="Komm Nach Wien Ich Zeig Dir Was! 1970" tvg-logo="https://archive.org/download/komm-nach-wien-ich-zeig-dir-was-1970/format=Thumbnail" tvg-language="deu",Komm Nach Wien Ich Zeig Dir Was! 1970
+#EXTINF:-1 group-title="Comedy Films" tvg-id="komm-nach-wien-ich-zeig-dir-was-1970" tvg-name="Komm Nach Wien Ich Zeig Dir Was! 1970" tvg-logo="https://archive.org/download/komm-nach-wien-ich-zeig-dir-was-1970/format=Thumbnail" tvg-language="deu",Komm Nach Wien Ich Zeig Dir Was! 1970
 https://archive.org/download/komm-nach-wien-ich-zeig-dir-was-1970/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="holiday-report-urlaubsreport-woruber-reiseleiter-nicht-sprechen-durfen-1971" tvg-name="Holiday Report‚ Urlaubsreport‚ Woruber Reiseleiter Nicht Sprechen Durfen 1971" tvg-logo="https://archive.org/download/holiday-report-urlaubsreport-woruber-reiseleiter-nicht-sprechen-durfen-1971/format=Thumbnail" tvg-language="deu",Holiday Report‚ Urlaubsreport‚ Woruber Reiseleiter Nicht Sprechen Durfen 1971
+#EXTINF:-1 group-title="Comedy Films" tvg-id="holiday-report-urlaubsreport-woruber-reiseleiter-nicht-sprechen-durfen-1971" tvg-name="Holiday Report‚ Urlaubsreport‚ Woruber Reiseleiter Nicht Sprechen Durfen 1971" tvg-logo="https://archive.org/download/holiday-report-urlaubsreport-woruber-reiseleiter-nicht-sprechen-durfen-1971/format=Thumbnail" tvg-language="deu",Holiday Report‚ Urlaubsreport‚ Woruber Reiseleiter Nicht Sprechen Durfen 1971
 https://archive.org/download/holiday-report-urlaubsreport-woruber-reiseleiter-nicht-sprechen-durfen-1971/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="wide-open-marriage-hausfrauen-report-4-1973" tvg-name="Wide Open Marriage‚ Hausfrauen Report 4 1973" tvg-logo="https://archive.org/download/wide-open-marriage-hausfrauen-report-4-1973/format=Thumbnail" tvg-language="deu",Wide Open Marriage‚ Hausfrauen Report 4 1973
+#EXTINF:-1 group-title="Comedy Films" tvg-id="wide-open-marriage-hausfrauen-report-4-1973" tvg-name="Wide Open Marriage‚ Hausfrauen Report 4 1973" tvg-logo="https://archive.org/download/wide-open-marriage-hausfrauen-report-4-1973/format=Thumbnail" tvg-language="deu",Wide Open Marriage‚ Hausfrauen Report 4 1973
 https://archive.org/download/wide-open-marriage-hausfrauen-report-4-1973/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="komm-nur-mein-liebstes-vogelein-1968" tvg-name="Komm Nur‚ Mein Liebstes Vögelein 1968" tvg-logo="https://archive.org/download/komm-nur-mein-liebstes-vogelein-1968/format=Thumbnail" tvg-language="deu",Komm Nur‚ Mein Liebstes Vögelein 1968
+#EXTINF:-1 group-title="Comedy Films" tvg-id="komm-nur-mein-liebstes-vogelein-1968" tvg-name="Komm Nur‚ Mein Liebstes Vögelein 1968" tvg-logo="https://archive.org/download/komm-nur-mein-liebstes-vogelein-1968/format=Thumbnail" tvg-language="deu",Komm Nur‚ Mein Liebstes Vögelein 1968
 https://archive.org/download/komm-nur-mein-liebstes-vogelein-1968/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="helena-1924" tvg-name="Helena (1924)" tvg-logo="https://archive.org/download/helena-1924/format=Thumbnail" tvg-language="deu",Helena (1924)
+#EXTINF:-1 group-title="Silent films" tvg-id="helena-1924" tvg-name="Helena (1924)" tvg-logo="https://archive.org/download/helena-1924/format=Thumbnail" tvg-language="deu",Helena (1924)
 https://archive.org/download/helena-1924/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="anna-boleyn-1920" tvg-name="Anna Boleyn (1920)" tvg-logo="https://archive.org/download/anna-boleyn-1920/format=Thumbnail" tvg-language="deu",Anna Boleyn (1920)
+#EXTINF:-1 group-title="Silent films" tvg-id="anna-boleyn-1920" tvg-name="Anna Boleyn (1920)" tvg-logo="https://archive.org/download/anna-boleyn-1920/format=Thumbnail" tvg-language="deu",Anna Boleyn (1920)
 https://archive.org/download/anna-boleyn-1920/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="blind-husbands-1919" tvg-name="Blind Husbands (1919)" tvg-logo="https://archive.org/download/blind-husbands-1919/format=Thumbnail" tvg-language="deu",Blind Husbands (1919)
+#EXTINF:-1 group-title="Silent films" tvg-id="blind-husbands-1919" tvg-name="Blind Husbands (1919)" tvg-logo="https://archive.org/download/blind-husbands-1919/format=Thumbnail" tvg-language="deu",Blind Husbands (1919)
 https://archive.org/download/blind-husbands-1919/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="hamlet-the-drama-of-vengeance-1921" tvg-name="Hamlet: The Drama Of Vengeance (1921)" tvg-logo="https://archive.org/download/hamlet-the-drama-of-vengeance-1921/format=Thumbnail" tvg-language="deu",Hamlet: The Drama Of Vengeance (1921)
+#EXTINF:-1 group-title="Silent films" tvg-id="hamlet-the-drama-of-vengeance-1921" tvg-name="Hamlet: The Drama Of Vengeance (1921)" tvg-logo="https://archive.org/download/hamlet-the-drama-of-vengeance-1921/format=Thumbnail" tvg-language="deu",Hamlet: The Drama Of Vengeance (1921)
 https://archive.org/download/hamlet-the-drama-of-vengeance-1921/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="beichte-einer-liebestollen-sabena-hay-country-swingers" tvg-name="Beichte Einer Liebestollen‚ Sabena‚ Hay Country Swingers )" tvg-logo="https://archive.org/download/beichte-einer-liebestollen-sabena-hay-country-swingers/format=Thumbnail" tvg-language="deu",Beichte Einer Liebestollen‚ Sabena‚ Hay Country Swingers) (1971)
+#EXTINF:-1 group-title="Comedy Films" tvg-id="beichte-einer-liebestollen-sabena-hay-country-swingers" tvg-name="Beichte Einer Liebestollen‚ Sabena‚ Hay Country Swingers )" tvg-logo="https://archive.org/download/beichte-einer-liebestollen-sabena-hay-country-swingers/format=Thumbnail" tvg-language="deu",Beichte Einer Liebestollen‚ Sabena‚ Hay Country Swingers) (1971)
 https://archive.org/download/beichte-einer-liebestollen-sabena-hay-country-swingers/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="metropolis-1927-bdrip-1080p-x-265-dts-hd-ma-5.1-d-0ct-0r-lew-sev" tvg-name="Metropolis (1927)" tvg-logo="https://archive.org/download/metropolis-1927-bdrip-1080p-x-265-dts-hd-ma-5.1-d-0ct-0r-lew-sev/format=Thumbnail" tvg-language="deu",Metropolis (1927)
+#EXTINF:-1 group-title="Silent films" tvg-id="metropolis-1927-bdrip-1080p-x-265-dts-hd-ma-5.1-d-0ct-0r-lew-sev" tvg-name="Metropolis (1927)" tvg-logo="https://archive.org/download/metropolis-1927-bdrip-1080p-x-265-dts-hd-ma-5.1-d-0ct-0r-lew-sev/format=Thumbnail" tvg-language="deu",Metropolis (1927)
 https://archive.org/download/metropolis-1927-bdrip-1080p-x-265-dts-hd-ma-5.1-d-0ct-0r-lew-sev/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-golem-how-he-came-into-the-world-1920" tvg-name="The Golem꞉ How He Came Into The World (1920)" tvg-logo="https://archive.org/download/the-golem-how-he-came-into-the-world-1920/format=Thumbnail" tvg-language="deu",The Golem꞉ How He Came Into The World (1920)
+#EXTINF:-1 group-title="Silent films" tvg-id="the-golem-how-he-came-into-the-world-1920" tvg-name="The Golem꞉ How He Came Into The World (1920)" tvg-logo="https://archive.org/download/the-golem-how-he-came-into-the-world-1920/format=Thumbnail" tvg-language="deu",The Golem꞉ How He Came Into The World (1920)
 https://archive.org/download/the-golem-how-he-came-into-the-world-1920/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="faust-1926_202505" tvg-name="Faust (1926)" tvg-logo="https://archive.org/download/faust-1926_202505/format=Thumbnail" tvg-language="deu",Faust (1926)
+#EXTINF:-1 group-title="Silent films" tvg-id="faust-1926_202505" tvg-name="Faust (1926)" tvg-logo="https://archive.org/download/faust-1926_202505/format=Thumbnail" tvg-language="deu",Faust (1926)
 https://archive.org/download/faust-1926_202505/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="hurra-die-schwedinnen-sind-da-1978-scarlett-gunden-bea-fiedler-corinne-brodbeck-" tvg-name="Hurra Die Schwedinnen Sind Da 1978" tvg-logo="https://archive.org/download/hurra-die-schwedinnen-sind-da-1978-scarlett-gunden-bea-fiedler-corinne-brodbeck-/format=Thumbnail" tvg-language="deu",Hurra Die Schwedinnen Sind Da 1978
+#EXTINF:-1 group-title="Comedy Films" tvg-id="hurra-die-schwedinnen-sind-da-1978-scarlett-gunden-bea-fiedler-corinne-brodbeck-" tvg-name="Hurra Die Schwedinnen Sind Da 1978" tvg-logo="https://archive.org/download/hurra-die-schwedinnen-sind-da-1978-scarlett-gunden-bea-fiedler-corinne-brodbeck-/format=Thumbnail" tvg-language="deu",Hurra Die Schwedinnen Sind Da 1978
 https://archive.org/download/hurra-die-schwedinnen-sind-da-1978-scarlett-gunden-bea-fiedler-corinne-brodbeck-/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="anita-dances-of-vice-1987-lotti-huber-ina-blum-tilmann-lehnert-andreas-hofer-nad" tvg-name="Anita‚ Dances Of Vice‚ 1987" tvg-logo="https://archive.org/download/anita-dances-of-vice-1987-lotti-huber-ina-blum-tilmann-lehnert-andreas-hofer-nad/format=Thumbnail" tvg-language="deu",Anita‚ Dances Of Vice‚ 1987
 https://archive.org/download/anita-dances-of-vice-1987-lotti-huber-ina-blum-tilmann-lehnert-andreas-hofer-nad/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="popcorn-and-ice-cream-popcorn-und-himbeereis-1978-benny-schnier-olivia-pascal-za" tvg-name="Popcorn And Ice Cream‚ Popcorn Und Himbeereis 1978" tvg-logo="https://archive.org/download/popcorn-and-ice-cream-popcorn-und-himbeereis-1978-benny-schnier-olivia-pascal-za/format=Thumbnail" tvg-language="deu",Popcorn And Ice Cream‚ Popcorn Und Himbeereis 1978
+#EXTINF:-1 group-title="Comedy Films" tvg-id="popcorn-and-ice-cream-popcorn-und-himbeereis-1978-benny-schnier-olivia-pascal-za" tvg-name="Popcorn And Ice Cream‚ Popcorn Und Himbeereis 1978" tvg-logo="https://archive.org/download/popcorn-and-ice-cream-popcorn-und-himbeereis-1978-benny-schnier-olivia-pascal-za/format=Thumbnail" tvg-language="deu",Popcorn And Ice Cream‚ Popcorn Und Himbeereis 1978
 https://archive.org/download/popcorn-and-ice-cream-popcorn-und-himbeereis-1978-benny-schnier-olivia-pascal-za/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="waxworks_1929" tvg-name="Waxworks" tvg-logo="https://archive.org/download/waxworks_1929/format=Thumbnail" tvg-language="deu",Waxworks (1929)
+#EXTINF:-1 group-title="SciFi Horror" tvg-id="waxworks_1929" tvg-name="Waxworks" tvg-logo="https://archive.org/download/waxworks_1929/format=Thumbnail" tvg-language="deu",Waxworks (1929)
 https://archive.org/download/waxworks_1929/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="waterloo_1929" tvg-name="Waterloo" tvg-logo="https://archive.org/download/waterloo_1929/format=Thumbnail" tvg-language="deu",Waterloo (1929)
 https://archive.org/download/waterloo_1929/format=MPEG4
@@ -121,7 +121,7 @@ https://archive.org/download/the-great-gabbo_1929/format=MPEG4
 https://archive.org/download/the-devious-path_1929/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="spies_1929" tvg-name="Spies" tvg-logo="https://archive.org/download/spies_1929/format=Thumbnail" tvg-language="deu",Spies (1929)
 https://archive.org/download/spies_1929/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="nosferatu_1929" tvg-name="Nosferatu" tvg-logo="https://archive.org/download/nosferatu_1929/format=Thumbnail" tvg-language="deu",Nosferatu (1929)
+#EXTINF:-1 group-title="SciFi Horror" tvg-id="nosferatu_1929" tvg-name="Nosferatu" tvg-logo="https://archive.org/download/nosferatu_1929/format=Thumbnail" tvg-language="deu",Nosferatu (1929)
 https://archive.org/download/nosferatu_1929/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="refuge_1929" tvg-name="Refuge" tvg-logo="https://archive.org/download/refuge_1929/format=Thumbnail" tvg-language="deu",Refuge (1929)
 https://archive.org/download/refuge_1929/format=MPEG4
@@ -133,9 +133,9 @@ https://archive.org/download/mother-krauses-journey-to-happiness_1929/format=MPE
 https://archive.org/download/luther_1929/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="i-kiss-your-hand-madame_1929" tvg-name="I Kiss Your Hand Madame" tvg-logo="https://archive.org/download/i-kiss-your-hand-madame_1929/format=Thumbnail" tvg-language="deu",I Kiss Your Hand Madame (1929)
 https://archive.org/download/i-kiss-your-hand-madame_1929/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="der-hund-von-baskerville_1929" tvg-name="Der Hund von Baskerville" tvg-logo="https://archive.org/download/der-hund-von-baskerville_1929/format=Thumbnail" tvg-language="deu",Der Hund von Baskerville (1929)
+#EXTINF:-1 group-title="SciFi Horror" tvg-id="der-hund-von-baskerville_1929" tvg-name="Der Hund von Baskerville" tvg-logo="https://archive.org/download/der-hund-von-baskerville_1929/format=Thumbnail" tvg-language="deu",Der Hund von Baskerville (1929)
 https://archive.org/download/der-hund-von-baskerville_1929/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="cagliostro--liebe-und-leben-eines-grossen-abenteurers_1929" tvg-name="Cagliostro - Liebe und Leben eines großen Abenteurers" tvg-logo="https://archive.org/download/cagliostro--liebe-und-leben-eines-grossen-abenteurers_1929/format=Thumbnail" tvg-language="deu",Cagliostro - Liebe und Leben eines großen Abenteurers (1929)
+#EXTINF:-1 group-title="SciFi Horror" tvg-id="cagliostro--liebe-und-leben-eines-grossen-abenteurers_1929" tvg-name="Cagliostro - Liebe und Leben eines großen Abenteurers" tvg-logo="https://archive.org/download/cagliostro--liebe-und-leben-eines-grossen-abenteurers_1929/format=Thumbnail" tvg-language="deu",Cagliostro - Liebe und Leben eines großen Abenteurers (1929)
 https://archive.org/download/cagliostro--liebe-und-leben-eines-grossen-abenteurers_1929/format=MPEG4
 #EXTINF:-1 group-title="Mid-century-german-film" tvg-id="1943-geheimnis-tibet-ein-filmdokument-der-schafer-expedition-1938-1939" tvg-name="1943 Geheimnis Tibet Ein Filmdokument Der Schäfer Expedition 1938 1939" tvg-logo="https://archive.org/download/1943-geheimnis-tibet-ein-filmdokument-der-schafer-expedition-1938-1939/format=Thumbnail" tvg-language="deu",1943 Geheimnis Tibet Ein Filmdokument Der Schäfer Expedition 1938 1939
 https://archive.org/download/1943-geheimnis-tibet-ein-filmdokument-der-schafer-expedition-1938-1939/format=MPEG4
@@ -2103,13 +2103,13 @@ https://archive.org/download/das-meer-ruft-1933-mit-heinrich-george-erika-helmke
 https://archive.org/download/die-vom-rummelplatz-1930/format=MPEG4
 #EXTINF:-1 group-title="Comedy Films" tvg-id="baby-1932" tvg-name="Baby" tvg-logo="https://archive.org/download/baby-1932/format=Thumbnail" tvg-language="deu",Baby (1932)
 https://archive.org/download/baby-1932/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="hot-love-1985-hd-jorg-buttgereit-1" tvg-name="Hot Love ( 1985)" tvg-logo="https://archive.org/download/hot-love-1985-hd-jorg-buttgereit-1/format=Thumbnail" tvg-language="deu",Hot Love (1985)
+#EXTINF:-1 group-title="SciFi Horror" tvg-id="hot-love-1985-hd-jorg-buttgereit-1" tvg-name="Hot Love ( 1985)" tvg-logo="https://archive.org/download/hot-love-1985-hd-jorg-buttgereit-1/format=Thumbnail" tvg-language="deu",Hot Love (1985)
 https://archive.org/download/hot-love-1985-hd-jorg-buttgereit-1/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="der.-todesking.-1990.-german.-1080p.-blu-ray.-h-264.-aac-vxt" tvg-name="Der Todesking(1990) BD RIP" tvg-logo="https://archive.org/download/der.-todesking.-1990.-german.-1080p.-blu-ray.-h-264.-aac-vxt/format=Thumbnail" tvg-language="deu",Der Todesking(1990)
+#EXTINF:-1 group-title="SciFi Horror" tvg-id="der.-todesking.-1990.-german.-1080p.-blu-ray.-h-264.-aac-vxt" tvg-name="Der Todesking(1990) BD RIP" tvg-logo="https://archive.org/download/der.-todesking.-1990.-german.-1080p.-blu-ray.-h-264.-aac-vxt/format=Thumbnail" tvg-language="deu",Der Todesking(1990)
 https://archive.org/download/der.-todesking.-1990.-german.-1080p.-blu-ray.-h-264.-aac-vxt/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="nekromantik.-1987.1080p.-blu-ray.x-264-yts.-lt" tvg-name="Nekromantik(1987)1080p" tvg-logo="https://archive.org/download/nekromantik.-1987.1080p.-blu-ray.x-264-yts.-lt/format=Thumbnail" tvg-language="deu",Nekromantik(1987)
+#EXTINF:-1 group-title="SciFi Horror" tvg-id="nekromantik.-1987.1080p.-blu-ray.x-264-yts.-lt" tvg-name="Nekromantik(1987)1080p" tvg-logo="https://archive.org/download/nekromantik.-1987.1080p.-blu-ray.x-264-yts.-lt/format=Thumbnail" tvg-language="deu",Nekromantik(1987)
 https://archive.org/download/nekromantik.-1987.1080p.-blu-ray.x-264-yts.-lt/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-haunted-castle-1921-restored-movie-720p-hd" tvg-name="The Haunted Castle (restored) (1921‚ Dir: F.W. Murnau‚ German Expressionism‚ imdb score: 6.2)" tvg-logo="https://archive.org/download/the-haunted-castle-1921-restored-movie-720p-hd/format=Thumbnail" tvg-language="deu",The Haunted Castle  (1921)
+#EXTINF:-1 group-title="Silent films" tvg-id="the-haunted-castle-1921-restored-movie-720p-hd" tvg-name="The Haunted Castle (restored) (1921‚ Dir: F.W. Murnau‚ German Expressionism‚ imdb score: 6.2)" tvg-logo="https://archive.org/download/the-haunted-castle-1921-restored-movie-720p-hd/format=Thumbnail" tvg-language="deu",The Haunted Castle  (1921)
 https://archive.org/download/the-haunted-castle-1921-restored-movie-720p-hd/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="y-2-mate.is-the-merchant-of-four-seasons-original-title-handler-der-vier-jahresz" tvg-name="The Merchant Of Four Seasons (1972)" tvg-logo="https://archive.org/download/y-2-mate.is-the-merchant-of-four-seasons-original-title-handler-der-vier-jahresz/format=Thumbnail" tvg-language="deu",The Merchant Of Four Seasons (1972)
 https://archive.org/download/y-2-mate.is-the-merchant-of-four-seasons-original-title-handler-der-vier-jahresz/format=MPEG4
@@ -2119,9 +2119,9 @@ https://archive.org/download/the-sweet-pussycats-1969/format=MPEG4
 https://archive.org/download/yt-1s.com-ali-fear-eats-the-soul-angst-essen-seele-auf-1974-full-movie-brigitte-/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="lola_20210820" tvg-name="Lola" tvg-logo="https://archive.org/download/lola_20210820/format=Thumbnail" tvg-language="deu",Lola (1981)
 https://archive.org/download/lola_20210820/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="vampyr-alternate-english-intertiles" tvg-name="Vampyr (English intertiles and subtitles)" tvg-logo="https://archive.org/download/vampyr-alternate-english-intertiles/format=Thumbnail" tvg-language="deu",Vampyr (English intertiles and subtitles) (1932)
+#EXTINF:-1 group-title="SciFi Horror" tvg-id="vampyr-alternate-english-intertiles" tvg-name="Vampyr (English intertiles and subtitles)" tvg-logo="https://archive.org/download/vampyr-alternate-english-intertiles/format=Thumbnail" tvg-language="deu",Vampyr (English intertiles and subtitles) (1932)
 https://archive.org/download/vampyr-alternate-english-intertiles/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="vampr-german-intertiles" tvg-name="Vampyr ( Original German)" tvg-logo="https://archive.org/download/vampr-german-intertiles/format=Thumbnail" tvg-language="deu",Vampyr (Original German) (1932)
+#EXTINF:-1 group-title="SciFi Horror" tvg-id="vampr-german-intertiles" tvg-name="Vampyr ( Original German)" tvg-logo="https://archive.org/download/vampr-german-intertiles/format=Thumbnail" tvg-language="deu",Vampyr (Original German) (1932)
 https://archive.org/download/vampr-german-intertiles/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="berlin-alexanderplatz-epilogue" tvg-name="Berlin Alexanderplatz ( Epilogue)" tvg-logo="https://archive.org/download/berlin-alexanderplatz-epilogue/format=Thumbnail" tvg-language="deu",Berlin Alexanderplatz (Epilogue) (1980)
 https://archive.org/download/berlin-alexanderplatz-epilogue/format=h.264
@@ -2165,7 +2165,7 @@ https://archive.org/download/nora-helmer-1974/format=MPEG4
 https://archive.org/download/the-marriage-of-maria-braun-1979/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="rio-das-mortes-rainer-werner-fassbinder-1971-legendado-pt" tvg-name="Rio Das Mortes (1971)" tvg-logo="https://archive.org/download/rio-das-mortes-rainer-werner-fassbinder-1971-legendado-pt/format=Thumbnail" tvg-language="deu",Rio Das Mortes (1971)
 https://archive.org/download/rio-das-mortes-rainer-werner-fassbinder-1971-legendado-pt/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="world-on-a-wire-1973-welt-am-draht-original-title-crime-mystery-sci-fi-r-w-fassbinder-360p" tvg-name="World On A Wire (1973)" tvg-logo="https://archive.org/download/world-on-a-wire-1973-welt-am-draht-original-title-crime-mystery-sci-fi-r-w-fassbinder-360p/format=Thumbnail" tvg-language="deu",World On A Wire (1973)
+#EXTINF:-1 group-title="Film scifi" tvg-id="world-on-a-wire-1973-welt-am-draht-original-title-crime-mystery-sci-fi-r-w-fassbinder-360p" tvg-name="World On A Wire (1973)" tvg-logo="https://archive.org/download/world-on-a-wire-1973-welt-am-draht-original-title-crime-mystery-sci-fi-r-w-fassbinder-360p/format=Thumbnail" tvg-language="deu",World On A Wire (1973)
 https://archive.org/download/world-on-a-wire-1973-welt-am-draht-original-title-crime-mystery-sci-fi-r-w-fassbinder-360p/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="y-2-mate.is-whity-1971-dynlpc-xp-rs-360p-1623982429855" tvg-name="Whity(1971)" tvg-logo="https://archive.org/download/y-2-mate.is-whity-1971-dynlpc-xp-rs-360p-1623982429855/format=Thumbnail" tvg-language="deu",Whity(1971)
 https://archive.org/download/y-2-mate.is-whity-1971-dynlpc-xp-rs-360p-1623982429855/format=MPEG4
