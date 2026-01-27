@@ -1,4 +1,6 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="plaza-huincul-pozo-1-1960" tvg-name="Plaza Huincul (Pozo 1)(1960)" tvg-logo="https://archive.org/download/plaza-huincul-pozo-1-1960/format=Thumbnail" tvg-language="spa",Plaza Huincul (Pozo 1)(1960)
+https://archive.org/download/plaza-huincul-pozo-1-1960/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="para-vestir-santos-1955" tvg-name="Para Vestir Santos (1955)" tvg-logo="https://archive.org/download/para-vestir-santos-1955/format=Thumbnail" tvg-language="spa",Para Vestir Santos (1955)
 https://archive.org/download/para-vestir-santos-1955/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="la-cumparsita-1947" tvg-name="La Cumparsita ( 1947)" tvg-logo="https://archive.org/download/la-cumparsita-1947/format=Thumbnail" tvg-language="spa",La Cumparsita (1947)
