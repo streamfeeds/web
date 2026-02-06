@@ -1,4 +1,6 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="el-diablo-metio-la-pata-1980" tvg-name="El Diablo Metio La Pata (1980)" tvg-logo="https://archive.org/download/el-diablo-metio-la-pata-1980/format=Thumbnail" tvg-language="spa",El Diablo Metio La Pata (1980)
+https://archive.org/download/el-diablo-metio-la-pata-1980/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="plaza-huincul-pozo-1-1960" tvg-name="Plaza Huincul (Pozo 1)(1960)" tvg-logo="https://archive.org/download/plaza-huincul-pozo-1-1960/format=Thumbnail" tvg-language="spa",Plaza Huincul (Pozo 1)(1960)
 https://archive.org/download/plaza-huincul-pozo-1-1960/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="para-vestir-santos-1955" tvg-name="Para Vestir Santos (1955)" tvg-logo="https://archive.org/download/para-vestir-santos-1955/format=Thumbnail" tvg-language="spa",Para Vestir Santos (1955)
