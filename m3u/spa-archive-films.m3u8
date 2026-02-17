@@ -1,4 +1,12 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="sentimental-1980" tvg-name="Sentimental (1980)" tvg-logo="https://archive.org/download/sentimental-1980/format=Thumbnail" tvg-language="spa",Sentimental (1980)
+https://archive.org/download/sentimental-1980/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="hay-unos-tipos-abajo-1985" tvg-name="Hay Unos Tipos Abajo (1985)" tvg-logo="https://archive.org/download/hay-unos-tipos-abajo-1985/format=Thumbnail" tvg-language="spa",Hay Unos Tipos Abajo (1985)
+https://archive.org/download/hay-unos-tipos-abajo-1985/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="la-sagrada-familia-1988" tvg-name="La Sagrada Familia (1988)" tvg-logo="https://archive.org/download/la-sagrada-familia-1988/format=Thumbnail" tvg-language="spa",La Sagrada Familia (1988)
+https://archive.org/download/la-sagrada-familia-1988/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="en-la-cocina-con-porcel-1990" tvg-name="En La Cocina Con Porcel (1990)" tvg-logo="https://archive.org/download/en-la-cocina-con-porcel-1990/format=Thumbnail" tvg-language="spa",En La Cocina Con Porcel (1990)
+https://archive.org/download/en-la-cocina-con-porcel-1990/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="el-diablo-metio-la-pata-1980" tvg-name="El Diablo Metio La Pata (1980)" tvg-logo="https://archive.org/download/el-diablo-metio-la-pata-1980/format=Thumbnail" tvg-language="spa",El Diablo Metio La Pata (1980)
 https://archive.org/download/el-diablo-metio-la-pata-1980/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="plaza-huincul-pozo-1-1960" tvg-name="Plaza Huincul (Pozo 1)(1960)" tvg-logo="https://archive.org/download/plaza-huincul-pozo-1-1960/format=Thumbnail" tvg-language="spa",Plaza Huincul (Pozo 1)(1960)
