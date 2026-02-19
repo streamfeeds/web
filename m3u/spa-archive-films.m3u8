@@ -1,4 +1,10 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="escandalo-nocturno-1951" tvg-name="Escandalo Nocturno (1951)" tvg-logo="https://archive.org/download/escandalo-nocturno-1951/format=Thumbnail" tvg-language="spa",Escandalo Nocturno (1951)
+https://archive.org/download/escandalo-nocturno-1951/format=MPEG4
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="cuando-los-duendes-cazan-perdices-1955" tvg-name="Cuando Los Duendes Cazan Perdices (1955)" tvg-logo="https://archive.org/download/cuando-los-duendes-cazan-perdices-1955/format=Thumbnail" tvg-language="spa",Cuando Los Duendes Cazan Perdices (1955)
+https://archive.org/download/cuando-los-duendes-cazan-perdices-1955/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="adios-muchachos-1955" tvg-name="Adios Muchachos (1955)" tvg-logo="https://archive.org/download/adios-muchachos-1955/format=Thumbnail" tvg-language="spa",Adios Muchachos (1955)
+https://archive.org/download/adios-muchachos-1955/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="sentimental-1980" tvg-name="Sentimental (1980)" tvg-logo="https://archive.org/download/sentimental-1980/format=Thumbnail" tvg-language="spa",Sentimental (1980)
 https://archive.org/download/sentimental-1980/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="hay-unos-tipos-abajo-1985" tvg-name="Hay Unos Tipos Abajo (1985)" tvg-logo="https://archive.org/download/hay-unos-tipos-abajo-1985/format=Thumbnail" tvg-language="spa",Hay Unos Tipos Abajo (1985)
