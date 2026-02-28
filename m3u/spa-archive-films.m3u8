@@ -1,4 +1,8 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="una-mascara-para-ana-1966" tvg-name="Una Mascara Para Ana (1966)" tvg-logo="https://archive.org/download/una-mascara-para-ana-1966/format=Thumbnail" tvg-language="spa",Una Mascara Para Ana (1966)
+https://archive.org/download/una-mascara-para-ana-1966/format=MPEG4
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="nadie-oyo-gritar-a-cecilio-fuentes-1965" tvg-name="Nadie Oyo Gritar A Cecilio Fuentes (1965)" tvg-logo="https://archive.org/download/nadie-oyo-gritar-a-cecilio-fuentes-1965/format=Thumbnail" tvg-language="spa",Nadie Oyo Gritar A Cecilio Fuentes (1965)
+https://archive.org/download/nadie-oyo-gritar-a-cecilio-fuentes-1965/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="escandalo-nocturno-1951" tvg-name="Escandalo Nocturno (1951)" tvg-logo="https://archive.org/download/escandalo-nocturno-1951/format=Thumbnail" tvg-language="spa",Escandalo Nocturno (1951)
 https://archive.org/download/escandalo-nocturno-1951/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="cuando-los-duendes-cazan-perdices-1955" tvg-name="Cuando Los Duendes Cazan Perdices (1955)" tvg-logo="https://archive.org/download/cuando-los-duendes-cazan-perdices-1955/format=Thumbnail" tvg-language="spa",Cuando Los Duendes Cazan Perdices (1955)
