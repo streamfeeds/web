@@ -1,4 +1,18 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="quiero-besarlo-senor-1973" tvg-name="Quiero Besarlo Señor (1973)" tvg-logo="https://archive.org/download/quiero-besarlo-senor-1973/format=Thumbnail" tvg-language="spa",Quiero Besarlo Señor (1973)
+https://archive.org/download/quiero-besarlo-senor-1973/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="que-noche-de-casamiento-1969" tvg-name="Que Noche De Casamiento (1969)" tvg-logo="https://archive.org/download/que-noche-de-casamiento-1969/format=Thumbnail" tvg-language="spa",Que Noche De Casamiento (1969)
+https://archive.org/download/que-noche-de-casamiento-1969/format=MPEG4
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="sabado-a-la-noche-cine-1960" tvg-name="Sabado A La Noche‚ Cine (1960)" tvg-logo="https://archive.org/download/sabado-a-la-noche-cine-1960/format=Thumbnail" tvg-language="spa",Sabado A La Noche‚ Cine (1960)
+https://archive.org/download/sabado-a-la-noche-cine-1960/format=MPEG4
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="la-bestia-humana-1957" tvg-name="La Bestia Humana (1957)" tvg-logo="https://archive.org/download/la-bestia-humana-1957/format=Thumbnail" tvg-language="spa",La Bestia Humana (1957)
+https://archive.org/download/la-bestia-humana-1957/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="abuso-de-confianza-1950" tvg-name="Abuso De Confianza (1950)" tvg-logo="https://archive.org/download/abuso-de-confianza-1950/format=Thumbnail" tvg-language="spa",Abuso De Confianza (1950)
+https://archive.org/download/abuso-de-confianza-1950/format=MPEG4
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="nosotros...-los-muchachos-1940" tvg-name="Nosotros... Los Muchachos (1940)" tvg-logo="https://archive.org/download/nosotros...-los-muchachos-1940/format=Thumbnail" tvg-language="spa",Nosotros... Los Muchachos (1940)
+https://archive.org/download/nosotros...-los-muchachos-1940/format=MPEG4
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="la-vuelta-al-nido-1938" tvg-name="La Vuelta Al Nido (1938)" tvg-logo="https://archive.org/download/la-vuelta-al-nido-1938/format=Thumbnail" tvg-language="spa",La Vuelta Al Nido (1938)
+https://archive.org/download/la-vuelta-al-nido-1938/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="una-mascara-para-ana-1966" tvg-name="Una Mascara Para Ana (1966)" tvg-logo="https://archive.org/download/una-mascara-para-ana-1966/format=Thumbnail" tvg-language="spa",Una Mascara Para Ana (1966)
 https://archive.org/download/una-mascara-para-ana-1966/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="nadie-oyo-gritar-a-cecilio-fuentes-1965" tvg-name="Nadie Oyo Gritar A Cecilio Fuentes (1965)" tvg-logo="https://archive.org/download/nadie-oyo-gritar-a-cecilio-fuentes-1965/format=Thumbnail" tvg-language="spa",Nadie Oyo Gritar A Cecilio Fuentes (1965)
