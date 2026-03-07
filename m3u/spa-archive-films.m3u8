@@ -1,4 +1,8 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="un-toque-diferente-1977" tvg-name="Un Toque Diferente (1977)" tvg-logo="https://archive.org/download/un-toque-diferente-1977/format=Thumbnail" tvg-language="spa",Un Toque Diferente (1977)
+https://archive.org/download/un-toque-diferente-1977/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="un-mundo-de-amor-1975" tvg-name="Un Mundo De Amor (1975)" tvg-logo="https://archive.org/download/un-mundo-de-amor-1975/format=Thumbnail" tvg-language="spa",Un Mundo De Amor (1975)
+https://archive.org/download/un-mundo-de-amor-1975/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="quiero-besarlo-senor-1973" tvg-name="Quiero Besarlo Señor (1973)" tvg-logo="https://archive.org/download/quiero-besarlo-senor-1973/format=Thumbnail" tvg-language="spa",Quiero Besarlo Señor (1973)
 https://archive.org/download/quiero-besarlo-senor-1973/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="que-noche-de-casamiento-1969" tvg-name="Que Noche De Casamiento (1969)" tvg-logo="https://archive.org/download/que-noche-de-casamiento-1969/format=Thumbnail" tvg-language="spa",Que Noche De Casamiento (1969)
