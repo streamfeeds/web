@@ -1,4 +1,10 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="romance-musical-1947" tvg-name="Romance Musical (1947)" tvg-logo="https://archive.org/download/romance-musical-1947/format=Thumbnail" tvg-language="spa",Romance Musical (1947)
+https://archive.org/download/romance-musical-1947/format=MPEG4
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="dock-sud-1953" tvg-name="Dock Sud (1953)" tvg-logo="https://archive.org/download/dock-sud-1953/format=Thumbnail" tvg-language="spa",Dock Sud (1953)
+https://archive.org/download/dock-sud-1953/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="el-poder-de-la-censura-1983" tvg-name="El Poder De La Censura (1983)" tvg-logo="https://archive.org/download/el-poder-de-la-censura-1983/format=Thumbnail" tvg-language="spa",El Poder De La Censura (1983)
+https://archive.org/download/el-poder-de-la-censura-1983/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="un-toque-diferente-1977" tvg-name="Un Toque Diferente (1977)" tvg-logo="https://archive.org/download/un-toque-diferente-1977/format=Thumbnail" tvg-language="spa",Un Toque Diferente (1977)
 https://archive.org/download/un-toque-diferente-1977/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="un-mundo-de-amor-1975" tvg-name="Un Mundo De Amor (1975)" tvg-logo="https://archive.org/download/un-mundo-de-amor-1975/format=Thumbnail" tvg-language="spa",Un Mundo De Amor (1975)
