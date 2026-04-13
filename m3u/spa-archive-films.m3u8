@@ -1,4 +1,12 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="la-aventura-del-hombre-cordillera-del-viento-1998-1080p" tvg-name="La Aventura del Hombre - Cordillera del viento (1998) [1080p]" tvg-logo="https://archive.org/download/la-aventura-del-hombre-cordillera-del-viento-1998-1080p/format=Thumbnail" tvg-language="spa",La Aventura del Hombre - Cordillera del viento (1998)
+https://archive.org/download/la-aventura-del-hombre-cordillera-del-viento-1998-1080p/format=MPEG4
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="la-aventura-del-hombre-anestesia-1996-1080p" tvg-name="La Aventura del Hombre - Anestesia (1996) [1080p]" tvg-logo="https://archive.org/download/la-aventura-del-hombre-anestesia-1996-1080p/format=Thumbnail" tvg-language="spa",La Aventura del Hombre - Anestesia (1996)
+https://archive.org/download/la-aventura-del-hombre-anestesia-1996-1080p/format=MPEG4
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="los-chicos-de-la-guerra-1984-1080p" tvg-name="Los Chicos de la Guerra (1984) [1080p]" tvg-logo="https://archive.org/download/los-chicos-de-la-guerra-1984-1080p/format=Thumbnail" tvg-language="spa",Los Chicos de la Guerra (1984)
+https://archive.org/download/los-chicos-de-la-guerra-1984-1080p/format=MPEG4
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="la-aventura-del-hombre-malvinas-la-guerra-que-no-vivimos-1990-1080p" tvg-name="La Aventura del Hombre - Malvinas‚ la guerra que no vivimos (1990) [1080p]" tvg-logo="https://archive.org/download/la-aventura-del-hombre-malvinas-la-guerra-que-no-vivimos-1990-1080p/format=Thumbnail" tvg-language="spa",La Aventura del Hombre - Malvinas‚ la guerra que no vivimos (1990)
+https://archive.org/download/la-aventura-del-hombre-malvinas-la-guerra-que-no-vivimos-1990-1080p/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="romance-musical-1947" tvg-name="Romance Musical (1947)" tvg-logo="https://archive.org/download/romance-musical-1947/format=Thumbnail" tvg-language="spa",Romance Musical (1947)
 https://archive.org/download/romance-musical-1947/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="dock-sud-1953" tvg-name="Dock Sud (1953)" tvg-logo="https://archive.org/download/dock-sud-1953/format=Thumbnail" tvg-language="spa",Dock Sud (1953)
