@@ -1,4 +1,14 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="mi-cielo-de-andalucia-1942" tvg-name="Mi Cielo De Andalucia (1942)" tvg-logo="https://archive.org/download/mi-cielo-de-andalucia-1942/format=Thumbnail" tvg-language="spa",Mi Cielo De Andalucia (1942)
+https://archive.org/download/mi-cielo-de-andalucia-1942/format=MPEG4
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="la-guitarra-de-gardel-1949" tvg-name="La Guitarra De Gardel (1949)" tvg-logo="https://archive.org/download/la-guitarra-de-gardel-1949/format=Thumbnail" tvg-language="spa",La Guitarra De Gardel (1949)
+https://archive.org/download/la-guitarra-de-gardel-1949/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="oro-bajo-1956" tvg-name="Oro Bajo (1956)" tvg-logo="https://archive.org/download/oro-bajo-1956/format=Thumbnail" tvg-language="spa",Oro Bajo (1956)
+https://archive.org/download/oro-bajo-1956/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="amor-prohibido-1958" tvg-name="Amor Prohibido (1958)" tvg-logo="https://archive.org/download/amor-prohibido-1958/format=Thumbnail" tvg-language="spa",Amor Prohibido (1958)
+https://archive.org/download/amor-prohibido-1958/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="la-balada-del-regreso-1974" tvg-name="La Balada Del Regreso (1974)" tvg-logo="https://archive.org/download/la-balada-del-regreso-1974/format=Thumbnail" tvg-language="spa",La Balada Del Regreso (1974)
+https://archive.org/download/la-balada-del-regreso-1974/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="la-aventura-del-hombre-cordillera-del-viento-1998-1080p" tvg-name="La Aventura del Hombre - Cordillera del viento (1998) [1080p]" tvg-logo="https://archive.org/download/la-aventura-del-hombre-cordillera-del-viento-1998-1080p/format=Thumbnail" tvg-language="spa",La Aventura del Hombre - Cordillera del viento (1998)
 https://archive.org/download/la-aventura-del-hombre-cordillera-del-viento-1998-1080p/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="la-aventura-del-hombre-anestesia-1996-1080p" tvg-name="La Aventura del Hombre - Anestesia (1996) [1080p]" tvg-logo="https://archive.org/download/la-aventura-del-hombre-anestesia-1996-1080p/format=Thumbnail" tvg-language="spa",La Aventura del Hombre - Anestesia (1996)
