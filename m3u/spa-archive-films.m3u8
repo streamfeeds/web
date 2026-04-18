@@ -1,4 +1,6 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="vacaciones-en-la-argentina-1966" tvg-name="Vacaciones En La Argentina (1966)" tvg-logo="https://archive.org/download/vacaciones-en-la-argentina-1966/format=Thumbnail" tvg-language="spa",Vacaciones En La Argentina (1966)
+https://archive.org/download/vacaciones-en-la-argentina-1966/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="mi-cielo-de-andalucia-1942" tvg-name="Mi Cielo De Andalucia (1942)" tvg-logo="https://archive.org/download/mi-cielo-de-andalucia-1942/format=Thumbnail" tvg-language="spa",Mi Cielo De Andalucia (1942)
 https://archive.org/download/mi-cielo-de-andalucia-1942/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="la-guitarra-de-gardel-1949" tvg-name="La Guitarra De Gardel (1949)" tvg-logo="https://archive.org/download/la-guitarra-de-gardel-1949/format=Thumbnail" tvg-language="spa",La Guitarra De Gardel (1949)
