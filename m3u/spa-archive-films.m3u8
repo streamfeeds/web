@@ -1,4 +1,8 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="peron-sinfonia-del-sentimiento-1999" tvg-name="Peron‚ Sinfonia Del Sentimiento ( 1999)" tvg-logo="https://archive.org/download/peron-sinfonia-del-sentimiento-1999/format=Thumbnail" tvg-language="spa",Peron‚ Sinfonia Del Sentimiento (1999)
+https://archive.org/download/peron-sinfonia-del-sentimiento-1999/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="carmina-1975" tvg-name="Carmiña (1975)" tvg-logo="https://archive.org/download/carmina-1975/format=Thumbnail" tvg-language="spa",Carmiña (1975)
+https://archive.org/download/carmina-1975/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="vacaciones-en-la-argentina-1966" tvg-name="Vacaciones En La Argentina (1966)" tvg-logo="https://archive.org/download/vacaciones-en-la-argentina-1966/format=Thumbnail" tvg-language="spa",Vacaciones En La Argentina (1966)
 https://archive.org/download/vacaciones-en-la-argentina-1966/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="mi-cielo-de-andalucia-1942" tvg-name="Mi Cielo De Andalucia (1942)" tvg-logo="https://archive.org/download/mi-cielo-de-andalucia-1942/format=Thumbnail" tvg-language="spa",Mi Cielo De Andalucia (1942)
