@@ -6351,8 +6351,6 @@ https://archive.org/download/Bruce_Hornsby-The_Way_it_Is/format=h.264
 https://archive.org/download/Boney_M.-Rivers_of_Babylon.MPG/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Blondie-Heart_of_Glass2" tvg-logo="https://archive.org/download/Blondie-Heart_of_Glass2/format=Thumbnail",Blondie Heart of Glass2
 https://archive.org/download/Blondie-Heart_of_Glass2/format=h.264
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="Blondie-Call_Me" tvg-logo="https://archive.org/download/Blondie-Call_Me/format=Thumbnail",Blondie Call Me
-https://archive.org/download/Blondie-Call_Me/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Blink_182_Damnit" tvg-logo="https://archive.org/download/Blink_182_Damnit/format=Thumbnail",Blink 182 Damnit
 https://archive.org/download/Blink_182_Damnit/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="BeeGees-Lonely_Days" tvg-logo="https://archive.org/download/BeeGees-Lonely_Days/format=Thumbnail",BeeGees Lonely Days
@@ -7531,12 +7529,6 @@ https://archive.org/download/The_Cars_Magic_SVCD_79MB/format=h.264
 https://archive.org/download/Tears_For_Fears_Seeds_Of_Love/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Talking_Heads_Road_To_Nowhere" tvg-logo="https://archive.org/download/Talking_Heads_Road_To_Nowhere/format=Thumbnail",Talking Heads Road To Nowhere
 https://archive.org/download/Talking_Heads_Road_To_Nowhere/format=h.264
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="Sting_Russians_SVCD_74MB" tvg-logo="https://archive.org/download/Sting_Russians_SVCD_74MB/format=Thumbnail",Sting Russians (SVCD) 74MB
-https://archive.org/download/Sting_Russians_SVCD_74MB/format=h.264
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="Sting_If_You_Love_Somebody" tvg-logo="https://archive.org/download/Sting_If_You_Love_Somebody/format=Thumbnail",Sting If You Love Somebody
-https://archive.org/download/Sting_If_You_Love_Somebody/format=h.264
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="Sting_Fortress_Around_Your_Heart_SVCD_85MB" tvg-logo="https://archive.org/download/Sting_Fortress_Around_Your_Heart_SVCD_85MB/format=Thumbnail",Sting Fortress Around Your Heart (SVCD) 85MB
-https://archive.org/download/Sting_Fortress_Around_Your_Heart_SVCD_85MB/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Stevie_Ray_Vaughan_Crossfire" tvg-logo="https://archive.org/download/Stevie_Ray_Vaughan_Crossfire/format=Thumbnail",Stevie Ray Vaughan Crossfire
 https://archive.org/download/Stevie_Ray_Vaughan_Crossfire/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Squeeze_Hourglass" tvg-logo="https://archive.org/download/Squeeze_Hourglass/format=Thumbnail",Squeeze Hourglass
@@ -7965,46 +7957,26 @@ https://archive.org/download/Hermans-Hermits_-_Im-Henry-The-VIII-I-Am-_1965/form
 https://archive.org/download/Hermans-Hermits_-_Cant-You-Hear-My-Heartbeat/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Hermans_Hermits_Im_Henry_the_VIII_I_Am_1965_OldFart" tvg-logo="https://archive.org/download/Hermans_Hermits_Im_Henry_the_VIII_I_Am_1965_OldFart/format=Thumbnail",Herman's Hermits I'm Henry the VIII‚ I Am(1965)(OldFart)
 https://archive.org/download/Hermans_Hermits_Im_Henry_the_VIII_I_Am_1965_OldFart/format=h.264
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="Heart_-_What_About_Love_mach3" tvg-logo="https://archive.org/download/Heart_-_What_About_Love_mach3/format=Thumbnail",Heart What About Love (mach3)
-https://archive.org/download/Heart_-_What_About_Love_mach3/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Zucchero_-Senza_Una_Donna" tvg-logo="https://archive.org/download/Zucchero_-Senza_Una_Donna/format=Thumbnail",Zucchero Senza Una Donna
 https://archive.org/download/Zucchero_-Senza_Una_Donna/format=h.264
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="Heart-How_Can_I_Refuse" tvg-logo="https://archive.org/download/Heart-How_Can_I_Refuse/format=Thumbnail",Heart How Can I Refuse
-https://archive.org/download/Heart-How_Can_I_Refuse/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Yazoo_Dont_Go" tvg-logo="https://archive.org/download/Yazoo_Dont_Go/format=Thumbnail",Yazoo Don't Go
 https://archive.org/download/Yazoo_Dont_Go/format=h.264
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="Heart-Even_It_Up" tvg-logo="https://archive.org/download/Heart-Even_It_Up/format=Thumbnail",Heart Even It Up
-https://archive.org/download/Heart-Even_It_Up/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Whitesnake_-Is_This_Love" tvg-logo="https://archive.org/download/Whitesnake_-Is_This_Love/format=Thumbnail",Whitesnake Is This Love
 https://archive.org/download/Whitesnake_-Is_This_Love/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Weird_Al_Yankovic-_Eat_It" tvg-logo="https://archive.org/download/Weird_Al_Yankovic-_Eat_It/format=Thumbnail",Weird Al Yankovic Eat It
 https://archive.org/download/Weird_Al_Yankovic-_Eat_It/format=h.264
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="Heart-Alone" tvg-logo="https://archive.org/download/Heart-Alone/format=Thumbnail",Heart Alone
-https://archive.org/download/Heart-Alone/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Weird_Al_Yankovic_-Like_A_Surgeon" tvg-logo="https://archive.org/download/Weird_Al_Yankovic_-Like_A_Surgeon/format=Thumbnail",Weird Al Yankovic Like A Surgeon
 https://archive.org/download/Weird_Al_Yankovic_-Like_A_Surgeon/format=h.264
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="Heart_What_About_Love" tvg-logo="https://archive.org/download/Heart_What_About_Love/format=Thumbnail",Heart What About Love
-https://archive.org/download/Heart_What_About_Love/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Weird_Al_Yankovic_Fat" tvg-logo="https://archive.org/download/Weird_Al_Yankovic_Fat/format=Thumbnail",Weird Al Yankovic Fat
 https://archive.org/download/Weird_Al_Yankovic_Fat/format=h.264
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="Heart_What_About_Love_svcd" tvg-logo="https://archive.org/download/Heart_What_About_Love_svcd/format=Thumbnail",Heart What About Love (svcd)
-https://archive.org/download/Heart_What_About_Love_svcd/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Wang_Chung_-Dance_Hall_Days" tvg-logo="https://archive.org/download/Wang_Chung_-Dance_Hall_Days/format=Thumbnail",Wang Chung Dance Hall Days
 https://archive.org/download/Wang_Chung_-Dance_Hall_Days/format=h.264
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="Heart_Sweet_Darlin_svcd" tvg-logo="https://archive.org/download/Heart_Sweet_Darlin_svcd/format=Thumbnail",Heart Sweet Darlin (svcd)
-https://archive.org/download/Heart_Sweet_Darlin_svcd/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Visage_Fade_To_Grey" tvg-logo="https://archive.org/download/Visage_Fade_To_Grey/format=Thumbnail",Visage Fade To Grey
 https://archive.org/download/Visage_Fade_To_Grey/format=h.264
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="Heart_Never" tvg-logo="https://archive.org/download/Heart_Never/format=Thumbnail",Heart Never
-https://archive.org/download/Heart_Never/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Viola_Valentino_Romantici" tvg-logo="https://archive.org/download/Viola_Valentino_Romantici/format=Thumbnail",Viola Valentino Romantici
 https://archive.org/download/Viola_Valentino_Romantici/format=h.264
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="Heart_Never_svcd" tvg-logo="https://archive.org/download/Heart_Never_svcd/format=Thumbnail",Heart Never (svcd)
-https://archive.org/download/Heart_Never_svcd/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Videokids_Woodpeckers_From_Space" tvg-logo="https://archive.org/download/Videokids_Woodpeckers_From_Space/format=Thumbnail",Videokids Woodpeckers From Space
 https://archive.org/download/Videokids_Woodpeckers_From_Space/format=h.264
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="Heart_All_I_Want_To_Do_Is_Make_Love_To_You" tvg-logo="https://archive.org/download/Heart_All_I_Want_To_Do_Is_Make_Love_To_You/format=Thumbnail",Heart All I Want To Do Is Make Love To You
-https://archive.org/download/Heart_All_I_Want_To_Do_Is_Make_Love_To_You/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Vanessa_Paradis_-Joe_le_taxi" tvg-logo="https://archive.org/download/Vanessa_Paradis_-Joe_le_taxi/format=Thumbnail",Vanessa Paradis Joe le taxi
 https://archive.org/download/Vanessa_Paradis_-Joe_le_taxi/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Headpins_Dont_It_Make_Ya_Feel" tvg-logo="https://archive.org/download/Headpins_Dont_It_Make_Ya_Feel/format=Thumbnail",Headpins Don't It Make Ya Feel
@@ -8119,18 +8091,12 @@ https://archive.org/download/Sweet_Connection_Need_Your_Passion/format=h.264
 https://archive.org/download/George_Baker_Selection_Morning_Sky_Video/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Genesis_Land_Of_Confusion_svcd" tvg-logo="https://archive.org/download/Genesis_Land_Of_Confusion_svcd/format=Thumbnail",Genesis Land Of Confusion (svcd)
 https://archive.org/download/Genesis_Land_Of_Confusion_svcd/format=h.264
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="Sting_Russians" tvg-logo="https://archive.org/download/Sting_Russians/format=Thumbnail",Sting Russians
-https://archive.org/download/Sting_Russians/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Gene_Pitney_Hold_of_my_heart_Video" tvg-logo="https://archive.org/download/Gene_Pitney_Hold_of_my_heart_Video/format=Thumbnail",Gene Pitney Hold of my heart
 https://archive.org/download/Gene_Pitney_Hold_of_my_heart_Video/format=h.264
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="Sting_Fragile" tvg-logo="https://archive.org/download/Sting_Fragile/format=Thumbnail",Sting Fragile
-https://archive.org/download/Sting_Fragile/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Gene_Chandler-Duke_Of_Earl_live-PBS_dvd-2nafish" tvg-logo="https://archive.org/download/Gene_Chandler-Duke_Of_Earl_live-PBS_dvd-2nafish/format=Thumbnail",Gene Chandler Duke Of Earl(live PBS dvd 2nafish)
 https://archive.org/download/Gene_Chandler-Duke_Of_Earl_live-PBS_dvd-2nafish/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Gary_Puckett_and_The_Union_Gap_Lady_Willpower_1968_OldFart" tvg-logo="https://archive.org/download/Gary_Puckett_and_The_Union_Gap_Lady_Willpower_1968_OldFart/format=Thumbnail",Gary Puckett and The Union Gap Lady Willpower(1968)(OldFart)
 https://archive.org/download/Gary_Puckett_and_The_Union_Gap_Lady_Willpower_1968_OldFart/format=h.264
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="Sting_Englishman_In_New_York" tvg-logo="https://archive.org/download/Sting_Englishman_In_New_York/format=Thumbnail",Sting Englishman In New York
-https://archive.org/download/Sting_Englishman_In_New_York/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Freddie--The-Dreamers_-_Im-Telling-You-Now-_1965" tvg-logo="https://archive.org/download/Freddie--The-Dreamers_-_Im-Telling-You-Now-_1965/format=Thumbnail",Freddie & The Dreamers I'm Telling You Now (1965)
 https://archive.org/download/Freddie--The-Dreamers_-_Im-Telling-You-Now-_1965/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Freddie--The-Dreamers_-_Do-The-Freddie-_1965" tvg-logo="https://archive.org/download/Freddie--The-Dreamers_-_Do-The-Freddie-_1965/format=Thumbnail",Freddie & The Dreamers Do The Freddie (1965)
@@ -8305,10 +8271,10 @@ https://archive.org/download/Samantha_Fox_True_Devotion/format=h.264
 https://archive.org/download/Enya-On_My_Way_Home_dvd-2nafish/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Samantha_Fox_Nothings_Gonna_Stop_Me_Now" tvg-logo="https://archive.org/download/Samantha_Fox_Nothings_Gonna_Stop_Me_Now/format=Thumbnail",Samantha Fox Nothing's Gonna Stop Me Now
 https://archive.org/download/Samantha_Fox_Nothings_Gonna_Stop_Me_Now/format=h.264
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="Enya_Orinoco_Flow_Sail_Away_svcd" tvg-logo="https://archive.org/download/Enya_Orinoco_Flow_Sail_Away_svcd/format=Thumbnail",Enya Orinoco Flow Sail Away (svcd)
-https://archive.org/download/Enya_Orinoco_Flow_Sail_Away_svcd/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Samantha_Fox_I_Surrender" tvg-logo="https://archive.org/download/Samantha_Fox_I_Surrender/format=Thumbnail",Samantha Fox I Surrender
 https://archive.org/download/Samantha_Fox_I_Surrender/format=h.264
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Enya_Orinoco_Flow_Sail_Away_svcd" tvg-logo="https://archive.org/download/Enya_Orinoco_Flow_Sail_Away_svcd/format=Thumbnail",Enya Orinoco Flow Sail Away (svcd)
+https://archive.org/download/Enya_Orinoco_Flow_Sail_Away_svcd/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Enya_Its_In_The_Rain_WMA_2006" tvg-logo="https://archive.org/download/Enya_Its_In_The_Rain_WMA_2006/format=Thumbnail",Enya It's In The Rain (WMA 2006)
 https://archive.org/download/Enya_Its_In_The_Rain_WMA_2006/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Samantha_Fox_I_Promise_You" tvg-logo="https://archive.org/download/Samantha_Fox_I_Promise_You/format=Thumbnail",Samantha Fox I Promise You
@@ -8415,26 +8381,18 @@ https://archive.org/download/ELO_Strange_Magic/format=h.264
 https://archive.org/download/Rick_Astley_She_Wants_To_Dance_With_Me/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="ELO_So_Serious" tvg-logo="https://archive.org/download/ELO_So_Serious/format=Thumbnail",ELO So Serious
 https://archive.org/download/ELO_So_Serious/format=h.264
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="ELO_Hold_On_Tight" tvg-logo="https://archive.org/download/ELO_Hold_On_Tight/format=Thumbnail",ELO Hold On Tight
-https://archive.org/download/ELO_Hold_On_Tight/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Richard_Marx_Angelia" tvg-logo="https://archive.org/download/Richard_Marx_Angelia/format=Thumbnail",Richard Marx Angelia
 https://archive.org/download/Richard_Marx_Angelia/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="ELO_Here_Is_The_News" tvg-logo="https://archive.org/download/ELO_Here_Is_The_News/format=Thumbnail",ELO Here Is The News
 https://archive.org/download/ELO_Here_Is_The_News/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Richard_Clayderman_Ballade_Pour_Adeline" tvg-logo="https://archive.org/download/Richard_Clayderman_Ballade_Pour_Adeline/format=Thumbnail",Richard Clayderman Ballade Pour Adeline
 https://archive.org/download/Richard_Clayderman_Ballade_Pour_Adeline/format=h.264
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="ELO_Dont_Bring_Me_Down" tvg-logo="https://archive.org/download/ELO_Dont_Bring_Me_Down/format=Thumbnail",ELO Don't Bring Me Down
-https://archive.org/download/ELO_Dont_Bring_Me_Down/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Ricchi_e_Poveri_Voulez_Vous_Danser" tvg-logo="https://archive.org/download/Ricchi_e_Poveri_Voulez_Vous_Danser/format=Thumbnail",Ricchi e Poveri Voulez Vous Danser
 https://archive.org/download/Ricchi_e_Poveri_Voulez_Vous_Danser/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Ricchi_e_Poveri_Mamma_Maria" tvg-logo="https://archive.org/download/Ricchi_e_Poveri_Mamma_Maria/format=Thumbnail",Ricchi e Poveri Mamma Maria
 https://archive.org/download/Ricchi_e_Poveri_Mamma_Maria/format=h.264
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="ELO_Dont_Bring_Me_Down_live" tvg-logo="https://archive.org/download/ELO_Dont_Bring_Me_Down_live/format=Thumbnail",ELO Don't Bring Me Down (live)
-https://archive.org/download/ELO_Dont_Bring_Me_Down_live/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Ricchi_E_Poveri_MInnamoro_Di_Te" tvg-logo="https://archive.org/download/Ricchi_E_Poveri_MInnamoro_Di_Te/format=Thumbnail",Ricchi E Poveri M'Innamoro Di Te
 https://archive.org/download/Ricchi_E_Poveri_MInnamoro_Di_Te/format=h.264
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="ELO_Calling_America" tvg-logo="https://archive.org/download/ELO_Calling_America/format=Thumbnail",ELO Calling America
-https://archive.org/download/ELO_Calling_America/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Ricchi_E_Poveri_Cosa_Sei" tvg-logo="https://archive.org/download/Ricchi_E_Poveri_Cosa_Sei/format=Thumbnail",Ricchi E Poveri Cosa Sei
 https://archive.org/download/Ricchi_E_Poveri_Cosa_Sei/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Dusty_Springfield_Son_Of_A_Preacher_Man_1968_OldFart" tvg-logo="https://archive.org/download/Dusty_Springfield_Son_Of_A_Preacher_Man_1968_OldFart/format=Thumbnail",Dusty Springfield Son Of A Preacher Man
@@ -9127,8 +9085,6 @@ https://archive.org/download/Blue_Peter_Dont_Walk_Past/format=h.264
 https://archive.org/download/Demis_Roussos_From_Souvenirs_To_Souvenirs/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Blowin_in_the_Wind-Bob_Dylan_Carlos_Santana_1984_Barcelo" tvg-logo="https://archive.org/download/Blowin_in_the_Wind-Bob_Dylan_Carlos_Santana_1984_Barcelo/format=Thumbnail",Blowin' in the Wind Bob Dylan & Carlos Santana (1984)
 https://archive.org/download/Blowin_in_the_Wind-Bob_Dylan_Carlos_Santana_1984_Barcelo/format=h.264
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="Blondie_The_Tide_Is_High" tvg-logo="https://archive.org/download/Blondie_The_Tide_Is_High/format=Thumbnail",Blondie The Tide Is High
-https://archive.org/download/Blondie_The_Tide_Is_High/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Black_-_Everythings_Coming_Up_Roses" tvg-logo="https://archive.org/download/Black_-_Everythings_Coming_Up_Roses/format=Thumbnail",Black Everything's Coming Up Roses
 https://archive.org/download/Black_-_Everythings_Coming_Up_Roses/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Debbie_Harry_In_Love_With_Love" tvg-logo="https://archive.org/download/Debbie_Harry_In_Love_With_Love/format=Thumbnail",Debbie Harry In Love With Love
@@ -9197,8 +9153,6 @@ https://archive.org/download/C.C.Catch_-Are_You_Man_Enough/format=h.264
 https://archive.org/download/Belly-Feed_The_Tree_dvd-2nafish/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="C.C._Catch_Soul_Survivor" tvg-logo="https://archive.org/download/C.C._Catch_Soul_Survivor/format=Thumbnail",C.C. Catch Soul Survivor
 https://archive.org/download/C.C._Catch_Soul_Survivor/format=h.264
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="Belinda_Carlisle_-_Heaven_is_a_Place_on_Earth" tvg-logo="https://archive.org/download/Belinda_Carlisle_-_Heaven_is_a_Place_on_Earth/format=Thumbnail",Belinda Carlisle Heaven is a Place on Earth
-https://archive.org/download/Belinda_Carlisle_-_Heaven_is_a_Place_on_Earth/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="C.C._Catch_Nothing_But_A_Heartache" tvg-logo="https://archive.org/download/C.C._Catch_Nothing_But_A_Heartache/format=Thumbnail",C.C. Catch Nothing But A Heartache
 https://archive.org/download/C.C._Catch_Nothing_But_A_Heartache/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Belinda_Carlisle_Heaven_Is_A_Place_On_Earth_Degs" tvg-logo="https://archive.org/download/Belinda_Carlisle_Heaven_Is_A_Place_On_Earth_Degs/format=Thumbnail",Belinda Carlisle Heaven Is A Place On Earth {Degs}
@@ -9221,8 +9175,6 @@ https://archive.org/download/Bryan_Ferry_-Dont_Stop_The_Dance/format=h.264
 https://archive.org/download/Banned_Commercials_Molson_Canadian_I_Am_Canadian/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Bangles_Manic_Monday_svcd" tvg-logo="https://archive.org/download/Bangles_Manic_Monday_svcd/format=Thumbnail",Bangles Manic Monday (svcd)
 https://archive.org/download/Bangles_Manic_Monday_svcd/format=h.264
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="Bangles_Eternal_Flame_svcd" tvg-logo="https://archive.org/download/Bangles_Eternal_Flame_svcd/format=Thumbnail",Bangles Eternal Flame (svcd)
-https://archive.org/download/Bangles_Eternal_Flame_svcd/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Band_Aid_Finale_-_Live_Aid_Concert_1995_-_Do_They_Know_Its_Christmas" tvg-logo="https://archive.org/download/Band_Aid_Finale_-_Live_Aid_Concert_1995_-_Do_They_Know_Its_Christmas/format=Thumbnail",Band Aid Finale Live Aid Concert 1995 Do They Know It's Christmas
 https://archive.org/download/Band_Aid_Finale_-_Live_Aid_Concert_1995_-_Do_They_Know_Its_Christmas/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Baltimora_Tarzan_Boy_Live_Musicahll_1985" tvg-logo="https://archive.org/download/Baltimora_Tarzan_Boy_Live_Musicahll_1985/format=Thumbnail",Baltimora Tarzan Boy (Live @ Musicahll 1985)
@@ -9575,8 +9527,6 @@ https://archive.org/download/Taylor_Dayne_Ill_Be_Your_Shelter_1989/format=MPEG4
 https://archive.org/download/Tara_Kemp_Hold_You_Tight_1991/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Stray_Cats_Stray_Cat_Strut_1981" tvg-logo="https://archive.org/download/Stray_Cats_Stray_Cat_Strut_1981/format=Thumbnail",Stray Cats Stray Cat Strut (1981)
 https://archive.org/download/Stray_Cats_Stray_Cat_Strut_1981/format=MPEG4
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="Sting_Love_Is_The_Seventh_Wave_1985" tvg-logo="https://archive.org/download/Sting_Love_Is_The_Seventh_Wave_1985/format=Thumbnail",Sting Love Is The Seventh Wave (1985)
-https://archive.org/download/Sting_Love_Is_The_Seventh_Wave_1985/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Stevie_Ray_Vaughan_Double_Trouble_Cold_Shot_1984" tvg-logo="https://archive.org/download/Stevie_Ray_Vaughan_Double_Trouble_Cold_Shot_1984/format=Thumbnail",Stevie Ray Vaughan & Double Trouble Cold Shot (1984)
 https://archive.org/download/Stevie_Ray_Vaughan_Double_Trouble_Cold_Shot_1984/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Steelheart_Shes_Gone_1990" tvg-logo="https://archive.org/download/Steelheart_Shes_Gone_1990/format=Thumbnail",Steelheart She's Gone (1990)
@@ -10475,8 +10425,6 @@ https://archive.org/download/Time_Bandits_Im_Only_Shooting_Love/format=h.264
 https://archive.org/download/Timbuk_3_Life_Is_Hard/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Til_Tuesday_Voices_Carry" tvg-logo="https://archive.org/download/Til_Tuesday_Voices_Carry/format=Thumbnail",Til Tuesday Voices Carry
 https://archive.org/download/Til_Tuesday_Voices_Carry/format=h.264
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="Tiffany_I_Think_Were_Alone_Now" tvg-logo="https://archive.org/download/Tiffany_I_Think_Were_Alone_Now/format=Thumbnail",Tiffany I Think We're Alone Now
-https://archive.org/download/Tiffany_I_Think_Were_Alone_Now/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Three_OClock_Her_Heads_Revolving" tvg-logo="https://archive.org/download/Three_OClock_Her_Heads_Revolving/format=Thumbnail",Three O'Clock Her Head's Revolving
 https://archive.org/download/Three_OClock_Her_Heads_Revolving/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Thompson_Twins_Love_On_Your_Side" tvg-logo="https://archive.org/download/Thompson_Twins_Love_On_Your_Side/format=Thumbnail",Thompson Twins Love On Your Side
@@ -11167,8 +11115,6 @@ https://archive.org/download/Strafe_Comin_From_Another_Place/format=h.264
 https://archive.org/download/Stories_Brother_Louie_From_The_Midnight_Special/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Stop_Wake_Up" tvg-logo="https://archive.org/download/Stop_Wake_Up/format=Thumbnail",Stop Wake Up
 https://archive.org/download/Stop_Wake_Up/format=h.264
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="Sting_Englishman_In_New_York_Mix_1990" tvg-logo="https://archive.org/download/Sting_Englishman_In_New_York_Mix_1990/format=Thumbnail",Sting Englishman In New York (Mix) (1990)
-https://archive.org/download/Sting_Englishman_In_New_York_Mix_1990/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Stevie_Nicks_Talk_To_Me" tvg-logo="https://archive.org/download/Stevie_Nicks_Talk_To_Me/format=Thumbnail",Stevie Nicks Talk To Me
 https://archive.org/download/Stevie_Nicks_Talk_To_Me/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Stevie_Nicks_I_Cant_Wait" tvg-logo="https://archive.org/download/Stevie_Nicks_I_Cant_Wait/format=Thumbnail",Stevie Nicks I Can't Wait
@@ -11443,8 +11389,6 @@ https://archive.org/download/STOOSHE_Black_Heart_2012/format=h.264
 https://archive.org/download/STOOSHE_featuring_Travie_McCoy_Love_Me_2012/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="STEVIE_RAY_VAUGHAN_Superstition_1986" tvg-logo="https://archive.org/download/STEVIE_RAY_VAUGHAN_Superstition_1986/format=Thumbnail",STEVIE RAY VAUGHAN Superstition (1986)
 https://archive.org/download/STEVIE_RAY_VAUGHAN_Superstition_1986/format=h.264
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="STEVIE_NICKS_AND_TOM_PETTY_Stop_Draggin_My_Heart_Around_1981" tvg-logo="https://archive.org/download/STEVIE_NICKS_AND_TOM_PETTY_Stop_Draggin_My_Heart_Around_1981/format=Thumbnail",STEVIE NICKS AND TOM PETTY Stop Draggin' My Heart Around (1981)
-https://archive.org/download/STEVIE_NICKS_AND_TOM_PETTY_Stop_Draggin_My_Heart_Around_1981/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="STEVE_WINWOOD_SLASH_Hey_Joe_2005" tvg-logo="https://archive.org/download/STEVE_WINWOOD_SLASH_Hey_Joe_2005/format=Thumbnail",STEVE WINWOOD & SLASH Hey Joe (2005)
 https://archive.org/download/STEVE_WINWOOD_SLASH_Hey_Joe_2005/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="STEVE_MILLER_BAND_Wide_River_1993" tvg-logo="https://archive.org/download/STEVE_MILLER_BAND_Wide_River_1993/format=Thumbnail",STEVE MILLER BAND Wide River (1993)
@@ -13265,8 +13209,6 @@ https://archive.org/download/Linear_Sending_All_My_Love/format=h.264
 https://archive.org/download/Linear_Dont_You_Come_Cryin/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Linda_Ronstadt_Youre_No_Good_From_The_Midnight_Special" tvg-logo="https://archive.org/download/Linda_Ronstadt_Youre_No_Good_From_The_Midnight_Special/format=Thumbnail",Linda Ronstadt You're No Good (From The Midnight Special)
 https://archive.org/download/Linda_Ronstadt_Youre_No_Good_From_The_Midnight_Special/format=h.264
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="Linda_Ronstadt_When_Will_I_Be_Loved_From_The_Midnight_Special" tvg-logo="https://archive.org/download/Linda_Ronstadt_When_Will_I_Be_Loved_From_The_Midnight_Special/format=Thumbnail",Linda Ronstadt When Will I Be Loved (From The Midnight Special)
-https://archive.org/download/Linda_Ronstadt_When_Will_I_Be_Loved_From_The_Midnight_Special/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Linda_Ronstadt_Whats_New" tvg-logo="https://archive.org/download/Linda_Ronstadt_Whats_New/format=Thumbnail",Linda Ronstadt What's New
 https://archive.org/download/Linda_Ronstadt_Whats_New/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Linda_Ronstadt_Skylark" tvg-logo="https://archive.org/download/Linda_Ronstadt_Skylark/format=Thumbnail",Linda Ronstadt Skylark
@@ -14389,8 +14331,6 @@ https://archive.org/download/Gold_Capitaine_Abandonne/format=h.264
 https://archive.org/download/Godley_And_Creme_Cry/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Godley_And_Creme_An_Englishman_In_New_York" tvg-logo="https://archive.org/download/Godley_And_Creme_An_Englishman_In_New_York/format=Thumbnail",Godley And Creme An Englishman In New York
 https://archive.org/download/Godley_And_Creme_An_Englishman_In_New_York/format=h.264
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="Go-Gos_Our_Lips_Are_Sealed" tvg-logo="https://archive.org/download/Go-Gos_Our_Lips_Are_Sealed/format=Thumbnail",Go Go's Our Lips Are Sealed
-https://archive.org/download/Go-Gos_Our_Lips_Are_Sealed/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Go-Gos_Get_Up_And_Go" tvg-logo="https://archive.org/download/Go-Gos_Get_Up_And_Go/format=Thumbnail",Go Go's Get Up And Go
 https://archive.org/download/Go-Gos_Get_Up_And_Go/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Go-Gos_Cool_Jerk" tvg-logo="https://archive.org/download/Go-Gos_Cool_Jerk/format=Thumbnail",Go Go's Cool Jerk
@@ -14477,8 +14417,6 @@ https://archive.org/download/Georgie_Fame_And_Alan_Price_Rosetta/format=h.264
 https://archive.org/download/Georgia_Satellites_Sheila/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="George_Thorogood_Move_It_On_Over_From_The_Midnight_Special" tvg-logo="https://archive.org/download/George_Thorogood_Move_It_On_Over_From_The_Midnight_Special/format=Thumbnail",George Thorogood Move It On Over (From The Midnight Special)
 https://archive.org/download/George_Thorogood_Move_It_On_Over_From_The_Midnight_Special/format=h.264
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="George_Michael_And_Elton_John_Dont_Let_The_Sun_Go_Down_On_Me" tvg-logo="https://archive.org/download/George_Michael_And_Elton_John_Dont_Let_The_Sun_Go_Down_On_Me/format=Thumbnail",George Michael And Elton John Don't Let The Sun Go Down On Me
-https://archive.org/download/George_Michael_And_Elton_John_Dont_Let_The_Sun_Go_Down_On_Me/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="George_Michael_Jesus_To_A_Child" tvg-logo="https://archive.org/download/George_Michael_Jesus_To_A_Child/format=Thumbnail",George Michael Jesus To A Child
 https://archive.org/download/George_Michael_Jesus_To_A_Child/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="George_Michael_Fastlove" tvg-logo="https://archive.org/download/George_Michael_Fastlove/format=Thumbnail",George Michael Fastlove
@@ -15795,8 +15733,6 @@ https://archive.org/download/Cat_Rapes_Dog_God_Guns_And_Gasoline/format=h.264
 https://archive.org/download/Casanova_Venice_Ensemble_The_Phantom_Of_The_Opera/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Casanova_Venice_Ensemble_Mistero_Sul_Canal_Grande" tvg-logo="https://archive.org/download/Casanova_Venice_Ensemble_Mistero_Sul_Canal_Grande/format=Thumbnail",Casanova Venice Ensemble Mistero (Sul Canal Grande)
 https://archive.org/download/Casanova_Venice_Ensemble_Mistero_Sul_Canal_Grande/format=h.264
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="Cars_You_Might_Think" tvg-logo="https://archive.org/download/Cars_You_Might_Think/format=Thumbnail",Cars You Might Think
-https://archive.org/download/Cars_You_Might_Think/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Cars_Why_Cant_I_Have_You" tvg-logo="https://archive.org/download/Cars_Why_Cant_I_Have_You/format=Thumbnail",Cars Why Can't I Have You
 https://archive.org/download/Cars_Why_Cant_I_Have_You/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Cars_Why_Cant_I_Have_You_With_Intro" tvg-logo="https://archive.org/download/Cars_Why_Cant_I_Have_You_With_Intro/format=Thumbnail",Cars Why Can't I Have You (With Intro)
@@ -16303,8 +16239,6 @@ https://archive.org/download/Barry_Lather_Love_In_The_3rd_Degree/format=h.264
 https://archive.org/download/Barbusters_Joan_Jett_And_Michael_J._Fox_Light_Of_Day/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Bangles_Manic_Monday" tvg-logo="https://archive.org/download/Bangles_Manic_Monday/format=Thumbnail",Bangles Manic Monday
 https://archive.org/download/Bangles_Manic_Monday/format=h.264
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="Bangles_Eternal_Flame" tvg-logo="https://archive.org/download/Bangles_Eternal_Flame/format=Thumbnail",Bangles Eternal Flame
-https://archive.org/download/Bangles_Eternal_Flame/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Bananarama_Shy_Boy" tvg-logo="https://archive.org/download/Bananarama_Shy_Boy/format=Thumbnail",Bananarama Shy Boy
 https://archive.org/download/Bananarama_Shy_Boy/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Bananarama_I_Heard_A_Rumour_Horoscope_Mix" tvg-logo="https://archive.org/download/Bananarama_I_Heard_A_Rumour_Horoscope_Mix/format=Thumbnail",Bananarama I Heard A Rumour (Horoscope Mix)
@@ -16501,8 +16435,6 @@ https://archive.org/download/B.T._EXPRESS_Do_It_Til_Youre_Satisfied_1974/format=
 https://archive.org/download/B.J._Thomas_Another_Somebody_Done_Somebody_Wrong_Song_From_The_Midnight_Special./format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="B.B._King_Into_The_Night" tvg-logo="https://archive.org/download/B.B._King_Into_The_Night/format=Thumbnail",B.B. King Into The Night
 https://archive.org/download/B.B._King_Into_The_Night/format=h.264
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="B._Adams_Rod_Stewart_And_Sting_All_For_Love" tvg-logo="https://archive.org/download/B._Adams_Rod_Stewart_And_Sting_All_For_Love/format=Thumbnail",B. Adams‚ Rod Stewart And Sting All For Love
-https://archive.org/download/B._Adams_Rod_Stewart_And_Sting_All_For_Love/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="B._Adams_Somebody" tvg-logo="https://archive.org/download/B._Adams_Somebody/format=Thumbnail",B. Adams Somebody
 https://archive.org/download/B._Adams_Somebody/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="B-52s_Song_For_A_Future_Generation" tvg-logo="https://archive.org/download/B-52s_Song_For_A_Future_Generation/format=Thumbnail",B 52's Song For A Future Generation
