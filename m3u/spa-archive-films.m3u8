@@ -1,4 +1,20 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="el-turista-aka-millonario-por-un-dia-1963" tvg-name="El Turista (aka Millonario Por Un Dia)(1963)" tvg-logo="https://archive.org/download/el-turista-aka-millonario-por-un-dia-1963/format=Thumbnail" tvg-language="spa",El Turista (aka Millonario Por Un Dia)(1963)
+https://archive.org/download/el-turista-aka-millonario-por-un-dia-1963/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="camarero-nocturno-en-mar-del-plata-1986" tvg-name="Camarero Nocturno En Mar Del Plata (1986)" tvg-logo="https://archive.org/download/camarero-nocturno-en-mar-del-plata-1986/format=Thumbnail" tvg-language="spa",Camarero Nocturno En Mar Del Plata (1986)
+https://archive.org/download/camarero-nocturno-en-mar-del-plata-1986/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="pobre-mariposa-1986" tvg-name="Pobre Mariposa (1986)" tvg-logo="https://archive.org/download/pobre-mariposa-1986/format=Thumbnail" tvg-language="spa",Pobre Mariposa (1986)
+https://archive.org/download/pobre-mariposa-1986/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="las-puertitas-del-senor-lopez-1988" tvg-name="Las Puertitas Del Señor Lopez (1988)" tvg-logo="https://archive.org/download/las-puertitas-del-senor-lopez-1988/format=Thumbnail" tvg-language="spa",Las Puertitas Del Señor Lopez (1988)
+https://archive.org/download/las-puertitas-del-senor-lopez-1988/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="equinoccio-el-jardin-de-las-rosas-1991" tvg-name="Equinoccio‚ El Jardin De Las Rosas (1991)" tvg-logo="https://archive.org/download/equinoccio-el-jardin-de-las-rosas-1991/format=Thumbnail" tvg-language="spa",Equinoccio‚ El Jardin De Las Rosas (1991)
+https://archive.org/download/equinoccio-el-jardin-de-las-rosas-1991/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="un-minuto-treinta-y-dos-segundos-1992" tvg-name="Un Minuto‚ Treinta Y Dos Segundos (1992)" tvg-logo="https://archive.org/download/un-minuto-treinta-y-dos-segundos-1992/format=Thumbnail" tvg-language="spa",Un Minuto‚ Treinta Y Dos Segundos (1992)
+https://archive.org/download/un-minuto-treinta-y-dos-segundos-1992/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="picado-fino-1996" tvg-name="Picado Fino (1996)" tvg-logo="https://archive.org/download/picado-fino-1996/format=Thumbnail" tvg-language="spa",Picado Fino (1996)
+https://archive.org/download/picado-fino-1996/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="mala-epoca-1998" tvg-name="Mala Epoca (1998)" tvg-logo="https://archive.org/download/mala-epoca-1998/format=Thumbnail" tvg-language="spa",Mala Epoca (1998)
+https://archive.org/download/mala-epoca-1998/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="loco-lindo-1936" tvg-name="Loco Lindo (1936)" tvg-logo="https://archive.org/download/loco-lindo-1936/format=Thumbnail" tvg-language="spa",Loco Lindo (1936)
 https://archive.org/download/loco-lindo-1936/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="esperanza-1949" tvg-name="Esperanza (1949)" tvg-logo="https://archive.org/download/esperanza-1949/format=Thumbnail" tvg-language="spa",Esperanza (1949)
