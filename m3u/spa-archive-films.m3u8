@@ -1,4 +1,12 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="hiperhumor-1987" tvg-name="Hiperhumor (1987)" tvg-logo="https://archive.org/download/hiperhumor-1987/format=Thumbnail" tvg-language="spa",Hiperhumor (1987)
+https://archive.org/download/hiperhumor-1987/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="el-honorable-inquilino-1951" tvg-name="El Honorable Inquilino (1951)" tvg-logo="https://archive.org/download/el-honorable-inquilino-1951/format=Thumbnail" tvg-language="spa",El Honorable Inquilino (1951)
+https://archive.org/download/el-honorable-inquilino-1951/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="alejandra-1956" tvg-name="Alejandra (1956)" tvg-logo="https://archive.org/download/alejandra-1956/format=Thumbnail" tvg-language="spa",Alejandra (1956)
+https://archive.org/download/alejandra-1956/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="la-piel-del-amor-1973" tvg-name="La Piel Del Amor (1973)" tvg-logo="https://archive.org/download/la-piel-del-amor-1973/format=Thumbnail" tvg-language="spa",La Piel Del Amor (1973)
+https://archive.org/download/la-piel-del-amor-1973/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="el-turista-aka-millonario-por-un-dia-1963" tvg-name="El Turista (aka Millonario Por Un Dia)(1963)" tvg-logo="https://archive.org/download/el-turista-aka-millonario-por-un-dia-1963/format=Thumbnail" tvg-language="spa",El Turista (aka Millonario Por Un Dia)(1963)
 https://archive.org/download/el-turista-aka-millonario-por-un-dia-1963/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="camarero-nocturno-en-mar-del-plata-1986" tvg-name="Camarero Nocturno En Mar Del Plata (1986)" tvg-logo="https://archive.org/download/camarero-nocturno-en-mar-del-plata-1986/format=Thumbnail" tvg-language="spa",Camarero Nocturno En Mar Del Plata (1986)
