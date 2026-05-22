@@ -1,6 +1,6 @@
 ﻿#EXTM3U
-#EXTINF:-1 group-title="Betonopus-hungary" tvg-id="balazs-gyorgy-prof-em-100" tvg-logo="https://archive.org/download/balazs-gyorgy-prof-em-100/format=Thumbnail",Videó. Emlékezés a 100 ÉVE SZÜLETETT DR. BALÁZS GYÖRGY emeritus professzorra‚ az OC-görbéről szóló előadással
-https://archive.org/download/balazs-gyorgy-prof-em-100/format=MPEG4
+#EXTINF:-1 group-title="Betonopus-hungary" tvg-id="balazs-gyorgy-prof-100-konferencia" tvg-logo="https://archive.org/download/balazs-gyorgy-prof-100-konferencia/format=Thumbnail",Videó. Emlékezés a 100 ÉVE SZÜLETETT DR. BALÁZS GYÖRGY emeritus professzorra. A WEIBULL-ELOSZLÁS OC-GÖRBÉJE
+https://archive.org/download/balazs-gyorgy-prof-100-konferencia/format=MPEG4
 #EXTINF:-1 group-title="Betonopus-hungary" tvg-id="balazs-gyorgy-prof-notasfuzet" tvg-logo="https://archive.org/download/balazs-gyorgy-prof-notasfuzet/format=Thumbnail",Videó. DR. BALÁZS GYÖRGY professzor emeritus NÓTÁSFÜZETE
 https://archive.org/download/balazs-gyorgy-prof-notasfuzet/format=MPEG4
 #EXTINF:-1 group-title="Chriscromwelltapes" tvg-id="fly-america-west-airlines-live-for-life-medley" tvg-logo="https://archive.org/download/fly-america-west-airlines-live-for-life-medley/format=Thumbnail",Fly America West Airlines Live For Life Medley
@@ -3931,8 +3931,6 @@ https://archive.org/download/olivianewtonjohnliveinconcertpart1/format=h.264
 https://archive.org/download/philcollins-thesinglescollectionpart1/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Girl_Look_What_You_ve_Done_To_Me-u1go7eb4SEo" tvg-logo="https://archive.org/download/Girl_Look_What_You_ve_Done_To_Me-u1go7eb4SEo/format=Thumbnail",Girl Look What You ve Done To Me-u1go7eb4SEo
 https://archive.org/download/Girl_Look_What_You_ve_Done_To_Me-u1go7eb4SEo/format=MPEG4
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="whaminchinaforeignskies" tvg-logo="https://archive.org/download/whaminchinaforeignskies/format=Thumbnail",Wham! In China Foreign Skies
-https://archive.org/download/whaminchinaforeignskies/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="20100910220921" tvg-logo="https://archive.org/download/20100910220921/format=Thumbnail",GOTV (Music Videos) - Hardplay Hosted by Planet TT (10 September 2010)
 https://archive.org/download/20100910220921/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="20100910195637" tvg-logo="https://archive.org/download/20100910195637/format=Thumbnail",GOTV (Music Videos) - Neu auf GOTV (10 September 2010)
