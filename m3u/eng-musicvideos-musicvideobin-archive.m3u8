@@ -3439,6 +3439,8 @@ https://archive.org/download/glenn-medeiros-the-video-collection/format=MPEG4
 https://archive.org/download/al-tv/format=h.264
 #EXTINF:-1 group-title="Musictelevision" tvg-id="smashing-pumpkins-interview-120-minutes" tvg-logo="https://archive.org/download/smashing-pumpkins-interview-120-minutes/format=Thumbnail",The Smashing Pumpkins Interview - 120 Minutes (1991)
 https://archive.org/download/smashing-pumpkins-interview-120-minutes/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="now-thats-what-i-call-music-8" tvg-logo="https://archive.org/download/now-thats-what-i-call-music-8/format=Thumbnail",Now That's What I Call Music 8 (Video Compilation)
+https://archive.org/download/now-thats-what-i-call-music-8/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="sweet-sensation-hit-singles-collection" tvg-logo="https://archive.org/download/sweet-sensation-hit-singles-collection/format=Thumbnail",Sweet Sensation_Hit Singles Video Collection
 https://archive.org/download/sweet-sensation-hit-singles-collection/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="sonia-everybody-knows-the-video-hits" tvg-logo="https://archive.org/download/sonia-everybody-knows-the-video-hits/format=Thumbnail",Sonia_Everybody Knows - The Video Hits
@@ -9601,8 +9603,6 @@ https://archive.org/download/Jackyl_Dirty_Little_Mind_1993/format=MPEG4
 https://archive.org/download/Iron_Maiden_Women_In_Uniform_1980/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Iggy_Pop_Home_1990" tvg-logo="https://archive.org/download/Iggy_Pop_Home_1990/format=Thumbnail",Iggy Pop Home (1990)
 https://archive.org/download/Iggy_Pop_Home_1990/format=MPEG4
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="Hollies_On_a_Carousel" tvg-logo="https://archive.org/download/Hollies_On_a_Carousel/format=Thumbnail",Hollies On a Carousel
-https://archive.org/download/Hollies_On_a_Carousel/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Hollies_Carrie_Anne" tvg-logo="https://archive.org/download/Hollies_Carrie_Anne/format=Thumbnail",Hollies Carrie Anne
 https://archive.org/download/Hollies_Carrie_Anne/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Hole_Miss_World_1994" tvg-logo="https://archive.org/download/Hole_Miss_World_1994/format=Thumbnail",Hole Miss World (1994)
