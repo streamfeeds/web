@@ -1,4 +1,6 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="playboi-carti-smash-official-video-10-21-15-dir.-by-shotbymiggy" tvg-logo="https://archive.org/download/playboi-carti-smash-official-video-10-21-15-dir.-by-shotbymiggy/format=Thumbnail",PLAYBOI CARTI - SMASH (OFFICIAL VIDEO 10-21-15) DIR. BY ‪@shotbymiggy‬
+https://archive.org/download/playboi-carti-smash-official-video-10-21-15-dir.-by-shotbymiggy/format=MPEG4
 #EXTINF:-1 group-title="Betonopus-hungary" tvg-id="balazs-gyorgy-prof-100-konferencia" tvg-logo="https://archive.org/download/balazs-gyorgy-prof-100-konferencia/format=Thumbnail",Videó. Emlékezés a 100 ÉVE SZÜLETETT DR. BALÁZS GYÖRGY emeritus professzorra. A WEIBULL-ELOSZLÁS OC-GÖRBÉJE
 https://archive.org/download/balazs-gyorgy-prof-100-konferencia/format=MPEG4
 #EXTINF:-1 group-title="Betonopus-hungary" tvg-id="balazs-gyorgy-prof-notasfuzet" tvg-logo="https://archive.org/download/balazs-gyorgy-prof-notasfuzet/format=Thumbnail",Videó. DR. BALÁZS GYÖRGY professzor emeritus NÓTÁSFÜZETE
@@ -137,6 +139,8 @@ https://archive.org/download/to-ng-ho-p-qua-ng-ca-o-trong-nha-t-thu-y-video-1/fo
 https://archive.org/download/borisb-the-silly-salmon-song/format=MPEG4
 #EXTINF:-1 group-title="Borisbvideos" tvg-id="bootleggers-united-juke-box-boogie" tvg-logo="https://archive.org/download/bootleggers-united-juke-box-boogie/format=Thumbnail",Bootleggers United - Juke Box Boogie
 https://archive.org/download/bootleggers-united-juke-box-boogie/format=MPEG4
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="dj-zoloft-changes-official-music-video" tvg-logo="https://archive.org/download/dj-zoloft-changes-official-music-video/format=Thumbnail",'Changes' (Official Music Video)
+https://archive.org/download/dj-zoloft-changes-official-music-video/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-nang-ha-productions" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-nang-ha-productions/format=Thumbnail",Tác phẩm nghệ thuật Nắng Hạ Productions
 https://archive.org/download/tac-pham-nghe-thuat-nang-ha-productions/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="tac-pham-nghe-thuat-paris-by-night-6" tvg-logo="https://archive.org/download/tac-pham-nghe-thuat-paris-by-night-6/format=Thumbnail",Tác phẩm nghệ thuật Paris By Night 6
@@ -8191,10 +8195,10 @@ https://archive.org/download/Samantha_Fox_True_Devotion/format=h.264
 https://archive.org/download/Enya-On_My_Way_Home_dvd-2nafish/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Samantha_Fox_Nothings_Gonna_Stop_Me_Now" tvg-logo="https://archive.org/download/Samantha_Fox_Nothings_Gonna_Stop_Me_Now/format=Thumbnail",Samantha Fox Nothing's Gonna Stop Me Now
 https://archive.org/download/Samantha_Fox_Nothings_Gonna_Stop_Me_Now/format=h.264
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="Enya_Orinoco_Flow_Sail_Away_svcd" tvg-logo="https://archive.org/download/Enya_Orinoco_Flow_Sail_Away_svcd/format=Thumbnail",Enya Orinoco Flow Sail Away (svcd)
-https://archive.org/download/Enya_Orinoco_Flow_Sail_Away_svcd/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Samantha_Fox_I_Surrender" tvg-logo="https://archive.org/download/Samantha_Fox_I_Surrender/format=Thumbnail",Samantha Fox I Surrender
 https://archive.org/download/Samantha_Fox_I_Surrender/format=h.264
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Enya_Orinoco_Flow_Sail_Away_svcd" tvg-logo="https://archive.org/download/Enya_Orinoco_Flow_Sail_Away_svcd/format=Thumbnail",Enya Orinoco Flow Sail Away (svcd)
+https://archive.org/download/Enya_Orinoco_Flow_Sail_Away_svcd/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Enya_Its_In_The_Rain_WMA_2006" tvg-logo="https://archive.org/download/Enya_Its_In_The_Rain_WMA_2006/format=Thumbnail",Enya It's In The Rain (WMA 2006)
 https://archive.org/download/Enya_Its_In_The_Rain_WMA_2006/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Samantha_Fox_I_Promise_You" tvg-logo="https://archive.org/download/Samantha_Fox_I_Promise_You/format=Thumbnail",Samantha Fox I Promise You
