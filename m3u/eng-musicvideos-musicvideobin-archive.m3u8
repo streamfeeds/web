@@ -8193,10 +8193,10 @@ https://archive.org/download/Samantha_Fox_True_Devotion/format=h.264
 https://archive.org/download/Enya-On_My_Way_Home_dvd-2nafish/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Samantha_Fox_Nothings_Gonna_Stop_Me_Now" tvg-logo="https://archive.org/download/Samantha_Fox_Nothings_Gonna_Stop_Me_Now/format=Thumbnail",Samantha Fox Nothing's Gonna Stop Me Now
 https://archive.org/download/Samantha_Fox_Nothings_Gonna_Stop_Me_Now/format=h.264
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="Enya_Orinoco_Flow_Sail_Away_svcd" tvg-logo="https://archive.org/download/Enya_Orinoco_Flow_Sail_Away_svcd/format=Thumbnail",Enya Orinoco Flow Sail Away (svcd)
-https://archive.org/download/Enya_Orinoco_Flow_Sail_Away_svcd/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Samantha_Fox_I_Surrender" tvg-logo="https://archive.org/download/Samantha_Fox_I_Surrender/format=Thumbnail",Samantha Fox I Surrender
 https://archive.org/download/Samantha_Fox_I_Surrender/format=h.264
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Enya_Orinoco_Flow_Sail_Away_svcd" tvg-logo="https://archive.org/download/Enya_Orinoco_Flow_Sail_Away_svcd/format=Thumbnail",Enya Orinoco Flow Sail Away (svcd)
+https://archive.org/download/Enya_Orinoco_Flow_Sail_Away_svcd/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Enya_Its_In_The_Rain_WMA_2006" tvg-logo="https://archive.org/download/Enya_Its_In_The_Rain_WMA_2006/format=Thumbnail",Enya It's In The Rain (WMA 2006)
 https://archive.org/download/Enya_Its_In_The_Rain_WMA_2006/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Samantha_Fox_I_Promise_You" tvg-logo="https://archive.org/download/Samantha_Fox_I_Promise_You/format=Thumbnail",Samantha Fox I Promise You
@@ -22433,8 +22433,6 @@ https://archive.org/download/U96_A_Night_To_Remember_muvi/format=h.264
 https://archive.org/download/U.S.U.R.A._Trance_Emotions/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="The_Free_-_Lover_On_The_Line.mpg" tvg-logo="https://archive.org/download/The_Free_-_Lover_On_The_Line.mpg/format=Thumbnail",The Free Lover On The Line.mpg
 https://archive.org/download/The_Free_-_Lover_On_The_Line.mpg/format=h.264
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="U-96_Movin_mpeg4" tvg-logo="https://archive.org/download/U-96_Movin_mpeg4/format=Thumbnail",U 96 Movin mpeg4
-https://archive.org/download/U-96_Movin_mpeg4/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="The.KLF.-.The.Rites.Of.Mu._MTV.92.Version.mpg" tvg-logo="https://archive.org/download/The.KLF.-.The.Rites.Of.Mu._MTV.92.Version.mpg/format=Thumbnail",The.KLF. .The.Rites.Of.Mu.(MTV.92''.Version).mpg
 https://archive.org/download/The.KLF.-.The.Rites.Of.Mu._MTV.92.Version.mpg/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="U_96_Night_In_Motion_mpeg4" tvg-logo="https://archive.org/download/U_96_Night_In_Motion_mpeg4/format=Thumbnail",U 96 Night In Motion mpeg4
