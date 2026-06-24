@@ -3345,8 +3345,6 @@ https://archive.org/download/you-lift-me-up-extended-remix-avery-wilshire/format
 https://archive.org/download/steps-the-next-step-live-1/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="steps-the-video-1" tvg-logo="https://archive.org/download/steps-the-video-1/format=Thumbnail",Steps_The Video
 https://archive.org/download/steps-the-video-1/format=MPEG4
-#EXTINF:-1 group-title="Chriscromwelltapes" tvg-id="be-my-eternity-extended-remix" tvg-logo="https://archive.org/download/be-my-eternity-extended-remix/format=Thumbnail",Deleted Video! Corrupted Files!
-https://archive.org/download/be-my-eternity-extended-remix/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="kylie-lets-get-to-the-videos" tvg-logo="https://archive.org/download/kylie-lets-get-to-the-videos/format=Thumbnail",Kylie Minogue_Lets Get To...The Videos
 https://archive.org/download/kylie-lets-get-to-the-videos/format=MPEG4
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="kylie-minogue-live-lets-get-to-it-tour-part-1" tvg-logo="https://archive.org/download/kylie-minogue-live-lets-get-to-it-tour-part-1/format=Thumbnail",Kylie Minogue_Live! - Lets Get To It Tour
@@ -23855,10 +23853,10 @@ https://archive.org/download/Hithouse_Jack_To_The_Sound_Of_The_Underground.mpg/f
 https://archive.org/download/Highland_Bella_Stella/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Hit_n_Hide_Book_Of_Love.mpg" tvg-logo="https://archive.org/download/Hit_n_Hide_Book_Of_Love.mpg/format=Thumbnail",Hit 'n' Hide Book Of Love.mpg
 https://archive.org/download/Hit_n_Hide_Book_Of_Love.mpg/format=h.264
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="Heller_Farley_Project_-_Ultra_Flava.mpg" tvg-logo="https://archive.org/download/Heller_Farley_Project_-_Ultra_Flava.mpg/format=Thumbnail",Heller & Farley Project Ultra Flava.mpg
-https://archive.org/download/Heller_Farley_Project_-_Ultra_Flava.mpg/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Herbie_-_Right_Type_Of_Mood" tvg-logo="https://archive.org/download/Herbie_-_Right_Type_Of_Mood/format=Thumbnail",Herbie Right Type Of Mood
 https://archive.org/download/Herbie_-_Right_Type_Of_Mood/format=h.264
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Heller_Farley_Project_-_Ultra_Flava.mpg" tvg-logo="https://archive.org/download/Heller_Farley_Project_-_Ultra_Flava.mpg/format=Thumbnail",Heller & Farley Project Ultra Flava.mpg
+https://archive.org/download/Heller_Farley_Project_-_Ultra_Flava.mpg/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Hands_Up_2001.mpg" tvg-logo="https://archive.org/download/Hands_Up_2001.mpg/format=Thumbnail",Hands Up (2001)
 https://archive.org/download/Hands_Up_2001.mpg/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Herbie_-_Pick_It_Up" tvg-logo="https://archive.org/download/Herbie_-_Pick_It_Up/format=Thumbnail",Herbie Pick It Up
