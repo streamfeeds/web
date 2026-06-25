@@ -473,6 +473,8 @@ https://archive.org/download/the-end-of-summer/format=h.264
 https://archive.org/download/tokyo-story/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="early-summer_202012" tvg-name="Early Summer" tvg-logo="https://archive.org/download/early-summer_202012/format=Thumbnail" tvg-language="jpn",Early Summer (1951)
 https://archive.org/download/early-summer_202012/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-flavor-of-green-tea-over-rice" tvg-name="The Flavor Of Green Tea Over Rice" tvg-logo="https://archive.org/download/the-flavor-of-green-tea-over-rice/format=Thumbnail" tvg-language="jpn",The Flavor Of Green Tea Over Rice (1952)
+https://archive.org/download/the-flavor-of-green-tea-over-rice/format=h.264
 #EXTINF:-1 group-title="Comedy Films" tvg-id="i-was-born-but" tvg-name="I Was Born But‚..." tvg-logo="https://archive.org/download/i-was-born-but/format=Thumbnail" tvg-language="jpn",I Was Born But‚... (1932)
 https://archive.org/download/i-was-born-but/format=h.264
 #EXTINF:-1 group-title="Comedy Films" tvg-id="good-morning_202012" tvg-name="Good Morning" tvg-logo="https://archive.org/download/good-morning_202012/format=Thumbnail" tvg-language="jpn",Good Morning (1959)
