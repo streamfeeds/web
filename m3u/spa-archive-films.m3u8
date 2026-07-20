@@ -1,4 +1,14 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="los-superagentes-bionicos-1977" tvg-name="Los Superagentes Bionicos (1977)" tvg-logo="https://archive.org/download/los-superagentes-bionicos-1977/format=Thumbnail" tvg-language="spa",Los Superagentes Bionicos (1977)
+https://archive.org/download/los-superagentes-bionicos-1977/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="el-profesor-erotico-1976" tvg-name="El Profesor Erotico (1976)" tvg-logo="https://archive.org/download/el-profesor-erotico-1976/format=Thumbnail" tvg-language="spa",El Profesor Erotico (1976)
+https://archive.org/download/el-profesor-erotico-1976/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="en-busca-del-brillante-perdido-1986" tvg-name="En Busca Del Brillante Perdido (1986)" tvg-logo="https://archive.org/download/en-busca-del-brillante-perdido-1986/format=Thumbnail" tvg-language="spa",En Busca Del Brillante Perdido (1986)
+https://archive.org/download/en-busca-del-brillante-perdido-1986/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="radio-bar-1936" tvg-name="Radio Bar (1936)" tvg-logo="https://archive.org/download/radio-bar-1936/format=Thumbnail" tvg-language="spa",Radio Bar (1936)
+https://archive.org/download/radio-bar-1936/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="por-ellos...-todo-1948" tvg-name="Por Ellos... Todo (1948)" tvg-logo="https://archive.org/download/por-ellos...-todo-1948/format=Thumbnail" tvg-language="spa",Por Ellos... Todo (1948)
+https://archive.org/download/por-ellos...-todo-1948/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="la-tierra-sera-nuestra-1949" tvg-name="La Tierra Sera Nuestra (1949)" tvg-logo="https://archive.org/download/la-tierra-sera-nuestra-1949/format=Thumbnail" tvg-language="spa",La Tierra Sera Nuestra (1949)
 https://archive.org/download/la-tierra-sera-nuestra-1949/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="africa-rie-1956" tvg-name="Africa Rie ( 1956)" tvg-logo="https://archive.org/download/africa-rie-1956/format=Thumbnail" tvg-language="spa",Africa Rie (1956)
