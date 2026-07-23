@@ -1,4 +1,18 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="la-que-no-perdono-1938" tvg-name="La Que No Perdono (1938)" tvg-logo="https://archive.org/download/la-que-no-perdono-1938/format=Thumbnail" tvg-language="spa",La Que No Perdono (1938)
+https://archive.org/download/la-que-no-perdono-1938/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="el-viejo-doctor-1939" tvg-name="El Viejo Doctor (1939)" tvg-logo="https://archive.org/download/el-viejo-doctor-1939/format=Thumbnail" tvg-language="spa",El Viejo Doctor (1939)
+https://archive.org/download/el-viejo-doctor-1939/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="de-la-sierra-al-valle-1938" tvg-name="De La Sierra Al Valle (1938)" tvg-logo="https://archive.org/download/de-la-sierra-al-valle-1938/format=Thumbnail" tvg-language="spa",De La Sierra Al Valle (1938)
+https://archive.org/download/de-la-sierra-al-valle-1938/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="hombres-a-precio-1950" tvg-name="Hombres A Precio (1950)" tvg-logo="https://archive.org/download/hombres-a-precio-1950/format=Thumbnail" tvg-language="spa",Hombres A Precio (1950)
+https://archive.org/download/hombres-a-precio-1950/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="el-ultimo-centauro-la-epopeya-del-gaucho-juan-moreyra-1924" tvg-name="El Ultimo Centauro (La Epopeya Del Gaucho Juan Moreyra)(1924)" tvg-logo="https://archive.org/download/el-ultimo-centauro-la-epopeya-del-gaucho-juan-moreyra-1924/format=Thumbnail" tvg-language="spa",El Ultimo Centauro (La Epopeya Del Gaucho Juan Moreyra)(1924)
+https://archive.org/download/el-ultimo-centauro-la-epopeya-del-gaucho-juan-moreyra-1924/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="misa-criolla-navidad-nuestra-1967" tvg-name="Misa Criolla‚ Navidad Nuestra (1967)" tvg-logo="https://archive.org/download/misa-criolla-navidad-nuestra-1967/format=Thumbnail" tvg-language="spa",Misa Criolla‚ Navidad Nuestra (1967)
+https://archive.org/download/misa-criolla-navidad-nuestra-1967/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="ven-mi-corazon-te-llama-1942" tvg-name="Ven‚ Mi Corazon Te Llama (1942)" tvg-logo="https://archive.org/download/ven-mi-corazon-te-llama-1942/format=Thumbnail" tvg-language="spa",Ven‚ Mi Corazon Te Llama (1942)
+https://archive.org/download/ven-mi-corazon-te-llama-1942/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="violencia-en-la-ciudad-1957" tvg-name="Violencia En La Ciudad (1957)" tvg-logo="https://archive.org/download/violencia-en-la-ciudad-1957/format=Thumbnail" tvg-language="spa",Violencia En La Ciudad (1957)
 https://archive.org/download/violencia-en-la-ciudad-1957/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="los-superagentes-bionicos-1977" tvg-name="Los Superagentes Bionicos (1977)" tvg-logo="https://archive.org/download/los-superagentes-bionicos-1977/format=Thumbnail" tvg-language="spa",Los Superagentes Bionicos (1977)
