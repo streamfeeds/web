@@ -1,4 +1,12 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="creo-en-ti-1960" tvg-name="Creo En Ti (1960)" tvg-logo="https://archive.org/download/creo-en-ti-1960/format=Thumbnail" tvg-language="spa",Creo En Ti (1960)
+https://archive.org/download/creo-en-ti-1960/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="nubes-de-humo-1959" tvg-name="Nubes De Humo (1959)" tvg-logo="https://archive.org/download/nubes-de-humo-1959/format=Thumbnail" tvg-language="spa",Nubes De Humo (1959)
+https://archive.org/download/nubes-de-humo-1959/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="la-importancia-de-ser-ladron-1944" tvg-name="La Importancia De Ser Ladron (1944)" tvg-logo="https://archive.org/download/la-importancia-de-ser-ladron-1944/format=Thumbnail" tvg-language="spa",La Importancia De Ser Ladron (1944)
+https://archive.org/download/la-importancia-de-ser-ladron-1944/format=MPEG4
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="napoleon-1941" tvg-name="Napoleon (1941)" tvg-logo="https://archive.org/download/napoleon-1941/format=Thumbnail" tvg-language="spa",Napoleon (1941)
+https://archive.org/download/napoleon-1941/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="el-viejo-hucha-1942" tvg-name="El Viejo Hucha (1942)" tvg-logo="https://archive.org/download/el-viejo-hucha-1942/format=Thumbnail" tvg-language="spa",El Viejo Hucha (1942)
 https://archive.org/download/el-viejo-hucha-1942/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="su-esposa-diurna-1944" tvg-name="Su Esposa Diurna (1944)" tvg-logo="https://archive.org/download/su-esposa-diurna-1944/format=Thumbnail" tvg-language="spa",Su Esposa Diurna (1944)
