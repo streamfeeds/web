@@ -1,4 +1,12 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="el-viejo-hucha-1942" tvg-name="El Viejo Hucha (1942)" tvg-logo="https://archive.org/download/el-viejo-hucha-1942/format=Thumbnail" tvg-language="spa",El Viejo Hucha (1942)
+https://archive.org/download/el-viejo-hucha-1942/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="su-esposa-diurna-1944" tvg-name="Su Esposa Diurna (1944)" tvg-logo="https://archive.org/download/su-esposa-diurna-1944/format=Thumbnail" tvg-language="spa",Su Esposa Diurna (1944)
+https://archive.org/download/su-esposa-diurna-1944/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="las-sorpresas-del-divorcio-1943" tvg-name="Las Sorpresas Del Divorcio (1943)" tvg-logo="https://archive.org/download/las-sorpresas-del-divorcio-1943/format=Thumbnail" tvg-language="spa",Las Sorpresas Del Divorcio (1943)
+https://archive.org/download/las-sorpresas-del-divorcio-1943/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="sendas-cruzadas-1942" tvg-name="Sendas Cruzadas (1942)" tvg-logo="https://archive.org/download/sendas-cruzadas-1942/format=Thumbnail" tvg-language="spa",Sendas Cruzadas (1942)
+https://archive.org/download/sendas-cruzadas-1942/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="la-que-no-perdono-1938" tvg-name="La Que No Perdono (1938)" tvg-logo="https://archive.org/download/la-que-no-perdono-1938/format=Thumbnail" tvg-language="spa",La Que No Perdono (1938)
 https://archive.org/download/la-que-no-perdono-1938/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="el-viejo-doctor-1939" tvg-name="El Viejo Doctor (1939)" tvg-logo="https://archive.org/download/el-viejo-doctor-1939/format=Thumbnail" tvg-language="spa",El Viejo Doctor (1939)
