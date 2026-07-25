@@ -1,4 +1,12 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="los-golpes-bajos-1974" tvg-name="Los Golpes Bajos (1974)" tvg-logo="https://archive.org/download/los-golpes-bajos-1974/format=Thumbnail" tvg-language="spa",Los Golpes Bajos (1974)
+https://archive.org/download/los-golpes-bajos-1974/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="hola-senor-leon-1973" tvg-name="Hola Señor Leon (1973)" tvg-logo="https://archive.org/download/hola-senor-leon-1973/format=Thumbnail" tvg-language="spa",Hola Señor Leon (1973)
+https://archive.org/download/hola-senor-leon-1973/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="vamos-a-sonar-con-el-amor-1971" tvg-name="Vamos A Soñar Con El Amor (1971)" tvg-logo="https://archive.org/download/vamos-a-sonar-con-el-amor-1971/format=Thumbnail" tvg-language="spa",Vamos A Soñar Con El Amor (1971)
+https://archive.org/download/vamos-a-sonar-con-el-amor-1971/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="la-boda-1964" tvg-name="La Boda (1964)" tvg-logo="https://archive.org/download/la-boda-1964/format=Thumbnail" tvg-language="spa",La Boda (1964)
+https://archive.org/download/la-boda-1964/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="creo-en-ti-1960" tvg-name="Creo En Ti (1960)" tvg-logo="https://archive.org/download/creo-en-ti-1960/format=Thumbnail" tvg-language="spa",Creo En Ti (1960)
 https://archive.org/download/creo-en-ti-1960/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="nubes-de-humo-1959" tvg-name="Nubes De Humo (1959)" tvg-logo="https://archive.org/download/nubes-de-humo-1959/format=Thumbnail" tvg-language="spa",Nubes De Humo (1959)
