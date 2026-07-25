@@ -1,4 +1,8 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="la-noche-del-hurto-1976" tvg-name="La Noche Del Hurto (1976)" tvg-logo="https://archive.org/download/la-noche-del-hurto-1976/format=Thumbnail" tvg-language="spa",La Noche Del Hurto (1976)
+https://archive.org/download/la-noche-del-hurto-1976/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="los-irrompibles-1975" tvg-name="Los Irrompibles (1975)" tvg-logo="https://archive.org/download/los-irrompibles-1975/format=Thumbnail" tvg-language="spa",Los Irrompibles (1975)
+https://archive.org/download/los-irrompibles-1975/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="los-golpes-bajos-1974" tvg-name="Los Golpes Bajos (1974)" tvg-logo="https://archive.org/download/los-golpes-bajos-1974/format=Thumbnail" tvg-language="spa",Los Golpes Bajos (1974)
 https://archive.org/download/los-golpes-bajos-1974/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="hola-senor-leon-1973" tvg-name="Hola Señor Leon (1973)" tvg-logo="https://archive.org/download/hola-senor-leon-1973/format=Thumbnail" tvg-language="spa",Hola Señor Leon (1973)
