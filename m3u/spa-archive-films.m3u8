@@ -1,4 +1,10 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="comandos-azules-1980" tvg-name="Comandos Azules (1980)" tvg-logo="https://archive.org/download/comandos-azules-1980/format=Thumbnail" tvg-language="spa",Comandos Azules (1980)
+https://archive.org/download/comandos-azules-1980/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="el-telo-y-la-tele-1985" tvg-name="El Telo Y La Tele (1985)" tvg-logo="https://archive.org/download/el-telo-y-la-tele-1985/format=Thumbnail" tvg-language="spa",El Telo Y La Tele (1985)
+https://archive.org/download/el-telo-y-la-tele-1985/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="galeria-del-terror-1987" tvg-name="Galeria Del Terror (1987)" tvg-logo="https://archive.org/download/galeria-del-terror-1987/format=Thumbnail" tvg-language="spa",Galeria Del Terror (1987)
+https://archive.org/download/galeria-del-terror-1987/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="la-noche-del-hurto-1976" tvg-name="La Noche Del Hurto (1976)" tvg-logo="https://archive.org/download/la-noche-del-hurto-1976/format=Thumbnail" tvg-language="spa",La Noche Del Hurto (1976)
 https://archive.org/download/la-noche-del-hurto-1976/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="los-irrompibles-1975" tvg-name="Los Irrompibles (1975)" tvg-logo="https://archive.org/download/los-irrompibles-1975/format=Thumbnail" tvg-language="spa",Los Irrompibles (1975)
