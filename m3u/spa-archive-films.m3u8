@@ -1,4 +1,12 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="don-quijote-del-altillo-1936" tvg-name="Don Quijote Del Altillo (1936)" tvg-logo="https://archive.org/download/don-quijote-del-altillo-1936/format=Thumbnail" tvg-language="spa",Don Quijote Del Altillo (1936)
+https://archive.org/download/don-quijote-del-altillo-1936/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="guemes-la-tierra-en-armas-1971" tvg-name="Guemes‚ La Tierra En Armas (1971)" tvg-logo="https://archive.org/download/guemes-la-tierra-en-armas-1971/format=Thumbnail" tvg-language="spa",Guemes‚ La Tierra En Armas (1971)
+https://archive.org/download/guemes-la-tierra-en-armas-1971/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="hay-que-romper-la-rutina-1974" tvg-name="Hay Que Romper La Rutina (1974)" tvg-logo="https://archive.org/download/hay-que-romper-la-rutina-1974/format=Thumbnail" tvg-language="spa",Hay Que Romper La Rutina (1974)
+https://archive.org/download/hay-que-romper-la-rutina-1974/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="las-aventuras-de-tremendo-1986" tvg-name="Las Aventuras De Tremendo (1986)" tvg-logo="https://archive.org/download/las-aventuras-de-tremendo-1986/format=Thumbnail" tvg-language="spa",Las Aventuras De Tremendo (1986)
+https://archive.org/download/las-aventuras-de-tremendo-1986/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="cumbres-borrascosas-1978" tvg-name="Cumbres Borrascosas (1978)" tvg-logo="https://archive.org/download/cumbres-borrascosas-1978/format=Thumbnail" tvg-language="spa",Cumbres Borrascosas (1978)
 https://archive.org/download/cumbres-borrascosas-1978/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="comandos-azules-1980" tvg-name="Comandos Azules (1980)" tvg-logo="https://archive.org/download/comandos-azules-1980/format=Thumbnail" tvg-language="spa",Comandos Azules (1980)
