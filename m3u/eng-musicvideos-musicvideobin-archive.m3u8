@@ -8199,10 +8199,10 @@ https://archive.org/download/Samantha_Fox_True_Devotion/format=h.264
 https://archive.org/download/Enya-On_My_Way_Home_dvd-2nafish/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Samantha_Fox_Nothings_Gonna_Stop_Me_Now" tvg-logo="https://archive.org/download/Samantha_Fox_Nothings_Gonna_Stop_Me_Now/format=Thumbnail",Samantha Fox Nothing's Gonna Stop Me Now
 https://archive.org/download/Samantha_Fox_Nothings_Gonna_Stop_Me_Now/format=h.264
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="Samantha_Fox_I_Surrender" tvg-logo="https://archive.org/download/Samantha_Fox_I_Surrender/format=Thumbnail",Samantha Fox I Surrender
-https://archive.org/download/Samantha_Fox_I_Surrender/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Enya_Orinoco_Flow_Sail_Away_svcd" tvg-logo="https://archive.org/download/Enya_Orinoco_Flow_Sail_Away_svcd/format=Thumbnail",Enya Orinoco Flow Sail Away (svcd)
 https://archive.org/download/Enya_Orinoco_Flow_Sail_Away_svcd/format=h.264
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Samantha_Fox_I_Surrender" tvg-logo="https://archive.org/download/Samantha_Fox_I_Surrender/format=Thumbnail",Samantha Fox I Surrender
+https://archive.org/download/Samantha_Fox_I_Surrender/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Enya_Its_In_The_Rain_WMA_2006" tvg-logo="https://archive.org/download/Enya_Its_In_The_Rain_WMA_2006/format=Thumbnail",Enya It's In The Rain (WMA 2006)
 https://archive.org/download/Enya_Its_In_The_Rain_WMA_2006/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Samantha_Fox_I_Promise_You" tvg-logo="https://archive.org/download/Samantha_Fox_I_Promise_You/format=Thumbnail",Samantha Fox I Promise You
@@ -14077,8 +14077,6 @@ https://archive.org/download/Gregorian_The_Gift/format=h.264
 https://archive.org/download/Gregorian_Tears_In_Heaven/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Gregorian_Moment_Of_Peace" tvg-logo="https://archive.org/download/Gregorian_Moment_Of_Peace/format=Thumbnail",Gregorian Moment Of Peace
 https://archive.org/download/Gregorian_Moment_Of_Peace/format=h.264
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="Greg_Kihn_Band_Lucky" tvg-logo="https://archive.org/download/Greg_Kihn_Band_Lucky/format=Thumbnail",Greg Kihn Band Lucky
-https://archive.org/download/Greg_Kihn_Band_Lucky/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Great_White_Once_Bitten_Twice_Shy" tvg-logo="https://archive.org/download/Great_White_Once_Bitten_Twice_Shy/format=Thumbnail",Great White Once Bitten Twice Shy
 https://archive.org/download/Great_White_Once_Bitten_Twice_Shy/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Grapefruit_Deep_Water" tvg-logo="https://archive.org/download/Grapefruit_Deep_Water/format=Thumbnail",Grapefruit Deep Water
@@ -23865,10 +23863,10 @@ https://archive.org/download/Hithouse_Jack_To_The_Sound_Of_The_Underground.mpg/f
 https://archive.org/download/Highland_Bella_Stella/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Hit_n_Hide_Book_Of_Love.mpg" tvg-logo="https://archive.org/download/Hit_n_Hide_Book_Of_Love.mpg/format=Thumbnail",Hit 'n' Hide Book Of Love.mpg
 https://archive.org/download/Hit_n_Hide_Book_Of_Love.mpg/format=h.264
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="Herbie_-_Right_Type_Of_Mood" tvg-logo="https://archive.org/download/Herbie_-_Right_Type_Of_Mood/format=Thumbnail",Herbie Right Type Of Mood
-https://archive.org/download/Herbie_-_Right_Type_Of_Mood/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Heller_Farley_Project_-_Ultra_Flava.mpg" tvg-logo="https://archive.org/download/Heller_Farley_Project_-_Ultra_Flava.mpg/format=Thumbnail",Heller & Farley Project Ultra Flava.mpg
 https://archive.org/download/Heller_Farley_Project_-_Ultra_Flava.mpg/format=h.264
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Herbie_-_Right_Type_Of_Mood" tvg-logo="https://archive.org/download/Herbie_-_Right_Type_Of_Mood/format=Thumbnail",Herbie Right Type Of Mood
+https://archive.org/download/Herbie_-_Right_Type_Of_Mood/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Hands_Up_2001.mpg" tvg-logo="https://archive.org/download/Hands_Up_2001.mpg/format=Thumbnail",Hands Up (2001)
 https://archive.org/download/Hands_Up_2001.mpg/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Herbie_-_Pick_It_Up" tvg-logo="https://archive.org/download/Herbie_-_Pick_It_Up/format=Thumbnail",Herbie Pick It Up
