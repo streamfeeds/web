@@ -1,14 +1,10 @@
 ﻿#EXTM3U
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="lets-meet-in-a-dream" tvg-name="Yoshiharu Ueoka's Let's Meet in a Dream" tvg-logo="https://archive.org/download/lets-meet-in-a-dream/format=Thumbnail" tvg-language="jpn",Yoshiharu Ueoka's Let's Meet in a Dream (1984)
 https://archive.org/download/lets-meet-in-a-dream/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="osekisho_1930" tvg-name="Osekisho" tvg-logo="https://archive.org/download/osekisho_1930/format=Thumbnail" tvg-language="jpn",Osekisho (1930)
-https://archive.org/download/osekisho_1930/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="oira-no-yakyu_1930" tvg-name="Oira no yakyû" tvg-logo="https://archive.org/download/oira-no-yakyu_1930/format=Thumbnail" tvg-language="jpn",Oira no yakyû (1930)
 https://archive.org/download/oira-no-yakyu_1930/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="manga-oira-no-ski_1930" tvg-name="Manga: Oira no ski" tvg-logo="https://archive.org/download/manga-oira-no-ski_1930/format=Thumbnail" tvg-language="jpn",Manga: Oira no ski (1930)
 https://archive.org/download/manga-oira-no-ski_1930/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="i-flunked-but_1930" tvg-name="I Flunked‚ But..." tvg-logo="https://archive.org/download/i-flunked-but_1930/format=Thumbnail" tvg-language="jpn",I Flunked‚ But... (1930)
-https://archive.org/download/i-flunked-but_1930/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="jido-shoka-eiga-muramatsuri_1930" tvg-name="Jidô shôka eiga: Muramatsuri" tvg-logo="https://archive.org/download/jido-shoka-eiga-muramatsuri_1930/format=Thumbnail" tvg-language="jpn",Jidô shôka eiga: Muramatsuri (1930)
 https://archive.org/download/jido-shoka-eiga-muramatsuri_1930/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="entotsuya-pero_1930" tvg-name="Entotsuya Perô" tvg-logo="https://archive.org/download/entotsuya-pero_1930/format=Thumbnail" tvg-language="jpn",Entotsuya Perô (1930)
@@ -17,8 +13,6 @@ https://archive.org/download/entotsuya-pero_1930/format=MPEG4
 https://archive.org/download/the.-snow.-woman.-1968/format=MPEG4
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="onibaba.-1964_202511" tvg-name="Onibaba (1964)" tvg-logo="https://archive.org/download/onibaba.-1964_202511/format=Thumbnail" tvg-language="jpn",Onibaba (1964)
 https://archive.org/download/onibaba.-1964_202511/format=MPEG4
-#EXTINF:-1 group-title="Silent films" tvg-id="a.-page.-of.-madness.-1926" tvg-name="A Page of Madness (1926)" tvg-logo="https://archive.org/download/a.-page.-of.-madness.-1926/format=Thumbnail" tvg-language="jpn",A Page of Madness (1926)
-https://archive.org/download/a.-page.-of.-madness.-1926/format=MPEG4
 #EXTINF:-1 group-title="Comedy Films" tvg-id="recently-my-sister-is-unusual-live-action-anime-2014" tvg-name="Recently‚ My Sister Is Unusual Live Action Anime 2014" tvg-logo="https://archive.org/download/recently-my-sister-is-unusual-live-action-anime-2014/format=Thumbnail" tvg-language="jpn",Recently‚ My Sister Is Unusual Live Action Anime 2014
 https://archive.org/download/recently-my-sister-is-unusual-live-action-anime-2014/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="thousand-and-one-nights-a-senya-ichiya-monogatar" tvg-name="Thousand And One Nights‚ A‚ Sen'ya Ichiya Monogatar" tvg-logo="https://archive.org/download/thousand-and-one-nights-a-senya-ichiya-monogatar/format=Thumbnail" tvg-language="jpn",Thousand And One Nights‚ A‚ Sen'ya Ichiya Monogatar (1969)
@@ -31,8 +25,6 @@ https://archive.org/download/a-page-of-madness-1926_202507/format=h.264
 https://archive.org/download/horny-working-girl-onna-shinnyu-shain-1982-junko-asahina-nami-misaki-yuki-yoshiz/format=h.264
 #EXTINF:-1 group-title="Comedy Films" tvg-id="koichiro-unos-wet-and-riding-uno-koichiro-no-nurete-noru-1982-junko-asahina-reik" tvg-name="Koichiro Uno's Wet and Riding‚ Uno Koichiro no Nurete Noru" tvg-logo="https://archive.org/download/koichiro-unos-wet-and-riding-uno-koichiro-no-nurete-noru-1982-junko-asahina-reik/format=Thumbnail" tvg-language="jpn",Koichiro Uno's Wet and Riding‚ Uno Koichiro no Nurete Noru (1982)
 https://archive.org/download/koichiro-unos-wet-and-riding-uno-koichiro-no-nurete-noru-1982-junko-asahina-reik/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="woman-with-pierced-nipples-la-femme-aux-seins-perces-1983-jun-izumi-usagi-aso-ke" tvg-name="Woman With Pierced Nipples‚ La Femme Aux Seins Perces" tvg-logo="https://archive.org/download/woman-with-pierced-nipples-la-femme-aux-seins-perces-1983-jun-izumi-usagi-aso-ke/format=Thumbnail" tvg-language="jpn",Woman With Pierced Nipples‚ La Femme Aux Seins Perces (1983)
-https://archive.org/download/woman-with-pierced-nipples-la-femme-aux-seins-perces-1983-jun-izumi-usagi-aso-ke/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="erotic-ghost-story-1990-amy-yip-hitomi-kudo-so-man-chi-jan-ha-kiyoko-kamimura-li" tvg-name="Erotic Ghost Story 1990" tvg-logo="https://archive.org/download/erotic-ghost-story-1990-amy-yip-hitomi-kudo-so-man-chi-jan-ha-kiyoko-kamimura-li/format=Thumbnail" tvg-language="jpn",Erotic Ghost Story 1990
 https://archive.org/download/erotic-ghost-story-1990-amy-yip-hitomi-kudo-so-man-chi-jan-ha-kiyoko-kamimura-li/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="zanjin-zanbaken_1929" tvg-name="Zanjin zanbaken" tvg-logo="https://archive.org/download/zanjin-zanbaken_1929/format=Thumbnail" tvg-language="jpn",Zanjin zanbaken (1929)
@@ -43,16 +35,10 @@ https://archive.org/download/the-stolen-lump_1929/format=MPEG4
 https://archive.org/download/tarosan-no-kisha_1929/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="roningai--dainiwa-gakuyaburo--daiippen_1929" tvg-name="Rônin-gai - Dai-ni-wa: Gakuya-buro - Dai-ippen" tvg-logo="https://archive.org/download/roningai--dainiwa-gakuyaburo--daiippen_1929/format=Thumbnail" tvg-language="jpn",Rônin-gai - Dai-ni-wa: Gakuya-buro - Dai-ippen (1929)
 https://archive.org/download/roningai--dainiwa-gakuyaburo--daiippen_1929/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="kigeki-ase_1929" tvg-name="Kigeki: Ase" tvg-logo="https://archive.org/download/kigeki-ase_1929/format=Thumbnail" tvg-language="jpn",Kigeki: Ase (1929)
-https://archive.org/download/kigeki-ase_1929/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="kogane-no-hana_1929" tvg-name="Kogane no hana" tvg-logo="https://archive.org/download/kogane-no-hana_1929/format=Thumbnail" tvg-language="jpn",Kogane no hana (1929)
-https://archive.org/download/kogane-no-hana_1929/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="futatsuno-sekai_1929" tvg-name="Futatsuno sekai" tvg-logo="https://archive.org/download/futatsuno-sekai_1929/format=Thumbnail" tvg-language="jpn",Futatsuno sekai (1929)
 https://archive.org/download/futatsuno-sekai_1929/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="issunboshi-no-shusse_1929" tvg-name="Issun-bôshi no shusse" tvg-logo="https://archive.org/download/issunboshi-no-shusse_1929/format=Thumbnail" tvg-language="jpn",Issun-bôshi no shusse (1929)
 https://archive.org/download/issunboshi-no-shusse_1929/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="nada-so-so-2006-1080p-webrip" tvg-name="Tears for You (2006)" tvg-logo="https://archive.org/download/nada-so-so-2006-1080p-webrip/format=Thumbnail" tvg-language="jpn",Tears for You (2006)
-https://archive.org/download/nada-so-so-2006-1080p-webrip/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="paradise-kiss-2011-720p-blu-ray" tvg-name="Paradise Kiss (2011)" tvg-logo="https://archive.org/download/paradise-kiss-2011-720p-blu-ray/format=Thumbnail" tvg-language="jpn",Paradise Kiss (2011)
 https://archive.org/download/paradise-kiss-2011-720p-blu-ray/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="snow-prince" tvg-name="Snow Prince (2009)" tvg-logo="https://archive.org/download/snow-prince/format=Thumbnail" tvg-language="jpn",Snow Prince (2009)
@@ -63,20 +49,14 @@ https://archive.org/download/go-2001-1080p-blu-ray/format=MPEG4
 https://archive.org/download/honey-lemon-soda-2021-japanese-1080p-webrip/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="yudo-the-way-of-the-bath-2022-1080p-blu-ray" tvg-name="Yudo (2023)" tvg-logo="https://archive.org/download/yudo-the-way-of-the-bath-2022-1080p-blu-ray/format=Thumbnail" tvg-language="jpn",Yudo (2023)
 https://archive.org/download/yudo-the-way-of-the-bath-2022-1080p-blu-ray/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="hiraite-2021-1080p-blu-ray" tvg-name="Unlock Your Heart (2021)" tvg-logo="https://archive.org/download/hiraite-2021-1080p-blu-ray/format=Thumbnail" tvg-language="jpn",Unlock Your Heart (2021)
-https://archive.org/download/hiraite-2021-1080p-blu-ray/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="love-me-love-me-not-2020-1080p-blu-ray" tvg-name="Love Me‚ Love Me Not (2020)" tvg-logo="https://archive.org/download/love-me-love-me-not-2020-1080p-blu-ray/format=Thumbnail" tvg-language="jpn",Love Me‚ Love Me Not (2020)
 https://archive.org/download/love-me-love-me-not-2020-1080p-blu-ray/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="kanojo-no-sukinamonowa-2021-1080p" tvg-name="What She Likes (2021)" tvg-logo="https://archive.org/download/kanojo-no-sukinamonowa-2021-1080p/format=Thumbnail" tvg-language="jpn",What She Likes (2021)
-https://archive.org/download/kanojo-no-sukinamonowa-2021-1080p/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="blue-spring-ride-2014-1080p-blu-ray" tvg-name="Blue Spring Ride (2014)" tvg-logo="https://archive.org/download/blue-spring-ride-2014-1080p-blu-ray/format=Thumbnail" tvg-language="jpn",Blue Spring Ride (2014)
 https://archive.org/download/blue-spring-ride-2014-1080p-blu-ray/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="mom-is-that-you-2023-1080p-blu-ray" tvg-name="Mom Is That You?! (2023)" tvg-logo="https://archive.org/download/mom-is-that-you-2023-1080p-blu-ray/format=Thumbnail" tvg-language="jpn",Mom Is That You?! (2023)
 https://archive.org/download/mom-is-that-you-2023-1080p-blu-ray/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="nobody-knows-2004-blu-ray-1080p" tvg-name="Nobody Knows (2004)" tvg-logo="https://archive.org/download/nobody-knows-2004-blu-ray-1080p/format=Thumbnail" tvg-language="jpn",Nobody Knows (2004)
 https://archive.org/download/nobody-knows-2004-blu-ray-1080p/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="re-life-2017-1080p-blu-ray" tvg-name="ReLIFE (2017)" tvg-logo="https://archive.org/download/re-life-2017-1080p-blu-ray/format=Thumbnail" tvg-language="jpn",ReLIFE (2017)
-https://archive.org/download/re-life-2017-1080p-blu-ray/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="hells-garden-2021-1080p-blu-ray" tvg-name="Hell's Garden (2021)" tvg-logo="https://archive.org/download/hells-garden-2021-1080p-blu-ray/format=Thumbnail" tvg-language="jpn",Hell's Garden (2021)
 https://archive.org/download/hells-garden-2021-1080p-blu-ray/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="heavenly-forest-2006-1080p-webrip" tvg-name="Heavenly Forest (2006)" tvg-logo="https://archive.org/download/heavenly-forest-2006-1080p-webrip/format=Thumbnail" tvg-language="jpn",Heavenly Forest (2006)
@@ -105,28 +85,18 @@ https://archive.org/download/my-boyfriend-in-orange-2022-1080p-webrip/format=MPE
 https://archive.org/download/parasite-in-love-2021-1080p-blu-ray/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="my-tomorrow-your-yesterday-2016-blu-ray" tvg-name="My Tomorrow‚ Your Yesterday (2016)" tvg-logo="https://archive.org/download/my-tomorrow-your-yesterday-2016-blu-ray/format=Thumbnail" tvg-language="jpn",My Tomorrow‚ Your Yesterday (2016)
 https://archive.org/download/my-tomorrow-your-yesterday-2016-blu-ray/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="kiiroi-namida-2007-1080p-blu-ray" tvg-name="Kiiroi Namida (2007)" tvg-logo="https://archive.org/download/kiiroi-namida-2007-1080p-blu-ray/format=Thumbnail" tvg-language="jpn",Kiiroi Namida (2007)
-https://archive.org/download/kiiroi-namida-2007-1080p-blu-ray/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="manhole-2023-1080p-blu-ray" tvg-name="#Manhole (2023)" tvg-logo="https://archive.org/download/manhole-2023-1080p-blu-ray/format=Thumbnail" tvg-language="jpn",#Manhole (2023)
 https://archive.org/download/manhole-2023-1080p-blu-ray/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-8-year-engagement-2017-blu-ray-1080p" tvg-name="The 8 Year Engagement (2017)" tvg-logo="https://archive.org/download/the-8-year-engagement-2017-blu-ray-1080p/format=Thumbnail" tvg-language="jpn",The 8 Year Engagement (2017)
 https://archive.org/download/the-8-year-engagement-2017-blu-ray-1080p/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="soiree-2020-1080p-hdtvrip" tvg-name="Soirée (2020)" tvg-logo="https://archive.org/download/soiree-2020-1080p-hdtvrip/format=Thumbnail" tvg-language="jpn",Soirée (2020)
-https://archive.org/download/soiree-2020-1080p-hdtvrip/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-blue-skies-at-your-feet-2022-1080p-webrip" tvg-name="The Blue Skies at Your Feet (2022)" tvg-logo="https://archive.org/download/the-blue-skies-at-your-feet-2022-1080p-webrip/format=Thumbnail" tvg-language="jpn",The Blue Skies at Your Feet (2022)
 https://archive.org/download/the-blue-skies-at-your-feet-2022-1080p-webrip/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="bad-lands-2023-1080p-webrip" tvg-name="Bad Lands (2023)" tvg-logo="https://archive.org/download/bad-lands-2023-1080p-webrip/format=Thumbnail" tvg-language="jpn",Bad Lands (2023)
-https://archive.org/download/bad-lands-2023-1080p-webrip/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="brothers-friend-2018-1080p-webrip" tvg-name="Brother's Friend (2018)" tvg-logo="https://archive.org/download/brothers-friend-2018-1080p-webrip/format=Thumbnail" tvg-language="jpn",Brother's Friend (2018)
 https://archive.org/download/brothers-friend-2018-1080p-webrip/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="kiss-me-at-the-stroke-of-midnight-2019-1080p-blu-ray" tvg-name="Kiss Me at The Stroke of Midnight (2019)" tvg-logo="https://archive.org/download/kiss-me-at-the-stroke-of-midnight-2019-1080p-blu-ray/format=Thumbnail" tvg-language="jpn",Kiss Me at The Stroke of Midnight (2019)
 https://archive.org/download/kiss-me-at-the-stroke-of-midnight-2019-1080p-blu-ray/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="tekkonkinkreet-2006-blu-ray-1080p" tvg-name="Tekkon Kinkreet (2006)" tvg-logo="https://archive.org/download/tekkonkinkreet-2006-blu-ray-1080p/format=Thumbnail" tvg-language="jpn",Tekkon Kinkreet (2006)
 https://archive.org/download/tekkonkinkreet-2006-blu-ray-1080p/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="kakegurui-2019-1080p-blu-ray" tvg-name="Kakegurui (2019)" tvg-logo="https://archive.org/download/kakegurui-2019-1080p-blu-ray/format=Thumbnail" tvg-language="jpn",Kakegurui (2019)
-https://archive.org/download/kakegurui-2019-1080p-blu-ray/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="snakes-and-earrings-2008-1080p-blu-ray" tvg-name="Snakes and Earrings (2008)" tvg-logo="https://archive.org/download/snakes-and-earrings-2008-1080p-blu-ray/format=Thumbnail" tvg-language="jpn",Snakes and Earrings (2008)
-https://archive.org/download/snakes-and-earrings-2008-1080p-blu-ray/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="dont-call-it-mystery-the-movie-2023-1080p-blu-ray" tvg-name="Dont Call It Mystery: The Movie (2023)" tvg-logo="https://archive.org/download/dont-call-it-mystery-the-movie-2023-1080p-blu-ray/format=Thumbnail" tvg-language="jpn",Dont Call It Mystery: The Movie (2023)
 https://archive.org/download/dont-call-it-mystery-the-movie-2023-1080p-blu-ray/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-forest-of-wool-and-steel-2018-1080p-blu-ray" tvg-name="A Forest of Wool and Steel (2018)" tvg-logo="https://archive.org/download/the-forest-of-wool-and-steel-2018-1080p-blu-ray/format=Thumbnail" tvg-language="jpn",A Forest of Wool and Steel (2018)
@@ -137,8 +107,6 @@ https://archive.org/download/my-little-monster-2018-blu-ray-1080p/format=MPEG4
 https://archive.org/download/destruction-babies-2016-blu-ray-1080p/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="kaguya-sama-love-is-war-final-2021-1080p-blu-ray" tvg-name="Kaguya-sama: Love Is War Final (2021)" tvg-logo="https://archive.org/download/kaguya-sama-love-is-war-final-2021-1080p-blu-ray/format=Thumbnail" tvg-language="jpn",Kaguya-sama: Love Is War Final (2021)
 https://archive.org/download/kaguya-sama-love-is-war-final-2021-1080p-blu-ray/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="pikanchi-life-is-hard-dakedo-happy-2002-1080p-blu-ray" tvg-name="Pikanchi Life Is Hard Dakedo Happy (2002)" tvg-logo="https://archive.org/download/pikanchi-life-is-hard-dakedo-happy-2002-1080p-blu-ray/format=Thumbnail" tvg-language="jpn",Pikanchi Life Is Hard Dakedo Happy (2002)
-https://archive.org/download/pikanchi-life-is-hard-dakedo-happy-2002-1080p-blu-ray/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="nana-2-2006-1080p-webrip" tvg-name="Nana 2 (2006)" tvg-logo="https://archive.org/download/nana-2-2006-1080p-webrip/format=Thumbnail" tvg-language="jpn",Nana 2 (2006)
 https://archive.org/download/nana-2-2006-1080p-webrip/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="analog-2023-1080p-blu-ray" tvg-name="Analog (2023)" tvg-logo="https://archive.org/download/analog-2023-1080p-blu-ray/format=Thumbnail" tvg-language="jpn",Analog (2023)
@@ -153,16 +121,10 @@ https://archive.org/download/the-100th-love-with-you-2017-1080p/format=MPEG4
 https://archive.org/download/kids-on-the-slope-2018-1080p-blu-ray/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="little-nights-little-love-2019-1080p-blu-ray" tvg-name="Little Nights‚ Little Love (2019)" tvg-logo="https://archive.org/download/little-nights-little-love-2019-1080p-blu-ray/format=Thumbnail" tvg-language="jpn",Little Nights‚ Little Love (2019)
 https://archive.org/download/little-nights-little-love-2019-1080p-blu-ray/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="one-week-friends-2017-1080p-blu-ray" tvg-name="One Week Friends (2017)" tvg-logo="https://archive.org/download/one-week-friends-2017-1080p-blu-ray/format=Thumbnail" tvg-language="jpn",One Week Friends (2017)
-https://archive.org/download/one-week-friends-2017-1080p-blu-ray/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="little-love-song-2019-1080p-webrip" tvg-name="Little Love Song (2019)" tvg-logo="https://archive.org/download/little-love-song-2019-1080p-webrip/format=Thumbnail" tvg-language="jpn",Little Love Song (2019)
 https://archive.org/download/little-love-song-2019-1080p-webrip/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="peach-girl-2017-1080p-blu-ray" tvg-name="Peach Girl (2017)" tvg-logo="https://archive.org/download/peach-girl-2017-1080p-blu-ray/format=Thumbnail" tvg-language="jpn",Peach Girl (2017)
 https://archive.org/download/peach-girl-2017-1080p-blu-ray/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="pink-and-gray-2016-1080p-blu-ray" tvg-name="Pink And Gray (2016)" tvg-logo="https://archive.org/download/pink-and-gray-2016-1080p-blu-ray/format=Thumbnail" tvg-language="jpn",Pink And Gray (2016)
-https://archive.org/download/pink-and-gray-2016-1080p-blu-ray/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="shiritsu-bakaleya-koukou-the-movie" tvg-name="Shiritsu Bakaleya Koukou: The Movie (2012)" tvg-logo="https://archive.org/download/shiritsu-bakaleya-koukou-the-movie/format=Thumbnail" tvg-language="jpn",Shiritsu Bakaleya Koukou: The Movie (2012)
-https://archive.org/download/shiritsu-bakaleya-koukou-the-movie/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="flying-colors-2015-1080p-blu-ray" tvg-name="Flying Colors (2015)" tvg-logo="https://archive.org/download/flying-colors-2015-1080p-blu-ray/format=Thumbnail" tvg-language="jpn",Flying Colors (2015)
 https://archive.org/download/flying-colors-2015-1080p-blu-ray/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-liar-and-his-lover-2013-1080p-blu-ray" tvg-name="The Liar and His Lover (2013)" tvg-logo="https://archive.org/download/the-liar-and-his-lover-2013-1080p-blu-ray/format=Thumbnail" tvg-language="jpn",The Liar and His Lover (2013)
@@ -181,8 +143,6 @@ https://archive.org/download/dont-laugh-at-my-romance-2007-1080p-blu-ray/format=
 https://archive.org/download/wotakoi-love-is-hard-for-otaku-2020-1080p-blu-ray/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="drowning-love-2016-1080p-blu-ray" tvg-name="Drowning Love (2016)" tvg-logo="https://archive.org/download/drowning-love-2016-1080p-blu-ray/format=Thumbnail" tvg-language="jpn",Drowning Love (2016)
 https://archive.org/download/drowning-love-2016-1080p-blu-ray/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="second-summer-never-see-you-again-2017-1080p-blu-ray" tvg-name="Second Summer‚ Never See You Again (2017)" tvg-logo="https://archive.org/download/second-summer-never-see-you-again-2017-1080p-blu-ray/format=Thumbnail" tvg-language="jpn",Second Summer‚ Never See You Again (2017)
-https://archive.org/download/second-summer-never-see-you-again-2017-1080p-blu-ray/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="cube-2021-1080p-blu-ray" tvg-name="Cube (2021)" tvg-logo="https://archive.org/download/cube-2021-1080p-blu-ray/format=Thumbnail" tvg-language="jpn",Cube (2021)
 https://archive.org/download/cube-2021-1080p-blu-ray/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="12-suicidal-teens-2019-blu-ray-1080p" tvg-name="12 Suicidal Teens (2019)" tvg-logo="https://archive.org/download/12-suicidal-teens-2019-blu-ray-1080p/format=Thumbnail" tvg-language="jpn",12 Suicidal Teens (2019)
@@ -191,12 +151,8 @@ https://archive.org/download/12-suicidal-teens-2019-blu-ray-1080p/format=MPEG4
 https://archive.org/download/kamen-teacher-movie/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="tairiki-taro-no-mucha-shugyo_1928" tvg-name="Tairiki Tarô no mucha shugyô" tvg-logo="https://archive.org/download/tairiki-taro-no-mucha-shugyo_1928/format=Thumbnail" tvg-language="jpn",Tairiki Tarô no mucha shugyô (1928)
 https://archive.org/download/tairiki-taro-no-mucha-shugyo_1928/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="sakamoto-ryoma_1928" tvg-name="Sakamoto Ryôma" tvg-logo="https://archive.org/download/sakamoto-ryoma_1928/format=Thumbnail" tvg-language="jpn",Sakamoto Ryôma (1928)
-https://archive.org/download/sakamoto-ryoma_1928/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="manga-sakana-no-kuni_1928" tvg-name="Manga: Sakana no kuni" tvg-logo="https://archive.org/download/manga-sakana-no-kuni_1928/format=Thumbnail" tvg-language="jpn",Manga: Sakana no kuni (1928)
 https://archive.org/download/manga-sakana-no-kuni_1928/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="manga-hanasakajijii_1928" tvg-name="Manga: Hanasaka-jijii" tvg-logo="https://archive.org/download/manga-hanasakajijii_1928/format=Thumbnail" tvg-language="jpn",Manga: Hanasaka-jijii (1928)
-https://archive.org/download/manga-hanasakajijii_1928/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="kurama-tengu_1928" tvg-name="Kurama Tengu" tvg-logo="https://archive.org/download/kurama-tengu_1928/format=Thumbnail" tvg-language="jpn",Kurama Tengu (1928)
 https://archive.org/download/kurama-tengu_1928/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="dobutsu-olympic-taikai_1928" tvg-name="Dobutsu olympic taikai" tvg-logo="https://archive.org/download/dobutsu-olympic-taikai_1928/format=Thumbnail" tvg-language="jpn",Dobutsu olympic taikai (1928)
@@ -205,28 +161,18 @@ https://archive.org/download/dobutsu-olympic-taikai_1928/format=MPEG4
 https://archive.org/download/crossroads_1928/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="chukon-giretsu--jitsuroku-chushingura_1928" tvg-name="Chûkon giretsu - Jitsuroku Chûshingura" tvg-logo="https://archive.org/download/chukon-giretsu--jitsuroku-chushingura_1928/format=Thumbnail" tvg-language="jpn",Chûkon giretsu - Jitsuroku Chûshingura (1928)
 https://archive.org/download/chukon-giretsu--jitsuroku-chushingura_1928/format=MPEG4
-#EXTINF:-1 group-title="Colorized-movies" tvg-id="godzilla-1954-colorization-2020" tvg-name="Godzilla 1954 Official Toho Colorization" tvg-logo="https://archive.org/download/godzilla-1954-colorization-2020/format=Thumbnail" tvg-language="jpn",Godzilla 1954 Official Toho Colorization (2020)
-https://archive.org/download/godzilla-1954-colorization-2020/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="katsudo-shashin-1907" tvg-name="Katsudô Shashin (1907)" tvg-logo="https://archive.org/download/katsudo-shashin-1907/format=Thumbnail" tvg-language="jpn",Katsudô Shashin (1907)
 https://archive.org/download/katsudo-shashin-1907/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="yuki-no-yo-no-yume-1947" tvg-name="Yuki no yo no yume (1947)" tvg-logo="https://archive.org/download/yuki-no-yo-no-yume-1947/format=Thumbnail" tvg-language="jpn",Yuki no yo no yume (1947)
 https://archive.org/download/yuki-no-yo-no-yume-1947/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="sarukani-gassen-1927" tvg-name="Sarukani-gassen (1927)" tvg-logo="https://archive.org/download/sarukani-gassen-1927/format=Thumbnail" tvg-language="jpn",Sarukani-gassen (1927)
 https://archive.org/download/sarukani-gassen-1927/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="jido-shoka-eiga-muramatsuri-1930" tvg-name="Jidô shôka eiga: Muramatsuri (1930)" tvg-logo="https://archive.org/download/jido-shoka-eiga-muramatsuri-1930/format=Thumbnail" tvg-language="jpn",Jidô shôka eiga: Muramatsuri (1930)
-https://archive.org/download/jido-shoka-eiga-muramatsuri-1930/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="kyoiku-otogi-manga-usagi-to-kame-1924" tvg-name="Kyoiku otogi manga: Usagi to kame (1924)" tvg-logo="https://archive.org/download/kyoiku-otogi-manga-usagi-to-kame-1924/format=Thumbnail" tvg-language="jpn",Kyoiku otogi manga: Usagi to kame (1924)
-https://archive.org/download/kyoiku-otogi-manga-usagi-to-kame-1924/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="urashima-taro-1918" tvg-name="Urashima Tarô (1918)" tvg-logo="https://archive.org/download/urashima-taro-1918/format=Thumbnail" tvg-language="jpn",Urashima Tarô (1918)
 https://archive.org/download/urashima-taro-1918/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="umi-no-momotaro-1932" tvg-name="Umi no Momotarô (1932)" tvg-logo="https://archive.org/download/umi-no-momotaro-1932/format=Thumbnail" tvg-language="jpn",Umi no Momotarô (1932)
-https://archive.org/download/umi-no-momotaro-1932/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="ugokie-kori-no-tatehiki-1933" tvg-name="Ugokie kori no tatehiki (1933)" tvg-logo="https://archive.org/download/ugokie-kori-no-tatehiki-1933/format=Thumbnail" tvg-language="jpn",Ugokie kori no tatehiki (1933)
 https://archive.org/download/ugokie-kori-no-tatehiki-1933/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="taro-san-no-kisha-1929" tvg-name="Tarô-san no kisha (1929)" tvg-logo="https://archive.org/download/taro-san-no-kisha-1929/format=Thumbnail" tvg-language="jpn",Tarô-san no kisha (1929)
 https://archive.org/download/taro-san-no-kisha-1929/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="sora-no-momotaro-1931" tvg-name="Sora no Momotarô (1931)" tvg-logo="https://archive.org/download/sora-no-momotaro-1931/format=Thumbnail" tvg-language="jpn",Sora no Momotarô (1931)
-https://archive.org/download/sora-no-momotaro-1931/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="kinken-chochiku-shiobara-tasuke-1925" tvg-name="Kinken chochiku Shiobara Tasuke (1925)" tvg-logo="https://archive.org/download/kinken-chochiku-shiobara-tasuke-1925/format=Thumbnail" tvg-language="jpn",Kinken chochiku Shiobara Tasuke (1925)
 https://archive.org/download/kinken-chochiku-shiobara-tasuke-1925/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="sakura-1946" tvg-name="Sakura (1946)" tvg-logo="https://archive.org/download/sakura-1946/format=Thumbnail" tvg-language="jpn",Sakura (1946)
@@ -239,8 +185,6 @@ https://archive.org/download/nansensu-monogatari-dai-ippen-sarugashima-1931/form
 https://archive.org/download/manga-sarumasamune-1931/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="momotaro-1918" tvg-name="Momotarô (1918)" tvg-logo="https://archive.org/download/momotaro-1918/format=Thumbnail" tvg-language="jpn",Momotarô (1918)
 https://archive.org/download/momotaro-1918/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="maho-no-pen-1946" tvg-name="Maho no pen (1946)" tvg-logo="https://archive.org/download/maho-no-pen-1946/format=Thumbnail" tvg-language="jpn",Maho no pen (1946)
-https://archive.org/download/maho-no-pen-1946/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="kuronyago-1929" tvg-name="Kuronyago (1931)" tvg-logo="https://archive.org/download/kuronyago-1929/format=Thumbnail" tvg-language="jpn",Kuronyago (1931)
 https://archive.org/download/kuronyago-1929/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="imokawa-mukuzo-genkan-ban-no-maki-1917" tvg-name="Imokawa Mukuzô genkan-ban no maki (1917)" tvg-logo="https://archive.org/download/imokawa-mukuzo-genkan-ban-no-maki-1917/format=Thumbnail" tvg-language="jpn",Imokawa Mukuzô genkan-ban no maki (1917)
@@ -249,30 +193,16 @@ https://archive.org/download/imokawa-mukuzo-genkan-ban-no-maki-1917/format=MPEG4
 https://archive.org/download/hanasaka-jijii-1917/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="dobutsu-olympic-taikai-1928" tvg-name="Dobutsu olympic taikai (1928)" tvg-logo="https://archive.org/download/dobutsu-olympic-taikai-1928/format=Thumbnail" tvg-language="jpn",Dobutsu olympic taikai (1928)
 https://archive.org/download/dobutsu-olympic-taikai-1928/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="manga-shojoji-no-tanuki-bayashi-dan-danemon-1935" tvg-name="Manga: Shojoji no tanuki-bayashi Dan Dan'emon (1935)" tvg-logo="https://archive.org/download/manga-shojoji-no-tanuki-bayashi-dan-danemon-1935/format=Thumbnail" tvg-language="jpn",Manga: Shojoji no tanuki-bayashi Dan Dan'emon (1935)
-https://archive.org/download/manga-shojoji-no-tanuki-bayashi-dan-danemon-1935/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="manga-chinkoro-heibei-tamatebako-1936" tvg-name="Manga: Chinkoro heibei tamatebako (1936)" tvg-logo="https://archive.org/download/manga-chinkoro-heibei-tamatebako-1936/format=Thumbnail" tvg-language="jpn",Manga: Chinkoro heibei tamatebako (1936)
 https://archive.org/download/manga-chinkoro-heibei-tamatebako-1936/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="chagama-ondo-1935" tvg-name="Chagama ondo (1935)" tvg-logo="https://archive.org/download/chagama-ondo-1935/format=Thumbnail" tvg-language="jpn",Chagama ondo (1935)
-https://archive.org/download/chagama-ondo-1935/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="benkei-tai-ushiwaka-1939" tvg-name="Benkei tai Ushiwaka (1939)" tvg-logo="https://archive.org/download/benkei-tai-ushiwaka-1939/format=Thumbnail" tvg-language="jpn",Benkei tai Ushiwaka (1939)
-https://archive.org/download/benkei-tai-ushiwaka-1939/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="manga-komori-1930" tvg-name="Manga: Kômori (1930)" tvg-logo="https://archive.org/download/manga-komori-1930/format=Thumbnail" tvg-language="jpn",Manga: Kômori (1930)
-https://archive.org/download/manga-komori-1930/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="haru-no-uta-1931" tvg-name="Haru no uta (1931)" tvg-logo="https://archive.org/download/haru-no-uta-1931/format=Thumbnail" tvg-language="jpn",Haru no uta (1931)
-https://archive.org/download/haru-no-uta-1931/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="chameko-no-ichinichi-1931" tvg-name="Chameko no ichinichi (1931)" tvg-logo="https://archive.org/download/chameko-no-ichinichi-1931/format=Thumbnail" tvg-language="jpn",Chameko no ichinichi (1931)
 https://archive.org/download/chameko-no-ichinichi-1931/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="hanawa-hekonai-meito-no-maki-1917" tvg-name="Hanawa Hekonai meitô no maki (1917)" tvg-logo="https://archive.org/download/hanawa-hekonai-meito-no-maki-1917/format=Thumbnail" tvg-language="jpn",Hanawa Hekonai meitô no maki (1917)
 https://archive.org/download/hanawa-hekonai-meito-no-maki-1917/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="momotaro-umi-no-shinpei-1945" tvg-name="Momotarô: Umi no shinpei (1945)" tvg-logo="https://archive.org/download/momotaro-umi-no-shinpei-1945/format=Thumbnail" tvg-language="jpn",Momotarô: Umi no shinpei (1945)
 https://archive.org/download/momotaro-umi-no-shinpei-1945/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="momotaro-no-umiwashi-1943" tvg-name="Momotaro no umiwashi (1943)" tvg-logo="https://archive.org/download/momotaro-no-umiwashi-1943/format=Thumbnail" tvg-language="jpn",Momotaro no umiwashi (1943)
-https://archive.org/download/momotaro-no-umiwashi-1943/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="suteneko-tora-chan-1947" tvg-name="Suteneko Tora-chan (1947)" tvg-logo="https://archive.org/download/suteneko-tora-chan-1947/format=Thumbnail" tvg-language="jpn",Suteneko Tora-chan (1947)
 https://archive.org/download/suteneko-tora-chan-1947/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="kumo-to-churippu-1943" tvg-name="Kumo to chûrippu (1943)" tvg-logo="https://archive.org/download/kumo-to-churippu-1943/format=Thumbnail" tvg-language="jpn",Kumo to chûrippu (1943)
-https://archive.org/download/kumo-to-churippu-1943/format=MPEG4
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="violence-jack-all-ovas" tvg-name="VIOLENCE JACK ALL OVAs(1986-1990) WIDESCREEN" tvg-logo="https://archive.org/download/violence-jack-all-ovas/format=Thumbnail" tvg-language="jpn",VIOLENCE JACK ALL OVAs(1986) (1990)
 https://archive.org/download/violence-jack-all-ovas/format=MPEG4
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="infection-2004" tvg-name="Infection [2004]" tvg-logo="https://archive.org/download/infection-2004/format=Thumbnail" tvg-language="jpn",Infection [2004]
@@ -285,18 +215,10 @@ https://archive.org/download/dark-tales-of-japan/format=MPEG4
 https://archive.org/download/pulse.-2001/format=MPEG4
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="sweet-home-the-mamiya-house-1988" tvg-name="Sweet Home ( The Mamiya House) [1988]" tvg-logo="https://archive.org/download/sweet-home-the-mamiya-house-1988/format=Thumbnail" tvg-language="jpn",Sweet Home (The Mamiya House) [1988]
 https://archive.org/download/sweet-home-the-mamiya-house-1988/format=MPEG4
-#EXTINF:-1 group-title="Film scifi" tvg-id="angel-cop-episode-6-1080p-eng-sub-best-quality" tvg-name="Angel Cop all OVA's 1989-1994" tvg-logo="https://archive.org/download/angel-cop-episode-6-1080p-eng-sub-best-quality/format=Thumbnail" tvg-language="jpn",Angel Cop all OVA's 1989-1994
-https://archive.org/download/angel-cop-episode-6-1080p-eng-sub-best-quality/format=MPEG4
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="ova-1986-1990" tvg-name="Violence Jack ALL OVA'S 1986-1990" tvg-logo="https://archive.org/download/ova-1986-1990/format=Thumbnail" tvg-language="jpn",Violence Jack ALL OVA'S 1986-1990
 https://archive.org/download/ova-1986-1990/format=MPEG4
 #EXTINF:-1 group-title="Comedy Films" tvg-id="the-pornographers" tvg-name="The Pornographers" tvg-logo="https://archive.org/download/the-pornographers/format=Thumbnail" tvg-language="jpn",The Pornographers (1966)
 https://archive.org/download/the-pornographers/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="tokyo-twilight" tvg-name="Tokyo Twilight" tvg-logo="https://archive.org/download/tokyo-twilight/format=Thumbnail" tvg-language="jpn",Tokyo Twilight (1957)
-https://archive.org/download/tokyo-twilight/format=h.264
-#EXTINF:-1 group-title="Comedy Films" tvg-id="late-autumn_202108" tvg-name="Late Autumn" tvg-logo="https://archive.org/download/late-autumn_202108/format=Thumbnail" tvg-language="jpn",Late Autumn (1960)
-https://archive.org/download/late-autumn_202108/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="samurai-rebellion" tvg-name="Samurai Rebellion" tvg-logo="https://archive.org/download/samurai-rebellion/format=Thumbnail" tvg-language="jpn",Samurai Rebellion (1967)
-https://archive.org/download/samurai-rebellion/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="fighting-elegy" tvg-name="Fighting Elegy" tvg-logo="https://archive.org/download/fighting-elegy/format=Thumbnail" tvg-language="jpn",Fighting Elegy (1966)
 https://archive.org/download/fighting-elegy/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="heaven-and-earth" tvg-name="Heaven And Earth" tvg-logo="https://archive.org/download/heaven-and-earth/format=Thumbnail" tvg-language="jpn",Heaven And Earth (1990)
@@ -311,8 +233,6 @@ https://archive.org/download/violence-at-noon/format=h.264
 https://archive.org/download/pleasures-of-the-flesh/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="japanese-summer-double-suicide" tvg-name="Japanese Summer Double Suicide" tvg-logo="https://archive.org/download/japanese-summer-double-suicide/format=Thumbnail" tvg-language="jpn",Japanese Summer Double Suicide (1967)
 https://archive.org/download/japanese-summer-double-suicide/format=h.264
-#EXTINF:-1 group-title="Comedy Films" tvg-id="house_20210324" tvg-name="House" tvg-logo="https://archive.org/download/house_20210324/format=Thumbnail" tvg-language="jpn",House (1977)
-https://archive.org/download/house_20210324/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="in-the-realm-of-the-senses" tvg-name="In The Realm Of The Senses" tvg-logo="https://archive.org/download/in-the-realm-of-the-senses/format=Thumbnail" tvg-language="jpn",In The Realm Of The Senses (1976)
 https://archive.org/download/in-the-realm-of-the-senses/format=h.264
 #EXTINF:-1 group-title="Comedy Films" tvg-id="branded-to-kill" tvg-name="Branded To Kill" tvg-logo="https://archive.org/download/branded-to-kill/format=Thumbnail" tvg-language="jpn",Branded To Kill (1967)
@@ -321,8 +241,6 @@ https://archive.org/download/branded-to-kill/format=h.264
 https://archive.org/download/the-naked-island/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="twenty-four-eyes" tvg-name="Twenty Four Eyes" tvg-logo="https://archive.org/download/twenty-four-eyes/format=Thumbnail" tvg-language="jpn",Twenty Four Eyes (1954)
 https://archive.org/download/twenty-four-eyes/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="phoenix_202103" tvg-name="Phoenix" tvg-logo="https://archive.org/download/phoenix_202103/format=Thumbnail" tvg-language="jpn",Phoenix (1947)
-https://archive.org/download/phoenix_202103/format=MPEG4
 #EXTINF:-1 group-title="Comedy Films" tvg-id="spring-dreams" tvg-name="Spring Dreams" tvg-logo="https://archive.org/download/spring-dreams/format=Thumbnail" tvg-language="jpn",Spring Dreams (1960)
 https://archive.org/download/spring-dreams/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="sword-of-the-beast" tvg-name="Sword Of The Beast" tvg-logo="https://archive.org/download/sword-of-the-beast/format=Thumbnail" tvg-language="jpn",Sword Of The Beast (1965)
@@ -337,12 +255,8 @@ https://archive.org/download/thus-another-day/format=h.264
 https://archive.org/download/the-tattered-wings/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="oh-my-son" tvg-name="Oh‚ My Son" tvg-logo="https://archive.org/download/oh-my-son/format=Thumbnail" tvg-language="jpn",Oh‚ My Son (1979)
 https://archive.org/download/oh-my-son/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="father_202103" tvg-name="Father" tvg-logo="https://archive.org/download/father_202103/format=Thumbnail" tvg-language="jpn",Father (1988)
-https://archive.org/download/father_202103/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="lady-snowblood-love-song-of-vengeance" tvg-name="Lady Snowblood: Love Song of Vengeance" tvg-logo="https://archive.org/download/lady-snowblood-love-song-of-vengeance/format=Thumbnail" tvg-language="jpn",Lady Snowblood: Love Song of Vengeance (1974)
 https://archive.org/download/lady-snowblood-love-song-of-vengeance/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="lady-snowblood" tvg-name="Lady Snowblood" tvg-logo="https://archive.org/download/lady-snowblood/format=Thumbnail" tvg-language="jpn",Lady Snowblood (1973)
-https://archive.org/download/lady-snowblood/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="tokyo-drifter" tvg-name="Tokyo Drifter" tvg-logo="https://archive.org/download/tokyo-drifter/format=Thumbnail" tvg-language="jpn",Tokyo Drifter (1966)
 https://archive.org/download/tokyo-drifter/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="patriotism_202103" tvg-name="Patriotism" tvg-logo="https://archive.org/download/patriotism_202103/format=Thumbnail" tvg-language="jpn",Patriotism (1966)
@@ -357,18 +271,12 @@ https://archive.org/download/the-makioka-sisters/format=h.264
 https://archive.org/download/the-life-of-oharu/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="kwaidan_202103" tvg-name="Kwaidan" tvg-logo="https://archive.org/download/kwaidan_202103/format=Thumbnail" tvg-language="jpn",Kwaidan (1965)
 https://archive.org/download/kwaidan_202103/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-human-condition-parts-5-6" tvg-name="The Human Condition ( Parts 5 & 6)" tvg-logo="https://archive.org/download/the-human-condition-parts-5-6/format=Thumbnail" tvg-language="jpn",The Human Condition (Parts 5 & 6) (1959)
-https://archive.org/download/the-human-condition-parts-5-6/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-human-condition-parts-3-4" tvg-name="The Human Condition ( Parts 3 & 4)" tvg-logo="https://archive.org/download/the-human-condition-parts-3-4/format=Thumbnail" tvg-language="jpn",The Human Condition (Parts 3 & 4) (1959)
-https://archive.org/download/the-human-condition-parts-3-4/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-human-condition-parts-1-2" tvg-name="The Human Condition ( Parts 1 & 2)" tvg-logo="https://archive.org/download/the-human-condition-parts-1-2/format=Thumbnail" tvg-language="jpn",The Human Condition (Parts 1 & 2) (1959)
 https://archive.org/download/the-human-condition-parts-1-2/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="women-of-the-night" tvg-name="Women Of The Night" tvg-logo="https://archive.org/download/women-of-the-night/format=Thumbnail" tvg-language="jpn",Women Of The Night (1948)
 https://archive.org/download/women-of-the-night/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="street-of-shame" tvg-name="Street Of Shame" tvg-logo="https://archive.org/download/street-of-shame/format=Thumbnail" tvg-language="jpn",Street Of Shame (1956)
 https://archive.org/download/street-of-shame/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="sisters-of-the-gion" tvg-name="Sisters Of The Gion" tvg-logo="https://archive.org/download/sisters-of-the-gion/format=Thumbnail" tvg-language="jpn",Sisters Of The Gion (1936)
-https://archive.org/download/sisters-of-the-gion/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="osaka-elegy" tvg-name="Osaka Elegy" tvg-logo="https://archive.org/download/osaka-elegy/format=Thumbnail" tvg-language="jpn",Osaka Elegy (1936)
 https://archive.org/download/osaka-elegy/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-warped-ones" tvg-name="The Warped Ones" tvg-logo="https://archive.org/download/the-warped-ones/format=Thumbnail" tvg-language="jpn",The Warped Ones (1960)
@@ -385,22 +293,12 @@ https://archive.org/download/black-sun_202103/format=h.264
 https://archive.org/download/the-living-magoroku/format=h.264
 #EXTINF:-1 group-title="Comedy Films" tvg-id="port-of-flowers" tvg-name="Port Of Flowers" tvg-logo="https://archive.org/download/port-of-flowers/format=Thumbnail" tvg-language="jpn",Port Of Flowers (1943)
 https://archive.org/download/port-of-flowers/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="morning-for-the-osone-family" tvg-name="Morning For The Osone Family" tvg-logo="https://archive.org/download/morning-for-the-osone-family/format=Thumbnail" tvg-language="jpn",Morning For The Osone Family (1946)
-https://archive.org/download/morning-for-the-osone-family/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="jubilation-street" tvg-name="Jubilation Street" tvg-logo="https://archive.org/download/jubilation-street/format=Thumbnail" tvg-language="jpn",Jubilation Street (1944)
 https://archive.org/download/jubilation-street/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="army_20210301" tvg-name="Army" tvg-logo="https://archive.org/download/army_20210301/format=Thumbnail" tvg-language="jpn",Army (1944)
-https://archive.org/download/army_20210301/format=h.264
-#EXTINF:-1 group-title="SciFi Horror" tvg-id="the-x-from-outer-space" tvg-name="The X From Outer Space" tvg-logo="https://archive.org/download/the-x-from-outer-space/format=Thumbnail" tvg-language="jpn",The X From Outer Space (1967)
-https://archive.org/download/the-x-from-outer-space/format=h.264
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="the-living-skeleton" tvg-name="The Living Skeleton" tvg-logo="https://archive.org/download/the-living-skeleton/format=Thumbnail" tvg-language="jpn",The Living Skeleton (1968)
 https://archive.org/download/the-living-skeleton/format=h.264
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="goke-body-snatcher-from-hell" tvg-name="Goke‚ Body Snatcher From Hell" tvg-logo="https://archive.org/download/goke-body-snatcher-from-hell/format=Thumbnail" tvg-language="jpn",Goke‚ Body Snatcher From Hell (1968)
 https://archive.org/download/goke-body-snatcher-from-hell/format=h.264
-#EXTINF:-1 group-title="SciFi Horror" tvg-id="genocide_202102" tvg-name="Genocide" tvg-logo="https://archive.org/download/genocide_202102/format=Thumbnail" tvg-language="jpn",Genocide (1968)
-https://archive.org/download/genocide_202102/format=h.264
-#EXTINF:-1 group-title="Film Noir" tvg-id="take-aim-at-the-police-van" tvg-name="Take Aim At The Police Van" tvg-logo="https://archive.org/download/take-aim-at-the-police-van/format=Thumbnail" tvg-language="jpn",Take Aim At The Police Van (1960)
-https://archive.org/download/take-aim-at-the-police-van/format=h.264
 #EXTINF:-1 group-title="Film Noir" tvg-id="rusty-knife" tvg-name="Rusty Knife" tvg-logo="https://archive.org/download/rusty-knife/format=Thumbnail" tvg-language="jpn",Rusty Knife (1958)
 https://archive.org/download/rusty-knife/format=h.264
 #EXTINF:-1 group-title="Film Noir" tvg-id="i-am-waiting" tvg-name="I Am Waiting" tvg-logo="https://archive.org/download/i-am-waiting/format=Thumbnail" tvg-language="jpn",I Am Waiting (1957)
@@ -415,22 +313,16 @@ https://archive.org/download/the-story-of-the-last-chrysaanthemum/format=h.264
 https://archive.org/download/intentions-of-murder/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="a-story-from-chikamatsu" tvg-name="A Story From Chikamatsu" tvg-logo="https://archive.org/download/a-story-from-chikamatsu/format=Thumbnail" tvg-language="jpn",A Story From Chikamatsu (1954)
 https://archive.org/download/a-story-from-chikamatsu/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="Ugetsu" tvg-name="Ugetsu" tvg-logo="https://archive.org/download/Ugetsu/format=Thumbnail" tvg-language="jpn",Ugetsu (1953)
-https://archive.org/download/Ugetsu/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-insect-woman" tvg-name="The Insect Woman" tvg-logo="https://archive.org/download/the-insect-woman/format=Thumbnail" tvg-language="jpn",The Insect Woman (1963)
 https://archive.org/download/the-insect-woman/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="pigs-and-battleships" tvg-name="Pigs And Battleships" tvg-logo="https://archive.org/download/pigs-and-battleships/format=Thumbnail" tvg-language="jpn",Pigs And Battleships (1962)
 https://archive.org/download/pigs-and-battleships/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="sansho-the-bailiff" tvg-name="Sansho The Bailiff" tvg-logo="https://archive.org/download/sansho-the-bailiff/format=Thumbnail" tvg-language="jpn",Sansho The Bailiff (1954)
 https://archive.org/download/sansho-the-bailiff/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="lone-wolf-and-cub-6-white-heaven-in-hell" tvg-name="Lone Wolf And Cub: 6 White Heaven In Hell" tvg-logo="https://archive.org/download/lone-wolf-and-cub-6-white-heaven-in-hell/format=Thumbnail" tvg-language="jpn",Lone Wolf And Cub: 6 White Heaven In Hell (1974)
-https://archive.org/download/lone-wolf-and-cub-6-white-heaven-in-hell/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="lone-wolf-and-cub-3-baby-cart-to-hades" tvg-name="Lone Wolf And Cub: 3 - Baby Cart To Hades" tvg-logo="https://archive.org/download/lone-wolf-and-cub-3-baby-cart-to-hades/format=Thumbnail" tvg-language="jpn",Lone Wolf And Cub: 3 - Baby Cart To Hades (1972)
 https://archive.org/download/lone-wolf-and-cub-3-baby-cart-to-hades/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="lone-wolf-and-cub-5-baby-cart-in-the-land-of-demons" tvg-name="Lone Wolf And Cub: 5 - Baby Cart In The Land Of Demons" tvg-logo="https://archive.org/download/lone-wolf-and-cub-5-baby-cart-in-the-land-of-demons/format=Thumbnail" tvg-language="jpn",Lone Wolf And Cub: 5 - Baby Cart In The Land Of Demons (1973)
 https://archive.org/download/lone-wolf-and-cub-5-baby-cart-in-the-land-of-demons/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="lone-wolf-and-cub-4-baby-cart-in-peril" tvg-name="Lone Wolf And Cub: 4 - Baby Cart In Peril" tvg-logo="https://archive.org/download/lone-wolf-and-cub-4-baby-cart-in-peril/format=Thumbnail" tvg-language="jpn",Lone Wolf And Cub: 4 - Baby Cart In Peril (1972)
-https://archive.org/download/lone-wolf-and-cub-4-baby-cart-in-peril/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="lone-wolf-and-cub-1-sword-of-vengeance" tvg-name="Lone Wolf and Cub: 1 - Sword Of Vengeance" tvg-logo="https://archive.org/download/lone-wolf-and-cub-1-sword-of-vengeance/format=Thumbnail" tvg-language="jpn",Lone Wolf and Cub: 1 - Sword Of Vengeance (1972)
 https://archive.org/download/lone-wolf-and-cub-1-sword-of-vengeance/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="lone-wolf-and-cub-2-baby-cart-at-the-river-styx" tvg-name="Lone Wolf And Cub: 2 - Baby Cart At The River Styx" tvg-logo="https://archive.org/download/lone-wolf-and-cub-2-baby-cart-at-the-river-styx/format=Thumbnail" tvg-language="jpn",Lone Wolf And Cub: 2 - Baby Cart At The River Styx (1972)
@@ -445,12 +337,6 @@ https://archive.org/download/23-zatoichi-at-large/format=h.264
 https://archive.org/download/22-zatoichi-meets-the-one-armed-swordsman/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="late-autumn" tvg-name="Late Autumn" tvg-logo="https://archive.org/download/late-autumn/format=Thumbnail" tvg-language="jpn",Late Autumn (1960)
 https://archive.org/download/late-autumn/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="equinox-flower" tvg-name="Equinox Flower" tvg-logo="https://archive.org/download/equinox-flower/format=Thumbnail" tvg-language="jpn",Equinox Flower (1958)
-https://archive.org/download/equinox-flower/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="early-spring" tvg-name="Early Spring" tvg-logo="https://archive.org/download/early-spring/format=Thumbnail" tvg-language="jpn",Early Spring (1956)
-https://archive.org/download/early-spring/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="a-hen-in-the-wind" tvg-name="A Hen In The Wind" tvg-logo="https://archive.org/download/a-hen-in-the-wind/format=Thumbnail" tvg-language="jpn",A Hen In The Wind (1948)
-https://archive.org/download/a-hen-in-the-wind/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="walk-cheerfully" tvg-name="Walk Cheerfully" tvg-logo="https://archive.org/download/walk-cheerfully/format=Thumbnail" tvg-language="jpn",Walk Cheerfully (1930)
 https://archive.org/download/walk-cheerfully/format=h.264
 #EXTINF:-1 group-title="Comedy Films" tvg-id="passing-fancy" tvg-name="Passing Fancy" tvg-logo="https://archive.org/download/passing-fancy/format=Thumbnail" tvg-language="jpn",Passing Fancy (1933)
@@ -467,16 +353,12 @@ https://archive.org/download/dragnet-girl/format=h.264
 https://archive.org/download/in-search-of-ozu/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="i-lived-but-2-hour-ozu-doc" tvg-name="I Lived But‚..." tvg-logo="https://archive.org/download/i-lived-but-2-hour-ozu-doc/format=Thumbnail" tvg-language="jpn",I Lived But‚... (1983)
 https://archive.org/download/i-lived-but-2-hour-ozu-doc/format=h.264
-#EXTINF:-1 group-title="Comedy Films" tvg-id="the-end-of-summer" tvg-name="The End Of Summer" tvg-logo="https://archive.org/download/the-end-of-summer/format=Thumbnail" tvg-language="jpn",The End Of Summer (1961)
-https://archive.org/download/the-end-of-summer/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="tokyo-story" tvg-name="Tokyo Story" tvg-logo="https://archive.org/download/tokyo-story/format=Thumbnail" tvg-language="jpn",Tokyo Story (1953)
 https://archive.org/download/tokyo-story/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="early-summer_202012" tvg-name="Early Summer" tvg-logo="https://archive.org/download/early-summer_202012/format=Thumbnail" tvg-language="jpn",Early Summer (1951)
 https://archive.org/download/early-summer_202012/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-flavor-of-green-tea-over-rice" tvg-name="The Flavor Of Green Tea Over Rice" tvg-logo="https://archive.org/download/the-flavor-of-green-tea-over-rice/format=Thumbnail" tvg-language="jpn",The Flavor Of Green Tea Over Rice (1952)
 https://archive.org/download/the-flavor-of-green-tea-over-rice/format=h.264
-#EXTINF:-1 group-title="Comedy Films" tvg-id="i-was-born-but" tvg-name="I Was Born But‚..." tvg-logo="https://archive.org/download/i-was-born-but/format=Thumbnail" tvg-language="jpn",I Was Born But‚... (1932)
-https://archive.org/download/i-was-born-but/format=h.264
 #EXTINF:-1 group-title="Comedy Films" tvg-id="good-morning_202012" tvg-name="Good Morning" tvg-logo="https://archive.org/download/good-morning_202012/format=Thumbnail" tvg-language="jpn",Good Morning (1959)
 https://archive.org/download/good-morning_202012/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="an-autumn-afternoon" tvg-name="An Autumn Afternoon" tvg-logo="https://archive.org/download/an-autumn-afternoon/format=Thumbnail" tvg-language="jpn",An Autumn Afternoon (1962)
@@ -493,8 +375,6 @@ https://archive.org/download/yojimbo_202012/format=h.264
 https://archive.org/download/beautiful-days/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="throne-of-blood" tvg-name="Throne Of Blood" tvg-logo="https://archive.org/download/throne-of-blood/format=Thumbnail" tvg-language="jpn",Throne Of Blood (1957)
 https://archive.org/download/throne-of-blood/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="black-river" tvg-name="Black River" tvg-logo="https://archive.org/download/black-river/format=Thumbnail" tvg-language="jpn",Black River (1956)
-https://archive.org/download/black-river/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="i-will-buy-you" tvg-name="I Will Buy You" tvg-logo="https://archive.org/download/i-will-buy-you/format=Thumbnail" tvg-language="jpn",I Will Buy You (1956)
 https://archive.org/download/i-will-buy-you/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="samurai-iii-duel-at-ganryu-island" tvg-name="Samurai III Duel At Ganryu Island" tvg-logo="https://archive.org/download/samurai-iii-duel-at-ganryu-island/format=Thumbnail" tvg-language="jpn",Samurai III Duel At Ganryu Island (1956)
@@ -503,30 +383,14 @@ https://archive.org/download/samurai-iii-duel-at-ganryu-island/format=h.264
 https://archive.org/download/samurai-ii-duel-at-ichijoji-temple/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="samurai-i-musashi-miyamoto" tvg-name="Samurai I Musashi Miyamoto" tvg-logo="https://archive.org/download/samurai-i-musashi-miyamoto/format=Thumbnail" tvg-language="jpn",Samurai I Musashi Miyamoto (1955)
 https://archive.org/download/samurai-i-musashi-miyamoto/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="scandal_202012" tvg-name="Scandal" tvg-logo="https://archive.org/download/scandal_202012/format=Thumbnail" tvg-language="jpn",Scandal (1950)
-https://archive.org/download/scandal_202012/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="everything-goes-wrong" tvg-name="Everything Goes Wrong" tvg-logo="https://archive.org/download/everything-goes-wrong/format=Thumbnail" tvg-language="jpn",Everything Goes Wrong (1960)
 https://archive.org/download/everything-goes-wrong/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="ginza-cosmetics" tvg-name="Ginza Cosmetics" tvg-logo="https://archive.org/download/ginza-cosmetics/format=Thumbnail" tvg-language="jpn",Ginza Cosmetics (1951)
 https://archive.org/download/ginza-cosmetics/format=h.264
 #EXTINF:-1 group-title="Comedy Films" tvg-id="kill_20201211" tvg-name="kill" tvg-logo="https://archive.org/download/kill_20201211/format=Thumbnail" tvg-language="jpn",kill (1968)
 https://archive.org/download/kill_20201211/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="wife_20201211" tvg-name="Wife" tvg-logo="https://archive.org/download/wife_20201211/format=Thumbnail" tvg-language="jpn",Wife (1953)
-https://archive.org/download/wife_20201211/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-inheritance" tvg-name="The Inheritance" tvg-logo="https://archive.org/download/the-inheritance/format=Thumbnail" tvg-language="jpn",The Inheritance (1962)
-https://archive.org/download/the-inheritance/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-men-who-tread-on-tigers-tails" tvg-name="The Men Who Tread on the Tiger's Tail" tvg-logo="https://archive.org/download/the-men-who-tread-on-tigers-tails/format=Thumbnail" tvg-language="jpn",The Men Who Tread on the Tiger's Tail (1952)
-https://archive.org/download/the-men-who-tread-on-tigers-tails/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="kagemusha_202012" tvg-name="Kagemusha" tvg-logo="https://archive.org/download/kagemusha_202012/format=Thumbnail" tvg-language="jpn",Kagemusha (1980)
-https://archive.org/download/kagemusha_202012/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-taro-urashima" tvg-name="Taro Urashima" tvg-logo="https://archive.org/download/silent-taro-urashima/format=Thumbnail" tvg-language="jpn" channel-id="tt1092624",Taro Urashima (1918)
 https://archive.org/download/silent-taro-urashima/format=MPEG4
-#EXTINF:-1 group-title="Silent films" tvg-id="silent-souls-on-the-road" tvg-name="Souls on the Road" tvg-logo="https://archive.org/download/silent-souls-on-the-road/format=Thumbnail" tvg-language="jpn" channel-id="tt0012631",Souls on the Road (1921)
-https://archive.org/download/silent-souls-on-the-road/format=h.264
-#EXTINF:-1 group-title="Silent films" tvg-id="silent-kyoiku-otogi-manga-usagi-to-kame" tvg-name="Kyoiku otogi manga: Usagi to kame" tvg-logo="https://archive.org/download/silent-kyoiku-otogi-manga-usagi-to-kame/format=Thumbnail" tvg-language="jpn" channel-id="tt0419901",Kyoiku otogi manga: Usagi to kame (1924)
-https://archive.org/download/silent-kyoiku-otogi-manga-usagi-to-kame/format=h.264
-#EXTINF:-1 group-title="Silent films" tvg-id="silent-kosuzume-tge" tvg-name="Kosuzume tôge" tvg-logo="https://archive.org/download/silent-kosuzume-tge/format=Thumbnail" tvg-language="jpn" channel-id="tt1320272",Kosuzume tôge (1923)
-https://archive.org/download/silent-kosuzume-tge/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-hanasaka-jijii" tvg-name="Hanasaka-jijii" tvg-logo="https://archive.org/download/silent-hanasaka-jijii/format=Thumbnail" tvg-language="jpn" channel-id="tt1092584",Hanasaka-jijii (1917)
 https://archive.org/download/silent-hanasaka-jijii/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-gyakury" tvg-name="Gyakuryû" tvg-logo="https://archive.org/download/silent-gyakury/format=Thumbnail" tvg-language="jpn" channel-id="tt1165285",Gyakuryû (1924)
@@ -541,8 +405,8 @@ https://archive.org/download/silent-shnen-bidan-kiyoki-kokoro/format=h.264
 https://archive.org/download/silent-kyoiku-senga-ubasute-yama/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="sanshiro-sugata-part-two" tvg-name="Sanshiro Sugata Part Two" tvg-logo="https://archive.org/download/sanshiro-sugata-part-two/format=Thumbnail" tvg-language="jpn",Sanshiro Sugata Part Two (1945)
 https://archive.org/download/sanshiro-sugata-part-two/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="i-live-in-fear" tvg-name="I LIve In Fear" tvg-logo="https://archive.org/download/i-live-in-fear/format=Thumbnail" tvg-language="jpn",I LIve In Fear (1967)
-https://archive.org/download/i-live-in-fear/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="sanshiro-sugata" tvg-name="Sanshiro Sugata" tvg-logo="https://archive.org/download/sanshiro-sugata/format=Thumbnail" tvg-language="jpn",Sanshiro Sugata (1943)
+https://archive.org/download/sanshiro-sugata/format=h.264
 #EXTINF:-1 group-title="Film Noir" tvg-id="high-and-low" tvg-name="High And Low" tvg-logo="https://archive.org/download/high-and-low/format=Thumbnail" tvg-language="jpn",High And Low (1963)
 https://archive.org/download/high-and-low/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-hidden-fortress" tvg-name="The Hidden Fortress" tvg-logo="https://archive.org/download/the-hidden-fortress/format=Thumbnail" tvg-language="jpn",The Hidden Fortress (1960)
@@ -551,8 +415,6 @@ https://archive.org/download/the-hidden-fortress/format=h.264
 https://archive.org/download/stray-dog/format=MPEG4
 #EXTINF:-1 group-title="Film Noir" tvg-id="drunken-angel" tvg-name="Drunken Angel" tvg-logo="https://archive.org/download/drunken-angel/format=Thumbnail" tvg-language="jpn",Drunken Angel (1959)
 https://archive.org/download/drunken-angel/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="one-wonderful-sunday" tvg-name="One Wonderful Sunday" tvg-logo="https://archive.org/download/one-wonderful-sunday/format=Thumbnail" tvg-language="jpn",One Wonderful Sunday (1947)
-https://archive.org/download/one-wonderful-sunday/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="no-regrets-for-our-youth" tvg-name="No Regrets For Our Youth" tvg-logo="https://archive.org/download/no-regrets-for-our-youth/format=Thumbnail" tvg-language="jpn",No Regrets For Our Youth (1946)
 https://archive.org/download/no-regrets-for-our-youth/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-lower-depths" tvg-name="The Lower Depths" tvg-logo="https://archive.org/download/the-lower-depths/format=Thumbnail" tvg-language="jpn",The Lower Depths (1957)
