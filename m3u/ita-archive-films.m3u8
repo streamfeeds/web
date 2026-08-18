@@ -3,7 +3,7 @@
 https://archive.org/download/la-canzone-dellamore_1930/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="django.-1966_202512" tvg-name="Django (1966)" tvg-logo="https://archive.org/download/django.-1966_202512/format=Thumbnail" tvg-language="ita",Django (1966)
 https://archive.org/download/django.-1966_202512/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the.-executioner.-1963" tvg-logo="https://archive.org/download/the.-executioner.-1963/format=Thumbnail" tvg-language="ita",The Executioner (1963)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the.-executioner.-1963" tvg-name="The Executioner (1963)" tvg-logo="https://archive.org/download/the.-executioner.-1963/format=Thumbnail" tvg-language="ita",The Executioner (1963)
 https://archive.org/download/the.-executioner.-1963/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="exorcismo-exorcism-1975" tvg-name="Exorcismo‚ Exorcism 1975" tvg-logo="https://archive.org/download/exorcismo-exorcism-1975/format=Thumbnail" tvg-language="ita",Exorcismo‚ Exorcism 1975
 https://archive.org/download/exorcismo-exorcism-1975/format=MPEG4
@@ -43,11 +43,11 @@ https://archive.org/download/inconsolable-widow-the-la-vedova-inconsolabile-1973
 https://archive.org/download/f-svegliati-e-uccidi/format=h.264
 #EXTINF:-1 group-title="Film Noir" tvg-id="neve-rossa" tvg-name="Neve Rossa" tvg-logo="https://archive.org/download/neve-rossa/format=Thumbnail" tvg-language="ita",Neve Rossa (1951)
 https://archive.org/download/neve-rossa/format=h.264
-#EXTINF:-1 group-title="Comedy Films" tvg-id="la-moglie-in-vacanza-lamante-in-citta-1980" tvg-logo="https://archive.org/download/la-moglie-in-vacanza-lamante-in-citta-1980/format=Thumbnail" tvg-language="ita",La Moglie In Vacanza L'amante In Citta 1980
+#EXTINF:-1 group-title="Comedy Films" tvg-id="la-moglie-in-vacanza-lamante-in-citta-1980" tvg-name="La Moglie In Vacanza L'amante In Citta 1980" tvg-logo="https://archive.org/download/la-moglie-in-vacanza-lamante-in-citta-1980/format=Thumbnail" tvg-language="ita",La Moglie In Vacanza L'amante In Citta 1980
 https://archive.org/download/la-moglie-in-vacanza-lamante-in-citta-1980/format=h.264
-#EXTINF:-1 group-title="Comedy Films" tvg-id="policewoman-on-the-porno-squad-la-poliziotta-della-squadra-del-buon-costume-1979" tvg-logo="https://archive.org/download/policewoman-on-the-porno-squad-la-poliziotta-della-squadra-del-buon-costume-1979/format=Thumbnail" tvg-language="ita",Policewoman On The Porno Squad‚ La Poliziotta Della Squadra Del Buon Costume 1979
+#EXTINF:-1 group-title="Comedy Films" tvg-id="policewoman-on-the-porno-squad-la-poliziotta-della-squadra-del-buon-costume-1979" tvg-name="Policewoman On The Porno Squad‚ La Poliziotta Della Squadra Del Buon Costume 1979" tvg-logo="https://archive.org/download/policewoman-on-the-porno-squad-la-poliziotta-della-squadra-del-buon-costume-1979/format=Thumbnail" tvg-language="ita",Policewoman On The Porno Squad‚ La Poliziotta Della Squadra Del Buon Costume 1979
 https://archive.org/download/policewoman-on-the-porno-squad-la-poliziotta-della-squadra-del-buon-costume-1979/format=MPEG4
-#EXTINF:-1 group-title="Comedy Films" tvg-id="when-women-were-called-virgins-quando-le-donne-si-chiamavano-madonne-1972" tvg-logo="https://archive.org/download/when-women-were-called-virgins-quando-le-donne-si-chiamavano-madonne-1972/format=Thumbnail" tvg-language="ita",When Women Were Called Virgins‚ Quando Le Donne Si Chiamavano Madonne 1972
+#EXTINF:-1 group-title="Comedy Films" tvg-id="when-women-were-called-virgins-quando-le-donne-si-chiamavano-madonne-1972" tvg-name="When Women Were Called Virgins‚ Quando Le Donne Si Chiamavano Madonne 1972" tvg-logo="https://archive.org/download/when-women-were-called-virgins-quando-le-donne-si-chiamavano-madonne-1972/format=Thumbnail" tvg-language="ita",When Women Were Called Virgins‚ Quando Le Donne Si Chiamavano Madonne 1972
 https://archive.org/download/when-women-were-called-virgins-quando-le-donne-si-chiamavano-madonne-1972/format=h.264
 #EXTINF:-1 group-title="Comedy Films" tvg-id="family-vice-the-il-vizio-di-famiglia-1975" tvg-name="Family Vice‚ The‚ Il Vizio Di Famiglia 1975" tvg-logo="https://archive.org/download/family-vice-the-il-vizio-di-famiglia-1975/format=Thumbnail" tvg-language="ita",Family Vice‚ The‚ Il Vizio Di Famiglia 1975
 https://archive.org/download/family-vice-the-il-vizio-di-famiglia-1975/format=h.264
@@ -81,7 +81,7 @@ https://archive.org/download/gatta-alla-pari-1994-malu-cristina-barsacchi-antoni
 https://archive.org/download/la-bella-antonia-naughty-nun-1972-edwige-fenech-piero-focaccia-riccardo-garrone-/format=h.264
 #EXTINF:-1 group-title="Comedy Films" tvg-id="malizia-malicious-1973-laura-antonelli-turi-ferro-alessandro-momo-tina-aumont-an" tvg-name="Malizia‚ Malicious 1973" tvg-logo="https://archive.org/download/malizia-malicious-1973-laura-antonelli-turi-ferro-alessandro-momo-tina-aumont-an/format=Thumbnail" tvg-language="ita",Malizia‚ Malicious 1973
 https://archive.org/download/malizia-malicious-1973-laura-antonelli-turi-ferro-alessandro-momo-tina-aumont-an/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="foxy-lady-spiando-marina-the-smile-of-the-fox-1994-debora-caprioglio-steve-bond-" tvg-logo="https://archive.org/download/foxy-lady-spiando-marina-the-smile-of-the-fox-1994-debora-caprioglio-steve-bond-/format=Thumbnail" tvg-language="ita",Foxy Lady‚ Spiando Marina‚ The Smile Of The Fox 1994
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="foxy-lady-spiando-marina-the-smile-of-the-fox-1994-debora-caprioglio-steve-bond-" tvg-name="Foxy Lady‚ Spiando Marina‚ The Smile Of The Fox 1994" tvg-logo="https://archive.org/download/foxy-lady-spiando-marina-the-smile-of-the-fox-1994-debora-caprioglio-steve-bond-/format=Thumbnail" tvg-language="ita",Foxy Lady‚ Spiando Marina‚ The Smile Of The Fox 1994 (1992)
 https://archive.org/download/foxy-lady-spiando-marina-the-smile-of-the-fox-1994-debora-caprioglio-steve-bond-/format=h.264
 #EXTINF:-1 group-title="Comedy Films" tvg-id="i-see-naked-vedo-nudo-1969-sylva-koscina-veronique-vendell-daniela-giordano-edda" tvg-name="I See Naked‚ Vedo Nudo 1969" tvg-logo="https://archive.org/download/i-see-naked-vedo-nudo-1969-sylva-koscina-veronique-vendell-daniela-giordano-edda/format=Thumbnail" tvg-language="ita",I See Naked‚ Vedo Nudo 1969
 https://archive.org/download/i-see-naked-vedo-nudo-1969-sylva-koscina-veronique-vendell-daniela-giordano-edda/format=h.264
@@ -95,7 +95,7 @@ https://archive.org/download/ubalda-all-naked-and-warm-quel-gran-pezzo-dell-ubal
 https://archive.org/download/doctor_20250422/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="la-bonne-1986" tvg-name="La Bonne 1986" tvg-logo="https://archive.org/download/la-bonne-1986/format=Thumbnail" tvg-language="ita",La Bonne 1986
 https://archive.org/download/la-bonne-1986/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="i-prosseneti-panderers-1976-alain-cuny-juliette-mayniel-stefani-casini-silvia-di" tvg-logo="https://archive.org/download/i-prosseneti-panderers-1976-alain-cuny-juliette-mayniel-stefani-casini-silvia-di/format=Thumbnail" tvg-language="ita",I Prosseneti‚ Panderers 1976
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="i-prosseneti-panderers-1976-alain-cuny-juliette-mayniel-stefani-casini-silvia-di" tvg-name="I Prosseneti‚ Panderers 1976" tvg-logo="https://archive.org/download/i-prosseneti-panderers-1976-alain-cuny-juliette-mayniel-stefani-casini-silvia-di/format=Thumbnail" tvg-language="ita",I Prosseneti‚ Panderers 1976
 https://archive.org/download/i-prosseneti-panderers-1976-alain-cuny-juliette-mayniel-stefani-casini-silvia-di/format=h.264
 #EXTINF:-1 group-title="Colorized-movies" tvg-id="il-compagno-don-camillo-colorized-1965-720p" tvg-name="Il Compagno Don Camillo ( Colorized‚ 1965) 720p" tvg-logo="https://archive.org/download/il-compagno-don-camillo-colorized-1965-720p/format=Thumbnail" tvg-language="ita",Il Compagno Don Camillo (Colorized‚ 1965) 720p
 https://archive.org/download/il-compagno-don-camillo-colorized-1965-720p/format=MPEG4
@@ -113,7 +113,7 @@ https://archive.org/download/la-supplente-va-in-citta-1979-carmen-villani-vincen
 https://archive.org/download/arrivederci-amore-ciao/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="sueca-bisexual-necesita-semental-1982-marina-hedman-helene-shirley-jordi-batalla" tvg-name="Sueca Bisexual Necesita Semental 1982" tvg-logo="https://archive.org/download/sueca-bisexual-necesita-semental-1982-marina-hedman-helene-shirley-jordi-batalla/format=Thumbnail" tvg-language="ita",Sueca Bisexual Necesita Semental 1982
 https://archive.org/download/sueca-bisexual-necesita-semental-1982-marina-hedman-helene-shirley-jordi-batalla/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="saturday-sunday-and-friday-sabato-domenica-e-venerdi-1979-edwige-fenech-lino-ban" tvg-logo="https://archive.org/download/saturday-sunday-and-friday-sabato-domenica-e-venerdi-1979-edwige-fenech-lino-ban/format=Thumbnail" tvg-language="ita",Saturday‚ Sunday And Friday‚ Sabato Domenica E Venerdi 1978
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="saturday-sunday-and-friday-sabato-domenica-e-venerdi-1979-edwige-fenech-lino-ban" tvg-name="Saturday‚ Sunday And Friday‚ Sabato Domenica E Venerdi 1978" tvg-logo="https://archive.org/download/saturday-sunday-and-friday-sabato-domenica-e-venerdi-1979-edwige-fenech-lino-ban/format=Thumbnail" tvg-language="ita",Saturday‚ Sunday And Friday‚ Sabato Domenica E Venerdi 1978 (1979)
 https://archive.org/download/saturday-sunday-and-friday-sabato-domenica-e-venerdi-1979-edwige-fenech-lino-ban/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="det-ljuva-livet" tvg-name="Det Ljuva Livet (1960)" tvg-logo="https://archive.org/download/det-ljuva-livet/format=Thumbnail" tvg-language="ita",Det Ljuva Livet (1960)
 https://archive.org/download/det-ljuva-livet/format=h.264
@@ -141,7 +141,7 @@ https://archive.org/download/crazy-desires-of-a-murderer-i-vizi-morbosi-di-una-g
 https://archive.org/download/the-fashioned-in-les-branches-a-saint-tropez-1983-olivia-dutron-xavier-deluc-yve/format=MPEG4
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="flower-with-the-deadly-sting-the-il-fiore-dai-petali-d-acciaio-1973-gianni-garko" tvg-name="Flower With The Deadly Sting‚ The‚ Il Fiore Dai Petali D' Acciaio 1973 Gianni Garko‚ Carrol Baker‚ Pila Velazquez‚ Paola Senatore‚ Ivano Staccioli‚ Umberto Raho‚ Eleonora Morana‚ Alba Maiolini‚" tvg-logo="https://archive.org/download/flower-with-the-deadly-sting-the-il-fiore-dai-petali-d-acciaio-1973-gianni-garko/format=Thumbnail" tvg-language="ita",Flower With The Deadly Sting‚ The‚ Il Fiore Dai Petali D' Acciaio 1973 Gianni Garko‚ Carrol Baker‚ Pila Velazquez‚ Paola Senatore‚ Ivano Staccioli‚ Umberto Raho‚ Eleonora Morana‚ Alba Maiolini‚
 https://archive.org/download/flower-with-the-deadly-sting-the-il-fiore-dai-petali-d-acciaio-1973-gianni-garko/format=h.264
-#EXTINF:-1 group-title="Colorized-movies" tvg-id="umberto-d-1952-colorized-movie-720p-hd" tvg-logo="https://archive.org/download/umberto-d-1952-colorized-movie-720p-hd/format=Thumbnail" tvg-language="ita",Umberto D. (restored‚ colorized‚ Eng sub) (1952)
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="umberto-d-1952-colorized-movie-720p-hd" tvg-name="Umberto D. (restored‚ colorized‚ Eng sub) (1952‚ Dir: Vittorio De Sica‚ drama‚ imdb score: 8.2)" tvg-logo="https://archive.org/download/umberto-d-1952-colorized-movie-720p-hd/format=Thumbnail" tvg-language="ita",Umberto D. (restored‚ colorized‚ Eng sub) (1952)
 https://archive.org/download/umberto-d-1952-colorized-movie-720p-hd/format=h.264
 #EXTINF:-1 group-title="Comedy Films" tvg-id="y-2-mate.is-quando-le-donne-avevano-la-coda-wqub-l-0-gplmc-480p-1646022347652" tvg-name="Quando Le Donne Avevano La Coda(1970)" tvg-logo="https://archive.org/download/y-2-mate.is-quando-le-donne-avevano-la-coda-wqub-l-0-gplmc-480p-1646022347652/format=Thumbnail" tvg-language="ita",Quando Le Donne Avevano La Coda(1970)
 https://archive.org/download/y-2-mate.is-quando-le-donne-avevano-la-coda-wqub-l-0-gplmc-480p-1646022347652/format=MPEG4
@@ -151,25 +151,25 @@ https://archive.org/download/hitch.-hike.-1977.-italian.-1080p.-blu-ray.-h-264.-
 https://archive.org/download/y-2-mate.is-gungala-ii-a-pantera-nua-1968-7z-4-qta-hogq-y-480p-1639716215630/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="mamma-roma-1962" tvg-name="Mamma Roma (1962)" tvg-logo="https://archive.org/download/mamma-roma-1962/format=Thumbnail" tvg-language="ita",Mamma Roma (1962)
 https://archive.org/download/mamma-roma-1962/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="stromboli-terra-di-dio-1950" tvg-logo="https://archive.org/download/stromboli-terra-di-dio-1950/format=Thumbnail" tvg-language="ita",Stromboli‚ terra di dio (1950)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="stromboli-terra-di-dio-1950" tvg-name="Stromboli‚ terra di dio (1950)" tvg-logo="https://archive.org/download/stromboli-terra-di-dio-1950/format=Thumbnail" tvg-language="ita",Stromboli‚ terra di dio (1950)
 https://archive.org/download/stromboli-terra-di-dio-1950/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="o-conformista-1970" tvg-name="Il conformista (1970) O Conformista" tvg-logo="https://archive.org/download/o-conformista-1970/format=Thumbnail" tvg-language="ita",Il conformista (1970)
 https://archive.org/download/o-conformista-1970/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="belissima-1951" tvg-name="Belíssima (1951)" tvg-logo="https://archive.org/download/belissima-1951/format=Thumbnail" tvg-language="ita",Belíssima (1951)
 https://archive.org/download/belissima-1951/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="roma-cidade-aberta" tvg-logo="https://archive.org/download/roma-cidade-aberta/format=Thumbnail" tvg-language="ita",Roma‚ città aperta (1945)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="roma-cidade-aberta" tvg-name="Roma‚ città aperta (1945) Roma‚ Cidade Aberta" tvg-logo="https://archive.org/download/roma-cidade-aberta/format=Thumbnail" tvg-language="ita",Roma‚ città aperta (1945)
 https://archive.org/download/roma-cidade-aberta/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="four-roads" tvg-name="Four Roads (2021)" tvg-logo="https://archive.org/download/four-roads/format=Thumbnail" tvg-language="ita",Four Roads (2021)
 https://archive.org/download/four-roads/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="two.-women.-1960.1080p." tvg-name="La ciociara - Two Women (1960)" tvg-logo="https://archive.org/download/two.-women.-1960.1080p./format=Thumbnail" tvg-language="ita",La ciociara - Two Women (1960)
 https://archive.org/download/two.-women.-1960.1080p./format=MPEG4
-#EXTINF:-1 group-title="SciFi Horror" tvg-id="y-2-mate.is-maniac-1980-blab-pc-0i-oz-a-720p-1629087076705" tvg-logo="https://archive.org/download/y-2-mate.is-maniac-1980-blab-pc-0i-oz-a-720p-1629087076705/format=Thumbnail" tvg-language="ita",Maniac (1980)
+#EXTINF:-1 group-title="SciFi Horror" tvg-id="y-2-mate.is-maniac-1980-blab-pc-0i-oz-a-720p-1629087076705" tvg-name="Maniac (1980) Italian dub" tvg-logo="https://archive.org/download/y-2-mate.is-maniac-1980-blab-pc-0i-oz-a-720p-1629087076705/format=Thumbnail" tvg-language="ita",Maniac (1980)
 https://archive.org/download/y-2-mate.is-maniac-1980-blab-pc-0i-oz-a-720p-1629087076705/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="y-2-mate.is-old-erotic-erotic-cult-classic-madame-and-her-niece-1969-edwige-fene" tvg-name="MADAME AND HER NIECE(1969)" tvg-logo="https://archive.org/download/y-2-mate.is-old-erotic-erotic-cult-classic-madame-and-her-niece-1969-edwige-fene/format=Thumbnail" tvg-language="ita",MADAME AND HER NIECE(1969)
 https://archive.org/download/y-2-mate.is-old-erotic-erotic-cult-classic-madame-and-her-niece-1969-edwige-fene/format=MPEG4
 #EXTINF:-1 group-title="Comedy Films" tvg-id="y-2-mate.is-how-to-lose-your-wife-and-find-a-lover-1978-starring-barbara-bouchet" tvg-name="How To Lose A Wife And Find A Lover ( 1978)" tvg-logo="https://archive.org/download/y-2-mate.is-how-to-lose-your-wife-and-find-a-lover-1978-starring-barbara-bouchet/format=Thumbnail" tvg-language="ita",How To Lose A Wife And Find A Lover (1978)
 https://archive.org/download/y-2-mate.is-how-to-lose-your-wife-and-find-a-lover-1978-starring-barbara-bouchet/format=MPEG4
-#EXTINF:-1 group-title="SciFi Horror" tvg-id="y-2-mate.is-the-dead-are-alive-the-etruscan-kills-again-letrusco-uccide-ancora-1" tvg-logo="https://archive.org/download/y-2-mate.is-the-dead-are-alive-the-etruscan-kills-again-letrusco-uccide-ancora-1/format=Thumbnail" tvg-language="ita",The Dead Are Alive!(1972)
+#EXTINF:-1 group-title="SciFi Horror" tvg-id="y-2-mate.is-the-dead-are-alive-the-etruscan-kills-again-letrusco-uccide-ancora-1" tvg-name="The Dead Are Alive!(1972)" tvg-logo="https://archive.org/download/y-2-mate.is-the-dead-are-alive-the-etruscan-kills-again-letrusco-uccide-ancora-1/format=Thumbnail" tvg-language="ita",The Dead Are Alive!(1972)
 https://archive.org/download/y-2-mate.is-the-dead-are-alive-the-etruscan-kills-again-letrusco-uccide-ancora-1/format=MPEG4
 #EXTINF:-1 group-title="Comedy Films" tvg-id="the-white-sheik" tvg-name="The White Sheik" tvg-logo="https://archive.org/download/the-white-sheik/format=Thumbnail" tvg-language="ita",The White Sheik (1952)
 https://archive.org/download/the-white-sheik/format=h.264
@@ -181,7 +181,7 @@ https://archive.org/download/the-age-of-medici-part-2-of-3/format=h.264
 https://archive.org/download/the-age-of-medici-part-1-of-3/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="cartesius-pt-2" tvg-name="Cartesius (Part 2 of 2 )" tvg-logo="https://archive.org/download/cartesius-pt-2/format=Thumbnail" tvg-language="ita",Cartesius (Part 2 of 2) (1974)
 https://archive.org/download/cartesius-pt-2/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="cartesius-pt-1" tvg-logo="https://archive.org/download/cartesius-pt-1/format=Thumbnail" tvg-language="ita",Cartesius (Part 1 of 2)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="cartesius-pt-1" tvg-name="Cartesius ( Part 1 of 2 )" tvg-logo="https://archive.org/download/cartesius-pt-1/format=Thumbnail" tvg-language="ita",Cartesius (Part 1 of 2) (1974)
 https://archive.org/download/cartesius-pt-1/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="tormento_202103" tvg-name="Tormento" tvg-logo="https://archive.org/download/tormento_202103/format=Thumbnail" tvg-language="ita",Tormento (1950)
 https://archive.org/download/tormento_202103/format=h.264
@@ -195,9 +195,9 @@ https://archive.org/download/chains_202103/format=h.264
 https://archive.org/download/silent-the-warrior/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-the-triumph-of-an-emperor" tvg-name="The Triumph of an Emperor" tvg-logo="https://archive.org/download/silent-the-triumph-of-an-emperor/format=Thumbnail" tvg-language="ita" channel-id="tt1041763",The Triumph of an Emperor (1914)
 https://archive.org/download/silent-the-triumph-of-an-emperor/format=h.264
-#EXTINF:-1 group-title="Silent films" tvg-id="silent-the-romance-of-a-jockey" tvg-logo="https://archive.org/download/silent-the-romance-of-a-jockey/format=Thumbnail" tvg-language="ita",The Romance of a Jockey
+#EXTINF:-1 group-title="Silent films" tvg-id="silent-the-romance-of-a-jockey" tvg-name="The Romance of a Jockey" tvg-logo="https://archive.org/download/silent-the-romance-of-a-jockey/format=Thumbnail" tvg-language="ita" channel-id="tt0969329",The Romance of a Jockey (1910)
 https://archive.org/download/silent-the-romance-of-a-jockey/format=h.264
-#EXTINF:-1 group-title="Silent films" tvg-id="silent-the-last-days-of-pompeii" tvg-logo="https://archive.org/download/silent-the-last-days-of-pompeii/format=Thumbnail" tvg-language="ita",The Last Days of Pompeii
+#EXTINF:-1 group-title="Silent films" tvg-id="silent-the-last-days-of-pompeii" tvg-name="The Last Days of Pompeii" tvg-logo="https://archive.org/download/silent-the-last-days-of-pompeii/format=Thumbnail" tvg-language="ita" channel-id="tt0000776",The Last Days of Pompeii (1909)
 https://archive.org/download/silent-the-last-days-of-pompeii/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-the-garibaldi-boy" tvg-name="The Garibaldi Boy" tvg-logo="https://archive.org/download/silent-the-garibaldi-boy/format=Thumbnail" tvg-language="ita" channel-id="tt0427674",The Garibaldi Boy (1910)
 https://archive.org/download/silent-the-garibaldi-boy/format=h.264
@@ -209,15 +209,15 @@ https://archive.org/download/silent-the-capture-of-roma/format=h.264
 https://archive.org/download/silent-the-butterflies/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-spartacus" tvg-name="Spartacus" tvg-logo="https://archive.org/download/silent-spartacus/format=Thumbnail" tvg-language="ita" channel-id="tt0393807",Spartacus (1914)
 https://archive.org/download/silent-spartacus/format=h.264
-#EXTINF:-1 group-title="Silent films" tvg-id="silent-richard-the-lion-hearted" tvg-logo="https://archive.org/download/silent-richard-the-lion-hearted/format=Thumbnail" tvg-language="ita",Richard the Lion-Hearted
+#EXTINF:-1 group-title="Silent films" tvg-id="silent-richard-the-lion-hearted" tvg-name="Richard the Lion-Hearted" tvg-logo="https://archive.org/download/silent-richard-the-lion-hearted/format=Thumbnail" tvg-language="ita" channel-id="tt1113818",Richard the Lion-Hearted (1912)
 https://archive.org/download/silent-richard-the-lion-hearted/format=h.264
-#EXTINF:-1 group-title="Silent films" tvg-id="silent-quo-vadis" tvg-logo="https://archive.org/download/silent-quo-vadis/format=Thumbnail" tvg-language="ita",Quo Vadis?
+#EXTINF:-1 group-title="Silent films" tvg-id="silent-quo-vadis" tvg-name="Quo Vadis?" tvg-logo="https://archive.org/download/silent-quo-vadis/format=Thumbnail" tvg-language="ita" channel-id="tt0002445",Quo Vadis? (1913)
 https://archive.org/download/silent-quo-vadis/format=h.264
-#EXTINF:-1 group-title="Silent films" tvg-id="silent-nero-or-the-fall-of-rome-" tvg-logo="https://archive.org/download/silent-nero-or-the-fall-of-rome-/format=Thumbnail" tvg-language="ita",Nero. Or the Fall of Rome.
+#EXTINF:-1 group-title="Silent films" tvg-id="silent-nero-or-the-fall-of-rome-" tvg-name="Nero. Or the Fall of Rome." tvg-logo="https://archive.org/download/silent-nero-or-the-fall-of-rome-/format=Thumbnail" tvg-language="ita" channel-id="tt0188941",Nero. Or the Fall of Rome. (1909)
 https://archive.org/download/silent-nero-or-the-fall-of-rome-/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-marvelous-maciste" tvg-name="Marvelous Maciste" tvg-logo="https://archive.org/download/silent-marvelous-maciste/format=Thumbnail" tvg-language="ita" channel-id="tt0005680",Marvelous Maciste (1915)
 https://archive.org/download/silent-marvelous-maciste/format=h.264
-#EXTINF:-1 group-title="Silent films" tvg-id="silent-madame-guillotine" tvg-logo="https://archive.org/download/silent-madame-guillotine/format=Thumbnail" tvg-language="ita",Madame Guillotine
+#EXTINF:-1 group-title="Silent films" tvg-id="silent-madame-guillotine" tvg-name="Madame Guillotine" tvg-logo="https://archive.org/download/silent-madame-guillotine/format=Thumbnail" tvg-language="ita" channel-id="tt0183455",Madame Guillotine (1916)
 https://archive.org/download/silent-madame-guillotine/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-love-everlasting" tvg-name="Love Everlasting" tvg-logo="https://archive.org/download/silent-love-everlasting/format=Thumbnail" tvg-language="ita" channel-id="tt0003102",Love Everlasting (1914)
 https://archive.org/download/silent-love-everlasting/format=h.264
@@ -225,17 +225,17 @@ https://archive.org/download/silent-love-everlasting/format=h.264
 https://archive.org/download/silent-lamazzone-mascherata/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-la-neuropatologia" tvg-name="La neuropatologia" tvg-logo="https://archive.org/download/silent-la-neuropatologia/format=Thumbnail" tvg-language="ita" channel-id="tt1569450",La neuropatologia (1908)
 https://archive.org/download/silent-la-neuropatologia/format=h.264
-#EXTINF:-1 group-title="Silent films" tvg-id="silent-homers-odyssey" tvg-logo="https://archive.org/download/silent-homers-odyssey/format=Thumbnail" tvg-language="ita",Homer's Odyssey
+#EXTINF:-1 group-title="Silent films" tvg-id="silent-homers-odyssey" tvg-name="Homer's Odyssey" tvg-logo="https://archive.org/download/silent-homers-odyssey/format=Thumbnail" tvg-language="ita" channel-id="tt0189846",Homer's Odyssey (1912)
 https://archive.org/download/silent-homers-odyssey/format=h.264
-#EXTINF:-1 group-title="Silent films" tvg-id="silent-dantes-inferno" tvg-logo="https://archive.org/download/silent-dantes-inferno/format=Thumbnail" tvg-language="ita",Dante's Inferno
+#EXTINF:-1 group-title="Silent films" tvg-id="silent-dantes-inferno" tvg-name="Dante's Inferno" tvg-logo="https://archive.org/download/silent-dantes-inferno/format=Thumbnail" tvg-language="ita" channel-id="tt0002130",Dante's Inferno (1911)
 https://archive.org/download/silent-dantes-inferno/format=h.264
-#EXTINF:-1 group-title="Silent films" tvg-id="silent-christus" tvg-logo="https://archive.org/download/silent-christus/format=Thumbnail" tvg-language="ita",Christus
+#EXTINF:-1 group-title="Silent films" tvg-id="silent-christus" tvg-name="Christus" tvg-logo="https://archive.org/download/silent-christus/format=Thumbnail" tvg-language="ita" channel-id="tt0455390",Christus (1914)
 https://archive.org/download/silent-christus/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-cenere" tvg-name="Cenere" tvg-logo="https://archive.org/download/silent-cenere/format=Thumbnail" tvg-language="ita" channel-id="tt0006494",Cenere (1917)
 https://archive.org/download/silent-cenere/format=h.264
-#EXTINF:-1 group-title="Silent films" tvg-id="silent-cain" tvg-logo="https://archive.org/download/silent-cain/format=Thumbnail" tvg-language="ita",Cainà
+#EXTINF:-1 group-title="Silent films" tvg-id="silent-cain" tvg-name="Cainà" tvg-logo="https://archive.org/download/silent-cain/format=Thumbnail" tvg-language="ita" channel-id="tt0287952",Cainà (1923)
 https://archive.org/download/silent-cain/format=h.264
-#EXTINF:-1 group-title="Silent films" tvg-id="silent-cabiria" tvg-logo="https://archive.org/download/silent-cabiria/format=Thumbnail" tvg-language="ita",Cabiria
+#EXTINF:-1 group-title="Silent films" tvg-id="silent-cabiria" tvg-name="Cabiria" tvg-logo="https://archive.org/download/silent-cabiria/format=Thumbnail" tvg-language="ita" channel-id="tt0003740",Cabiria (1914)
 https://archive.org/download/silent-cabiria/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-bride-of-the-nile" tvg-name="Bride of the Nile" tvg-logo="https://archive.org/download/silent-bride-of-the-nile/format=Thumbnail" tvg-language="ita" channel-id="tt1081005",Bride of the Nile (1911)
 https://archive.org/download/silent-bride-of-the-nile/format=h.264
@@ -243,7 +243,7 @@ https://archive.org/download/silent-bride-of-the-nile/format=h.264
 https://archive.org/download/silent-antony-and-cleopatra/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="ce-sartana-vendi-la-pistola-e-comprati-la-bara-1970" tvg-name="C'è Sartana... Vendi La Pistola e Comprati La Bara! (1970)" tvg-logo="https://archive.org/download/ce-sartana-vendi-la-pistola-e-comprati-la-bara-1970/format=Thumbnail" tvg-language="ita",C'è Sartana... Vendi La Pistola e Comprati La Bara! (1970)
 https://archive.org/download/ce-sartana-vendi-la-pistola-e-comprati-la-bara-1970/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="buon-funerale-amigos-paga-sartana-1970" tvg-logo="https://archive.org/download/buon-funerale-amigos-paga-sartana-1970/format=Thumbnail" tvg-language="ita",Buon Funerale‚ Amigos!... Paga Sartana (1970)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="buon-funerale-amigos-paga-sartana-1970" tvg-name="Buon Funerale‚ Amigos!... Paga Sartana (1970)" tvg-logo="https://archive.org/download/buon-funerale-amigos-paga-sartana-1970/format=Thumbnail" tvg-language="ita",Buon Funerale‚ Amigos!... Paga Sartana (1970)
 https://archive.org/download/buon-funerale-amigos-paga-sartana-1970/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="sono-sartana-il-vostro-becchino-1969" tvg-name="Sono Sartana Il‚ Vostro Becchino (1969)" tvg-logo="https://archive.org/download/sono-sartana-il-vostro-becchino-1969/format=Thumbnail" tvg-language="ita",Sono Sartana Il‚ Vostro Becchino (1969)
 https://archive.org/download/sono-sartana-il-vostro-becchino-1969/format=h.264
