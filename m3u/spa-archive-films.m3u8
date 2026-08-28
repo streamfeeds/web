@@ -1,4 +1,18 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="la-guerra-de-los-sostenes-1976" tvg-name="La Guerra De Los Sostenes ( 1976)" tvg-logo="https://archive.org/download/la-guerra-de-los-sostenes-1976/format=Thumbnail" tvg-language="spa",La Guerra De Los Sostenes (1976)
+https://archive.org/download/la-guerra-de-los-sostenes-1976/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="no-apto-para-menores-inedita-1979" tvg-name="No Apto Para Menores (Inedita)(1979)" tvg-logo="https://archive.org/download/no-apto-para-menores-inedita-1979/format=Thumbnail" tvg-language="spa",No Apto Para Menores (Inedita)(1979)
+https://archive.org/download/no-apto-para-menores-inedita-1979/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="el-lugar-del-humo-1979" tvg-name="El Lugar Del Humo (1979)" tvg-logo="https://archive.org/download/el-lugar-del-humo-1979/format=Thumbnail" tvg-language="spa",El Lugar Del Humo (1979)
+https://archive.org/download/el-lugar-del-humo-1979/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="sin-querer-queriendo-1985" tvg-name="Sin Querer‚ Queriendo (1985)" tvg-logo="https://archive.org/download/sin-querer-queriendo-1985/format=Thumbnail" tvg-language="spa",Sin Querer‚ Queriendo (1985)
+https://archive.org/download/sin-querer-queriendo-1985/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="la-virgen-gaucha-1987" tvg-name="La Virgen Gaucha (1987)" tvg-logo="https://archive.org/download/la-virgen-gaucha-1987/format=Thumbnail" tvg-language="spa",La Virgen Gaucha (1987)
+https://archive.org/download/la-virgen-gaucha-1987/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="guerreros-y-cautivas-1989" tvg-name="Guerreros Y Cautivas (1989)" tvg-logo="https://archive.org/download/guerreros-y-cautivas-1989/format=Thumbnail" tvg-language="spa",Guerreros Y Cautivas (1989)
+https://archive.org/download/guerreros-y-cautivas-1989/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="ya-no-hay-hombres-1991" tvg-name="Ya No Hay Hombres (1991)" tvg-logo="https://archive.org/download/ya-no-hay-hombres-1991/format=Thumbnail" tvg-language="spa",Ya No Hay Hombres (1991)
+https://archive.org/download/ya-no-hay-hombres-1991/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="los-hijos-artificiales-1943" tvg-name="Los Hijos Artificiales (1943)" tvg-logo="https://archive.org/download/los-hijos-artificiales-1943/format=Thumbnail" tvg-language="spa",Los Hijos Artificiales (1943)
 https://archive.org/download/los-hijos-artificiales-1943/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="hombre-de-la-esquina-rosada-1962" tvg-name="Hombre De La Esquina Rosada (1962)" tvg-logo="https://archive.org/download/hombre-de-la-esquina-rosada-1962/format=Thumbnail" tvg-language="spa",Hombre De La Esquina Rosada (1962)
