@@ -1,4 +1,12 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="volver-a-la-vida-1951" tvg-name="Volver A La Vida (1951)" tvg-logo="https://archive.org/download/volver-a-la-vida-1951/format=Thumbnail" tvg-language="spa",Volver A La Vida (1951)
+https://archive.org/download/volver-a-la-vida-1951/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="las-tres-ratas-1946" tvg-name="Las Tres Ratas (1946)" tvg-logo="https://archive.org/download/las-tres-ratas-1946/format=Thumbnail" tvg-language="spa",Las Tres Ratas (1946)
+https://archive.org/download/las-tres-ratas-1946/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="vidas-marcadas-1942" tvg-name="Vidas Marcadas (1942)" tvg-logo="https://archive.org/download/vidas-marcadas-1942/format=Thumbnail" tvg-language="spa",Vidas Marcadas (1942)
+https://archive.org/download/vidas-marcadas-1942/format=MPEG4
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="los-martes-orquideas-1941" tvg-name="Los Martes‚ Orquideas (1941)" tvg-logo="https://archive.org/download/los-martes-orquideas-1941/format=Thumbnail" tvg-language="spa",Los Martes‚ Orquideas (1941)
+https://archive.org/download/los-martes-orquideas-1941/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="la-guerra-de-los-sostenes-1976" tvg-name="La Guerra De Los Sostenes ( 1976)" tvg-logo="https://archive.org/download/la-guerra-de-los-sostenes-1976/format=Thumbnail" tvg-language="spa",La Guerra De Los Sostenes (1976)
 https://archive.org/download/la-guerra-de-los-sostenes-1976/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="no-apto-para-menores-inedita-1979" tvg-name="No Apto Para Menores (Inedita)(1979)" tvg-logo="https://archive.org/download/no-apto-para-menores-inedita-1979/format=Thumbnail" tvg-language="spa",No Apto Para Menores (Inedita)(1979)
