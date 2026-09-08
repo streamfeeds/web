@@ -1,4 +1,10 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="mi-amigo-luis-1972" tvg-name="Mi Amigo Luis (1972)" tvg-logo="https://archive.org/download/mi-amigo-luis-1972/format=Thumbnail" tvg-language="spa",Mi Amigo Luis (1972)
+https://archive.org/download/mi-amigo-luis-1972/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="la-nata-contra-el-vidrio-1972" tvg-name="La Ñata Contra El Vidrio (1972)" tvg-logo="https://archive.org/download/la-nata-contra-el-vidrio-1972/format=Thumbnail" tvg-language="spa",La Ñata Contra El Vidrio (1972)
+https://archive.org/download/la-nata-contra-el-vidrio-1972/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="los-herederos-1970" tvg-name="Los Herederos (1970)" tvg-logo="https://archive.org/download/los-herederos-1970/format=Thumbnail" tvg-language="spa",Los Herederos (1970)
+https://archive.org/download/los-herederos-1970/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="volver-a-la-vida-1951" tvg-name="Volver A La Vida (1951)" tvg-logo="https://archive.org/download/volver-a-la-vida-1951/format=Thumbnail" tvg-language="spa",Volver A La Vida (1951)
 https://archive.org/download/volver-a-la-vida-1951/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="las-tres-ratas-1946" tvg-name="Las Tres Ratas (1946)" tvg-logo="https://archive.org/download/las-tres-ratas-1946/format=Thumbnail" tvg-language="spa",Las Tres Ratas (1946)
