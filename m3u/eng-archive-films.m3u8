@@ -1,4 +1,6 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="bloody-undefeatable-killer" tvg-logo="https://archive.org/download/bloody-undefeatable-killer/format=Thumbnail" tvg-language="eng",Bloody Undefeatable Killer (fullscreen & Widescreen)
+https://archive.org/download/bloody-undefeatable-killer/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="00.-fantasy-mission-force-1983-original-trailers" tvg-logo="https://archive.org/download/00.-fantasy-mission-force-1983-original-trailers/format=Thumbnail" tvg-language="eng",Fantasy Mission Force (1983)
 https://archive.org/download/00.-fantasy-mission-force-1983-original-trailers/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="dirty-tiger-crazy-frog-his-name-is-nobody" tvg-name="Dirty Tiger Crazy Frog & His Name Is Nobody" tvg-logo="https://archive.org/download/dirty-tiger-crazy-frog-his-name-is-nobody/format=Thumbnail" tvg-language="eng",Dirty Tiger Crazy Frog & His Name Is Nobody (2026)
@@ -15,7 +17,7 @@ https://archive.org/download/duel-of-the-tough-widescreen/format=MPEG4
 https://archive.org/download/carry-on-wiseguy-warrior-from-shaolin/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-eugene-thomas-and-alexander-lou-show" tvg-logo="https://archive.org/download/the-eugene-thomas-and-alexander-lou-show/format=Thumbnail" tvg-language="eng",The Eugene Thomas & Alexander Lou Show
 https://archive.org/download/the-eugene-thomas-and-alexander-lou-show/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="hard-bastard-a-godfrey-ho-joint" tvg-name="Hard Bastard ( A Godfrey Ho Joint)" tvg-logo="https://archive.org/download/hard-bastard-a-godfrey-ho-joint/format=Thumbnail" tvg-language="eng",Hard Bastard (A Godfrey Ho Joint) (2026)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="hard-bastard-a-godfrey-ho-joint" tvg-logo="https://archive.org/download/hard-bastard-a-godfrey-ho-joint/format=Thumbnail" tvg-language="eng",Hard Bastard (A Godfrey Ho Joint)
 https://archive.org/download/hard-bastard-a-godfrey-ho-joint/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="battle-for-the-treasure-aka-battle-hero" tvg-logo="https://archive.org/download/battle-for-the-treasure-aka-battle-hero/format=Thumbnail" tvg-language="eng",Battle For The Treasure aka Battle Hero
 https://archive.org/download/battle-for-the-treasure-aka-battle-hero/format=MPEG4
@@ -25,7 +27,7 @@ https://archive.org/download/golden-dragon-silver-snake-1978/format=MPEG4
 https://archive.org/download/roaring-fire-starring-hiroyuki-duke-sanada-dvdrip-and-vhsrip_202609/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="duel-of-the-tough-1982" tvg-name="Duel Of The Tough (1982)" tvg-logo="https://archive.org/download/duel-of-the-tough-1982/format=Thumbnail" tvg-language="eng",Duel Of The Tough (1982) (2026)
 https://archive.org/download/duel-of-the-tough-1982/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="invincible-obsessed-fighter-widescreen" tvg-logo="https://archive.org/download/invincible-obsessed-fighter-widescreen/format=Thumbnail" tvg-language="eng",Invincible Obsessed Fighter (1982)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="invincible-obsessed-fighter-widescreen" tvg-name="Invincible Obsessed Fighter (1982)" tvg-logo="https://archive.org/download/invincible-obsessed-fighter-widescreen/format=Thumbnail" tvg-language="eng",Invincible Obsessed Fighter (1982) (2026)
 https://archive.org/download/invincible-obsessed-fighter-widescreen/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-protector-1985-konplete-american-hong-kong-fusion-version-extra-sally-yeh-subplot" tvg-logo="https://archive.org/download/the-protector-1985-konplete-american-hong-kong-fusion-version-extra-sally-yeh-subplot/format=Thumbnail" tvg-language="eng",The Protector (1985) (Konplete American & Hong Kong Fusion Version) (Extra Sally Yeh Subplot)
 https://archive.org/download/the-protector-1985-konplete-american-hong-kong-fusion-version-extra-sally-yeh-subplot/format=MPEG4
@@ -41,7 +43,7 @@ https://archive.org/download/enforcer-from-death-row-1976-leo-fong/format=MPEG4
 https://archive.org/download/murder-in-the-orient-1974-ron-marchini-leo-fong-and-forgotten-warrior-1986-ron-marchini/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="enter-the-game-of-death-1978-dvdrip-vhsrip" tvg-logo="https://archive.org/download/enter-the-game-of-death-1978-dvdrip-vhsrip/format=Thumbnail" tvg-language="eng",Enter The Game Of Death 死亡魔塔 (1978)
 https://archive.org/download/enter-the-game-of-death-1978-dvdrip-vhsrip/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="supercop-police-story-3--dubbed-subtitled-hong-kong" tvg-logo="https://archive.org/download/supercop-police-story-3--dubbed-subtitled-hong-kong/format=Thumbnail" tvg-language="eng",Supercop (Police Story 3) 警察故事３超級警察 (DUBBED EXPORT & SUBTITLED HONG KONG CUTS)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="supercop-police-story-3--dubbed-subtitled-hong-kong" tvg-name="Supercop (Police Story 3) 警察故事３超級警察 (DUBBED EXPORT & SUBTITLED HONG KONG CUTS)" tvg-logo="https://archive.org/download/supercop-police-story-3--dubbed-subtitled-hong-kong/format=Thumbnail" tvg-language="eng",Supercop (Police Story 3) 警察故事３超級警察 (DUBBED EXPORT & SUBTITLED HONG KONG CUTS) (2026)
 https://archive.org/download/supercop-police-story-3--dubbed-subtitled-hong-kong/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="police-story-2-1988-subtitled" tvg-name="Police Story 2 警察故事續集 [1988] (subtitled)" tvg-logo="https://archive.org/download/police-story-2-1988-subtitled/format=Thumbnail" tvg-language="eng",Police Story 2 警察故事續集 [1988] (subtitled) (2026)
 https://archive.org/download/police-story-2-1988-subtitled/format=MPEG4
@@ -101,7 +103,7 @@ https://archive.org/download/demon-strike-english-subtitled-Beardy/format=MPEG4
 https://archive.org/download/shaolin-vs-wu-tang-gordon-lau/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-raccoons-ft.-lisa-lougheed-run-with-us-official-music-video-subtitled" tvg-logo="https://archive.org/download/the-raccoons-ft.-lisa-lougheed-run-with-us-official-music-video-subtitled/format=Thumbnail" tvg-language="eng",The Raccoons Ft. Lisa Lougheed Run With Us (Official Music Video Subtitled)
 https://archive.org/download/the-raccoons-ft.-lisa-lougheed-run-with-us-official-music-video-subtitled/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="dance-of-death-jackie-chan-fight-director-angela-mao-dean-shek-and-pu-liao-hsu" tvg-logo="https://archive.org/download/dance-of-death-jackie-chan-fight-director-angela-mao-dean-shek-and-pu-liao-hsu/format=Thumbnail" tvg-language="eng",Dance Of Death (Jackie Chan Fight Director) Angela Mao‚ Dean Shek‚ And Pu Liao Hsu
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="dance-of-death-jackie-chan-fight-director-angela-mao-dean-shek-and-pu-liao-hsu" tvg-name="Dance Of Death (Jackie Chan Fight Director) Angela Mao‚ Dean Shek‚ And Pu Liao Hsu" tvg-logo="https://archive.org/download/dance-of-death-jackie-chan-fight-director-angela-mao-dean-shek-and-pu-liao-hsu/format=Thumbnail" tvg-language="eng",Dance Of Death (Jackie Chan Fight Director) Angela Mao‚ Dean Shek‚ And Pu Liao Hsu (2026)
 https://archive.org/download/dance-of-death-jackie-chan-fight-director-angela-mao-dean-shek-and-pu-liao-hsu/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="a-godfrey-ho-joint-raiders-of-buddhist-kung-fu" tvg-name="Raiders Of Buddhist Kung Fu (A Film by Godfrey Ho)" tvg-logo="https://archive.org/download/a-godfrey-ho-joint-raiders-of-buddhist-kung-fu/format=Thumbnail" tvg-language="eng",Raiders Of Buddhist Kung Fu (A Film by Godfrey Ho) (2026)
 https://archive.org/download/a-godfrey-ho-joint-raiders-of-buddhist-kung-fu/format=MPEG4
@@ -113,7 +115,7 @@ https://archive.org/download/ninja-in-the-claws-of-the-cia-a-john-liu-joint/form
 https://archive.org/download/ninja-the-final-duel-1986-parts-1-and-2/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="ninja-the-final-duel-1986-13-hour-version-no-subtites" tvg-name="NINJA THE FINAL DUEL 1986 ( 13 Hour Version) (No Subtites)" tvg-logo="https://archive.org/download/ninja-the-final-duel-1986-13-hour-version-no-subtites/format=Thumbnail" tvg-language="eng",NINJA THE FINAL DUEL 1986 (13 Hour Version) (No Subtites) (2026)
 https://archive.org/download/ninja-the-final-duel-1986-13-hour-version-no-subtites/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="empire-of-the-spiritual-ninja" tvg-logo="https://archive.org/download/empire-of-the-spiritual-ninja/format=Thumbnail" tvg-language="eng",Empire Of The Spiritual Ninja
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="empire-of-the-spiritual-ninja" tvg-name="Empire Of The Spiritual Ninja" tvg-logo="https://archive.org/download/empire-of-the-spiritual-ninja/format=Thumbnail" tvg-language="eng",Empire Of The Spiritual Ninja (2026)
 https://archive.org/download/empire-of-the-spiritual-ninja/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="ninja-in-the-u-s-a-uncut-vhsrip-widescreen" tvg-name="Ninja In The U. S. A. [uncut VHSrip] [widescreen]" tvg-logo="https://archive.org/download/ninja-in-the-u-s-a-uncut-vhsrip-widescreen/format=Thumbnail" tvg-language="eng",Ninja In The U. S. A. [uncut VHSrip] [widescreen] (2026)
 https://archive.org/download/ninja-in-the-u-s-a-uncut-vhsrip-widescreen/format=MPEG4
@@ -263,7 +265,7 @@ https://archive.org/download/the-tattooed-dragon-dubbed-and-subbed/format=MPEG4
 https://archive.org/download/black-belt-jones-The-Whole-Funky-Affair-1975-and-1978/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="a-slice-of-death-shaolin-abbot-1979-" tvg-name="Shaolin Abbot‚ A Slice Of Death 少林英雄榜 (1979) (DVDrip & VHSrip)" tvg-logo="https://archive.org/download/a-slice-of-death-shaolin-abbot-1979-/format=Thumbnail" tvg-language="eng",Shaolin Abbot‚ A Slice Of Death 少林英雄榜 (1979) (DVDrip & VHSrip) (2026)
 https://archive.org/download/a-slice-of-death-shaolin-abbot-1979-/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-9-demons-aka-9-venoms-aka-gary-and-joeys-bogus-journey-go-to-hell" tvg-name="The 9 Demons aka 9 Venoms aka Gary & Joey's Bogus Journey / Go To Hell]" tvg-logo="https://archive.org/download/the-9-demons-aka-9-venoms-aka-gary-and-joeys-bogus-journey-go-to-hell/format=Thumbnail" tvg-language="eng",The 9 Demons aka 9 Venoms aka Gary & Joey's Bogus Journey / Go To Hell] (2026)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-9-demons-aka-9-venoms-aka-gary-and-joeys-bogus-journey-go-to-hell" tvg-logo="https://archive.org/download/the-9-demons-aka-9-venoms-aka-gary-and-joeys-bogus-journey-go-to-hell/format=Thumbnail" tvg-language="eng",The 9 Demons aka 9 Venoms aka Gary & Joey's Bogus Journey / Go To Hell]
 https://archive.org/download/the-9-demons-aka-9-venoms-aka-gary-and-joeys-bogus-journey-go-to-hell/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-fearless-hyena-duology" tvg-name="The Fearless Hyena Duology 笑拳怪招 龍騰虎躍" tvg-logo="https://archive.org/download/the-fearless-hyena-duology/format=Thumbnail" tvg-language="eng",The Fearless Hyena Duology 笑拳怪招 龍騰虎躍 (2026)
 https://archive.org/download/the-fearless-hyena-duology/format=MPEG4
@@ -417,11 +419,11 @@ https://archive.org/download/tough-beauty-andthe-sloppy-slop-supercop/format=MPE
 https://archive.org/download/tiger-on-the-beat-i-ii/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="high-risk-meltdown-jet-li-jacky-cheung-and-chingmy-yau-dubbed-extra-features-after-movie" tvg-name="High Risk/Meltdown (Jet Li‚ Jacky Cheung‚ and Chingmy Yau) (Dubbed & Subtitled) Extra Features After Movie" tvg-logo="https://archive.org/download/high-risk-meltdown-jet-li-jacky-cheung-and-chingmy-yau-dubbed-extra-features-after-movie/format=Thumbnail" tvg-language="eng",High Risk/Meltdown (Jet Li‚ Jacky Cheung‚ and Chingmy Yau) (Dubbed & Subtitled) Extra Features After Movie (2026)
 https://archive.org/download/high-risk-meltdown-jet-li-jacky-cheung-and-chingmy-yau-dubbed-extra-features-after-movie/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="jackie-chans-mr.-nice-guy-directed-by-sammo-hung-1997-dvdrip" tvg-logo="https://archive.org/download/jackie-chans-mr.-nice-guy-directed-by-sammo-hung-1997-dvdrip/format=Thumbnail" tvg-language="eng",Jackie Chan's Mr. Nice Guy‚ Directed By Sammo Hung [1997] (DVDRip)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="jackie-chans-mr.-nice-guy-directed-by-sammo-hung-1997-dvdrip" tvg-name="Jackie Chan's Mr. Nice Guy‚ Directed By Sammo Hung [1997] (DVDRip)" tvg-logo="https://archive.org/download/jackie-chans-mr.-nice-guy-directed-by-sammo-hung-1997-dvdrip/format=Thumbnail" tvg-language="eng",Jackie Chan's Mr. Nice Guy‚ Directed By Sammo Hung [1997] (DVDRip) (2026)
 https://archive.org/download/jackie-chans-mr.-nice-guy-directed-by-sammo-hung-1997-dvdrip/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="duel-to-the-death-subtitled-dubbed" tvg-logo="https://archive.org/download/duel-to-the-death-subtitled-dubbed/format=Thumbnail" tvg-language="eng",Duel To The Death (Subtitled & Dubbed)
 https://archive.org/download/duel-to-the-death-subtitled-dubbed/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="zu-warriors-from-the-magic-mountain-export-and-original-dvdrip-super-cut" tvg-name="俠新蜀山劍 Zu Warriors From The Magic Mountain ( Export & Original DVDRIP SuperCut) (Dubbed & Subtitled)" tvg-logo="https://archive.org/download/zu-warriors-from-the-magic-mountain-export-and-original-dvdrip-super-cut/format=Thumbnail" tvg-language="eng",俠新蜀山劍 Zu Warriors From The Magic Mountain (Export & Original DVDRIP SuperCut) (Dubbed & Subtitled) (2026)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="zu-warriors-from-the-magic-mountain-export-and-original-dvdrip-super-cut" tvg-logo="https://archive.org/download/zu-warriors-from-the-magic-mountain-export-and-original-dvdrip-super-cut/format=Thumbnail" tvg-language="eng",俠新蜀山劍 Zu Warriors From The Magic Mountain (Export & Original DVDRIP SuperCut) (Dubbed & Subtitled)
 https://archive.org/download/zu-warriors-from-the-magic-mountain-export-and-original-dvdrip-super-cut/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="a-face-in-the-crowd-andy-griffith-as-larry-lonesome-rhodes" tvg-name="A Face In The Crowd (1957) Andy Griffith as Larry 'Lonesome' Rhodes" tvg-logo="https://archive.org/download/a-face-in-the-crowd-andy-griffith-as-larry-lonesome-rhodes/format=Thumbnail" tvg-language="eng",A Face In The Crowd (1957) (2026)
 https://archive.org/download/a-face-in-the-crowd-andy-griffith-as-larry-lonesome-rhodes/format=MPEG4
@@ -437,7 +439,7 @@ https://archive.org/download/the-street-fighter-trilogy/format=MPEG4
 https://archive.org/download/the-bodyguard1973-widescreen-VIVA-CHIBA/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="and-justice-for-all_NYPD" tvg-logo="https://archive.org/download/and-justice-for-all_NYPD/format=Thumbnail" tvg-language="eng",...And Justice For All
 https://archive.org/download/and-justice-for-all_NYPD/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="taxi-driver-film-with-analysis" tvg-logo="https://archive.org/download/taxi-driver-film-with-analysis/format=Thumbnail" tvg-language="eng",Taxi Driver 1976 (Film & Analysis)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="taxi-driver-film-with-analysis" tvg-name="Taxi Driver 1976 (Film & Analysis)" tvg-logo="https://archive.org/download/taxi-driver-film-with-analysis/format=Thumbnail" tvg-language="eng",Taxi Driver 1976 (Film & Analysis) (2026)
 https://archive.org/download/taxi-driver-film-with-analysis/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="5-fingers-of-death-king-boxer-not-remastered-remastered" tvg-name="The 5 Fingers Of Death (King Boxer r天下第一拳) Remastered & Not Remastered" tvg-logo="https://archive.org/download/5-fingers-of-death-king-boxer-not-remastered-remastered/format=Thumbnail" tvg-language="eng",The 5 Fingers Of Death (King Boxer r天下第一拳) Remastered & Not Remastered (2025)
 https://archive.org/download/5-fingers-of-death-king-boxer-not-remastered-remastered/format=MPEG4
@@ -499,7 +501,7 @@ https://archive.org/download/savage-streets-Linda-blair/format=MPEG4
 https://archive.org/download/the-armour-of-god-the-armour-of-god-ii-operation-condor/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="savage-streets-full-revenge-action-movie-linda-blair" tvg-logo="https://archive.org/download/savage-streets-full-revenge-action-movie-linda-blair/format=Thumbnail" tvg-language="eng",SAVAGE STREETS Full REVENGE ACTION Movie Linda Blair
 https://archive.org/download/savage-streets-full-revenge-action-movie-linda-blair/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="operation-condor-operation-condor-ii-the-armour-of-the-gods" tvg-logo="https://archive.org/download/operation-condor-operation-condor-ii-the-armour-of-the-gods/format=Thumbnail" tvg-language="eng",Operation Condor & Operation Condor II The Armour Of The Gods
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="operation-condor-operation-condor-ii-the-armour-of-the-gods" tvg-name="Operation Condor & Operation Condor II The Armour Of The Gods" tvg-logo="https://archive.org/download/operation-condor-operation-condor-ii-the-armour-of-the-gods/format=Thumbnail" tvg-language="eng",Operation Condor & Operation Condor II The Armour Of The Gods (2026)
 https://archive.org/download/operation-condor-operation-condor-ii-the-armour-of-the-gods/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="kojak-chronicles-s02e0105" tvg-logo="https://archive.org/download/kojak-chronicles-s02e0105/format=Thumbnail" tvg-language="eng",Kojak Chronicles S02E0105 The Chinatown Murders (1 and 2)‚ Hush Now... Don't You Die‚ A Very Deadly Game‚ & Wall Street Gunslinger
 https://archive.org/download/kojak-chronicles-s02e0105/format=MPEG4
@@ -543,7 +545,7 @@ https://archive.org/download/once-upon-a-chinese-hero-aka-kick-boxer/format=MPEG
 https://archive.org/download/fantasy-mission-force-1983-with-original-trailers/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="kung-fu-conspiracy-aka-the-big-risk" tvg-name="Kung Fu Conspiracy aka The Big Risk" tvg-logo="https://archive.org/download/kung-fu-conspiracy-aka-the-big-risk/format=Thumbnail" tvg-language="eng",Kung Fu Conspiracy aka The Big Risk (2026)
 https://archive.org/download/kung-fu-conspiracy-aka-the-big-risk/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="car-54-where-are-you-buster-poindexter-1994" tvg-logo="https://archive.org/download/car-54-where-are-you-buster-poindexter-1994/format=Thumbnail" tvg-language="eng",CAR 54‚ Where THE FUCK Are You Buster Poindexter/(David Johansen) & John C McGinley!?! (1994)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="car-54-where-are-you-buster-poindexter-1994" tvg-name="CAR 54‚ Where THE FUCK Are You Buster Poindexter/(David Johansen) & John C McGinley!?! (1994)" tvg-logo="https://archive.org/download/car-54-where-are-you-buster-poindexter-1994/format=Thumbnail" tvg-language="eng",CAR 54‚ Where THE FUCK Are You Buster Poindexter/(David Johansen) & John C McGinley!?! (1994) (2025)
 https://archive.org/download/car-54-where-are-you-buster-poindexter-1994/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="executioner-aka-karate-executioners-sonny-chiba-grindhouse" tvg-name="Executioner aka Karate Executioners‚ (直撃! 地獄拳‚ Chokugeki! Jigokuken) Sonny Chiba‚Yasuaki Kurata (aka Bruce Lo lol) (Remastered and Grindhouse Not Remastered versions) English Dub & Subs)" tvg-logo="https://archive.org/download/executioner-aka-karate-executioners-sonny-chiba-grindhouse/format=Thumbnail" tvg-language="eng",Executioner aka Karate Executioners‚ (直撃! 地獄拳‚ Chokugeki! Jigokuken) Sonny Chiba‚Yasuaki Kurata (aka Bruce Lo lol) (Remastered and Grindhouse Not Remastered versions) English Dub & Subs) (2026)
 https://archive.org/download/executioner-aka-karate-executioners-sonny-chiba-grindhouse/format=MPEG4
@@ -903,7 +905,7 @@ https://archive.org/download/the-black-hand-gang_1930/format=MPEG4
 https://archive.org/download/sunnyside-up_1930/format=MPEG4
 #EXTINF:-1 group-title="Comedy Films" tvg-id="the-bluffer_1930" tvg-logo="https://archive.org/download/the-bluffer_1930/format=Thumbnail" tvg-language="eng",The Bluffer
 https://archive.org/download/the-bluffer_1930/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="street-of-chance_1930" tvg-logo="https://archive.org/download/street-of-chance_1930/format=Thumbnail" tvg-language="eng",Street of Chance
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="street-of-chance_1930" tvg-name="Street of Chance" tvg-logo="https://archive.org/download/street-of-chance_1930/format=Thumbnail" tvg-language="eng",Street of Chance (1930)
 https://archive.org/download/street-of-chance_1930/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="sunny_1930" tvg-name="Sunny" tvg-logo="https://archive.org/download/sunny_1930/format=Thumbnail" tvg-language="eng",Sunny (1930)
 https://archive.org/download/sunny_1930/format=MPEG4
@@ -963,13 +965,13 @@ https://archive.org/download/let-us-be-gay_1930/format=MPEG4
 https://archive.org/download/laughter_1930/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="hells-angels_1930" tvg-name="Hell's Angels" tvg-logo="https://archive.org/download/hells-angels_1930/format=Thumbnail" tvg-language="eng",Hell's Angels (1930)
 https://archive.org/download/hells-angels_1930/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="journeys-end_1930" tvg-logo="https://archive.org/download/journeys-end_1930/format=Thumbnail" tvg-language="eng",Journey's End
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="journeys-end_1930" tvg-name="Journey's End" tvg-logo="https://archive.org/download/journeys-end_1930/format=Thumbnail" tvg-language="eng",Journey's End (1930)
 https://archive.org/download/journeys-end_1930/format=MPEG4
 #EXTINF:-1 group-title="Comedy Films" tvg-id="laughing-gravy_1930" tvg-name="Laughing Gravy" tvg-logo="https://archive.org/download/laughing-gravy_1930/format=Thumbnail" tvg-language="eng",Laughing Gravy (1930)
 https://archive.org/download/laughing-gravy_1930/format=MPEG4
 #EXTINF:-1 group-title="Comedy Films" tvg-id="ladies-love-brutes_1930" tvg-name="Ladies Love Brutes" tvg-logo="https://archive.org/download/ladies-love-brutes_1930/format=Thumbnail" tvg-language="eng",Ladies Love Brutes (1930)
 https://archive.org/download/ladies-love-brutes_1930/format=MPEG4
-#EXTINF:-1 group-title="Comedy Films" tvg-id="juno-and-the-paycock_1930" tvg-logo="https://archive.org/download/juno-and-the-paycock_1930/format=Thumbnail" tvg-language="eng",Juno and the Paycock
+#EXTINF:-1 group-title="Comedy Films" tvg-id="juno-and-the-paycock_1930" tvg-name="Juno and the Paycock" tvg-logo="https://archive.org/download/juno-and-the-paycock_1930/format=Thumbnail" tvg-language="eng",Juno and the Paycock (1930)
 https://archive.org/download/juno-and-the-paycock_1930/format=MPEG4
 #EXTINF:-1 group-title="Comedy Films" tvg-id="honey_1930" tvg-logo="https://archive.org/download/honey_1930/format=Thumbnail" tvg-language="eng",Honey
 https://archive.org/download/honey_1930/format=MPEG4
@@ -1031,7 +1033,7 @@ https://archive.org/download/free-and-easy_1930/format=MPEG4
 https://archive.org/download/girl-of-the-port_1930/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="general-crack_1930" tvg-name="General Crack" tvg-logo="https://archive.org/download/general-crack_1930/format=Thumbnail" tvg-language="eng",General Crack (1930)
 https://archive.org/download/general-crack_1930/format=MPEG4
-#EXTINF:-1 group-title="Comedy Films" tvg-id="follow-the-leader_1930" tvg-logo="https://archive.org/download/follow-the-leader_1930/format=Thumbnail" tvg-language="eng",Follow the Leader
+#EXTINF:-1 group-title="Comedy Films" tvg-id="follow-the-leader_1930" tvg-name="Follow the Leader" tvg-logo="https://archive.org/download/follow-the-leader_1930/format=Thumbnail" tvg-language="eng",Follow the Leader (1930)
 https://archive.org/download/follow-the-leader_1930/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="framed_1930" tvg-name="Framed" tvg-logo="https://archive.org/download/framed_1930/format=Thumbnail" tvg-language="eng",Framed (1930)
 https://archive.org/download/framed_1930/format=MPEG4
@@ -1043,7 +1045,7 @@ https://archive.org/download/from-stump-to-ship_1930/format=MPEG4
 https://archive.org/download/five-minutes-from-the-station_1930/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="extravagance_1930" tvg-name="Extravagance" tvg-logo="https://archive.org/download/extravagance_1930/format=Thumbnail" tvg-language="eng",Extravagance (1930)
 https://archive.org/download/extravagance_1930/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="escape_1930" tvg-logo="https://archive.org/download/escape_1930/format=Thumbnail" tvg-language="eng",Escape!
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="escape_1930" tvg-name="Escape!" tvg-logo="https://archive.org/download/escape_1930/format=Thumbnail" tvg-language="eng",Escape! (1930)
 https://archive.org/download/escape_1930/format=MPEG4
 #EXTINF:-1 group-title="Comedy Films" tvg-id="fiddlesticks_1930" tvg-name="Fiddlesticks" tvg-logo="https://archive.org/download/fiddlesticks_1930/format=Thumbnail" tvg-language="eng",Fiddlesticks (1930)
 https://archive.org/download/fiddlesticks_1930/format=MPEG4
@@ -1075,7 +1077,7 @@ https://archive.org/download/dancing-sweeties_1930/format=MPEG4
 https://archive.org/download/call-of-the-flesh_1930/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="dangerous-paradise_1930" tvg-name="Dangerous Paradise" tvg-logo="https://archive.org/download/dangerous-paradise_1930/format=Thumbnail" tvg-language="eng",Dangerous Paradise (1930)
 https://archive.org/download/dangerous-paradise_1930/format=MPEG4
-#EXTINF:-1 group-title="Comedy Films" tvg-id="dames-ahoy_1930" tvg-logo="https://archive.org/download/dames-ahoy_1930/format=Thumbnail" tvg-language="eng",Dames Ahoy
+#EXTINF:-1 group-title="Comedy Films" tvg-id="dames-ahoy_1930" tvg-name="Dames Ahoy" tvg-logo="https://archive.org/download/dames-ahoy_1930/format=Thumbnail" tvg-language="eng",Dames Ahoy (1930)
 https://archive.org/download/dames-ahoy_1930/format=MPEG4
 #EXTINF:-1 group-title="Comedy Films" tvg-id="chasing-rainbows_1930" tvg-logo="https://archive.org/download/chasing-rainbows_1930/format=Thumbnail" tvg-language="eng",Chasing Rainbows
 https://archive.org/download/chasing-rainbows_1930/format=MPEG4
@@ -1153,7 +1155,7 @@ https://archive.org/download/angels.one.five.1952/format=MPEG4
 https://archive.org/download/the.unholy.night.1929/format=MPEG4
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="the.-pearl.-of.-death.-1944" tvg-name="The Pearl of Death (1944)" tvg-logo="https://archive.org/download/the.-pearl.-of.-death.-1944/format=Thumbnail" tvg-language="eng",The Pearl of Death (1944)
 https://archive.org/download/the.-pearl.-of.-death.-1944/format=MPEG4
-#EXTINF:-1 group-title="Film Noir" tvg-id="the.fallen.idol.1948" tvg-logo="https://archive.org/download/the.fallen.idol.1948/format=Thumbnail" tvg-language="eng",The Fallen Idol (1948)
+#EXTINF:-1 group-title="Film Noir" tvg-id="the.fallen.idol.1948" tvg-name="The Fallen Idol (1948)" tvg-logo="https://archive.org/download/the.fallen.idol.1948/format=Thumbnail" tvg-language="eng",The Fallen Idol (1948)
 https://archive.org/download/the.fallen.idol.1948/format=MPEG4
 #EXTINF:-1 group-title="Film Noir" tvg-id="the.thirteenth.hour.1947" tvg-name="The Thirteenth Hour (1947)" tvg-logo="https://archive.org/download/the.thirteenth.hour.1947/format=Thumbnail" tvg-language="eng",The Thirteenth Hour (1947)
 https://archive.org/download/the.thirteenth.hour.1947/format=MPEG4
@@ -1169,7 +1171,7 @@ https://archive.org/download/love-after-death-unsatisfied-love-1968/format=MPEG4
 https://archive.org/download/to.build.a.fire.1969/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the.clairvoyant.1935" tvg-logo="https://archive.org/download/the.clairvoyant.1935/format=Thumbnail" tvg-language="eng",The Clairvoyant (1935)
 https://archive.org/download/the.clairvoyant.1935/format=MPEG4
-#EXTINF:-1 group-title="SciFi Horror" tvg-id="the.amazing.colossal.man.1967" tvg-name="The Amazing Colossal Man (1967)" tvg-logo="https://archive.org/download/the.amazing.colossal.man.1967/format=Thumbnail" tvg-language="eng",The Amazing Colossal Man (1967)
+#EXTINF:-1 group-title="SciFi Horror" tvg-id="the.amazing.colossal.man.1967" tvg-logo="https://archive.org/download/the.amazing.colossal.man.1967/format=Thumbnail" tvg-language="eng",The Amazing Colossal Man (1967)
 https://archive.org/download/the.amazing.colossal.man.1967/format=MPEG4
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="famous.ghost.stories.1961" tvg-logo="https://archive.org/download/famous.ghost.stories.1961/format=Thumbnail" tvg-language="eng",Famous Ghost Stories (1961)
 https://archive.org/download/famous.ghost.stories.1961/format=MPEG4
@@ -1181,7 +1183,7 @@ https://archive.org/download/the.big.house.1930/format=MPEG4
 https://archive.org/download/the.-space.-children.-1958/format=MPEG4
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="dr..-cyclops.-1940" tvg-logo="https://archive.org/download/dr..-cyclops.-1940/format=Thumbnail" tvg-language="eng",Dr. Cyclops (1940)
 https://archive.org/download/dr..-cyclops.-1940/format=MPEG4
-#EXTINF:-1 group-title="SciFi Horror" tvg-id="the.-strange.-door.-1951" tvg-logo="https://archive.org/download/the.-strange.-door.-1951/format=Thumbnail" tvg-language="eng",The Strange Door (1951)
+#EXTINF:-1 group-title="SciFi Horror" tvg-id="the.-strange.-door.-1951" tvg-name="The Strange Door (1951)" tvg-logo="https://archive.org/download/the.-strange.-door.-1951/format=Thumbnail" tvg-language="eng",The Strange Door (1951)
 https://archive.org/download/the.-strange.-door.-1951/format=MPEG4
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="the.-hideous.-sun.-demon.-1958" tvg-logo="https://archive.org/download/the.-hideous.-sun.-demon.-1958/format=Thumbnail" tvg-language="eng",The Hideous Sun Demon (1958)
 https://archive.org/download/the.-hideous.-sun.-demon.-1958/format=MPEG4
@@ -1225,7 +1227,7 @@ https://archive.org/download/kung-fu-conspiracy-the-big-risk-mantis-fist-tiger-c
 https://archive.org/download/the.-gorgon.-1964/format=MPEG4
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="the.-black.-castle.-1952" tvg-logo="https://archive.org/download/the.-black.-castle.-1952/format=Thumbnail" tvg-language="eng",The Black Castle (1952)
 https://archive.org/download/the.-black.-castle.-1952/format=MPEG4
-#EXTINF:-1 group-title="SciFi Horror" tvg-id="tales.-from.-the.-crypt.-1972" tvg-name="Tales from the Crypt (1972)" tvg-logo="https://archive.org/download/tales.-from.-the.-crypt.-1972/format=Thumbnail" tvg-language="eng",Tales from the Crypt (1972)
+#EXTINF:-1 group-title="SciFi Horror" tvg-id="tales.-from.-the.-crypt.-1972" tvg-logo="https://archive.org/download/tales.-from.-the.-crypt.-1972/format=Thumbnail" tvg-language="eng",Tales from the Crypt (1972)
 https://archive.org/download/tales.-from.-the.-crypt.-1972/format=h.264
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="phantom.-from.-space.-1953" tvg-name="Phantom from Space (1953)" tvg-logo="https://archive.org/download/phantom.-from.-space.-1953/format=Thumbnail" tvg-language="eng",Phantom from Space (1953)
 https://archive.org/download/phantom.-from.-space.-1953/format=MPEG4
@@ -1237,7 +1239,7 @@ https://archive.org/download/svtplay-jQ7AEoN/format=h.264
 https://archive.org/download/suspicion.-2012.-dvdrip.-xvid/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="breach-dvdscr" tvg-name="Breach Dvdscr" tvg-logo="https://archive.org/download/breach-dvdscr/format=Thumbnail" tvg-language="eng",Breach Dvdscr (2007)
 https://archive.org/download/breach-dvdscr/format=h.264
-#EXTINF:-1 group-title="SciFi Horror" tvg-id="desert-of-blood-dvdrip" tvg-name="Desert Of Blood Dvdrip" tvg-logo="https://archive.org/download/desert-of-blood-dvdrip/format=Thumbnail" tvg-language="eng",Desert Of Blood Dvdrip (2008)
+#EXTINF:-1 group-title="SciFi Horror" tvg-id="desert-of-blood-dvdrip" tvg-logo="https://archive.org/download/desert-of-blood-dvdrip/format=Thumbnail" tvg-language="eng",Desert Of Blood Dvdrip
 https://archive.org/download/desert-of-blood-dvdrip/format=h.264
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="one-point-o-dvdrip" tvg-logo="https://archive.org/download/one-point-o-dvdrip/format=Thumbnail" tvg-language="eng",One Point O Dvdrip
 https://archive.org/download/one-point-o-dvdrip/format=h.264
@@ -1253,7 +1255,7 @@ https://archive.org/download/green-eyed-monster-2007-dvdrip-xvid/format=h.264
 https://archive.org/download/only-the-brave-2006-dvdrip-xvid/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-art-of-travel-2008-dvdrip" tvg-name="The Art Of Travel 2008 Dvdrip" tvg-logo="https://archive.org/download/the-art-of-travel-2008-dvdrip/format=Thumbnail" tvg-language="eng",The Art Of Travel 2008 Dvdrip
 https://archive.org/download/the-art-of-travel-2008-dvdrip/format=h.264
-#EXTINF:-1 group-title="SciFi Horror" tvg-id="fading-of-cries-dvdrip" tvg-logo="https://archive.org/download/fading-of-cries-dvdrip/format=Thumbnail" tvg-language="eng",Fading Of Cries Dvdrip
+#EXTINF:-1 group-title="SciFi Horror" tvg-id="fading-of-cries-dvdrip" tvg-name="Fading Of Cries Dvdrip" tvg-logo="https://archive.org/download/fading-of-cries-dvdrip/format=Thumbnail" tvg-language="eng",Fading Of Cries Dvdrip (2008)
 https://archive.org/download/fading-of-cries-dvdrip/format=h.264
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="the-man-who-turned-to-stone.-1957" tvg-name="The Man Who Turned to Stone (1957)" tvg-logo="https://archive.org/download/the-man-who-turned-to-stone.-1957/format=Thumbnail" tvg-language="eng",The Man Who Turned to Stone (1957)
 https://archive.org/download/the-man-who-turned-to-stone.-1957/format=MPEG4
@@ -1287,7 +1289,7 @@ https://archive.org/download/indestructible.-man.-1956/format=MPEG4
 https://archive.org/download/battle.-beyond.the.-sun.-1962/format=MPEG4
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="road.-kill.-2010.-dvdrip.-xvi-d" tvg-name="Road. Train. 2010. DVDRip. Xvi D" tvg-logo="https://archive.org/download/road.-kill.-2010.-dvdrip.-xvi-d/format=Thumbnail" tvg-language="eng",Road. Train. 2010. DVDRip. Xvi D
 https://archive.org/download/road.-kill.-2010.-dvdrip.-xvi-d/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="svtplay-jXbPN9M" tvg-logo="https://archive.org/download/svtplay-jXbPN9M/format=Thumbnail" tvg-language="eng",Farväl miss Bishop (1941)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="svtplay-jXbPN9M" tvg-name="Farväl miss Bishop (1941)" tvg-logo="https://archive.org/download/svtplay-jXbPN9M/format=Thumbnail" tvg-language="eng",Farväl miss Bishop (1941)
 https://archive.org/download/svtplay-jXbPN9M/format=h.264
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="knife-edge-2010-dvdrip" tvg-logo="https://archive.org/download/knife-edge-2010-dvdrip/format=Thumbnail" tvg-language="eng",Knife Edge 2010 Dvdrip
 https://archive.org/download/knife-edge-2010-dvdrip/format=h.264
@@ -1301,7 +1303,7 @@ https://archive.org/download/night.of.-the-templar.-2012.-dvdrip.-xvi-d/format=h
 https://archive.org/download/dolans-cadillac-2009-dvdrip-xvid/format=h.264
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="camel-spiders-2011-hdrip" tvg-name="Camel Spiders 2011 Hdrip" tvg-logo="https://archive.org/download/camel-spiders-2011-hdrip/format=Thumbnail" tvg-language="eng",Camel Spiders 2011 Hdrip
 https://archive.org/download/camel-spiders-2011-hdrip/format=h.264
-#EXTINF:-1 group-title="SciFi Horror" tvg-id="arachnoquake.-2012.-hdtvrip.-xvi-d" tvg-logo="https://archive.org/download/arachnoquake.-2012.-hdtvrip.-xvi-d/format=Thumbnail" tvg-language="eng",Arachnoquake. 2012. HDTVRip. Xvi D
+#EXTINF:-1 group-title="SciFi Horror" tvg-id="arachnoquake.-2012.-hdtvrip.-xvi-d" tvg-name="Arachnoquake. 2012. HDTVRip. Xvi D" tvg-logo="https://archive.org/download/arachnoquake.-2012.-hdtvrip.-xvi-d/format=Thumbnail" tvg-language="eng",Arachnoquake. 2012. HDTVRip. Xvi D
 https://archive.org/download/arachnoquake.-2012.-hdtvrip.-xvi-d/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-invincible-ironman" tvg-logo="https://archive.org/download/the-invincible-ironman/format=Thumbnail" tvg-language="eng",The Invincible Ironman
 https://archive.org/download/the-invincible-ironman/format=h.264
@@ -1367,7 +1369,7 @@ https://archive.org/download/consequences-dvdrip/format=h.264
 https://archive.org/download/dragon-day-2013-bdrip-xvid-ma/format=h.264
 #EXTINF:-1 group-title="Comedy Films" tvg-id="some.-guy.-who.-kills.-people.-2011.-dvdrip.-xvi-d" tvg-logo="https://archive.org/download/some.-guy.-who.-kills.-people.-2011.-dvdrip.-xvi-d/format=Thumbnail" tvg-language="eng",Some. Guy. Who. Kills. People. 2011. DVDRip. Xvi D
 https://archive.org/download/some.-guy.-who.-kills.-people.-2011.-dvdrip.-xvi-d/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="three-priests-2008-dvdrip" tvg-logo="https://archive.org/download/three-priests-2008-dvdrip/format=Thumbnail" tvg-language="eng",Three Priests 2008 Dvdrip
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="three-priests-2008-dvdrip" tvg-name="Three Priests 2008 Dvdrip" tvg-logo="https://archive.org/download/three-priests-2008-dvdrip/format=Thumbnail" tvg-language="eng",Three Priests 2008 Dvdrip
 https://archive.org/download/three-priests-2008-dvdrip/format=h.264
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="the.-brain.-that.-wouldnt.-die.-1962" tvg-logo="https://archive.org/download/the.-brain.-that.-wouldnt.-die.-1962/format=Thumbnail" tvg-language="eng",The Brain That Wouldn't Die (1962)
 https://archive.org/download/the.-brain.-that.-wouldnt.-die.-1962/format=MPEG4
@@ -1375,7 +1377,7 @@ https://archive.org/download/the.-brain.-that.-wouldnt.-die.-1962/format=MPEG4
 https://archive.org/download/restraint-2008-dvdrip/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="citizen-gangster-2011-bdrip" tvg-name="Citizen Gangster 2011 Bdrip" tvg-logo="https://archive.org/download/citizen-gangster-2011-bdrip/format=Thumbnail" tvg-language="eng",Citizen Gangster 2011 Bdrip
 https://archive.org/download/citizen-gangster-2011-bdrip/format=h.264
-#EXTINF:-1 group-title="SciFi Horror" tvg-id="the.-uninvited.-1944_202512" tvg-name="The Uninvited (1944)" tvg-logo="https://archive.org/download/the.-uninvited.-1944_202512/format=Thumbnail" tvg-language="eng",The Uninvited (1944)
+#EXTINF:-1 group-title="SciFi Horror" tvg-id="the.-uninvited.-1944_202512" tvg-logo="https://archive.org/download/the.-uninvited.-1944_202512/format=Thumbnail" tvg-language="eng",The Uninvited (1944)
 https://archive.org/download/the.-uninvited.-1944_202512/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="stormbreaker-dvdrip" tvg-logo="https://archive.org/download/stormbreaker-dvdrip/format=Thumbnail" tvg-language="eng",Stormbreaker Dvdrip
 https://archive.org/download/stormbreaker-dvdrip/format=h.264
@@ -1395,7 +1397,7 @@ https://archive.org/download/snow-white-the-sequel-r-rated/format=h.264
 https://archive.org/download/the-jammed-dvdrip/format=h.264
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="the.-abominable.-snowman.-1957" tvg-name="The Abominable Snowman (1957)" tvg-logo="https://archive.org/download/the.-abominable.-snowman.-1957/format=Thumbnail" tvg-language="eng",The Abominable Snowman (1957)
 https://archive.org/download/the.-abominable.-snowman.-1957/format=MPEG4
-#EXTINF:-1 group-title="Film Noir" tvg-id="he.-walked.-by.-night.-1948" tvg-name="He Walked by Night (1948)" tvg-logo="https://archive.org/download/he.-walked.-by.-night.-1948/format=Thumbnail" tvg-language="eng",He Walked by Night (1948)
+#EXTINF:-1 group-title="Film Noir" tvg-id="he.-walked.-by.-night.-1948" tvg-logo="https://archive.org/download/he.-walked.-by.-night.-1948/format=Thumbnail" tvg-language="eng",He Walked by Night (1948)
 https://archive.org/download/he.-walked.-by.-night.-1948/format=MPEG4
 #EXTINF:-1 group-title="Comedy Films" tvg-id="run.man.run.1968" tvg-logo="https://archive.org/download/run.man.run.1968/format=Thumbnail" tvg-language="eng",Run‚ Man‚ Run (1968)
 https://archive.org/download/run.man.run.1968/format=MPEG4
@@ -1455,19 +1457,19 @@ https://archive.org/download/the-guns-of-navarone-1961_202511/format=MPEG4
 https://archive.org/download/the.-professionals.-1966/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-keys-of-the-kingdom-1944_202511" tvg-name="The Keys of the Kingdom (1944)" tvg-logo="https://archive.org/download/the-keys-of-the-kingdom-1944_202511/format=Thumbnail" tvg-language="eng",The Keys of the Kingdom (1944)
 https://archive.org/download/the-keys-of-the-kingdom-1944_202511/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-night-of-the-generals-1967" tvg-name="The Night of the Generals (1967)" tvg-logo="https://archive.org/download/the-night-of-the-generals-1967/format=Thumbnail" tvg-language="eng",The Night of the Generals (1967)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-night-of-the-generals-1967" tvg-logo="https://archive.org/download/the-night-of-the-generals-1967/format=Thumbnail" tvg-language="eng",The Night of the Generals (1967)
 https://archive.org/download/the-night-of-the-generals-1967/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-ox-bow-incident-1943_202511" tvg-name="The Ox Bow Incident (1943)" tvg-logo="https://archive.org/download/the-ox-bow-incident-1943_202511/format=Thumbnail" tvg-language="eng",The Ox Bow Incident (1943)
 https://archive.org/download/the-ox-bow-incident-1943_202511/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-secret-of-nimh-1982_202511" tvg-logo="https://archive.org/download/the-secret-of-nimh-1982_202511/format=Thumbnail" tvg-language="eng",The Secret of NIMH (1982)
 https://archive.org/download/the-secret-of-nimh-1982_202511/format=MPEG4
-#EXTINF:-1 group-title="Comedy Films" tvg-id="uhf.-1989" tvg-logo="https://archive.org/download/uhf.-1989/format=Thumbnail" tvg-language="eng",UHF (1989)
+#EXTINF:-1 group-title="Comedy Films" tvg-id="uhf.-1989" tvg-name="UHF (1989)" tvg-logo="https://archive.org/download/uhf.-1989/format=Thumbnail" tvg-language="eng",UHF (1989)
 https://archive.org/download/uhf.-1989/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="double-feature-the-most-dangerous-game-and-night-of-the-blood-beast-with-vintage-cartoons" tvg-name="Double Feature The Most Dangerous Game And Night Of The Blood Beast With Vintage Cartoons" tvg-logo="https://archive.org/download/double-feature-the-most-dangerous-game-and-night-of-the-blood-beast-with-vintage-cartoons/format=Thumbnail" tvg-language="eng",Double Feature The Most Dangerous Game And Night Of The Blood Beast With Vintage Cartoons (2025)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="double-feature-the-most-dangerous-game-and-night-of-the-blood-beast-with-vintage-cartoons" tvg-logo="https://archive.org/download/double-feature-the-most-dangerous-game-and-night-of-the-blood-beast-with-vintage-cartoons/format=Thumbnail" tvg-language="eng",Double Feature The Most Dangerous Game And Night Of The Blood Beast With Vintage Cartoons
 https://archive.org/download/double-feature-the-most-dangerous-game-and-night-of-the-blood-beast-with-vintage-cartoons/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-poseidon-adventure-1972_202511" tvg-logo="https://archive.org/download/the-poseidon-adventure-1972_202511/format=Thumbnail" tvg-language="eng",The Poseidon Adventure (1972)
 https://archive.org/download/the-poseidon-adventure-1972_202511/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-sand-pebbles-1966" tvg-name="The Sand Pebbles (1966)" tvg-logo="https://archive.org/download/the-sand-pebbles-1966/format=Thumbnail" tvg-language="eng",The Sand Pebbles (1966)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-sand-pebbles-1966" tvg-logo="https://archive.org/download/the-sand-pebbles-1966/format=Thumbnail" tvg-language="eng",The Sand Pebbles (1966)
 https://archive.org/download/the-sand-pebbles-1966/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-scarlet-and-the-black-1983" tvg-logo="https://archive.org/download/the-scarlet-and-the-black-1983/format=Thumbnail" tvg-language="eng",The Scarlet and the Black (1983)
 https://archive.org/download/the-scarlet-and-the-black-1983/format=MPEG4
@@ -1485,7 +1487,7 @@ https://archive.org/download/svtplay-jpz1EWG/format=h.264
 https://archive.org/download/svtplay-KQ7Y4dV/format=h.264
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="demon-hunter-2012-bdrip-xvid" tvg-name="Demon Hunter 2012 Bdrip Xvid" tvg-logo="https://archive.org/download/demon-hunter-2012-bdrip-xvid/format=Thumbnail" tvg-language="eng",Demon Hunter 2012 Bdrip Xvid
 https://archive.org/download/demon-hunter-2012-bdrip-xvid/format=h.264
-#EXTINF:-1 group-title="SciFi Horror" tvg-id="its-alive-2009-dvdrip-xvid" tvg-logo="https://archive.org/download/its-alive-2009-dvdrip-xvid/format=Thumbnail" tvg-language="eng",It's Alive 2009 Dvdrip Xvid
+#EXTINF:-1 group-title="SciFi Horror" tvg-id="its-alive-2009-dvdrip-xvid" tvg-name="It's Alive 2009 Dvdrip Xvid" tvg-logo="https://archive.org/download/its-alive-2009-dvdrip-xvid/format=Thumbnail" tvg-language="eng",It's Alive 2009 Dvdrip Xvid
 https://archive.org/download/its-alive-2009-dvdrip-xvid/format=h.264
 #EXTINF:-1 group-title="Comedy Films" tvg-id="sightseers.2012.limited.bdrip.xvid-geckos" tvg-logo="https://archive.org/download/sightseers.2012.limited.bdrip.xvid-geckos/format=Thumbnail" tvg-language="eng",sightseers.2012.limited.bdrip.xvid-geckos
 https://archive.org/download/sightseers.2012.limited.bdrip.xvid-geckos/format=h.264
@@ -1503,7 +1505,7 @@ https://archive.org/download/battle-for-haditha-dvdrip/format=h.264
 https://archive.org/download/the-woman-in-the-window-1944_202511/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-only-good-indian-2009-dvdrip" tvg-logo="https://archive.org/download/the-only-good-indian-2009-dvdrip/format=Thumbnail" tvg-language="eng",The Only Good Indian 2009 Dvdrip
 https://archive.org/download/the-only-good-indian-2009-dvdrip/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-enemy-below-1957_202511" tvg-name="The Enemy Below (1957)" tvg-logo="https://archive.org/download/the-enemy-below-1957_202511/format=Thumbnail" tvg-language="eng",The Enemy Below (1957)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-enemy-below-1957_202511" tvg-logo="https://archive.org/download/the-enemy-below-1957_202511/format=Thumbnail" tvg-language="eng",The Enemy Below (1957)
 https://archive.org/download/the-enemy-below-1957_202511/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="quest-for-zhu.-2011.bdrip.xvid" tvg-logo="https://archive.org/download/quest-for-zhu.-2011.bdrip.xvid/format=Thumbnail" tvg-language="eng",Quest For Zhu. 2011.bdrip.xvid
 https://archive.org/download/quest-for-zhu.-2011.bdrip.xvid/format=h.264
@@ -1525,11 +1527,11 @@ https://archive.org/download/the.watermen.2011.dvdrip.xvid/format=h.264
 https://archive.org/download/and.baby.will.fall.2011.hdtv.xvid/format=h.264
 #EXTINF:-1 group-title="Comedy Films" tvg-id="be-kind-rewind-2008-dvdrip" tvg-logo="https://archive.org/download/be-kind-rewind-2008-dvdrip/format=Thumbnail" tvg-language="eng",Be Kind Rewind 2008 Dvdrip
 https://archive.org/download/be-kind-rewind-2008-dvdrip/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="echelon-conspiricy-aka-the-gift-2009-dvdrip" tvg-name="Echelon Conspiricy 2009 Dvdrip" tvg-logo="https://archive.org/download/echelon-conspiricy-aka-the-gift-2009-dvdrip/format=Thumbnail" tvg-language="eng",Echelon Conspiricy 2009 Dvdrip
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="echelon-conspiricy-aka-the-gift-2009-dvdrip" tvg-logo="https://archive.org/download/echelon-conspiricy-aka-the-gift-2009-dvdrip/format=Thumbnail" tvg-language="eng",Echelon Conspiricy 2009 Dvdrip
 https://archive.org/download/echelon-conspiricy-aka-the-gift-2009-dvdrip/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="welcome.-to.-the.-rileys.-2010.-bdrip.-xvi-d" tvg-name="Welcome. To. The. Rileys. 2010. BDrip. XVi D" tvg-logo="https://archive.org/download/welcome.-to.-the.-rileys.-2010.-bdrip.-xvi-d/format=Thumbnail" tvg-language="eng",Welcome. To. The. Rileys. 2010. BDrip. XVi D
 https://archive.org/download/welcome.-to.-the.-rileys.-2010.-bdrip.-xvi-d/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="in.the.heat.of.the.night.1967" tvg-name="In the Heat of the Night (1967)" tvg-logo="https://archive.org/download/in.the.heat.of.the.night.1967/format=Thumbnail" tvg-language="eng",In the Heat of the Night (1967)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="in.the.heat.of.the.night.1967" tvg-logo="https://archive.org/download/in.the.heat.of.the.night.1967/format=Thumbnail" tvg-language="eng",In the Heat of the Night (1967)
 https://archive.org/download/in.the.heat.of.the.night.1967/format=MPEG4
 #EXTINF:-1 group-title="Comedy Films" tvg-id="throw.momma.from.the.train.1987" tvg-logo="https://archive.org/download/throw.momma.from.the.train.1987/format=Thumbnail" tvg-language="eng",Throw Mamma From The Train (1987)
 https://archive.org/download/throw.momma.from.the.train.1987/format=MPEG4
@@ -1585,7 +1587,7 @@ https://archive.org/download/without-light-2008-dvdrip/format=h.264
 https://archive.org/download/13.-hours.-2010.-dvdrip.-xvi-d-bull/format=h.264
 #EXTINF:-1 group-title="Comedy Films" tvg-id="black.pond-2011-dvdrip" tvg-name="Black.pond 2011 Dvdrip" tvg-logo="https://archive.org/download/black.pond-2011-dvdrip/format=Thumbnail" tvg-language="eng",Black.pond 2011 Dvdrip
 https://archive.org/download/black.pond-2011-dvdrip/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="defcon-2012-dvdrip-xvid" tvg-name="Defcon 2012 Dvdrip Xvid" tvg-logo="https://archive.org/download/defcon-2012-dvdrip-xvid/format=Thumbnail" tvg-language="eng",Defcon 2012 Dvdrip Xvid (2011)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="defcon-2012-dvdrip-xvid" tvg-logo="https://archive.org/download/defcon-2012-dvdrip-xvid/format=Thumbnail" tvg-language="eng",Defcon 2012 Dvdrip Xvid
 https://archive.org/download/defcon-2012-dvdrip-xvid/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="already-dead-2007-dvdrip" tvg-name="Already Dead 2007 Dvdrip" tvg-logo="https://archive.org/download/already-dead-2007-dvdrip/format=Thumbnail" tvg-language="eng",Already Dead 2007 Dvdrip
 https://archive.org/download/already-dead-2007-dvdrip/format=h.264
@@ -1677,7 +1679,7 @@ https://archive.org/download/ride-lonesome-1959/format=MPEG4
 https://archive.org/download/murder-on-the-orient-express-1974/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="midnight-express-1978_202511" tvg-logo="https://archive.org/download/midnight-express-1978_202511/format=Thumbnail" tvg-language="eng",Midnight Express (1978)
 https://archive.org/download/midnight-express-1978_202511/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="march-or-die-1977" tvg-name="March or Die (1977)" tvg-logo="https://archive.org/download/march-or-die-1977/format=Thumbnail" tvg-language="eng",March or Die (1977)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="march-or-die-1977" tvg-logo="https://archive.org/download/march-or-die-1977/format=Thumbnail" tvg-language="eng",March or Die (1977)
 https://archive.org/download/march-or-die-1977/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="genocide-1982" tvg-name="Genocide (1982)" tvg-logo="https://archive.org/download/genocide-1982/format=Thumbnail" tvg-language="eng",Genocide (1982)
 https://archive.org/download/genocide-1982/format=MPEG4
@@ -1689,7 +1691,7 @@ https://archive.org/download/blue-ruin-2013/format=MPEG4
 https://archive.org/download/breaker-morant-.-1980/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="cleopatra-1963_202511" tvg-logo="https://archive.org/download/cleopatra-1963_202511/format=Thumbnail" tvg-language="eng",Cleopatra (1963)
 https://archive.org/download/cleopatra-1963_202511/format=MPEG4
-#EXTINF:-1 group-title="Film scifi" tvg-id="20-000-leagues-under-the-sea-1954_20251111" tvg-name="20‚ 000 Leagues Under the Sea (1954)" tvg-logo="https://archive.org/download/20-000-leagues-under-the-sea-1954_20251111/format=Thumbnail" tvg-language="eng",20‚ 000 Leagues Under the Sea (1954)
+#EXTINF:-1 group-title="Film scifi" tvg-id="20-000-leagues-under-the-sea-1954_20251111" tvg-logo="https://archive.org/download/20-000-leagues-under-the-sea-1954_20251111/format=Thumbnail" tvg-language="eng",20‚ 000 Leagues Under the Sea (1954)
 https://archive.org/download/20-000-leagues-under-the-sea-1954_20251111/format=MPEG4
 #EXTINF:-1 group-title="Film scifi" tvg-id="journey.to.the.-center.of.the.-earth.-1959" tvg-logo="https://archive.org/download/journey.to.the.-center.of.the.-earth.-1959/format=Thumbnail" tvg-language="eng",Journey to the Center of the Earth (1959)
 https://archive.org/download/journey.to.the.-center.of.the.-earth.-1959/format=MPEG4
@@ -1715,7 +1717,7 @@ https://archive.org/download/the-fall-of-the-roman-empire-1964_202511/format=MPE
 https://archive.org/download/the-gun-and-the-pulpit-1974/format=MPEG4
 #EXTINF:-1 group-title="Film Noir" tvg-id="the-third-man-1949_202511" tvg-logo="https://archive.org/download/the-third-man-1949_202511/format=Thumbnail" tvg-language="eng",The Third Man (1949)
 https://archive.org/download/the-third-man-1949_202511/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-tenth-man-1988" tvg-logo="https://archive.org/download/the-tenth-man-1988/format=Thumbnail" tvg-language="eng",The Tenth Man (1988)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-tenth-man-1988" tvg-name="The Tenth Man (1988)" tvg-logo="https://archive.org/download/the-tenth-man-1988/format=Thumbnail" tvg-language="eng",The Tenth Man (1988)
 https://archive.org/download/the-tenth-man-1988/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-violent-men-1955" tvg-name="The Violent Men (1955)" tvg-logo="https://archive.org/download/the-violent-men-1955/format=Thumbnail" tvg-language="eng",The Violent Men (1955)
 https://archive.org/download/the-violent-men-1955/format=MPEG4
@@ -1739,7 +1741,7 @@ https://archive.org/download/queenie-in-love-2001/format=MPEG4
 https://archive.org/download/house.of.-usher-1960/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="1984-1984_202511" tvg-logo="https://archive.org/download/1984-1984_202511/format=Thumbnail" tvg-language="eng",1984 (1984)
 https://archive.org/download/1984-1984_202511/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="nature-girl-and-the-slaver-1957" tvg-name="Nature Girl And The Slaver 1957" tvg-logo="https://archive.org/download/nature-girl-and-the-slaver-1957/format=Thumbnail" tvg-language="eng",Nature Girl And The Slaver 1957
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="nature-girl-and-the-slaver-1957" tvg-logo="https://archive.org/download/nature-girl-and-the-slaver-1957/format=Thumbnail" tvg-language="eng",Nature Girl And The Slaver 1957
 https://archive.org/download/nature-girl-and-the-slaver-1957/format=h.264
 #EXTINF:-1 group-title="Comedy Films" tvg-id="and.-then.-there.-were.-none.-1945" tvg-logo="https://archive.org/download/and.-then.-there.-were.-none.-1945/format=Thumbnail" tvg-language="eng",And Then There Were None (1945)
 https://archive.org/download/and.-then.-there.-were.-none.-1945/format=MPEG4
@@ -1767,7 +1769,7 @@ https://archive.org/download/unacknowledged.-2017.308p/format=MPEG4
 https://archive.org/download/island.-of.-lost.-souls.-1932/format=MPEG4
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="the.-fly.-1958" tvg-logo="https://archive.org/download/the.-fly.-1958/format=Thumbnail" tvg-language="eng",The Fly (1958)
 https://archive.org/download/the.-fly.-1958/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="all.-quiet.-on.-the.-western.-front.-1979" tvg-logo="https://archive.org/download/all.-quiet.-on.-the.-western.-front.-1979/format=Thumbnail" tvg-language="eng",All Quiet on the Western Front (1979)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="all.-quiet.-on.-the.-western.-front.-1979" tvg-name="All Quiet on the Western Front (1979)" tvg-logo="https://archive.org/download/all.-quiet.-on.-the.-western.-front.-1979/format=Thumbnail" tvg-language="eng",All Quiet on the Western Front (1979)
 https://archive.org/download/all.-quiet.-on.-the.-western.-front.-1979/format=MPEG4
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="double.-door.-1934" tvg-logo="https://archive.org/download/double.-door.-1934/format=Thumbnail" tvg-language="eng",Double Door (1934)
 https://archive.org/download/double.-door.-1934/format=MPEG4
@@ -1803,7 +1805,7 @@ https://archive.org/download/the.-canary.-murder.-case.-1929/format=MPEG4
 https://archive.org/download/noahs.-ark.-1928/format=MPEG4
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="the-last-man-on-earth-1964_20251031" tvg-name="The Last Man on Earth (1964)" tvg-logo="https://archive.org/download/the-last-man-on-earth-1964_20251031/format=Thumbnail" tvg-language="eng",The Last Man on Earth (1964)
 https://archive.org/download/the-last-man-on-earth-1964_20251031/format=MPEG4
-#EXTINF:-1 group-title="SciFi Horror" tvg-id="tower-of-london-1962_202510" tvg-name="Tower of London (1962)" tvg-logo="https://archive.org/download/tower-of-london-1962_202510/format=Thumbnail" tvg-language="eng",Tower of London (1962)
+#EXTINF:-1 group-title="SciFi Horror" tvg-id="tower-of-london-1962_202510" tvg-logo="https://archive.org/download/tower-of-london-1962_202510/format=Thumbnail" tvg-language="eng",Tower of London (1962)
 https://archive.org/download/tower-of-london-1962_202510/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="gow.-the.-head.-hunter.-1928" tvg-name="Gow the Headhunter (1931)" tvg-logo="https://archive.org/download/gow.-the.-head.-hunter.-1928/format=Thumbnail" tvg-language="eng",Gow the Headhunter (1931)
 https://archive.org/download/gow.-the.-head.-hunter.-1928/format=MPEG4
@@ -1823,7 +1825,7 @@ https://archive.org/download/the-tingler-1959_202510/format=MPEG4
 https://archive.org/download/the.-scarlet.-pimpernel.-1934/format=MPEG4
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="diary.-of.-a.-madman.-1963" tvg-logo="https://archive.org/download/diary.-of.-a.-madman.-1963/format=Thumbnail" tvg-language="eng",Diary Of A Madman (1963)
 https://archive.org/download/diary.-of.-a.-madman.-1963/format=MPEG4
-#EXTINF:-1 group-title="Comedy Films" tvg-id="goliathon-mighty-peking-man-xing-xing-wang-1977" tvg-name="Goliathon‚ Mighty Peking Man‚ Xing Xing Wang 1977" tvg-logo="https://archive.org/download/goliathon-mighty-peking-man-xing-xing-wang-1977/format=Thumbnail" tvg-language="eng",Goliathon‚ Mighty Peking Man‚ Xing Xing Wang 1977
+#EXTINF:-1 group-title="Comedy Films" tvg-id="goliathon-mighty-peking-man-xing-xing-wang-1977" tvg-logo="https://archive.org/download/goliathon-mighty-peking-man-xing-xing-wang-1977/format=Thumbnail" tvg-language="eng",Goliathon‚ Mighty Peking Man‚ Xing Xing Wang 1977
 https://archive.org/download/goliathon-mighty-peking-man-xing-xing-wang-1977/format=MPEG4
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="witchfinder-general-1968" tvg-logo="https://archive.org/download/witchfinder-general-1968/format=Thumbnail" tvg-language="eng",Witchfinder General (1968)
 https://archive.org/download/witchfinder-general-1968/format=MPEG4
@@ -1841,7 +1843,7 @@ https://archive.org/download/day-of-anger-1967-fll/format=MPEG4
 https://archive.org/download/black-robe-1991_202510/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="chatos-land-1972_202510" tvg-logo="https://archive.org/download/chatos-land-1972_202510/format=Thumbnail" tvg-language="eng",Chato's Land (1972)
 https://archive.org/download/chatos-land-1972_202510/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="voyage-of-the-damned-1976" tvg-name="Voyage Of The Damned (1976)" tvg-logo="https://archive.org/download/voyage-of-the-damned-1976/format=Thumbnail" tvg-language="eng",Voyage Of The Damned (1976)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="voyage-of-the-damned-1976" tvg-logo="https://archive.org/download/voyage-of-the-damned-1976/format=Thumbnail" tvg-language="eng",Voyage Of The Damned (1976)
 https://archive.org/download/voyage-of-the-damned-1976/format=MPEG4
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="twice-told-tales-1963" tvg-name="Twice Told Tales (1963)" tvg-logo="https://archive.org/download/twice-told-tales-1963/format=Thumbnail" tvg-language="eng",Twice Told Tales (1963)
 https://archive.org/download/twice-told-tales-1963/format=MPEG4
@@ -1851,7 +1853,7 @@ https://archive.org/download/the-bat-1959_202510/format=MPEG4
 https://archive.org/download/the.-erotic.-adventures.-of.-robin.-hood.-1969/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="ultimate.-desire.-1993" tvg-logo="https://archive.org/download/ultimate.-desire.-1993/format=Thumbnail" tvg-language="eng",Ultimate Desire (1993)
 https://archive.org/download/ultimate.-desire.-1993/format=MPEG4
-#EXTINF:-1 group-title="SciFi Horror" tvg-id="the-oblong-box-1969" tvg-logo="https://archive.org/download/the-oblong-box-1969/format=Thumbnail" tvg-language="eng",The Oblong Box (1969)
+#EXTINF:-1 group-title="SciFi Horror" tvg-id="the-oblong-box-1969" tvg-name="The Oblong Box (1969)" tvg-logo="https://archive.org/download/the-oblong-box-1969/format=Thumbnail" tvg-language="eng",The Oblong Box (1969)
 https://archive.org/download/the-oblong-box-1969/format=MPEG4
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="the-mad-magician-1954" tvg-logo="https://archive.org/download/the-mad-magician-1954/format=Thumbnail" tvg-language="eng",The Mad Magician (1954)
 https://archive.org/download/the-mad-magician-1954/format=MPEG4
@@ -1945,7 +1947,7 @@ https://archive.org/download/thoroughly-modern-millie-1967-julie-andrews-and-mar
 https://archive.org/download/direct-contact-2009-dvdrip/format=h.264
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="house-2008-dvdrip" tvg-logo="https://archive.org/download/house-2008-dvdrip/format=Thumbnail" tvg-language="eng",House 2008 Dvdrip
 https://archive.org/download/house-2008-dvdrip/format=h.264
-#EXTINF:-1 group-title="SciFi Horror" tvg-id="razortooth-dvdrip" tvg-name="Razortooth Dvdrip" tvg-logo="https://archive.org/download/razortooth-dvdrip/format=Thumbnail" tvg-language="eng",Razortooth Dvdrip (2007)
+#EXTINF:-1 group-title="SciFi Horror" tvg-id="razortooth-dvdrip" tvg-logo="https://archive.org/download/razortooth-dvdrip/format=Thumbnail" tvg-language="eng",Razortooth Dvdrip
 https://archive.org/download/razortooth-dvdrip/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-lookout-dvdrip" tvg-name="The Lookout Dvdrip" tvg-logo="https://archive.org/download/the-lookout-dvdrip/format=Thumbnail" tvg-language="eng",The Lookout Dvdrip (2007)
 https://archive.org/download/the-lookout-dvdrip/format=h.264
@@ -1999,7 +2001,7 @@ https://archive.org/download/pit-and-the-pendulum-1961_202510/format=MPEG4
 https://archive.org/download/firelight-2012-dvdrip-xvid/format=h.264
 #EXTINF:-1 group-title="Comedy Films" tvg-id="top-cat-2011-dvdrip.xvid-g" tvg-name="Top Cat: The Movie" tvg-logo="https://archive.org/download/top-cat-2011-dvdrip.xvid-g/format=Thumbnail" tvg-language="eng",Top Cat: The Movie (2012)
 https://archive.org/download/top-cat-2011-dvdrip.xvid-g/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="ulzanas-raid-1972_20251016" tvg-name="Ulzanas Raid (1972)" tvg-logo="https://archive.org/download/ulzanas-raid-1972_20251016/format=Thumbnail" tvg-language="eng",Ulzanas Raid (1972)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="ulzanas-raid-1972_20251016" tvg-logo="https://archive.org/download/ulzanas-raid-1972_20251016/format=Thumbnail" tvg-language="eng",Ulzanas Raid (1972)
 https://archive.org/download/ulzanas-raid-1972_20251016/format=MPEG4
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="brotherhood-of-the-wolf" tvg-logo="https://archive.org/download/brotherhood-of-the-wolf/format=Thumbnail" tvg-language="eng",Brotherhood Of The Wolf (2001)
 https://archive.org/download/brotherhood-of-the-wolf/format=MPEG4
@@ -2051,7 +2053,7 @@ https://archive.org/download/answers-to-nothing-2011-dvdscr-xvi-d/format=h.264
 https://archive.org/download/los-tallos-amargos-the-bitter-stems-1956-eng-sub-restored-movie-720p-hd/format=h.264
 #EXTINF:-1 group-title="Film Noir" tvg-id="night-and-the-city-1950-576p-sd" tvg-name="Night and the City (restored‚ with intro and outro) (1950‚ film noir‚ imdb score: 7.8)" tvg-logo="https://archive.org/download/night-and-the-city-1950-576p-sd/format=Thumbnail" tvg-language="eng",Night and the City (restored‚ with intro and outro) (1950)
 https://archive.org/download/night-and-the-city-1950-576p-sd/format=h.264
-#EXTINF:-1 group-title="Film Noir" tvg-id="the-strange-one-1957-restored-movie-720p-hd" tvg-name="The Strange One (restored‚ with intro and outro) (1957‚ film noir‚ imdb score: 6.9)" tvg-logo="https://archive.org/download/the-strange-one-1957-restored-movie-720p-hd/format=Thumbnail" tvg-language="eng",The Strange One (restored‚ with intro and outro) (1957)
+#EXTINF:-1 group-title="Film Noir" tvg-id="the-strange-one-1957-restored-movie-720p-hd" tvg-logo="https://archive.org/download/the-strange-one-1957-restored-movie-720p-hd/format=Thumbnail" tvg-language="eng",The Strange One (restored‚ with intro and outro) (1957)
 https://archive.org/download/the-strange-one-1957-restored-movie-720p-hd/format=h.264
 #EXTINF:-1 group-title="Film Noir" tvg-id="cause-for-alarm-1951-restored-movie-720p-hd_202510" tvg-logo="https://archive.org/download/cause-for-alarm-1951-restored-movie-720p-hd_202510/format=Thumbnail" tvg-language="eng",Cause for Alarm! (restored‚ with intro and outro) (1951)
 https://archive.org/download/cause-for-alarm-1951-restored-movie-720p-hd_202510/format=h.264
@@ -2079,7 +2081,7 @@ https://archive.org/download/death-rattle-crystal-ice-2009-dvdrip/format=h.264
 https://archive.org/download/kansas-city-confidential-1952-restored-movie-720p-hd/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="soldier-of-god.-2005.-dvdrip.-xvi-d" tvg-name="Soldier Of God. 2005. DVDRip. Xvi D" tvg-logo="https://archive.org/download/soldier-of-god.-2005.-dvdrip.-xvi-d/format=Thumbnail" tvg-language="eng",Soldier Of God. 2005. DVDRip. Xvi D
 https://archive.org/download/soldier-of-god.-2005.-dvdrip.-xvi-d/format=h.264
-#EXTINF:-1 group-title="SciFi Horror" tvg-id="i-husk-2010-dvdrip.xvid" tvg-name="Husk 2010 Dvdrip.xvid" tvg-logo="https://archive.org/download/i-husk-2010-dvdrip.xvid/format=Thumbnail" tvg-language="eng",Husk 2010 Dvdrip.xvid (2011)
+#EXTINF:-1 group-title="SciFi Horror" tvg-id="i-husk-2010-dvdrip.xvid" tvg-logo="https://archive.org/download/i-husk-2010-dvdrip.xvid/format=Thumbnail" tvg-language="eng",Husk 2010 Dvdrip.xvid
 https://archive.org/download/i-husk-2010-dvdrip.xvid/format=h.264
 #EXTINF:-1 group-title="Film Noir" tvg-id="cast-a-dark-shadow-1955-restored-movie-720p-hd_202510" tvg-name="Cast a Dark Shadow (restored‚ with intro and outro) (1955‚ crime‚ imdb score: 7)" tvg-logo="https://archive.org/download/cast-a-dark-shadow-1955-restored-movie-720p-hd_202510/format=Thumbnail" tvg-language="eng",Cast a Dark Shadow (restored‚ with intro and outro) (1955)
 https://archive.org/download/cast-a-dark-shadow-1955-restored-movie-720p-hd_202510/format=h.264
@@ -2145,7 +2147,7 @@ https://archive.org/download/prowl-2010-dvdrip/format=h.264
 https://archive.org/download/blitz-2011-bdrip-xvid/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="tuesday-2008-dvdrip" tvg-name="Tuesday 2008 Dvdrip" tvg-logo="https://archive.org/download/tuesday-2008-dvdrip/format=Thumbnail" tvg-language="eng",Tuesday 2008 Dvdrip
 https://archive.org/download/tuesday-2008-dvdrip/format=h.264
-#EXTINF:-1 group-title="SciFi Horror" tvg-id="grace-2009-dvdrip-xvid" tvg-name="Grace 2009 Dvdrip Xvid" tvg-logo="https://archive.org/download/grace-2009-dvdrip-xvid/format=Thumbnail" tvg-language="eng",Grace 2009 Dvdrip Xvid
+#EXTINF:-1 group-title="SciFi Horror" tvg-id="grace-2009-dvdrip-xvid" tvg-logo="https://archive.org/download/grace-2009-dvdrip-xvid/format=Thumbnail" tvg-language="eng",Grace 2009 Dvdrip Xvid
 https://archive.org/download/grace-2009-dvdrip-xvid/format=h.264
 #EXTINF:-1 group-title="Comedy Films" tvg-id="alien.-opponent.-2010.-dvdrip.x-264-mi-ra-ge" tvg-name="Alien. Opponent. 2010. DVDRip.x 264 Mi Ra Ge" tvg-logo="https://archive.org/download/alien.-opponent.-2010.-dvdrip.x-264-mi-ra-ge/format=Thumbnail" tvg-language="eng",Alien. Opponent. 2010. DVDRip.x 264 Mi Ra Ge (2011)
 https://archive.org/download/alien.-opponent.-2010.-dvdrip.x-264-mi-ra-ge/format=MPEG4
@@ -2157,7 +2159,7 @@ https://archive.org/download/the.-forger.-2014-web.-720p-x-264.-aac-infinity/for
 https://archive.org/download/ice-road-terror-2011/format=h.264
 #EXTINF:-1 group-title="Film Noir" tvg-id="nigtmare-alley-1947-restored-movie-720p-hd" tvg-logo="https://archive.org/download/nigtmare-alley-1947-restored-movie-720p-hd/format=Thumbnail" tvg-language="eng",Nightmare Alley (restored‚ with ontro and outro) (1947)
 https://archive.org/download/nigtmare-alley-1947-restored-movie-720p-hd/format=h.264
-#EXTINF:-1 group-title="Film Noir" tvg-id="scandal-sheet-1952-restored-movie-720p-hd" tvg-name="Scandal Sheet (restored‚ with intro and outro) (1952‚ film noir‚ imdb score: 7.4)" tvg-logo="https://archive.org/download/scandal-sheet-1952-restored-movie-720p-hd/format=Thumbnail" tvg-language="eng",Scandal Sheet (restored‚ with intro and outro) (1952)
+#EXTINF:-1 group-title="Film Noir" tvg-id="scandal-sheet-1952-restored-movie-720p-hd" tvg-logo="https://archive.org/download/scandal-sheet-1952-restored-movie-720p-hd/format=Thumbnail" tvg-language="eng",Scandal Sheet (restored‚ with intro and outro) (1952)
 https://archive.org/download/scandal-sheet-1952-restored-movie-720p-hd/format=h.264
 #EXTINF:-1 group-title="Film Noir" tvg-id="try-and-get-me-1950-restored-movie-720p-hd" tvg-name="The Sound of Fury - Try and Get Me! (restored‚ with intro and outro) (1950‚ film noir‚ imdb score: 7.2)" tvg-logo="https://archive.org/download/try-and-get-me-1950-restored-movie-720p-hd/format=Thumbnail" tvg-language="eng",The Sound of Fury - Try and Get Me! (restored‚ with intro and outro) (1950)
 https://archive.org/download/try-and-get-me-1950-restored-movie-720p-hd/format=h.264
@@ -2165,7 +2167,7 @@ https://archive.org/download/try-and-get-me-1950-restored-movie-720p-hd/format=h
 https://archive.org/download/odds-against-tomorrow-1959-restored-movie-720p-hd/format=h.264
 #EXTINF:-1 group-title="Film Noir" tvg-id="my-name-is-julia-ross-1945-restored-movie-720p-hd" tvg-name="My Name Is Julia Ross (restored‚ with intro and outro) (1945‚ film noir‚ imdb score: 7)" tvg-logo="https://archive.org/download/my-name-is-julia-ross-1945-restored-movie-720p-hd/format=Thumbnail" tvg-language="eng",My Name Is Julia Ross (restored‚ with intro and outro) (1945)
 https://archive.org/download/my-name-is-julia-ross-1945-restored-movie-720p-hd/format=h.264
-#EXTINF:-1 group-title="SciFi Horror" tvg-id="breadcrumbs-2011-dvd-rip" tvg-name="Breadcrumbs 2011 Dvd Rip" tvg-logo="https://archive.org/download/breadcrumbs-2011-dvd-rip/format=Thumbnail" tvg-language="eng",Breadcrumbs 2011 Dvd Rip
+#EXTINF:-1 group-title="SciFi Horror" tvg-id="breadcrumbs-2011-dvd-rip" tvg-logo="https://archive.org/download/breadcrumbs-2011-dvd-rip/format=Thumbnail" tvg-language="eng",Breadcrumbs 2011 Dvd Rip
 https://archive.org/download/breadcrumbs-2011-dvd-rip/format=h.264
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="from-within-2008-dvdrip-xvid" tvg-name="From Within 2008 Dvdrip Xvid" tvg-logo="https://archive.org/download/from-within-2008-dvdrip-xvid/format=Thumbnail" tvg-language="eng",From Within 2008 Dvdrip Xvid
 https://archive.org/download/from-within-2008-dvdrip-xvid/format=h.264
@@ -2201,7 +2203,7 @@ https://archive.org/download/thieves-highway-1949-restored-movie-720p-hd/format=
 https://archive.org/download/the-five-2010-dvdrip-xvid-pg/format=h.264
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="barricade-2012-dvdrip" tvg-name="Barricade" tvg-logo="https://archive.org/download/barricade-2012-dvdrip/format=Thumbnail" tvg-language="eng",Barricade (2012)
 https://archive.org/download/barricade-2012-dvdrip/format=h.264
-#EXTINF:-1 group-title="Film Noir" tvg-id="brute-force-1947-restored-movie-720p-hd" tvg-name="Brute Force (restored‚ with intro and outro) (1947‚ film noir‚ imdb score: 7.5)" tvg-logo="https://archive.org/download/brute-force-1947-restored-movie-720p-hd/format=Thumbnail" tvg-language="eng",Brute Force (restored‚ with intro and outro) (1947)
+#EXTINF:-1 group-title="Film Noir" tvg-id="brute-force-1947-restored-movie-720p-hd" tvg-logo="https://archive.org/download/brute-force-1947-restored-movie-720p-hd/format=Thumbnail" tvg-language="eng",Brute Force (restored‚ with intro and outro) (1947)
 https://archive.org/download/brute-force-1947-restored-movie-720p-hd/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="ashes-2012-dvdrip-r" tvg-name="Ashes (2012)" tvg-logo="https://archive.org/download/ashes-2012-dvdrip-r/format=Thumbnail" tvg-language="eng",Ashes (2012)
 https://archive.org/download/ashes-2012-dvdrip-r/format=h.264
@@ -2277,7 +2279,7 @@ https://archive.org/download/the.-last.-rites.-of.-the.-ransom.-pride.-2010.-dvd
 https://archive.org/download/baseline.-2010.bdrip.xvid/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="shotgun-stories-2007-dvdrip" tvg-name="Shotgun Stories" tvg-logo="https://archive.org/download/shotgun-stories-2007-dvdrip/format=Thumbnail" tvg-language="eng",Shotgun Stories (2007)
 https://archive.org/download/shotgun-stories-2007-dvdrip/format=h.264
-#EXTINF:-1 group-title="SciFi Horror" tvg-id="close-your-eyes-xvid" tvg-name="Close Your Eyes Xvi" tvg-logo="https://archive.org/download/close-your-eyes-xvid/format=Thumbnail" tvg-language="eng",Close Your Eyes Xvi (2002)
+#EXTINF:-1 group-title="SciFi Horror" tvg-id="close-your-eyes-xvid" tvg-logo="https://archive.org/download/close-your-eyes-xvid/format=Thumbnail" tvg-language="eng",Close Your Eyes Xvi
 https://archive.org/download/close-your-eyes-xvid/format=h.264
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="possession-of-david-o-reilly-2010-dvdrip" tvg-name="The Possession Of David O' Reilly" tvg-logo="https://archive.org/download/possession-of-david-o-reilly-2010-dvdrip/format=Thumbnail" tvg-language="eng",The Possession Of David O' Reilly (2010)
 https://archive.org/download/possession-of-david-o-reilly-2010-dvdrip/format=h.264
@@ -2303,7 +2305,7 @@ https://archive.org/download/age-of-the-dragons-2011/format=h.264
 https://archive.org/download/the-christmas-bunny-2011-dvdrip-pg/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="bad-guys-2008-dvdrip.xvid" tvg-logo="https://archive.org/download/bad-guys-2008-dvdrip.xvid/format=Thumbnail" tvg-language="eng",Bad Guys (2008)
 https://archive.org/download/bad-guys-2008-dvdrip.xvid/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="displaced-dvdrip" tvg-logo="https://archive.org/download/displaced-dvdrip/format=Thumbnail" tvg-language="eng",Displaced
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="displaced-dvdrip" tvg-name="Displaced" tvg-logo="https://archive.org/download/displaced-dvdrip/format=Thumbnail" tvg-language="eng",Displaced (2006)
 https://archive.org/download/displaced-dvdrip/format=h.264
 #EXTINF:-1 group-title="Comedy Films" tvg-id="king-of-calafornia-dvdrip" tvg-name="King Of California" tvg-logo="https://archive.org/download/king-of-calafornia-dvdrip/format=Thumbnail" tvg-language="eng",King Of California (2007)
 https://archive.org/download/king-of-calafornia-dvdrip/format=h.264
@@ -2357,13 +2359,13 @@ https://archive.org/download/svtplay-jqWzoqJ/format=h.264
 https://archive.org/download/pickup-on-south-street-1953-restored-movie-720p-hd/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="green-guys-2011-dvdrip-xvid" tvg-name="Green Guys 2011 DVDRIP Xvid" tvg-logo="https://archive.org/download/green-guys-2011-dvdrip-xvid/format=Thumbnail" tvg-language="eng",Green Guys 2011 DVDRIP Xvid
 https://archive.org/download/green-guys-2011-dvdrip-xvid/format=h.264
-#EXTINF:-1 group-title="SciFi Horror" tvg-id="the-dark-hours" tvg-logo="https://archive.org/download/the-dark-hours/format=Thumbnail" tvg-language="eng",The Dark Hours
+#EXTINF:-1 group-title="SciFi Horror" tvg-id="the-dark-hours" tvg-name="The Dark Hours" tvg-logo="https://archive.org/download/the-dark-hours/format=Thumbnail" tvg-language="eng",The Dark Hours (2005)
 https://archive.org/download/the-dark-hours/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="civic-duty-dvdrip" tvg-name="Civic Duty" tvg-logo="https://archive.org/download/civic-duty-dvdrip/format=Thumbnail" tvg-language="eng",Civic Duty (2006)
 https://archive.org/download/civic-duty-dvdrip/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="sonic-the-hedgehog-the-movie-1996-99" tvg-name="Sonic the Hedgehog: The Movie (1996)" tvg-logo="https://archive.org/download/sonic-the-hedgehog-the-movie-1996-99/format=Thumbnail" tvg-language="eng",Sonic the Hedgehog: The Movie (1996)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="sonic-the-hedgehog-the-movie-1996-99" tvg-logo="https://archive.org/download/sonic-the-hedgehog-the-movie-1996-99/format=Thumbnail" tvg-language="eng",Sonic the Hedgehog: The Movie (1996)
 https://archive.org/download/sonic-the-hedgehog-the-movie-1996-99/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="mysteria-2011-dvdrip" tvg-logo="https://archive.org/download/mysteria-2011-dvdrip/format=Thumbnail" tvg-language="eng",Mysteria
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="mysteria-2011-dvdrip" tvg-name="Mysteria" tvg-logo="https://archive.org/download/mysteria-2011-dvdrip/format=Thumbnail" tvg-language="eng",Mysteria (2011)
 https://archive.org/download/mysteria-2011-dvdrip/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="dorian-grey-2009-dvdrip" tvg-logo="https://archive.org/download/dorian-grey-2009-dvdrip/format=Thumbnail" tvg-language="eng",Dorian Gray
 https://archive.org/download/dorian-grey-2009-dvdrip/format=h.264
@@ -2411,7 +2413,7 @@ https://archive.org/download/the-killing-room-2009-dvdrip-xvid/format=h.264
 https://archive.org/download/walk-a-crooked-mile-1948-colorized-movie-576p-sd/format=h.264
 #EXTINF:-1 group-title="Film Noir" tvg-id="shield-for-murder-1954-colorized-movie-576p-sd" tvg-name="Shield for Murder (restored‚ colorized) (1954‚ film noir‚ imdb score: 6.8)" tvg-logo="https://archive.org/download/shield-for-murder-1954-colorized-movie-576p-sd/format=Thumbnail" tvg-language="eng",Shield for Murder (restored‚ colorized) (1954)
 https://archive.org/download/shield-for-murder-1954-colorized-movie-576p-sd/format=h.264
-#EXTINF:-1 group-title="Colorized-movies" tvg-id="the-fast-and-the-furious-1954-colorized-movie-576p-sd_202509" tvg-name="The Fast and the Furious (colorized) (1954‚ crime‚ imdb score: 5.3)" tvg-logo="https://archive.org/download/the-fast-and-the-furious-1954-colorized-movie-576p-sd_202509/format=Thumbnail" tvg-language="eng",The Fast and the Furious (colorized) (1954)
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="the-fast-and-the-furious-1954-colorized-movie-576p-sd_202509" tvg-logo="https://archive.org/download/the-fast-and-the-furious-1954-colorized-movie-576p-sd_202509/format=Thumbnail" tvg-language="eng",The Fast and the Furious (colorized) (1954)
 https://archive.org/download/the-fast-and-the-furious-1954-colorized-movie-576p-sd_202509/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="another.world-2015-webdl-r" tvg-name="Another World (2014)" tvg-logo="https://archive.org/download/another.world-2015-webdl-r/format=Thumbnail" tvg-language="eng",Another World (2014)
 https://archive.org/download/another.world-2015-webdl-r/format=h.264
@@ -2457,7 +2459,7 @@ https://archive.org/download/grizzley-flats-aka-shadow-people-2012/format=h.264
 https://archive.org/download/cell.-count.-2012.-hdri-p-xvi-d/format=h.264
 #EXTINF:-1 group-title="Colorized-movies" tvg-id="mystery-and-imagination-the-open-door-colorized-1966-suspense-imdb-score-7.4" tvg-name="Mystery and Imagination – Various Episodes - in color(1966-1970‚ British TV series‚ suspense)" tvg-logo="https://archive.org/download/mystery-and-imagination-the-open-door-colorized-1966-suspense-imdb-score-7.4/format=Thumbnail" tvg-language="eng",Mystery and Imagination – Various Episodes - in color(1966)
 https://archive.org/download/mystery-and-imagination-the-open-door-colorized-1966-suspense-imdb-score-7.4/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="spare.-parts.-2015.-dvdrip" tvg-logo="https://archive.org/download/spare.-parts.-2015.-dvdrip/format=Thumbnail" tvg-language="eng",Spare Parts (2015)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="spare.-parts.-2015.-dvdrip" tvg-name="Spare Parts (2015)" tvg-logo="https://archive.org/download/spare.-parts.-2015.-dvdrip/format=Thumbnail" tvg-language="eng",Spare Parts (2015)
 https://archive.org/download/spare.-parts.-2015.-dvdrip/format=h.264
 #EXTINF:-1 group-title="Colorized-movies" tvg-id="armchair-theatre-a-magnum-for-schneider-colorized-1967-suspense" tvg-logo="https://archive.org/download/armchair-theatre-a-magnum-for-schneider-colorized-1967-suspense/format=Thumbnail" tvg-language="eng",Armchair Theatre – Various Episodes - in color (1956)
 https://archive.org/download/armchair-theatre-a-magnum-for-schneider-colorized-1967-suspense/format=MPEG4
@@ -2559,7 +2561,7 @@ https://archive.org/download/desert-son-dvdrip-xvid/format=h.264
 https://archive.org/download/the-curse-of-king-tuts-tomb-2007/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="zodiac-signs-of-the-apoclypse-2014-br-r" tvg-name="Apocalypse Tomorrow" tvg-logo="https://archive.org/download/zodiac-signs-of-the-apoclypse-2014-br-r/format=Thumbnail" tvg-language="eng",Apocalypse Tomorrow (2014)
 https://archive.org/download/zodiac-signs-of-the-apoclypse-2014-br-r/format=h.264
-#EXTINF:-1 group-title="SciFi Horror" tvg-id="debug-2014-bl-ry-r" tvg-name="Debug (2014)" tvg-logo="https://archive.org/download/debug-2014-bl-ry-r/format=Thumbnail" tvg-language="eng",Debug (2014)
+#EXTINF:-1 group-title="SciFi Horror" tvg-id="debug-2014-bl-ry-r" tvg-logo="https://archive.org/download/debug-2014-bl-ry-r/format=Thumbnail" tvg-language="eng",Debug (2014)
 https://archive.org/download/debug-2014-bl-ry-r/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="beautiful.and.-twisted.-2015.720p.-web-dl.-600-mb" tvg-name="Beautiful and Twisted" tvg-logo="https://archive.org/download/beautiful.and.-twisted.-2015.720p.-web-dl.-600-mb/format=Thumbnail" tvg-language="eng",Beautiful and Twisted (2015)
 https://archive.org/download/beautiful.and.-twisted.-2015.720p.-web-dl.-600-mb/format=h.264
@@ -2615,7 +2617,7 @@ https://archive.org/download/woman-on-the-run-1950_202509/format=MPEG4
 https://archive.org/download/the-colony-2013-dvdrip-xvid-r/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="animals.-united.-2010.-brri-p.-xvi-d-imagi-ne" tvg-name="Animals United" tvg-logo="https://archive.org/download/animals.-united.-2010.-brri-p.-xvi-d-imagi-ne/format=Thumbnail" tvg-language="eng",Animals United (2010)
 https://archive.org/download/animals.-united.-2010.-brri-p.-xvi-d-imagi-ne/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="flash-gordon-1936_202509" tvg-logo="https://archive.org/download/flash-gordon-1936_202509/format=Thumbnail" tvg-language="eng",Flash Gordon 1936
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="flash-gordon-1936_202509" tvg-name="Flash Gordon 1936" tvg-logo="https://archive.org/download/flash-gordon-1936_202509/format=Thumbnail" tvg-language="eng",Flash Gordon 1936 (1969)
 https://archive.org/download/flash-gordon-1936_202509/format=MPEG4
 #EXTINF:-1 group-title="Comedy Films" tvg-id="frost-bite-2005" tvg-name="Frostbite" tvg-logo="https://archive.org/download/frost-bite-2005/format=Thumbnail" tvg-language="eng",Frostbite (2005)
 https://archive.org/download/frost-bite-2005/format=h.264
@@ -2637,7 +2639,7 @@ https://archive.org/download/battle-for-skyark-2015-web/format=h.264
 https://archive.org/download/scavengers-aka-space-soldiers-2013/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-rift.-2011.-vodrip" tvg-name="The Rift" tvg-logo="https://archive.org/download/the-rift.-2011.-vodrip/format=Thumbnail" tvg-language="eng",The Rift (2012)
 https://archive.org/download/the-rift.-2011.-vodrip/format=h.264
-#EXTINF:-1 group-title="SciFi Horror" tvg-id="antiviral.-2012.-dvdrip.-xvid-r" tvg-name="Antiviral" tvg-logo="https://archive.org/download/antiviral.-2012.-dvdrip.-xvid-r/format=Thumbnail" tvg-language="eng",Antiviral (2013)
+#EXTINF:-1 group-title="SciFi Horror" tvg-id="antiviral.-2012.-dvdrip.-xvid-r" tvg-logo="https://archive.org/download/antiviral.-2012.-dvdrip.-xvid-r/format=Thumbnail" tvg-language="eng",Antiviral
 https://archive.org/download/antiviral.-2012.-dvdrip.-xvid-r/format=h.264
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="dark-nature-2009-brrip" tvg-name="Dark Nature" tvg-logo="https://archive.org/download/dark-nature-2009-brrip/format=Thumbnail" tvg-language="eng",Dark Nature (2009)
 https://archive.org/download/dark-nature-2009-brrip/format=h.264
@@ -2667,7 +2669,7 @@ https://archive.org/download/oceans-2010/format=h.264
 https://archive.org/download/national.geographic.vanished.from.alcatraz.720p.hdtv/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="into-the-fire-2011-doc" tvg-logo="https://archive.org/download/into-the-fire-2011-doc/format=Thumbnail" tvg-language="eng",Into The Fire
 https://archive.org/download/into-the-fire-2011-doc/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="imax.alaska.spirit.of.the.wild.720p.bluray.x264-hv" tvg-name="Alaska Spirit of the Wild" tvg-logo="https://archive.org/download/imax.alaska.spirit.of.the.wild.720p.bluray.x264-hv/format=Thumbnail" tvg-language="eng",Alaska Spirit of the Wild (1997)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="imax.alaska.spirit.of.the.wild.720p.bluray.x264-hv" tvg-logo="https://archive.org/download/imax.alaska.spirit.of.the.wild.720p.bluray.x264-hv/format=Thumbnail" tvg-language="eng",Alaska Spirit of the Wild
 https://archive.org/download/imax.alaska.spirit.of.the.wild.720p.bluray.x264-hv/format=h.264
 #EXTINF:-1 group-title="Film scifi" tvg-id="between-paranoia-and-science-fiction" tvg-name="Between Paranoia And Science Fiction" tvg-logo="https://archive.org/download/between-paranoia-and-science-fiction/format=Thumbnail" tvg-language="eng",Between Paranoia And Science Fiction (2011)
 https://archive.org/download/between-paranoia-and-science-fiction/format=MPEG4
@@ -2711,7 +2713,7 @@ https://archive.org/download/the.-magician.-1926.-dvdrip.-600-mb.h-264.-mp-4-zoe
 https://archive.org/download/svtplay-j3GkNmX/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="mother-1926-v-1" tvg-logo="https://archive.org/download/mother-1926-v-1/format=Thumbnail" tvg-language="eng",Mother (1926)
 https://archive.org/download/mother-1926-v-1/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="flame-of-barbary-coast-1945" tvg-logo="https://archive.org/download/flame-of-barbary-coast-1945/format=Thumbnail" tvg-language="eng",Flame of Barbary Coast (1945)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="flame-of-barbary-coast-1945" tvg-name="Flame of Barbary Coast (1945)" tvg-logo="https://archive.org/download/flame-of-barbary-coast-1945/format=Thumbnail" tvg-language="eng",Flame of Barbary Coast (1945)
 https://archive.org/download/flame-of-barbary-coast-1945/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="a-town-like-alice-1956" tvg-name="A Town Like Alice (1956)" tvg-language="eng",A Town Like Alice (1956)
 https://archive.org/download/a-town-like-alice-1956/format=MPEG4
@@ -2727,7 +2729,7 @@ https://archive.org/download/the-member-of-the-wedding-1952/format=MPEG4
 https://archive.org/download/the-man-who-could-work-miracles-1936/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-diary-of-a-chambermaid-1946_202508" tvg-language="eng",The Diary of a Chambermaid (1946)
 https://archive.org/download/the-diary-of-a-chambermaid-1946_202508/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-whole-towns-talking-1935_202508" tvg-name="The Whole Town's Talking (1935)" tvg-language="eng",The Whole Town's Talking (1935)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-whole-towns-talking-1935_202508" tvg-language="eng",The Whole Town's Talking (1935)
 https://archive.org/download/the-whole-towns-talking-1935_202508/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-razors-edge-1946_202508" tvg-name="The Razor's Edge (1946)" tvg-language="eng",The Razor's Edge (1946)
 https://archive.org/download/the-razors-edge-1946_202508/format=MPEG4
@@ -2855,7 +2857,7 @@ https://archive.org/download/lillian-russell-1940_202508/format=MPEG4
 https://archive.org/download/a-tale-of-two-cities-1958/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="fury-at-furnace-creek-1948" tvg-name="Fury at Furnace Creek (1948)" tvg-logo="https://archive.org/download/fury-at-furnace-creek-1948/format=Thumbnail" tvg-language="eng",Fury at Furnace Creek (1948)
 https://archive.org/download/fury-at-furnace-creek-1948/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="too-many-husbands-1940" tvg-name="Too Many Husbands (1940)" tvg-logo="https://archive.org/download/too-many-husbands-1940/format=Thumbnail" tvg-language="eng",Too Many Husbands (1940)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="too-many-husbands-1940" tvg-logo="https://archive.org/download/too-many-husbands-1940/format=Thumbnail" tvg-language="eng",Too Many Husbands (1940)
 https://archive.org/download/too-many-husbands-1940/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="dreamboat-1952" tvg-name="Dreamboat (1952)" tvg-logo="https://archive.org/download/dreamboat-1952/format=Thumbnail" tvg-language="eng",Dreamboat (1952)
 https://archive.org/download/dreamboat-1952/format=MPEG4
@@ -2919,7 +2921,7 @@ https://archive.org/download/i-know-where-im-going-1945/format=MPEG4
 https://archive.org/download/tonight-we-raid-calais-1943/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="mr.-soft-touch-1949" tvg-name="Mr. Soft Touch (1949)" tvg-language="eng",Mr. Soft Touch (1949)
 https://archive.org/download/mr.-soft-touch-1949/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="east-side-of-heaven-1939_202507" tvg-logo="https://archive.org/download/east-side-of-heaven-1939_202507/format=Thumbnail" tvg-language="eng",East Side of Heaven (1939)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="east-side-of-heaven-1939_202507" tvg-name="East Side of Heaven (1939)" tvg-logo="https://archive.org/download/east-side-of-heaven-1939_202507/format=Thumbnail" tvg-language="eng",East Side of Heaven (1939)
 https://archive.org/download/east-side-of-heaven-1939_202507/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="china-girl-1942_202507" tvg-name="China Girl (1942)" tvg-logo="https://archive.org/download/china-girl-1942_202507/format=Thumbnail" tvg-language="eng",China Girl (1942)
 https://archive.org/download/china-girl-1942_202507/format=MPEG4
@@ -2979,7 +2981,7 @@ https://archive.org/download/the-scarlet-claw-1944/format=MPEG4
 https://archive.org/download/pursuit-to-algiers-1945_202507/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-house-of-fear-1945" tvg-logo="https://archive.org/download/the-house-of-fear-1945/format=Thumbnail" tvg-language="eng",The House of Fear (1945)
 https://archive.org/download/the-house-of-fear-1945/format=MPEG4
-#EXTINF:-1 group-title="Silent films" tvg-id="snow-white-1916_202507" tvg-logo="https://archive.org/download/snow-white-1916_202507/format=Thumbnail" tvg-language="eng",Snow White (1916)
+#EXTINF:-1 group-title="Silent films" tvg-id="snow-white-1916_202507" tvg-name="Snow White (1916)" tvg-logo="https://archive.org/download/snow-white-1916_202507/format=Thumbnail" tvg-language="eng",Snow White (1916)
 https://archive.org/download/snow-white-1916_202507/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="raffles-the-amateur-cracksman-1917" tvg-name="Raffles‚ The Amateur Cracksman (1917)" tvg-logo="https://archive.org/download/raffles-the-amateur-cracksman-1917/format=Thumbnail" tvg-language="eng",Raffles‚ The Amateur Cracksman (1917)
 https://archive.org/download/raffles-the-amateur-cracksman-1917/format=h.264
@@ -3153,7 +3155,7 @@ https://archive.org/download/abbott-and-costello-in-the-foreign-legion-1950/form
 https://archive.org/download/hit-the-ice-1943/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="driftwood-1947_202507" tvg-name="Driftwood (1947)" tvg-logo="https://archive.org/download/driftwood-1947_202507/format=Thumbnail" tvg-language="eng",Driftwood (1947)
 https://archive.org/download/driftwood-1947_202507/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="odd-man-out-1947" tvg-name="Odd Man Out (1947)" tvg-language="eng",Odd Man Out (1947)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="odd-man-out-1947" tvg-language="eng",Odd Man Out (1947)
 https://archive.org/download/odd-man-out-1947/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="go-west-young-man-1936" tvg-name="Go West Young Man (1936)" tvg-logo="https://archive.org/download/go-west-young-man-1936/format=Thumbnail" tvg-language="eng",Go West Young Man (1936)
 https://archive.org/download/go-west-young-man-1936/format=MPEG4
@@ -3229,7 +3231,7 @@ https://archive.org/download/long-swift-sword-of-siegfried-the-the-lustful-barba
 https://archive.org/download/devils-nightmare-the-1971/format=h.264
 #EXTINF:-1 group-title="Film Noir" tvg-id="the-return-of-the-whistler-1948" tvg-name="The Return Of The Whistler 1948 Film-noir/Mystery ★★★(CC)" tvg-logo="https://archive.org/download/the-return-of-the-whistler-1948/format=Thumbnail" tvg-language="eng",The Return Of The Whistler 1948 Film-noir/Mystery ★★★(CC)
 https://archive.org/download/the-return-of-the-whistler-1948/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="star-pilot-destination-planete-hydra-1966" tvg-logo="https://archive.org/download/star-pilot-destination-planete-hydra-1966/format=Thumbnail" tvg-language="eng",Star Pilot‚ Destination Planete Hydra 1966
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="star-pilot-destination-planete-hydra-1966" tvg-name="Star Pilot‚ Destination Planete Hydra 1966" tvg-logo="https://archive.org/download/star-pilot-destination-planete-hydra-1966/format=Thumbnail" tvg-language="eng",Star Pilot‚ Destination Planete Hydra 1966
 https://archive.org/download/star-pilot-destination-planete-hydra-1966/format=MPEG4
 #EXTINF:-1 group-title="Comedy Films" tvg-id="why-be-good-1929_202507" tvg-logo="https://archive.org/download/why-be-good-1929_202507/format=Thumbnail" tvg-language="eng",Why Be Good (1929)
 https://archive.org/download/why-be-good-1929_202507/format=h.264
@@ -3239,7 +3241,7 @@ https://archive.org/download/thoroughly-modern-millie-1967_202507/format=MPEG4
 https://archive.org/download/caveof-1/format=h.264
 #EXTINF:-1 group-title="Comedy Films" tvg-id="the-royal-bed-1931-with-watermark" tvg-name="The Royal Bed (1931)" tvg-logo="https://archive.org/download/the-royal-bed-1931-with-watermark/format=Thumbnail" tvg-language="eng",The Royal Bed (1931)
 https://archive.org/download/the-royal-bed-1931-with-watermark/format=MPEG4
-#EXTINF:-1 group-title="Silent films" tvg-id="the-mysterious-lady-1928" tvg-logo="https://archive.org/download/the-mysterious-lady-1928/format=Thumbnail" tvg-language="eng",The Mysterious Lady (1928)
+#EXTINF:-1 group-title="Silent films" tvg-id="the-mysterious-lady-1928" tvg-name="The Mysterious Lady (1928)" tvg-logo="https://archive.org/download/the-mysterious-lady-1928/format=Thumbnail" tvg-language="eng",The Mysterious Lady (1928)
 https://archive.org/download/the-mysterious-lady-1928/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-locked-door_1929_202507" tvg-name="The Locked Door (1929)" tvg-logo="https://archive.org/download/the-locked-door_1929_202507/format=Thumbnail" tvg-language="eng",The Locked Door (1929)
 https://archive.org/download/the-locked-door_1929_202507/format=MPEG4
@@ -3311,7 +3313,7 @@ https://archive.org/download/lisbon-1956_202506/format=MPEG4
 https://archive.org/download/violent-saturday-1955_202506/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-guns-of-fort-petticoat-1957" tvg-name="The Guns of Fort Petticoat (1957)" tvg-language="eng",The Guns of Fort Petticoat (1957)
 https://archive.org/download/the-guns-of-fort-petticoat-1957/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="house-of-bamboo-1955" tvg-logo="https://archive.org/download/house-of-bamboo-1955/format=Thumbnail" tvg-language="eng",House of Bamboo (1955)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="house-of-bamboo-1955" tvg-name="House of Bamboo (1955)" tvg-logo="https://archive.org/download/house-of-bamboo-1955/format=Thumbnail" tvg-language="eng",House of Bamboo (1955)
 https://archive.org/download/house-of-bamboo-1955/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="tiger-bay-1959_202506" tvg-name="Tiger Bay (1959)" tvg-logo="https://archive.org/download/tiger-bay-1959_202506/format=Thumbnail" tvg-language="eng",Tiger Bay (1959)
 https://archive.org/download/tiger-bay-1959_202506/format=MPEG4
@@ -3405,7 +3407,7 @@ https://archive.org/download/double-indemnity-1944-colorized-movie-576p-sd/forma
 https://archive.org/download/come-next-spring-1956/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-black-tent-1956" tvg-logo="https://archive.org/download/the-black-tent-1956/format=Thumbnail" tvg-language="eng",The Black Tent (1956)
 https://archive.org/download/the-black-tent-1956/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="somewhere-in-the-night-1946_202506" tvg-name="Somewhere in the Night (1946)" tvg-logo="https://archive.org/download/somewhere-in-the-night-1946_202506/format=Thumbnail" tvg-language="eng",Somewhere in the Night (1946)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="somewhere-in-the-night-1946_202506" tvg-logo="https://archive.org/download/somewhere-in-the-night-1946_202506/format=Thumbnail" tvg-language="eng",Somewhere in the Night (1946)
 https://archive.org/download/somewhere-in-the-night-1946_202506/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="5-fingers-1952_202506" tvg-language="eng",5 Fingers (1952)
 https://archive.org/download/5-fingers-1952_202506/format=MPEG4
@@ -3459,7 +3461,7 @@ https://archive.org/download/erotiko-pathos-1981/format=MPEG4
 https://archive.org/download/man-at-the-carlton-tower-1961-colorized-576p-sd/format=h.264
 #EXTINF:-1 group-title="Film Noir" tvg-id="notorious-1946-colorized-movie-576p-sd" tvg-name="Notorious (restored‚ colorized) (1946‚ film noir‚ imdb score: 7.9)" tvg-logo="https://archive.org/download/notorious-1946-colorized-movie-576p-sd/format=Thumbnail" tvg-language="eng",Notorious (restored‚ colorized) (1946)
 https://archive.org/download/notorious-1946-colorized-movie-576p-sd/format=h.264
-#EXTINF:-1 group-title="Colorized-movies" tvg-id="village-of-the-damned-1960-colorized-movie-576p-sd" tvg-name="Village of the Damned (restored‚ colorized) (1960‚ sci-fi‚ imdb score: 7.3)" tvg-logo="https://archive.org/download/village-of-the-damned-1960-colorized-movie-576p-sd/format=Thumbnail" tvg-language="eng",Village of the Damned (restored‚ colorized) (1960)
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="village-of-the-damned-1960-colorized-movie-576p-sd" tvg-logo="https://archive.org/download/village-of-the-damned-1960-colorized-movie-576p-sd/format=Thumbnail" tvg-language="eng",Village of the Damned (restored‚ colorized) (1960)
 https://archive.org/download/village-of-the-damned-1960-colorized-movie-576p-sd/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="on-a-clear-day-you-can-see-forever-1970" tvg-logo="https://archive.org/download/on-a-clear-day-you-can-see-forever-1970/format=Thumbnail" tvg-language="eng",On a Clear Day You Can See Forever (1970)
 https://archive.org/download/on-a-clear-day-you-can-see-forever-1970/format=MPEG4
@@ -3503,7 +3505,7 @@ https://archive.org/download/pitfall-1948_202506/format=MPEG4
 https://archive.org/download/boy-on-a-dolphin-1957_202506/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="shake-hands-with-the-devil-1959_202506" tvg-name="Shake Hands with the Devil (1959)" tvg-language="eng",Shake Hands with the Devil (1959)
 https://archive.org/download/shake-hands-with-the-devil-1959_202506/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-paradine-case-1947" tvg-name="The Paradine Case (1947)" tvg-language="eng",The Paradine Case (1947)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-paradine-case-1947" tvg-language="eng",The Paradine Case (1947)
 https://archive.org/download/the-paradine-case-1947/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-loves-of-carmen-1948_202506" tvg-language="eng",The Loves of Carmen (1948)
 https://archive.org/download/the-loves-of-carmen-1948_202506/format=MPEG4
@@ -3537,7 +3539,7 @@ https://archive.org/download/the-unseen-1945_202506/format=MPEG4
 https://archive.org/download/the-39-steps-1959/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="99-river-street-1953" tvg-name="99 River Street (1953)" tvg-logo="https://archive.org/download/99-river-street-1953/format=Thumbnail" tvg-language="eng",99 River Street (1953)
 https://archive.org/download/99-river-street-1953/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="holiday-in-spain-1960" tvg-name="Holiday in Spain (1960)" tvg-logo="https://archive.org/download/holiday-in-spain-1960/format=Thumbnail" tvg-language="eng",Holiday in Spain (1960)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="holiday-in-spain-1960" tvg-logo="https://archive.org/download/holiday-in-spain-1960/format=Thumbnail" tvg-language="eng",Holiday in Spain (1960)
 https://archive.org/download/holiday-in-spain-1960/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="thieves-highway-1949" tvg-language="eng",Thieves' Highway (1949)
 https://archive.org/download/thieves-highway-1949/format=MPEG4
@@ -3597,7 +3599,7 @@ https://archive.org/download/he-who-gets-slapped-1924-corrected-frame-rate/forma
 https://archive.org/download/inside-the-lines-1930-poor-audio-version/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="the.-lost.-world.-1925.1080p.-blu-ray.x-264-sadpanda" tvg-name="The Lost World (1925)" tvg-logo="https://archive.org/download/the.-lost.-world.-1925.1080p.-blu-ray.x-264-sadpanda/format=Thumbnail" tvg-language="eng",The Lost World (1925)
 https://archive.org/download/the.-lost.-world.-1925.1080p.-blu-ray.x-264-sadpanda/format=h.264
-#EXTINF:-1 group-title="Comedy Films" tvg-id="hook-line" tvg-name="Hook‚ Line and Sinker (1930)" tvg-logo="https://archive.org/download/hook-line/format=Thumbnail" tvg-language="eng",Hook‚ Line and Sinker (1930)
+#EXTINF:-1 group-title="Comedy Films" tvg-id="hook-line" tvg-logo="https://archive.org/download/hook-line/format=Thumbnail" tvg-language="eng",Hook‚ Line and Sinker (1930)
 https://archive.org/download/hook-line/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="wild-guitar-1962" tvg-name="Wild Guitar (1962)" tvg-logo="https://archive.org/download/wild-guitar-1962/format=Thumbnail" tvg-language="eng",Wild Guitar (1962)
 https://archive.org/download/wild-guitar-1962/format=MPEG4
@@ -3745,9 +3747,9 @@ https://archive.org/download/devilmaycare_1929_202506/format=MPEG4
 https://archive.org/download/disraeli_1929_202506/format=MPEG4
 #EXTINF:-1 group-title="Silent films" tvg-id="the.-three.-musketeers.-1921.1080p.-blu-ray.x-264.-aac-5.1-world" tvg-name="The Three Musketeers (1921)" tvg-logo="https://archive.org/download/the.-three.-musketeers.-1921.1080p.-blu-ray.x-264.-aac-5.1-world/format=Thumbnail" tvg-language="eng",The Three Musketeers (1921)
 https://archive.org/download/the.-three.-musketeers.-1921.1080p.-blu-ray.x-264.-aac-5.1-world/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="bulldog-drummond_1929_202506" tvg-name="Bulldog Drummond (1929)" tvg-logo="https://archive.org/download/bulldog-drummond_1929_202506/format=Thumbnail" tvg-language="eng",Bulldog Drummond (1929)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="bulldog-drummond_1929_202506" tvg-logo="https://archive.org/download/bulldog-drummond_1929_202506/format=Thumbnail" tvg-language="eng",Bulldog Drummond (1929)
 https://archive.org/download/bulldog-drummond_1929_202506/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="condemned-1929_202506" tvg-logo="https://archive.org/download/condemned-1929_202506/format=Thumbnail" tvg-language="eng",Condemned (1929)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="condemned-1929_202506" tvg-name="Condemned (1929)" tvg-logo="https://archive.org/download/condemned-1929_202506/format=Thumbnail" tvg-language="eng",Condemned (1929)
 https://archive.org/download/condemned-1929_202506/format=h.264
 #EXTINF:-1 group-title="Comedy Films" tvg-id="sherlock-jr_202506" tvg-name="Sherlock Jr. (1924)" tvg-logo="https://archive.org/download/sherlock-jr_202506/format=Thumbnail" tvg-language="eng",Sherlock Jr. (1924)
 https://archive.org/download/sherlock-jr_202506/format=MPEG4
@@ -3785,9 +3787,9 @@ https://archive.org/download/the-town-went-wild-1944/format=MPEG4
 https://archive.org/download/topper-returns-1941/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="tormented-1960_202505" tvg-name="Tormented (1960)" tvg-logo="https://archive.org/download/tormented-1960_202505/format=Thumbnail" tvg-language="eng",Tormented (1960)
 https://archive.org/download/tormented-1960_202505/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="tough-to-handle-1937" tvg-logo="https://archive.org/download/tough-to-handle-1937/format=Thumbnail" tvg-language="eng",Tough to Handle (1937)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="tough-to-handle-1937" tvg-name="Tough to Handle (1937)" tvg-logo="https://archive.org/download/tough-to-handle-1937/format=Thumbnail" tvg-language="eng",Tough to Handle (1937)
 https://archive.org/download/tough-to-handle-1937/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="to-all-my-friends-on-shore-1972" tvg-logo="https://archive.org/download/to-all-my-friends-on-shore-1972/format=Thumbnail" tvg-language="eng",To All My Friends on Shore (1972)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="to-all-my-friends-on-shore-1972" tvg-name="To All My Friends on Shore (1972)" tvg-logo="https://archive.org/download/to-all-my-friends-on-shore-1972/format=Thumbnail" tvg-language="eng",To All My Friends on Shore (1972)
 https://archive.org/download/to-all-my-friends-on-shore-1972/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="topper-1937_202505" tvg-name="Topper (1937)" tvg-logo="https://archive.org/download/topper-1937_202505/format=Thumbnail" tvg-language="eng",Topper (1937)
 https://archive.org/download/topper-1937_202505/format=MPEG4
@@ -3955,7 +3957,7 @@ https://archive.org/download/hallelujah-1929-4-k-hd-upscale-full-movie-2160p-24f
 https://archive.org/download/the-lost-zeppelin-1929-fourtl/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="coquette-1929_202505" tvg-name="Coquette (1929)" tvg-logo="https://archive.org/download/coquette-1929_202505/format=Thumbnail" tvg-language="eng",Coquette (1929)
 https://archive.org/download/coquette-1929_202505/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-general-1926_202505" tvg-name="The General (1926)" tvg-logo="https://archive.org/download/the-general-1926_202505/format=Thumbnail" tvg-language="eng",The General (1926)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-general-1926_202505" tvg-logo="https://archive.org/download/the-general-1926_202505/format=Thumbnail" tvg-language="eng",The General (1926)
 https://archive.org/download/the-general-1926_202505/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="huang-fei-hong-si-da-di-zi-1977" tvg-name="Huang fei hong si da di zi (1977)" tvg-logo="https://archive.org/download/huang-fei-hong-si-da-di-zi-1977/format=Thumbnail" tvg-language="eng",Huang fei hong si da di zi (1977)
 https://archive.org/download/huang-fei-hong-si-da-di-zi-1977/format=MPEG4
@@ -4121,7 +4123,7 @@ https://archive.org/download/target-of-an-assassin-1977/format=MPEG4
 https://archive.org/download/swing-hostess-1944/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="symphony-of-living-1935" tvg-name="Symphony of Living (1935)" tvg-logo="https://archive.org/download/symphony-of-living-1935/format=Thumbnail" tvg-language="eng",Symphony of Living (1935)
 https://archive.org/download/symphony-of-living-1935/format=MPEG4
-#EXTINF:-1 group-title="Film scifi" tvg-id="battle-in-outer-space-1959_202505" tvg-name="Battle In Outer Space 1959" tvg-logo="https://archive.org/download/battle-in-outer-space-1959_202505/format=Thumbnail" tvg-language="eng",Battle In Outer Space 1959
+#EXTINF:-1 group-title="Film scifi" tvg-id="battle-in-outer-space-1959_202505" tvg-logo="https://archive.org/download/battle-in-outer-space-1959_202505/format=Thumbnail" tvg-language="eng",Battle In Outer Space 1959
 https://archive.org/download/battle-in-outer-space-1959_202505/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="take-me-back-to-oklahoma-1940" tvg-name="Take Me Back to Oklahoma (1940)" tvg-logo="https://archive.org/download/take-me-back-to-oklahoma-1940/format=Thumbnail" tvg-language="eng",Take Me Back to Oklahoma (1940)
 https://archive.org/download/take-me-back-to-oklahoma-1940/format=MPEG4
@@ -4189,7 +4191,7 @@ https://archive.org/download/slaves-in-bondage-1937/format=MPEG4
 https://archive.org/download/smart-alecks-1942/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="six-gun-trail-1938" tvg-logo="https://archive.org/download/six-gun-trail-1938/format=Thumbnail" tvg-language="eng",Six-Gun Trail (1938)
 https://archive.org/download/six-gun-trail-1938/format=MPEG4
-#EXTINF:-1 group-title="Comedy Films" tvg-id="dicktator.-the-1974-paul-daniels-yolanda-beckham-linda-york-ann-perry-vickie-cri" tvg-logo="https://archive.org/download/dicktator.-the-1974-paul-daniels-yolanda-beckham-linda-york-ann-perry-vickie-cri/format=Thumbnail" tvg-language="eng",The Dicktator 1974
+#EXTINF:-1 group-title="Comedy Films" tvg-id="dicktator.-the-1974-paul-daniels-yolanda-beckham-linda-york-ann-perry-vickie-cri" tvg-name="The Dicktator 1974" tvg-logo="https://archive.org/download/dicktator.-the-1974-paul-daniels-yolanda-beckham-linda-york-ann-perry-vickie-cri/format=Thumbnail" tvg-language="eng",The Dicktator 1974
 https://archive.org/download/dicktator.-the-1974-paul-daniels-yolanda-beckham-linda-york-ann-perry-vickie-cri/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="slander-house-1938" tvg-name="Slander House (1938)" tvg-logo="https://archive.org/download/slander-house-1938/format=Thumbnail" tvg-language="eng",Slander House (1938)
 https://archive.org/download/slander-house-1938/format=MPEG4
@@ -4315,7 +4317,7 @@ https://archive.org/download/outpost-in-morocco-1949_202504/format=MPEG4
 https://archive.org/download/panic-in-echo-park-1977/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-painted-desert-1931_202504" tvg-name="The Painted Desert (1931)" tvg-logo="https://archive.org/download/the-painted-desert-1931_202504/format=Thumbnail" tvg-language="eng",The Painted Desert (1931)
 https://archive.org/download/the-painted-desert-1931_202504/format=MPEG4
-#EXTINF:-1 group-title="Film Noir" tvg-id="my-name-is-julia-ross-1945_202504" tvg-logo="https://archive.org/download/my-name-is-julia-ross-1945_202504/format=Thumbnail" tvg-language="eng",My Name Is Julia Ross 1945 ★★★½ CC: Film-Noir/Thriller [1:05:04]
+#EXTINF:-1 group-title="Film Noir" tvg-id="my-name-is-julia-ross-1945_202504" tvg-name="My Name Is Julia Ross 1945 ★★★½ CC: Film-Noir/Thriller [1:05:04]" tvg-logo="https://archive.org/download/my-name-is-julia-ross-1945_202504/format=Thumbnail" tvg-language="eng",My Name Is Julia Ross 1945 ★★★½ CC: Film-Noir/Thriller [1:05:04]
 https://archive.org/download/my-name-is-julia-ross-1945_202504/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="pepper-agent-00-x-checkmate-1973-diana-wilson-an-tsan-hu-jj-coyle-caren-kaye-ell" tvg-logo="https://archive.org/download/pepper-agent-00-x-checkmate-1973-diana-wilson-an-tsan-hu-jj-coyle-caren-kaye-ell/format=Thumbnail" tvg-language="eng",Pepper Agent 00 X‚ Checkmate 1973
 https://archive.org/download/pepper-agent-00-x-checkmate-1973-diana-wilson-an-tsan-hu-jj-coyle-caren-kaye-ell/format=h.264
@@ -4519,7 +4521,7 @@ https://archive.org/download/the-driller-killer-1979_202504/format=MPEG4
 https://archive.org/download/drums-in-the-deep-south-1951/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="la-mansion-de-la-locura-1973" tvg-logo="https://archive.org/download/la-mansion-de-la-locura-1973/format=Thumbnail" tvg-language="eng",La mansión de la locura (1973)
 https://archive.org/download/la-mansion-de-la-locura-1973/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="dr.-jekyll-and-mr.-hyde-1920_202504" tvg-name="Dr. Jekyll and Mr. Hyde (1920)" tvg-logo="https://archive.org/download/dr.-jekyll-and-mr.-hyde-1920_202504/format=Thumbnail" tvg-language="eng",Dr. Jekyll and Mr. Hyde (1920)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="dr.-jekyll-and-mr.-hyde-1920_202504" tvg-logo="https://archive.org/download/dr.-jekyll-and-mr.-hyde-1920_202504/format=Thumbnail" tvg-language="eng",Dr. Jekyll and Mr. Hyde (1920)
 https://archive.org/download/dr.-jekyll-and-mr.-hyde-1920_202504/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="doras-dunking-doughnuts-1933" tvg-logo="https://archive.org/download/doras-dunking-doughnuts-1933/format=Thumbnail" tvg-language="eng",Dora's Dunking Doughnuts (1933)
 https://archive.org/download/doras-dunking-doughnuts-1933/format=MPEG4
@@ -4543,7 +4545,7 @@ https://archive.org/download/dick-tracy-meets-gruesome-1947/format=MPEG4
 https://archive.org/download/dick-tracy-1945_202504/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="desperate-cargo-1941_202504" tvg-name="Desperate Cargo (1941)" tvg-logo="https://archive.org/download/desperate-cargo-1941_202504/format=Thumbnail" tvg-language="eng",Desperate Cargo (1941)
 https://archive.org/download/desperate-cargo-1941_202504/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="profondo-rosso-1975_202504" tvg-logo="https://archive.org/download/profondo-rosso-1975_202504/format=Thumbnail" tvg-language="eng",Profondo rosso (1975)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="profondo-rosso-1975_202504" tvg-name="Profondo rosso (1975)" tvg-logo="https://archive.org/download/profondo-rosso-1975_202504/format=Thumbnail" tvg-language="eng",Profondo rosso (1975)
 https://archive.org/download/profondo-rosso-1975_202504/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="fist-of-fear-touch-of-death-1980" tvg-name="Fist of Fear‚ Touch of Death (1980)" tvg-logo="https://archive.org/download/fist-of-fear-touch-of-death-1980/format=Thumbnail" tvg-language="eng",Fist of Fear‚ Touch of Death (1980)
 https://archive.org/download/fist-of-fear-touch-of-death-1980/format=MPEG4
@@ -4565,7 +4567,7 @@ https://archive.org/download/eyes-in-the-night-1942_202504/format=MPEG4
 https://archive.org/download/fear-in-the-night-1946/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="fatty-joins-the-force-1913" tvg-name="Fatty Joins the Force (1913)" tvg-logo="https://archive.org/download/fatty-joins-the-force-1913/format=Thumbnail" tvg-language="eng",Fatty Joins the Force (1913)
 https://archive.org/download/fatty-joins-the-force-1913/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="peter-lorre-in-alfred-hitchcocks-1934-the-man-who-knew-too-much-..-a-special-favourite" tvg-logo="https://archive.org/download/peter-lorre-in-alfred-hitchcocks-1934-the-man-who-knew-too-much-..-a-special-favourite/format=Thumbnail" tvg-language="eng",The Man Who Knew Too Much (1934)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="peter-lorre-in-alfred-hitchcocks-1934-the-man-who-knew-too-much-..-a-special-favourite" tvg-name="The Man Who Knew Too Much (1934)" tvg-logo="https://archive.org/download/peter-lorre-in-alfred-hitchcocks-1934-the-man-who-knew-too-much-..-a-special-favourite/format=Thumbnail" tvg-language="eng",The Man Who Knew Too Much (1934)
 https://archive.org/download/peter-lorre-in-alfred-hitchcocks-1934-the-man-who-knew-too-much-..-a-special-favourite/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="melody-of-passion-la-chica-que-cayo-del-cielo-1986-sonja-martin-montse-bayo-mari" tvg-logo="https://archive.org/download/melody-of-passion-la-chica-que-cayo-del-cielo-1986-sonja-martin-montse-bayo-mari/format=Thumbnail" tvg-language="eng",Melody Of Passion‚ La Chica Que Cayó Del Cielo 1986
 https://archive.org/download/melody-of-passion-la-chica-que-cayo-del-cielo-1986-sonja-martin-montse-bayo-mari/format=MPEG4
@@ -4717,7 +4719,7 @@ https://archive.org/download/bad-boy-1939_202503/format=MPEG4
 https://archive.org/download/barefoot-boy-1938/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="bank-alarm-1937" tvg-name="Bank Alarm (1937)" tvg-logo="https://archive.org/download/bank-alarm-1937/format=Thumbnail" tvg-language="eng",Bank Alarm (1937)
 https://archive.org/download/bank-alarm-1937/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-beast-of-yucca-flats-1961" tvg-name="The Beast of Yucca Flats (1961)" tvg-logo="https://archive.org/download/the-beast-of-yucca-flats-1961/format=Thumbnail" tvg-language="eng",The Beast of Yucca Flats (1961)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-beast-of-yucca-flats-1961" tvg-logo="https://archive.org/download/the-beast-of-yucca-flats-1961/format=Thumbnail" tvg-language="eng",The Beast of Yucca Flats (1961)
 https://archive.org/download/the-beast-of-yucca-flats-1961/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="gamera-tai-daiakuju-giron-1969" tvg-logo="https://archive.org/download/gamera-tai-daiakuju-giron-1969/format=Thumbnail" tvg-language="eng",Gamera tai daiakuju Giron (1969)
 https://archive.org/download/gamera-tai-daiakuju-giron-1969/format=MPEG4
@@ -4781,7 +4783,7 @@ https://archive.org/download/the-quatermass-xperiment-colorized-576p-sd/format=h
 https://archive.org/download/door-to-door-maniac-1961/format=MPEG4
 #EXTINF:-1 group-title="Colorized-movies" tvg-id="de-oldify-wwi-amazing-footage-of-wwi-tanks-topaz-1080p-s" tvg-logo="https://archive.org/download/de-oldify-wwi-amazing-footage-of-wwi-tanks-topaz-1080p-s/format=Thumbnail" tvg-language="eng",Amazing enhanced and colorized footage of British‚ French‚ German & American tanks during WW-I [HD]
 https://archive.org/download/de-oldify-wwi-amazing-footage-of-wwi-tanks-topaz-1080p-s/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="triangle-of-venus-die-insel-der-tausend-freuden-1978-olivia-pascal-philippe-garn" tvg-logo="https://archive.org/download/triangle-of-venus-die-insel-der-tausend-freuden-1978-olivia-pascal-philippe-garn/format=Thumbnail" tvg-language="eng",Triangle Of Venus‚ Die Insel Der Tausend Freuden 1978
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="triangle-of-venus-die-insel-der-tausend-freuden-1978-olivia-pascal-philippe-garn" tvg-name="Triangle Of Venus‚ Die Insel Der Tausend Freuden 1978" tvg-logo="https://archive.org/download/triangle-of-venus-die-insel-der-tausend-freuden-1978-olivia-pascal-philippe-garn/format=Thumbnail" tvg-language="eng",Triangle Of Venus‚ Die Insel Der Tausend Freuden 1978
 https://archive.org/download/triangle-of-venus-die-insel-der-tausend-freuden-1978-olivia-pascal-philippe-garn/format=h.264
 #EXTINF:-1 group-title="Film Noir" tvg-id="mysterious-intruder-restored-colorized-1946-film-noir-imdb-score-6.3" tvg-name="Mysterious Intruder (restored‚ colorized) (1946‚ film noir‚ imdb score: 6.3)" tvg-logo="https://archive.org/download/mysterious-intruder-restored-colorized-1946-film-noir-imdb-score-6.3/format=Thumbnail" tvg-language="eng",Mysterious Intruder (restored‚ colorized) (1946)
 https://archive.org/download/mysterious-intruder-restored-colorized-1946-film-noir-imdb-score-6.3/format=MPEG4
@@ -4825,7 +4827,7 @@ https://archive.org/download/never-take-candy-from-a-stranger-1960-colorized-mov
 https://archive.org/download/cracked-ice-1927/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-haunted-ship-1930" tvg-logo="https://archive.org/download/the-haunted-ship-1930/format=Thumbnail" tvg-language="eng",The Haunted Ship (1930)
 https://archive.org/download/the-haunted-ship-1930/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="tumble-down-town-1933" tvg-logo="https://archive.org/download/tumble-down-town-1933/format=Thumbnail" tvg-language="eng",Tumble Down Town (1933)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="tumble-down-town-1933" tvg-name="Tumble Down Town (1933)" tvg-logo="https://archive.org/download/tumble-down-town-1933/format=Thumbnail" tvg-language="eng",Tumble Down Town (1933)
 https://archive.org/download/tumble-down-town-1933/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-wind-jammers-1926" tvg-name="The Wind Jammers (1926)" tvg-logo="https://archive.org/download/the-wind-jammers-1926/format=Thumbnail" tvg-language="eng",The Wind Jammers (1926)
 https://archive.org/download/the-wind-jammers-1926/format=MPEG4
@@ -5047,7 +5049,7 @@ https://archive.org/download/indian-whoopee-1933/format=MPEG4
 https://archive.org/download/galloping-fanny-1933/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="goode-knight-1934" tvg-name="Goode Knight (1934)" tvg-logo="https://archive.org/download/goode-knight-1934/format=Thumbnail" tvg-language="eng",Goode Knight (1934)
 https://archive.org/download/goode-knight-1934/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="fresh-ham-1933" tvg-logo="https://archive.org/download/fresh-ham-1933/format=Thumbnail" tvg-language="eng",Fresh Ham (1933)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="fresh-ham-1933" tvg-name="Fresh Ham (1933)" tvg-logo="https://archive.org/download/fresh-ham-1933/format=Thumbnail" tvg-language="eng",Fresh Ham (1933)
 https://archive.org/download/fresh-ham-1933/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="fiddlin-fun-1934" tvg-logo="https://archive.org/download/fiddlin-fun-1934/format=Thumbnail" tvg-language="eng",Fiddlin' Fun (1934)
 https://archive.org/download/fiddlin-fun-1934/format=MPEG4
@@ -5111,7 +5113,7 @@ https://archive.org/download/all-wet-1927/format=MPEG4
 https://archive.org/download/tall-timber-1928/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="sleigh-bells-1928" tvg-name="Sleigh Bells (1928)" tvg-logo="https://archive.org/download/sleigh-bells-1928/format=Thumbnail" tvg-language="eng",Sleigh Bells (1928)
 https://archive.org/download/sleigh-bells-1928/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="hungry-hoboes-1928_202502" tvg-logo="https://archive.org/download/hungry-hoboes-1928_202502/format=Thumbnail" tvg-language="eng",Hungry Hoboes (1928)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="hungry-hoboes-1928_202502" tvg-name="Hungry Hoboes (1928)" tvg-logo="https://archive.org/download/hungry-hoboes-1928_202502/format=Thumbnail" tvg-language="eng",Hungry Hoboes (1928)
 https://archive.org/download/hungry-hoboes-1928_202502/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="africa-before-dark-1928" tvg-name="Africa Before Dark (1928)" tvg-logo="https://archive.org/download/africa-before-dark-1928/format=Thumbnail" tvg-language="eng",Africa Before Dark (1928)
 https://archive.org/download/africa-before-dark-1928/format=MPEG4
@@ -5119,7 +5121,7 @@ https://archive.org/download/africa-before-dark-1928/format=MPEG4
 https://archive.org/download/the-fox-chase-1928/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="oh-what-a-knight-1928" tvg-logo="https://archive.org/download/oh-what-a-knight-1928/format=Thumbnail" tvg-language="eng",Oh What a Knight (1928)
 https://archive.org/download/oh-what-a-knight-1928/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="ozzie-of-the-mounted-1928" tvg-logo="https://archive.org/download/ozzie-of-the-mounted-1928/format=Thumbnail" tvg-language="eng",Ozzie of the Mounted (1928)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="ozzie-of-the-mounted-1928" tvg-name="Ozzie of the Mounted (1928)" tvg-logo="https://archive.org/download/ozzie-of-the-mounted-1928/format=Thumbnail" tvg-language="eng",Ozzie of the Mounted (1928)
 https://archive.org/download/ozzie-of-the-mounted-1928/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="trolley-troubles-1927" tvg-logo="https://archive.org/download/trolley-troubles-1927/format=Thumbnail" tvg-language="eng",Trolley Troubles (1927)
 https://archive.org/download/trolley-troubles-1927/format=MPEG4
@@ -5127,7 +5129,7 @@ https://archive.org/download/trolley-troubles-1927/format=MPEG4
 https://archive.org/download/bright-lights-1928/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="rival-romeos-1928" tvg-name="Rival Romeos (1928)" tvg-logo="https://archive.org/download/rival-romeos-1928/format=Thumbnail" tvg-language="eng",Rival Romeos (1928)
 https://archive.org/download/rival-romeos-1928/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-ol-swimmin-hole-1928" tvg-logo="https://archive.org/download/the-ol-swimmin-hole-1928/format=Thumbnail" tvg-language="eng",The Ol' Swimmin' Hole (1928)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-ol-swimmin-hole-1928" tvg-name="The Ol' Swimmin' Hole (1928)" tvg-logo="https://archive.org/download/the-ol-swimmin-hole-1928/format=Thumbnail" tvg-language="eng",The Ol' Swimmin' Hole (1928)
 https://archive.org/download/the-ol-swimmin-hole-1928/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="oswald-the-lucky-rabbit-neck-n-neck-1928" tvg-name="Oswald the Lucky Rabbit Neck 'n' Neck (1928)" tvg-logo="https://archive.org/download/oswald-the-lucky-rabbit-neck-n-neck-1928/format=Thumbnail" tvg-language="eng",Oswald the Lucky Rabbit Neck 'n' Neck (1928)
 https://archive.org/download/oswald-the-lucky-rabbit-neck-n-neck-1928/format=MPEG4
@@ -5173,7 +5175,7 @@ https://archive.org/download/alice-solves-the-puzzle-1925/format=MPEG4
 https://archive.org/download/little-red-riding-hood-1922_202501/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="alice-on-the-farm-1926" tvg-name="Alice on the Farm (1926)" tvg-logo="https://archive.org/download/alice-on-the-farm-1926/format=Thumbnail" tvg-language="eng",Alice on the Farm (1926)
 https://archive.org/download/alice-on-the-farm-1926/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="little-red-riding-hood-1922" tvg-logo="https://archive.org/download/little-red-riding-hood-1922/format=Thumbnail" tvg-language="eng",Little Red Riding Hood (1922)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="little-red-riding-hood-1922" tvg-name="Little Red Riding Hood (1922)" tvg-logo="https://archive.org/download/little-red-riding-hood-1922/format=Thumbnail" tvg-language="eng",Little Red Riding Hood (1922)
 https://archive.org/download/little-red-riding-hood-1922/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="alices-wild-west-show-1924" tvg-name="Alice's Wild West Show (1924)" tvg-logo="https://archive.org/download/alices-wild-west-show-1924/format=Thumbnail" tvg-language="eng",Alice's Wild West Show (1924)
 https://archive.org/download/alices-wild-west-show-1924/format=MPEG4
@@ -5281,7 +5283,7 @@ https://archive.org/download/gumshoe-magoo-1958/format=MPEG4
 https://archive.org/download/bwana-magoo-1959/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="when-magoo-flew-1954" tvg-name="When Magoo Flew (1954)" tvg-logo="https://archive.org/download/when-magoo-flew-1954/format=Thumbnail" tvg-language="eng",When Magoo Flew (1954)
 https://archive.org/download/when-magoo-flew-1954/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="trailblazer-magoo-1956" tvg-logo="https://archive.org/download/trailblazer-magoo-1956/format=Thumbnail" tvg-language="eng",Trailblazer Magoo (1956)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="trailblazer-magoo-1956" tvg-name="Trailblazer Magoo (1956)" tvg-logo="https://archive.org/download/trailblazer-magoo-1956/format=Thumbnail" tvg-language="eng",Trailblazer Magoo (1956)
 https://archive.org/download/trailblazer-magoo-1956/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="rock-hound-magoo-1957" tvg-logo="https://archive.org/download/rock-hound-magoo-1957/format=Thumbnail" tvg-language="eng",Rock-Hound Magoo (1957)
 https://archive.org/download/rock-hound-magoo-1957/format=MPEG4
@@ -5353,7 +5355,7 @@ https://archive.org/download/barefaced-flatfoot-1951/format=MPEG4
 https://archive.org/download/de-oldify-paris-expo-v-1-1080p-ai-p-3-1900/format=MPEG4
 #EXTINF:-1 group-title="Colorized-movies" tvg-id="dragonwyck-colorized-1946-720p" tvg-logo="https://archive.org/download/dragonwyck-colorized-1946-720p/format=Thumbnail" tvg-language="eng",Dragonwyck (Colorized‚ 1946) 720p
 https://archive.org/download/dragonwyck-colorized-1946-720p/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="murder-a-la-mod-1968" tvg-name="Murder À La Mod 1968 Mystery:★★½ [1:20:24] Brian De Palma" tvg-logo="https://archive.org/download/murder-a-la-mod-1968/format=Thumbnail" tvg-language="eng",Murder À La Mod 1968 Mystery:★★½ [1:20:24] Brian De Palma
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="murder-a-la-mod-1968" tvg-logo="https://archive.org/download/murder-a-la-mod-1968/format=Thumbnail" tvg-language="eng",Murder À La Mod 1968 Mystery:★★½ [1:20:24] Brian De Palma
 https://archive.org/download/murder-a-la-mod-1968/format=MPEG4
 #EXTINF:-1 group-title="Colorized-movies" tvg-id="stagecoach-colorized-1939-720p" tvg-logo="https://archive.org/download/stagecoach-colorized-1939-720p/format=Thumbnail" tvg-language="eng",Stagecoach (Colorized‚ 1939) 720p
 https://archive.org/download/stagecoach-colorized-1939-720p/format=MPEG4
@@ -5489,7 +5491,7 @@ https://archive.org/download/pencil-mania-1932/format=MPEG4
 https://archive.org/download/happy-hoboes-1933/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="tightrope-tricks-1933" tvg-name="Tightrope Tricks (1933)" tvg-logo="https://archive.org/download/tightrope-tricks-1933/format=Thumbnail" tvg-language="eng",Tightrope Tricks (1933)
 https://archive.org/download/tightrope-tricks-1933/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="jolly-fish-1932" tvg-logo="https://archive.org/download/jolly-fish-1932/format=Thumbnail" tvg-language="eng",Jolly Fish (1932)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="jolly-fish-1932" tvg-name="Jolly Fish (1932)" tvg-logo="https://archive.org/download/jolly-fish-1932/format=Thumbnail" tvg-language="eng",Jolly Fish (1932)
 https://archive.org/download/jolly-fish-1932/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="a-spanish-twist-1932" tvg-name="A Spanish Twist (1932)" tvg-logo="https://archive.org/download/a-spanish-twist-1932/format=Thumbnail" tvg-language="eng",A Spanish Twist (1932)
 https://archive.org/download/a-spanish-twist-1932/format=MPEG4
@@ -5653,7 +5655,7 @@ https://archive.org/download/fright-from-wrong-1956/format=MPEG4
 https://archive.org/download/dutch-treat-1956/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="doing-whats-fright-1959" tvg-name="Doing What's Fright (1959)" tvg-logo="https://archive.org/download/doing-whats-fright-1959/format=Thumbnail" tvg-language="eng",Doing What's Fright (1959)
 https://archive.org/download/doing-whats-fright-1959/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="down-to-mirth-1959" tvg-logo="https://archive.org/download/down-to-mirth-1959/format=Thumbnail" tvg-language="eng",Down to Mirth (1959)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="down-to-mirth-1959" tvg-name="Down to Mirth (1959)" tvg-logo="https://archive.org/download/down-to-mirth-1959/format=Thumbnail" tvg-language="eng",Down to Mirth (1959)
 https://archive.org/download/down-to-mirth-1959/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="do-or-diet-1953" tvg-name="Do or Diet (1953)" tvg-logo="https://archive.org/download/do-or-diet-1953/format=Thumbnail" tvg-language="eng",Do or Diet (1953)
 https://archive.org/download/do-or-diet-1953/format=MPEG4
@@ -5673,7 +5675,7 @@ https://archive.org/download/by-the-old-mill-scream-1953/format=MPEG4
 https://archive.org/download/bull-fright-1955/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="boo-scout-1951" tvg-name="Boo Scout (1951)" tvg-logo="https://archive.org/download/boo-scout-1951/format=Thumbnail" tvg-language="eng",Boo Scout (1951)
 https://archive.org/download/boo-scout-1951/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="boos-and-arrows-1954" tvg-logo="https://archive.org/download/boos-and-arrows-1954/format=Thumbnail" tvg-language="eng",Boos and Arrows (1954)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="boos-and-arrows-1954" tvg-name="Boos and Arrows (1954)" tvg-logo="https://archive.org/download/boos-and-arrows-1954/format=Thumbnail" tvg-language="eng",Boos and Arrows (1954)
 https://archive.org/download/boos-and-arrows-1954/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="boo-bop-1957" tvg-name="Boo Bop (1957)" tvg-logo="https://archive.org/download/boo-bop-1957/format=Thumbnail" tvg-language="eng",Boo Bop (1957)
 https://archive.org/download/boo-bop-1957/format=MPEG4
@@ -6029,7 +6031,7 @@ https://archive.org/download/the-romance-of-seville_1929/format=MPEG4
 https://archive.org/download/the-mighty_1929/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-river_1929" tvg-name="The River" tvg-logo="https://archive.org/download/the-river_1929/format=Thumbnail" tvg-language="eng",The River (1929)
 https://archive.org/download/the-river_1929/format=MPEG4
-#EXTINF:-1 group-title="Comedy Films" tvg-id="the-skeleton-dance_1929" tvg-name="The Skeleton Dance" tvg-logo="https://archive.org/download/the-skeleton-dance_1929/format=Thumbnail" tvg-language="eng",The Skeleton Dance (1929)
+#EXTINF:-1 group-title="Comedy Films" tvg-id="the-skeleton-dance_1929" tvg-logo="https://archive.org/download/the-skeleton-dance_1929/format=Thumbnail" tvg-language="eng",The Skeleton Dance
 https://archive.org/download/the-skeleton-dance_1929/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-mysterious-dr-fu-manchu_1929" tvg-name="The Mysterious Dr. Fu Manchu" tvg-logo="https://archive.org/download/the-mysterious-dr-fu-manchu_1929/format=Thumbnail" tvg-language="eng",The Mysterious Dr. Fu Manchu (1929)
 https://archive.org/download/the-mysterious-dr-fu-manchu_1929/format=MPEG4
@@ -6179,7 +6181,7 @@ https://archive.org/download/high-treason_1929/format=MPEG4
 https://archive.org/download/half-marriage_1929/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="high-voltage_1929" tvg-name="High Voltage" tvg-logo="https://archive.org/download/high-voltage_1929/format=Thumbnail" tvg-language="eng",High Voltage (1929)
 https://archive.org/download/high-voltage_1929/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="jack-white-with-the-montrealers_1929" tvg-logo="https://archive.org/download/jack-white-with-the-montrealers_1929/format=Thumbnail" tvg-language="eng",Jack White with the Montrealers
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="jack-white-with-the-montrealers_1929" tvg-name="Jack White with the Montrealers" tvg-logo="https://archive.org/download/jack-white-with-the-montrealers_1929/format=Thumbnail" tvg-language="eng",Jack White with the Montrealers (1929)
 https://archive.org/download/jack-white-with-the-montrealers_1929/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="her-private-affair_1929" tvg-name="Her Private Affair" tvg-logo="https://archive.org/download/her-private-affair_1929/format=Thumbnail" tvg-language="eng",Her Private Affair (1929)
 https://archive.org/download/her-private-affair_1929/format=MPEG4
@@ -6213,7 +6215,7 @@ https://archive.org/download/chinatown-nights_1929/format=MPEG4
 https://archive.org/download/charming-sinners_1929/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="broadway_1929" tvg-name="Broadway" tvg-logo="https://archive.org/download/broadway_1929/format=Thumbnail" tvg-language="eng",Broadway (1929)
 https://archive.org/download/broadway_1929/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="bulldog-drummond_1929" tvg-logo="https://archive.org/download/bulldog-drummond_1929/format=Thumbnail" tvg-language="eng",Bulldog Drummond
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="bulldog-drummond_1929" tvg-name="Bulldog Drummond" tvg-logo="https://archive.org/download/bulldog-drummond_1929/format=Thumbnail" tvg-language="eng",Bulldog Drummond (1929)
 https://archive.org/download/bulldog-drummond_1929/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="border-romance_1929" tvg-name="Border Romance" tvg-logo="https://archive.org/download/border-romance_1929/format=Thumbnail" tvg-language="eng",Border Romance (1929)
 https://archive.org/download/border-romance_1929/format=MPEG4
@@ -6451,7 +6453,7 @@ https://archive.org/download/the-helpful-geni-1951/format=MPEG4
 https://archive.org/download/pastry-panic-1951/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="little-problems-1951" tvg-name="Little Problems (1951)" tvg-logo="https://archive.org/download/little-problems-1951/format=Thumbnail" tvg-language="eng",Little Problems (1951)
 https://archive.org/download/little-problems-1951/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="steeple-jacks-1951" tvg-logo="https://archive.org/download/steeple-jacks-1951/format=Thumbnail" tvg-language="eng",Steeple Jacks (1951)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="steeple-jacks-1951" tvg-name="Steeple Jacks (1951)" tvg-logo="https://archive.org/download/steeple-jacks-1951/format=Thumbnail" tvg-language="eng",Steeple Jacks (1951)
 https://archive.org/download/steeple-jacks-1951/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="a-swiss-miss-1951" tvg-name="A Swiss Miss (1951)" tvg-logo="https://archive.org/download/a-swiss-miss-1951/format=Thumbnail" tvg-language="eng",A Swiss Miss (1951)
 https://archive.org/download/a-swiss-miss-1951/format=MPEG4
@@ -6475,7 +6477,7 @@ https://archive.org/download/spring-fever-1951/format=MPEG4
 https://archive.org/download/musical-madness-1951/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="life-on-earth_202411" tvg-logo="https://archive.org/download/life-on-earth_202411/format=Thumbnail" tvg-language="eng",Life on Earth
 https://archive.org/download/life-on-earth_202411/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-life-of-mammals" tvg-name="The Life of Mammals" tvg-logo="https://archive.org/download/the-life-of-mammals/format=Thumbnail" tvg-language="eng",The Life of Mammals (2002)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-life-of-mammals" tvg-logo="https://archive.org/download/the-life-of-mammals/format=Thumbnail" tvg-language="eng",The Life of Mammals
 https://archive.org/download/the-life-of-mammals/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="gonks-go-beat-1964-kenneth-conner-terry-scott-barbara-brown-elaine-thompson-lulu" tvg-name="Gonk's Go Beat 1964 Kenneth Conner‚ Terry Scott‚ Barbara Brown‚ Elaine Thompson‚ Lulu‚ Nashville Teens‚ Trolls‚ Ginger Baker‚ Pamela Donald‚ Gabriella Lewis + Robert Hartford Davis" tvg-logo="https://archive.org/download/gonks-go-beat-1964-kenneth-conner-terry-scott-barbara-brown-elaine-thompson-lulu/format=Thumbnail" tvg-language="eng",Gonk's Go Beat 1964 Kenneth Conner‚ Terry Scott‚ Barbara Brown‚ Elaine Thompson‚ Lulu‚ Nashville Teens‚ Trolls‚ Ginger Baker‚ Pamela Donald‚ Gabriella Lewis + Robert Hartford Davis
 https://archive.org/download/gonks-go-beat-1964-kenneth-conner-terry-scott-barbara-brown-elaine-thompson-lulu/format=MPEG4
@@ -6613,7 +6615,7 @@ https://archive.org/download/arret-1948/format=h.264
 https://archive.org/download/twilight-girls-the-les-collegiennes-1957-gaby-morlay-henri-guisol-marie-helene-a/format=h.264
 #EXTINF:-1 group-title="Comedy Films" tvg-id="games-girls-play-the-bunny-caper-1974-christina-hart-eunice-black-harry-towb-bob" tvg-name="Games Girls Play‚ The Bunny Caper 1974 Christina Hart‚ Eunice Black‚ Harry Towb‚ Bobby Sparrow‚ Jill Damas‚ Oliver Gilbert‚ Ric Young‚ Sarah Brackett‚ Erin Geraghty + Jack Arnold" tvg-logo="https://archive.org/download/games-girls-play-the-bunny-caper-1974-christina-hart-eunice-black-harry-towb-bob/format=Thumbnail" tvg-language="eng",Games Girls Play‚ The Bunny Caper 1974 Christina Hart‚ Eunice Black‚ Harry Towb‚ Bobby Sparrow‚ Jill Damas‚ Oliver Gilbert‚ Ric Young‚ Sarah Brackett‚ Erin Geraghty + Jack Arnold
 https://archive.org/download/games-girls-play-the-bunny-caper-1974-christina-hart-eunice-black-harry-towb-bob/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="flying-cups-and-saucers-1949" tvg-logo="https://archive.org/download/flying-cups-and-saucers-1949/format=Thumbnail" tvg-language="eng",Flying Cups and Saucers (1949)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="flying-cups-and-saucers-1949" tvg-name="Flying Cups and Saucers (1949)" tvg-logo="https://archive.org/download/flying-cups-and-saucers-1949/format=Thumbnail" tvg-language="eng",Flying Cups and Saucers (1949)
 https://archive.org/download/flying-cups-and-saucers-1949/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="dancing-shoes-1949" tvg-name="Dancing Shoes (1949)" tvg-logo="https://archive.org/download/dancing-shoes-1949/format=Thumbnail" tvg-language="eng",Dancing Shoes (1949)
 https://archive.org/download/dancing-shoes-1949/format=MPEG4
@@ -6797,11 +6799,11 @@ https://archive.org/download/mighty-mouse-and-the-kilkenny-cats-1945/format=MPEG
 https://archive.org/download/fishermans-luck-1945/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="post-war-inventions-1945" tvg-name="Post War Inventions (1945)" tvg-logo="https://archive.org/download/post-war-inventions-1945/format=Thumbnail" tvg-language="eng",Post War Inventions (1945)
 https://archive.org/download/post-war-inventions-1945/format=MPEG4
-#EXTINF:-1 group-title="Comedy Films" tvg-id="computer-wore-tennis-shoes" tvg-logo="https://archive.org/download/computer-wore-tennis-shoes/format=Thumbnail" tvg-language="eng",The Computer Wore Tennis Shoes • And TV Remake
+#EXTINF:-1 group-title="Comedy Films" tvg-id="computer-wore-tennis-shoes" tvg-name="The Computer Wore Tennis Shoes • And TV Remake" tvg-logo="https://archive.org/download/computer-wore-tennis-shoes/format=Thumbnail" tvg-language="eng",The Computer Wore Tennis Shoes • And TV Remake (1969)
 https://archive.org/download/computer-wore-tennis-shoes/format=MPEG4
 #EXTINF:-1 group-title="Colorized-movies" tvg-id="superman-and-the-mole-men-1951_202409" tvg-name="SUPERMAN AND THE MOLE MEN 1951 colorized" tvg-logo="https://archive.org/download/superman-and-the-mole-men-1951_202409/format=Thumbnail" tvg-language="eng",SUPERMAN AND THE MOLE MEN 1951 colorized
 https://archive.org/download/superman-and-the-mole-men-1951_202409/format=MPEG4
-#EXTINF:-1 group-title="Colorized-movies" tvg-id="reo-grande-1950" tvg-logo="https://archive.org/download/reo-grande-1950/format=Thumbnail" tvg-language="eng",REO GRANDE 1950 upgared colorized
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="reo-grande-1950" tvg-name="REO GRANDE 1950 upgared colorized" tvg-logo="https://archive.org/download/reo-grande-1950/format=Thumbnail" tvg-language="eng",REO GRANDE 1950 upgared colorized
 https://archive.org/download/reo-grande-1950/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="dear-old-switzerland-1944" tvg-name="Dear Old Switzerland ( 1944)" tvg-logo="https://archive.org/download/dear-old-switzerland-1944/format=Thumbnail" tvg-language="eng",Dear Old Switzerland (1944)
 https://archive.org/download/dear-old-switzerland-1944/format=MPEG4
@@ -6865,7 +6867,7 @@ https://archive.org/download/keep-em-growing-1943/format=MPEG4
 https://archive.org/download/pandoras-box-1943/format=MPEG4
 #EXTINF:-1 group-title="Film Noir" tvg-id="i-wake-up-screaming-1941" tvg-name="I Wake Up Screaming 1941 ★★★★ CC: Film Noir/Mystery [1:22:13] Nice Copy" tvg-logo="https://archive.org/download/i-wake-up-screaming-1941/format=Thumbnail" tvg-language="eng",I Wake Up Screaming 1941 ★★★★ CC: Film Noir/Mystery [1:22:13] Nice Copy
 https://archive.org/download/i-wake-up-screaming-1941/format=MPEG4
-#EXTINF:-1 group-title="Colorized-movies" tvg-id="monster-on-the-campus-1958" tvg-name="MONSTER ON THE CAMPUS 1958 colorized" tvg-logo="https://archive.org/download/monster-on-the-campus-1958/format=Thumbnail" tvg-language="eng",MONSTER ON THE CAMPUS 1958 colorized
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="monster-on-the-campus-1958" tvg-logo="https://archive.org/download/monster-on-the-campus-1958/format=Thumbnail" tvg-language="eng",MONSTER ON THE CAMPUS 1958 colorized
 https://archive.org/download/monster-on-the-campus-1958/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="shipyard-symphony-1943" tvg-logo="https://archive.org/download/shipyard-symphony-1943/format=Thumbnail" tvg-language="eng",Shipyard Symphony (1943)
 https://archive.org/download/shipyard-symphony-1943/format=MPEG4
@@ -6921,7 +6923,7 @@ https://archive.org/download/oh-gentle-spring-1942/format=MPEG4
 https://archive.org/download/sham-battle-shenanigans-1942/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="eat-me-kitty-eight-to-the-bar-1942" tvg-name="Eat Me Kitty‚ Eight to the Bar (1942)" tvg-logo="https://archive.org/download/eat-me-kitty-eight-to-the-bar-1942/format=Thumbnail" tvg-language="eng",Eat Me Kitty‚ Eight to the Bar (1942)
 https://archive.org/download/eat-me-kitty-eight-to-the-bar-1942/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="cat-meets-mouse-1942" tvg-logo="https://archive.org/download/cat-meets-mouse-1942/format=Thumbnail" tvg-language="eng",Cat Meets Mouse (1942)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="cat-meets-mouse-1942" tvg-name="Cat Meets Mouse (1942)" tvg-logo="https://archive.org/download/cat-meets-mouse-1942/format=Thumbnail" tvg-language="eng",Cat Meets Mouse (1942)
 https://archive.org/download/cat-meets-mouse-1942/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="a-torrid-toreador-1942" tvg-name="A Torrid Toreador (1942)" tvg-logo="https://archive.org/download/a-torrid-toreador-1942/format=Thumbnail" tvg-language="eng",A Torrid Toreador (1942)
 https://archive.org/download/a-torrid-toreador-1942/format=MPEG4
@@ -7073,7 +7075,7 @@ https://archive.org/download/anamorph-2007.-r-5.-xvi-d/format=h.264
 https://archive.org/download/after.-life-2010-dvdrip/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="a.-few.-best.-men.-2012.-dvdscr.-xvi-d-r" tvg-name="A. Few. Best. Men. 2012. DVDSCR. Xvi D ( R)" tvg-logo="https://archive.org/download/a.-few.-best.-men.-2012.-dvdscr.-xvi-d-r/format=Thumbnail" tvg-language="eng",A. Few. Best. Men. 2012. DVDSCR. Xvi D (R) (2011)
 https://archive.org/download/a.-few.-best.-men.-2012.-dvdscr.-xvi-d-r/format=h.264
-#EXTINF:-1 group-title="SciFi Horror" tvg-id="earth-vs.-the-spider-1958" tvg-logo="https://archive.org/download/earth-vs.-the-spider-1958/format=Thumbnail" tvg-language="eng",Earth Vs. The Spider 1958 ★★ CC: Sci-Fi/Horror [1:12:39]
+#EXTINF:-1 group-title="SciFi Horror" tvg-id="earth-vs.-the-spider-1958" tvg-name="Earth Vs. The Spider 1958 ★★ CC: Sci-Fi/Horror [1:12:39]" tvg-logo="https://archive.org/download/earth-vs.-the-spider-1958/format=Thumbnail" tvg-language="eng",Earth Vs. The Spider 1958 ★★ CC: Sci-Fi/Horror [1:12:39]
 https://archive.org/download/earth-vs.-the-spider-1958/format=MPEG4
 #EXTINF:-1 group-title="Colorized-movies" tvg-id="jungle-jim-in-the-forbidden-land-1952" tvg-name="JUNGLE JIM IN THE FORBIDDEN LAND 1952 colorized" tvg-logo="https://archive.org/download/jungle-jim-in-the-forbidden-land-1952/format=Thumbnail" tvg-language="eng",JUNGLE JIM IN THE FORBIDDEN LAND 1952 colorized
 https://archive.org/download/jungle-jim-in-the-forbidden-land-1952/format=MPEG4
@@ -7087,7 +7089,7 @@ https://archive.org/download/5-the-battle-of-russia/format=MPEG4
 https://archive.org/download/dead-girls-1990_202408/format=h.264
 #EXTINF:-1 group-title="Comedy Films" tvg-id="bikini-summer-worldmkv" tvg-name="Bikini Summer Trilogy (1991 - 1997) [worldmkv]" tvg-logo="https://archive.org/download/bikini-summer-worldmkv/format=Thumbnail" tvg-language="eng",Bikini Summer Trilogy (1991)
 https://archive.org/download/bikini-summer-worldmkv/format=h.264
-#EXTINF:-1 group-title="Comedy Films" tvg-id="bikini-summer-3-1997-dvdrip" tvg-logo="https://archive.org/download/bikini-summer-3-1997-dvdrip/format=Thumbnail" tvg-language="eng",Bikini Summer III: South Beach Heat (1997)
+#EXTINF:-1 group-title="Comedy Films" tvg-id="bikini-summer-3-1997-dvdrip" tvg-name="Bikini Summer III: South Beach Heat (1997)" tvg-logo="https://archive.org/download/bikini-summer-3-1997-dvdrip/format=Thumbnail" tvg-language="eng",Bikini Summer III: South Beach Heat (1997)
 https://archive.org/download/bikini-summer-3-1997-dvdrip/format=h.264
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="deadly-love-1987" tvg-logo="https://archive.org/download/deadly-love-1987/format=Thumbnail" tvg-language="eng",Deadly Love (1987)
 https://archive.org/download/deadly-love-1987/format=h.264
@@ -7163,7 +7165,7 @@ https://archive.org/download/cell-2455-death-row-1955/format=MPEG4
 https://archive.org/download/den-stora-stjarnparaden/format=h.264
 #EXTINF:-1 group-title="Film Noir" tvg-id="the-reckless-moment-1949_202408" tvg-name="The Reckless Moment 1949 ★★★½ CC: Film-noir/Drama James Mason‚ Joan Bennett [1:22:04]" tvg-logo="https://archive.org/download/the-reckless-moment-1949_202408/format=Thumbnail" tvg-language="eng",The Reckless Moment 1949 ★★★½ CC: Film-noir/Drama James Mason‚ Joan Bennett [1:22:04]
 https://archive.org/download/the-reckless-moment-1949_202408/format=MPEG4
-#EXTINF:-1 group-title="SciFi Horror" tvg-id="jennifer-1978-1080p" tvg-name="Jennifer.1978.1080p.BluRay.DTS-HD.x264-BARC0DE" tvg-logo="https://archive.org/download/jennifer-1978-1080p/format=Thumbnail" tvg-language="eng",Jennifer.1978.1080p.BluRay.DTS-HD.x264-BARC0DE
+#EXTINF:-1 group-title="SciFi Horror" tvg-id="jennifer-1978-1080p" tvg-logo="https://archive.org/download/jennifer-1978-1080p/format=Thumbnail" tvg-language="eng",Jennifer.1978.1080p.BluRay.DTS-HD.x264-BARC0DE
 https://archive.org/download/jennifer-1978-1080p/format=h.264
 #EXTINF:-1 group-title="Colorized-movies" tvg-id="jungle-manhunt-1951" tvg-name="JUNGLE MANHUNT ( 1951) colorized" tvg-logo="https://archive.org/download/jungle-manhunt-1951/format=Thumbnail" tvg-language="eng",JUNGLE MANHUNT (1951)
 https://archive.org/download/jungle-manhunt-1951/format=MPEG4
@@ -7171,7 +7173,7 @@ https://archive.org/download/jungle-manhunt-1951/format=MPEG4
 https://archive.org/download/slumber.-party.-massacre.-iii.-1990.-unrated.-720p.-blu-ray.x-264-sadpanda/format=h.264
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="the-last-slumber-party-riff" tvg-logo="https://archive.org/download/the-last-slumber-party-riff/format=Thumbnail" tvg-language="eng",The Last Slumber Party (1988)
 https://archive.org/download/the-last-slumber-party-riff/format=h.264
-#EXTINF:-1 group-title="SciFi Horror" tvg-id="the-thirsty-dead-1974" tvg-name="The Thirsty Dead 1974" tvg-logo="https://archive.org/download/the-thirsty-dead-1974/format=Thumbnail" tvg-language="eng",The Thirsty Dead 1974
+#EXTINF:-1 group-title="SciFi Horror" tvg-id="the-thirsty-dead-1974" tvg-logo="https://archive.org/download/the-thirsty-dead-1974/format=Thumbnail" tvg-language="eng",The Thirsty Dead 1974
 https://archive.org/download/the-thirsty-dead-1974/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="nicks-coffee-pot-1939" tvg-name="Nick's Coffee Pot (1939)" tvg-logo="https://archive.org/download/nicks-coffee-pot-1939/format=Thumbnail" tvg-language="eng",Nick's Coffee Pot (1939)
 https://archive.org/download/nicks-coffee-pot-1939/format=MPEG4
@@ -7319,7 +7321,7 @@ https://archive.org/download/th-manster-1959/format=MPEG4
 https://archive.org/download/deadly-inheritance-1968/format=MPEG4
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="crimes-of-the-black-cat-1972" tvg-logo="https://archive.org/download/crimes-of-the-black-cat-1972/format=Thumbnail" tvg-language="eng",Crimes Of The Black Cat 1972
 https://archive.org/download/crimes-of-the-black-cat-1972/format=MPEG4
-#EXTINF:-1 group-title="SciFi Horror" tvg-id="blood-and-black-lace-1964_202407" tvg-name="Blood And Black Lace 1964" tvg-logo="https://archive.org/download/blood-and-black-lace-1964_202407/format=Thumbnail" tvg-language="eng",Blood And Black Lace 1964
+#EXTINF:-1 group-title="SciFi Horror" tvg-id="blood-and-black-lace-1964_202407" tvg-logo="https://archive.org/download/blood-and-black-lace-1964_202407/format=Thumbnail" tvg-language="eng",Blood And Black Lace 1964
 https://archive.org/download/blood-and-black-lace-1964_202407/format=MPEG4
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="blue-eyes-of-the-broken-doll-1973" tvg-name="Blue Eyes Of The Broken Doll 1973" tvg-logo="https://archive.org/download/blue-eyes-of-the-broken-doll-1973/format=Thumbnail" tvg-language="eng",Blue Eyes Of The Broken Doll 1973
 https://archive.org/download/blue-eyes-of-the-broken-doll-1973/format=MPEG4
@@ -7357,7 +7359,7 @@ https://archive.org/download/a-tough-egg-1936/format=MPEG4
 https://archive.org/download/the-sailors-home-1936/format=MPEG4
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="the-new-york-ripper-1982_202407" tvg-logo="https://archive.org/download/the-new-york-ripper-1982_202407/format=Thumbnail" tvg-language="eng",The New York Ripper 1982
 https://archive.org/download/the-new-york-ripper-1982_202407/format=MPEG4
-#EXTINF:-1 group-title="SciFi Horror" tvg-id="what-have-they-done-to-your-daughters-1974" tvg-name="What Have They Done To Your Daughters 1974" tvg-logo="https://archive.org/download/what-have-they-done-to-your-daughters-1974/format=Thumbnail" tvg-language="eng",What Have They Done To Your Daughters 1974
+#EXTINF:-1 group-title="SciFi Horror" tvg-id="what-have-they-done-to-your-daughters-1974" tvg-logo="https://archive.org/download/what-have-they-done-to-your-daughters-1974/format=Thumbnail" tvg-language="eng",What Have They Done To Your Daughters 1974
 https://archive.org/download/what-have-they-done-to-your-daughters-1974/format=MPEG4
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="torso-1973_202407" tvg-logo="https://archive.org/download/torso-1973_202407/format=Thumbnail" tvg-language="eng",Torso 1973
 https://archive.org/download/torso-1973_202407/format=MPEG4
@@ -7759,11 +7761,11 @@ https://archive.org/download/de-oldify-new-york-manhattan-waterfront-1080p-s-ai-
 https://archive.org/download/ord-i-rattan-tid/format=h.264
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="from-beyond-the-grave-1974" tvg-logo="https://archive.org/download/from-beyond-the-grave-1974/format=Thumbnail" tvg-language="eng",From Beyond The Grave 1974
 https://archive.org/download/from-beyond-the-grave-1974/format=MPEG4
-#EXTINF:-1 group-title="Colorized-movies" tvg-id="house-of-drcula-1945" tvg-logo="https://archive.org/download/house-of-drcula-1945/format=Thumbnail" tvg-language="eng",HOUSE OF DRCULA 1945 colorized
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="house-of-drcula-1945" tvg-name="HOUSE OF DRCULA 1945 colorized" tvg-logo="https://archive.org/download/house-of-drcula-1945/format=Thumbnail" tvg-language="eng",HOUSE OF DRCULA 1945 colorized
 https://archive.org/download/house-of-drcula-1945/format=MPEG4
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="vampire-circus-1972_202406" tvg-logo="https://archive.org/download/vampire-circus-1972_202406/format=Thumbnail" tvg-language="eng",Vampire Circus 1972
 https://archive.org/download/vampire-circus-1972_202406/format=MPEG4
-#EXTINF:-1 group-title="SciFi Horror" tvg-id="countess-dracula-1971_20240614" tvg-name="Countess Dracula 1971" tvg-logo="https://archive.org/download/countess-dracula-1971_20240614/format=Thumbnail" tvg-language="eng",Countess Dracula 1971
+#EXTINF:-1 group-title="SciFi Horror" tvg-id="countess-dracula-1971_20240614" tvg-logo="https://archive.org/download/countess-dracula-1971_20240614/format=Thumbnail" tvg-language="eng",Countess Dracula 1971
 https://archive.org/download/countess-dracula-1971_20240614/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-mummy-strikes-1943" tvg-name="The Mummy Strikes (1943)" tvg-logo="https://archive.org/download/the-mummy-strikes-1943/format=Thumbnail" tvg-language="eng",The Mummy Strikes (1943)
 https://archive.org/download/the-mummy-strikes-1943/format=MPEG4
@@ -7791,7 +7793,7 @@ https://archive.org/download/jungle-drums-1943/format=MPEG4
 https://archive.org/download/eleventh-hour-1942/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="destruction-inc.-1942_202406" tvg-name="Destruction Inc. (1942)" tvg-logo="https://archive.org/download/destruction-inc.-1942_202406/format=Thumbnail" tvg-language="eng",Destruction Inc. (1942)
 https://archive.org/download/destruction-inc.-1942_202406/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="superman-1941_202406" tvg-name="Superman (1941)" tvg-logo="https://archive.org/download/superman-1941_202406/format=Thumbnail" tvg-language="eng",Superman (1941)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="superman-1941_202406" tvg-logo="https://archive.org/download/superman-1941_202406/format=Thumbnail" tvg-language="eng",Superman (1941)
 https://archive.org/download/superman-1941_202406/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="billion-dollar-limited-1942" tvg-name="Billion Dollar Limited (1942)" tvg-logo="https://archive.org/download/billion-dollar-limited-1942/format=Thumbnail" tvg-language="eng",Billion Dollar Limited (1942)
 https://archive.org/download/billion-dollar-limited-1942/format=MPEG4
@@ -8103,7 +8105,7 @@ https://archive.org/download/the-fat-man-1951-colorized-movie-720p-hd/format=h.2
 https://archive.org/download/the-fall-of-the-house-of-usher-1928-colorized-movie-720p-hd/format=h.264
 #EXTINF:-1 group-title="Colorized-movies" tvg-id="the-embezzler-1954-colorized-movie-720p-hd" tvg-logo="https://archive.org/download/the-embezzler-1954-colorized-movie-720p-hd/format=Thumbnail" tvg-language="eng",The Embezzler (restored‚ colorized) (1954)
 https://archive.org/download/the-embezzler-1954-colorized-movie-720p-hd/format=h.264
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="Utrikeskorrespondenten" tvg-logo="https://archive.org/download/Utrikeskorrespondenten/format=Thumbnail" tvg-language="eng",Utrikeskorrespondenten (1940)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="Utrikeskorrespondenten" tvg-name="Utrikeskorrespondenten (1940)" tvg-logo="https://archive.org/download/Utrikeskorrespondenten/format=Thumbnail" tvg-language="eng",Utrikeskorrespondenten (1940) (1941)
 https://archive.org/download/Utrikeskorrespondenten/format=h.264
 #EXTINF:-1 group-title="Colorized-movies" tvg-id="the-boy-who-stole-a-million-1960-colorized-movie-720p-hd" tvg-name="The Boy Who Stole a Million (restored‚ colorized) (1960‚ adventure‚ imdb score: 5.7)" tvg-logo="https://archive.org/download/the-boy-who-stole-a-million-1960-colorized-movie-720p-hd/format=Thumbnail" tvg-language="eng",The Boy Who Stole a Million (restored‚ colorized) (1960)
 https://archive.org/download/the-boy-who-stole-a-million-1960-colorized-movie-720p-hd/format=h.264
@@ -8255,7 +8257,7 @@ https://archive.org/download/the-hyp-nut-tist-1935/format=MPEG4
 https://archive.org/download/pleased-to-meet-cha-1935/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="be-kind-to-aminals-1935" tvg-name="Be Kind to 'Aminals' (1935)" tvg-logo="https://archive.org/download/be-kind-to-aminals-1935/format=Thumbnail" tvg-language="eng",Be Kind to 'Aminals' (1935)
 https://archive.org/download/be-kind-to-aminals-1935/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="beware-of-barnacle-bill-1935" tvg-logo="https://archive.org/download/beware-of-barnacle-bill-1935/format=Thumbnail" tvg-language="eng",Beware of Barnacle Bill (1935)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="beware-of-barnacle-bill-1935" tvg-name="Beware of Barnacle Bill (1935)" tvg-logo="https://archive.org/download/beware-of-barnacle-bill-1935/format=Thumbnail" tvg-language="eng",Beware of Barnacle Bill (1935)
 https://archive.org/download/beware-of-barnacle-bill-1935/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="we-aim-to-please-1934" tvg-name="We Aim to Please (1934)" tvg-logo="https://archive.org/download/we-aim-to-please-1934/format=Thumbnail" tvg-language="eng",We Aim to Please (1934)
 https://archive.org/download/we-aim-to-please-1934/format=MPEG4
@@ -8297,7 +8299,7 @@ https://archive.org/download/i-yam-what-i-yam-1933/format=MPEG4
 https://archive.org/download/popeye-the-sailor-1933_202405/format=MPEG4
 #EXTINF:-1 group-title="SciFi Horror" tvg-id="night-of-the-devils-1972" tvg-logo="https://archive.org/download/night-of-the-devils-1972/format=Thumbnail" tvg-language="eng",Night Of The Devils 1972
 https://archive.org/download/night-of-the-devils-1972/format=MPEG4
-#EXTINF:-1 group-title="SciFi Horror" tvg-id="hands-of-the-ripper-1971" tvg-name="Hands Of The Ripper 1971" tvg-logo="https://archive.org/download/hands-of-the-ripper-1971/format=Thumbnail" tvg-language="eng",Hands Of The Ripper 1971 (1972)
+#EXTINF:-1 group-title="SciFi Horror" tvg-id="hands-of-the-ripper-1971" tvg-logo="https://archive.org/download/hands-of-the-ripper-1971/format=Thumbnail" tvg-language="eng",Hands Of The Ripper 1971
 https://archive.org/download/hands-of-the-ripper-1971/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="fast-food-fast-women" tvg-name="Fast Food Fast Women (2000) - Amos Kollek Film" tvg-logo="https://archive.org/download/fast-food-fast-women/format=Thumbnail" tvg-language="eng",Fast Food Fast Women (2000)
 https://archive.org/download/fast-food-fast-women/format=MPEG4
@@ -8341,7 +8343,7 @@ https://archive.org/download/cagey-bird-1946/format=MPEG4
 https://archive.org/download/picnic-panic-1946/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="snap-happy-traps-1946" tvg-logo="https://archive.org/download/snap-happy-traps-1946/format=Thumbnail" tvg-language="eng",Snap Happy Traps (1946)
 https://archive.org/download/snap-happy-traps-1946/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="unsure-runts-1946" tvg-name="Unsure Runts (1946)" tvg-logo="https://archive.org/download/unsure-runts-1946/format=Thumbnail" tvg-language="eng",Unsure Runts (1946)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="unsure-runts-1946" tvg-logo="https://archive.org/download/unsure-runts-1946/format=Thumbnail" tvg-language="eng",Unsure Runts (1946)
 https://archive.org/download/unsure-runts-1946/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="polar-playmates-1946" tvg-name="Polar Playmates (1946)" tvg-logo="https://archive.org/download/polar-playmates-1946/format=Thumbnail" tvg-language="eng",Polar Playmates (1946)
 https://archive.org/download/polar-playmates-1946/format=MPEG4
@@ -8445,7 +8447,7 @@ https://archive.org/download/the-wallflower-1941/format=MPEG4
 https://archive.org/download/kitty-gets-the-bird-1941/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="tom-thumbs-brother-1941" tvg-name="Tom Thumb's Brother (1941)" tvg-logo="https://archive.org/download/tom-thumbs-brother-1941/format=Thumbnail" tvg-language="eng",Tom Thumb's Brother (1941)
 https://archive.org/download/tom-thumbs-brother-1941/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-intruder-1962-720p-blu-ray" tvg-name="The Intruder 1962: William Shatner [1:23:06] 720p Blu Ray" tvg-logo="https://archive.org/download/the-intruder-1962-720p-blu-ray/format=Thumbnail" tvg-language="eng",The Intruder 1962: William Shatner [1:23:06] 720p Blu Ray
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-intruder-1962-720p-blu-ray" tvg-logo="https://archive.org/download/the-intruder-1962-720p-blu-ray/format=Thumbnail" tvg-language="eng",The Intruder 1962: William Shatner [1:23:06] 720p Blu Ray
 https://archive.org/download/the-intruder-1962-720p-blu-ray/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="i-eat-your-skin-1964" tvg-logo="https://archive.org/download/i-eat-your-skin-1964/format=Thumbnail" tvg-language="eng",I Eat Your Skin 1964 Horror Restored BluRay [1:21:20]
 https://archive.org/download/i-eat-your-skin-1964/format=MPEG4
@@ -8663,7 +8665,7 @@ https://archive.org/download/scrappys-band-concert-1937/format=MPEG4
 https://archive.org/download/puttin-out-the-kitten-1937/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="merry-mannequins-1937" tvg-logo="https://archive.org/download/merry-mannequins-1937/format=Thumbnail" tvg-language="eng",Merry Mannequins (1937)
 https://archive.org/download/merry-mannequins-1937/format=MPEG4
-#EXTINF:-1 group-title="Colorized-movies" tvg-id="china-amazing-china-in-1917-1080p-s-ai-p-3-audio-1917" tvg-name="Amazing China in 1917 in color [AI enhanced and colorized]" tvg-logo="https://archive.org/download/china-amazing-china-in-1917-1080p-s-ai-p-3-audio-1917/format=Thumbnail" tvg-language="eng",Amazing China in 1917 in color [AI enhanced and colorized]
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="china-amazing-china-in-1917-1080p-s-ai-p-3-audio-1917" tvg-logo="https://archive.org/download/china-amazing-china-in-1917-1080p-s-ai-p-3-audio-1917/format=Thumbnail" tvg-language="eng",Amazing China in 1917 in color [AI enhanced and colorized]
 https://archive.org/download/china-amazing-china-in-1917-1080p-s-ai-p-3-audio-1917/format=MPEG4
 #EXTINF:-1 group-title="Film Noir" tvg-id="the-stranger-1946_202404" tvg-logo="https://archive.org/download/the-stranger-1946_202404/format=Thumbnail" tvg-language="eng",The Stranger: 1946 Film-Noir [1:34:04] Orson Welles‚ E.G. Robinson
 https://archive.org/download/the-stranger-1946_202404/format=MPEG4
@@ -8699,7 +8701,7 @@ https://archive.org/download/the-merry-mutineers-1936_202403/format=MPEG4
 https://archive.org/download/untrained-seal-1936/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-novelty-shop-1936" tvg-name="The Novelty Shop (1936)" tvg-logo="https://archive.org/download/the-novelty-shop-1936/format=Thumbnail" tvg-language="eng",The Novelty Shop (1936)
 https://archive.org/download/the-novelty-shop-1936/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="football-bugs-1936" tvg-logo="https://archive.org/download/football-bugs-1936/format=Thumbnail" tvg-language="eng",Football Bugs (1936)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="football-bugs-1936" tvg-name="Football Bugs (1936)" tvg-logo="https://archive.org/download/football-bugs-1936/format=Thumbnail" tvg-language="eng",Football Bugs (1936)
 https://archive.org/download/football-bugs-1936/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="highway-snobbery-1936" tvg-name="Highway Snobbery (1936)" tvg-logo="https://archive.org/download/highway-snobbery-1936/format=Thumbnail" tvg-language="eng",Highway Snobbery (1936)
 https://archive.org/download/highway-snobbery-1936/format=MPEG4
@@ -8715,7 +8717,7 @@ https://archive.org/download/scrappys-pony-1936/format=MPEG4
 https://archive.org/download/doctor-bluebird-1936/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-bird-stuffer-1936" tvg-logo="https://archive.org/download/the-bird-stuffer-1936/format=Thumbnail" tvg-language="eng",The Bird Stuffer (1936)
 https://archive.org/download/the-bird-stuffer-1936/format=MPEG4
-#EXTINF:-1 group-title="SciFi Horror" tvg-id="lp-473-pl_202403" tvg-logo="https://archive.org/download/lp-473-pl_202403/format=Thumbnail" tvg-language="eng",The Bride of Frankenstein. HD
+#EXTINF:-1 group-title="SciFi Horror" tvg-id="lp-473-pl_202403" tvg-name="The Bride of Frankenstein. HD" tvg-logo="https://archive.org/download/lp-473-pl_202403/format=Thumbnail" tvg-language="eng",The Bride of Frankenstein. HD (1935)
 https://archive.org/download/lp-473-pl_202403/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="scrappys-boy-scouts-1936" tvg-logo="https://archive.org/download/scrappys-boy-scouts-1936/format=Thumbnail" tvg-language="eng",Scrappy's Boy Scouts (1936)
 https://archive.org/download/scrappys-boy-scouts-1936/format=MPEG4
@@ -8795,7 +8797,7 @@ https://archive.org/download/cinder-alley-1934/format=MPEG4
 https://archive.org/download/southern-exposure-1934/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="tom-thumb-1934" tvg-logo="https://archive.org/download/tom-thumb-1934/format=Thumbnail" tvg-language="eng",Tom Thumb (1934)
 https://archive.org/download/tom-thumb-1934/format=MPEG4
-#EXTINF:-1 group-title="Colorized-movies" tvg-id="rose-of-washington-square-1939" tvg-name="Rose of Washington Square 1939 (Alice Faye‚ Tyrone Power‚ Al Jolson) colorized" tvg-logo="https://archive.org/download/rose-of-washington-square-1939/format=Thumbnail" tvg-language="eng",Rose of Washington Square 1939 (Alice Faye‚ Tyrone Power‚ Al Jolson) colorized
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="rose-of-washington-square-1939" tvg-logo="https://archive.org/download/rose-of-washington-square-1939/format=Thumbnail" tvg-language="eng",Rose of Washington Square 1939 (Alice Faye‚ Tyrone Power‚ Al Jolson) colorized
 https://archive.org/download/rose-of-washington-square-1939/format=MPEG4
 #EXTINF:-1 group-title="Colorized-movies" tvg-id="cross-examination-1932-colorized-movie-576p-sd" tvg-name="Cross Examination (restored‚ colorized) (1932‚ mystery‚ imdb score: 5.9)" tvg-logo="https://archive.org/download/cross-examination-1932-colorized-movie-576p-sd/format=Thumbnail" tvg-language="eng",Cross Examination (restored‚ colorized) (1932)
 https://archive.org/download/cross-examination-1932-colorized-movie-576p-sd/format=h.264
@@ -8817,7 +8819,7 @@ https://archive.org/download/the-crawling-eye-1956-colorized-movie-576p-sd/forma
 https://archive.org/download/broken-blossoms-1919-colorized-movie-720p-hd/format=h.264
 #EXTINF:-1 group-title="Colorized-movies" tvg-id="svengal-1931-colorized-movie-576p-sdi" tvg-logo="https://archive.org/download/svengal-1931-colorized-movie-576p-sdi/format=Thumbnail" tvg-language="eng",Svengali (restored‚ colorized) (1931)
 https://archive.org/download/svengal-1931-colorized-movie-576p-sdi/format=h.264
-#EXTINF:-1 group-title="Film Noir" tvg-id="borderline-1950-colorized-movie-576p-sd" tvg-name="Borderline (restored‚ colorized) (1950‚ noir‚ imdb score: 6.1)" tvg-logo="https://archive.org/download/borderline-1950-colorized-movie-576p-sd/format=Thumbnail" tvg-language="eng",Borderline (restored‚ colorized) (1950)
+#EXTINF:-1 group-title="Film Noir" tvg-id="borderline-1950-colorized-movie-576p-sd" tvg-logo="https://archive.org/download/borderline-1950-colorized-movie-576p-sd/format=Thumbnail" tvg-language="eng",Borderline (restored‚ colorized) (1950)
 https://archive.org/download/borderline-1950-colorized-movie-576p-sd/format=h.264
 #EXTINF:-1 group-title="Film Noir" tvg-id="quicksand-1950_202403" tvg-name="Quicksand {1950 Excellent Quality} Mickey Rooney‚ Jeanne Cagney‚ Peter Lorre & Barbara Bates" tvg-logo="https://archive.org/download/quicksand-1950_202403/format=Thumbnail" tvg-language="eng",Quicksand {1950 Excellent Quality} Mickey Rooney‚ Jeanne Cagney‚ Peter Lorre & Barbara Bates
 https://archive.org/download/quicksand-1950_202403/format=MPEG4
@@ -8905,7 +8907,7 @@ https://archive.org/download/lighthouse-keeping-1932/format=MPEG4
 https://archive.org/download/scarlet-street-1945.-hd/format=MPEG4
 #EXTINF:-1 group-title="Silent films" tvg-id="the-flying-ace-part-1" tvg-name="The Flying Ace Part 1. 1920 {All Black Cast Silent Film} 1:05:50" tvg-logo="https://archive.org/download/the-flying-ace-part-1/format=Thumbnail" tvg-language="eng",The Flying Ace Part 1. 1920 {All Black Cast Silent Film} 1:05:50
 https://archive.org/download/the-flying-ace-part-1/format=MPEG4
-#EXTINF:-1 group-title="Colorized-movies" tvg-id="science-fiction-theatre-season-2" tvg-name="Science Fiction Theatre season 2 eps 1-13 (1956) colorized" tvg-logo="https://archive.org/download/science-fiction-theatre-season-2/format=Thumbnail" tvg-language="eng",Science Fiction Theatre season 2 eps 1-13 (1956)
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="science-fiction-theatre-season-2" tvg-logo="https://archive.org/download/science-fiction-theatre-season-2/format=Thumbnail" tvg-language="eng",Science Fiction Theatre season 2 eps 1-13 (1956)
 https://archive.org/download/science-fiction-theatre-season-2/format=MPEG4
 #EXTINF:-1 group-title="Film Noir" tvg-id="great-guy-colorized-movie-720p-hd" tvg-name="Great Guy (colorized) (1936‚ crime‚ imdb score: 6.2)" tvg-logo="https://archive.org/download/great-guy-colorized-movie-720p-hd/format=Thumbnail" tvg-language="eng",Great Guy (colorized) (1936)
 https://archive.org/download/great-guy-colorized-movie-720p-hd/format=h.264
@@ -9127,7 +9129,7 @@ https://archive.org/download/de-oldify-hawaii-in-1906-various-edison-1080p-s-ai-
 https://archive.org/download/de-oldify-rotterdam-te-waterlating-en-het-onder-de-maasbruggen-doorslepen-van-80/format=MPEG4
 #EXTINF:-1 group-title="Colorized-movies" tvg-id="de-oldify-rotterdam-hoek-van-holland-parijs-en-londen-muller-en-co-audio-1080p-s-ai-1927" tvg-logo="https://archive.org/download/de-oldify-rotterdam-hoek-van-holland-parijs-en-londen-muller-en-co-audio-1080p-s-ai-1927/format=Thumbnail" tvg-language="eng",Rotterdam‚ Hoek van Holland‚ Paris & London (Müller en Co Shipping Co.) in 1927 in color!
 https://archive.org/download/de-oldify-rotterdam-hoek-van-holland-parijs-en-londen-muller-en-co-audio-1080p-s-ai-1927/format=MPEG4
-#EXTINF:-1 group-title="Colorized-movies" tvg-id="the-lady-vanishes-colorized-movie-720p-hd_202403" tvg-name="The Lady Vanishes (restored‚ colorized) (1938‚ Dir: Alfred Hitchcock‚ mystery‚ imdb score: 7.8)" tvg-logo="https://archive.org/download/the-lady-vanishes-colorized-movie-720p-hd_202403/format=Thumbnail" tvg-language="eng",The Lady Vanishes (restored‚ colorized) (1938)
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="the-lady-vanishes-colorized-movie-720p-hd_202403" tvg-logo="https://archive.org/download/the-lady-vanishes-colorized-movie-720p-hd_202403/format=Thumbnail" tvg-language="eng",The Lady Vanishes (restored‚ colorized) (1938)
 https://archive.org/download/the-lady-vanishes-colorized-movie-720p-hd_202403/format=h.264
 #EXTINF:-1 group-title="Colorized-movies" tvg-id="de-oldify-scheveningen-danseressen-op-het-strand-audio-1080p-s-ai-p-3-192x" tvg-logo="https://archive.org/download/de-oldify-scheveningen-danseressen-op-het-strand-audio-1080p-s-ai-p-3-192x/format=Thumbnail" tvg-language="eng",Het strand van Scheveningen en een dansgroep rond 1925 in kleur! Scheveningen beach in 1925 in color
 https://archive.org/download/de-oldify-scheveningen-danseressen-op-het-strand-audio-1080p-s-ai-p-3-192x/format=MPEG4
@@ -9237,7 +9239,7 @@ https://archive.org/download/making-friends-1936/format=MPEG4
 https://archive.org/download/training-pigeons-1936/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="happy-you-and-merry-me-1936" tvg-name="Happy You and Merry Me (1936)" tvg-logo="https://archive.org/download/happy-you-and-merry-me-1936/format=Thumbnail" tvg-language="eng",Happy You and Merry Me (1936)
 https://archive.org/download/happy-you-and-merry-me-1936/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="more-pep-1936" tvg-logo="https://archive.org/download/more-pep-1936/format=Thumbnail" tvg-language="eng",More Pep (1936)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="more-pep-1936" tvg-name="More Pep (1936)" tvg-logo="https://archive.org/download/more-pep-1936/format=Thumbnail" tvg-language="eng",More Pep (1936)
 https://archive.org/download/more-pep-1936/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="we-did-it-1936_202403" tvg-name="We Did It (1936)" tvg-logo="https://archive.org/download/we-did-it-1936_202403/format=Thumbnail" tvg-language="eng",We Did It (1936)
 https://archive.org/download/we-did-it-1936_202403/format=MPEG4
@@ -9287,7 +9289,7 @@ https://archive.org/download/ill-be-glad-when-youre-dead-you-rascal-you-1932/for
 https://archive.org/download/betty-boops-bizzy-bee-1932/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="stopping-the-show-1932" tvg-logo="https://archive.org/download/stopping-the-show-1932/format=Thumbnail" tvg-language="eng",Stopping the Show (1932)
 https://archive.org/download/stopping-the-show-1932/format=MPEG4
-#EXTINF:-1 group-title="Colorized-movies" tvg-id="popeye-colorized-collection" tvg-name="Popeye Colorized Collection (incomplete)" tvg-logo="https://archive.org/download/popeye-colorized-collection/format=Thumbnail" tvg-language="eng",Popeye Colorized Collection (incomplete) (1987)
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="popeye-colorized-collection" tvg-logo="https://archive.org/download/popeye-colorized-collection/format=Thumbnail" tvg-language="eng",Popeye Colorized Collection (incomplete)
 https://archive.org/download/popeye-colorized-collection/format=MPEG4
 #EXTINF:-1 group-title="Film Noir" tvg-id="undertow-1949-colorized-movie-720p-hd" tvg-name="Undertow (restored‚ colorized) (1949‚ film-noir‚ imdb score: 6.6)" tvg-logo="https://archive.org/download/undertow-1949-colorized-movie-720p-hd/format=Thumbnail" tvg-language="eng",Undertow (restored‚ colorized) (1949)
 https://archive.org/download/undertow-1949-colorized-movie-720p-hd/format=h.264
@@ -9455,7 +9457,7 @@ https://archive.org/download/robot-monster-1953-colorized-movie-576p-sd/format=h
 https://archive.org/download/de-oldify-barging-through-old-london-1080p-ai-1924/format=MPEG4
 #EXTINF:-1 group-title="Colorized-movies" tvg-id="spooks-run-wild-1941-colorized-movie-576p-sd" tvg-logo="https://archive.org/download/spooks-run-wild-1941-colorized-movie-576p-sd/format=Thumbnail" tvg-language="eng",Spooks Run Wild (restored‚ colorized) (1941)
 https://archive.org/download/spooks-run-wild-1941-colorized-movie-576p-sd/format=h.264
-#EXTINF:-1 group-title="Colorized-movies" tvg-id="the-ghoul-1933-colorized-movie-576p-sd" tvg-logo="https://archive.org/download/the-ghoul-1933-colorized-movie-576p-sd/format=Thumbnail" tvg-language="eng",The Ghoul (restored‚ colorized) (1933)
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="the-ghoul-1933-colorized-movie-576p-sd" tvg-name="The Ghoul (restored‚ colorized) (1933‚ horror‚ imdb score: 5.9)" tvg-logo="https://archive.org/download/the-ghoul-1933-colorized-movie-576p-sd/format=Thumbnail" tvg-language="eng",The Ghoul (restored‚ colorized) (1933)
 https://archive.org/download/the-ghoul-1933-colorized-movie-576p-sd/format=h.264
 #EXTINF:-1 group-title="Colorized-movies" tvg-id="hands-of-orlac-1924-colorized-movie-576p-sd" tvg-logo="https://archive.org/download/hands-of-orlac-1924-colorized-movie-576p-sd/format=Thumbnail" tvg-language="eng",The Hands of Orlac (restored‚ colorized) (1924)
 https://archive.org/download/hands-of-orlac-1924-colorized-movie-576p-sd/format=h.264
@@ -9545,7 +9547,7 @@ https://archive.org/download/the-ace-of-hearts-1921-colorized-movie-576p-sd/form
 https://archive.org/download/tobor-the-great-1954-colorized-movie-720p-hd/format=h.264
 #EXTINF:-1 group-title="Colorized-movies" tvg-id="the-thirteenth-guest-1932-colorized-movie-576p-sd" tvg-name="The Thirteenth Guest (restored‚ colorized) (1932‚ mystery‚ imdb score: 5.7)" tvg-logo="https://archive.org/download/the-thirteenth-guest-1932-colorized-movie-576p-sd/format=Thumbnail" tvg-language="eng",The Thirteenth Guest (restored‚ colorized) (1932)
 https://archive.org/download/the-thirteenth-guest-1932-colorized-movie-576p-sd/format=h.264
-#EXTINF:-1 group-title="Colorized-movies" tvg-id="he-who-gets-slapped-1924-colorized-movie-576p-sd" tvg-name="He Who Gets Slapped (restored‚ colorized) (1924‚ thriller‚ imdb score: 7.8)" tvg-logo="https://archive.org/download/he-who-gets-slapped-1924-colorized-movie-576p-sd/format=Thumbnail" tvg-language="eng",He Who Gets Slapped (restored‚ colorized) (1924)
+#EXTINF:-1 group-title="Colorized-movies" tvg-id="he-who-gets-slapped-1924-colorized-movie-576p-sd" tvg-logo="https://archive.org/download/he-who-gets-slapped-1924-colorized-movie-576p-sd/format=Thumbnail" tvg-language="eng",He Who Gets Slapped (restored‚ colorized) (1924)
 https://archive.org/download/he-who-gets-slapped-1924-colorized-movie-576p-sd/format=h.264
 #EXTINF:-1 group-title="Colorized-movies" tvg-id="bride-of-the-gorilla-colorized-movie-720p-hd" tvg-logo="https://archive.org/download/bride-of-the-gorilla-colorized-movie-720p-hd/format=Thumbnail" tvg-language="eng",Bride of the Gorilla (restored‚ colorized) (1951)
 https://archive.org/download/bride-of-the-gorilla-colorized-movie-720p-hd/format=h.264
@@ -9629,7 +9631,7 @@ https://archive.org/download/sensation-hunters-1945_202402/format=MPEG4
 https://archive.org/download/marked-men-1940/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-healer-1935" tvg-name="The Healer (1935)" tvg-logo="https://archive.org/download/the-healer-1935/format=Thumbnail" tvg-language="eng",The Healer (1935)
 https://archive.org/download/the-healer-1935/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="ercole-linvincibile-1964" tvg-logo="https://archive.org/download/ercole-linvincibile-1964/format=Thumbnail" tvg-language="eng",Ercole l'invincibile (1964)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="ercole-linvincibile-1964" tvg-name="Ercole l'invincibile (1964)" tvg-logo="https://archive.org/download/ercole-linvincibile-1964/format=Thumbnail" tvg-language="eng",Ercole l'invincibile (1964)
 https://archive.org/download/ercole-linvincibile-1964/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="outside-the-wall-1950" tvg-name="Outside the Wall (1950)" tvg-logo="https://archive.org/download/outside-the-wall-1950/format=Thumbnail" tvg-language="eng",Outside the Wall (1950)
 https://archive.org/download/outside-the-wall-1950/format=MPEG4
@@ -9857,7 +9859,7 @@ https://archive.org/download/the-hanged-man-1974/format=MPEG4
 https://archive.org/download/clouded-yellow-1950/format=MPEG4
 #EXTINF:-1 group-title="Colorized-movies" tvg-id="killers-1946" tvg-logo="https://archive.org/download/killers-1946/format=Thumbnail" tvg-language="eng",The Killers 1946 colorized (Burt Lancaster‚ Ava Gardner)
 https://archive.org/download/killers-1946/format=MPEG4
-#EXTINF:-1 group-title="Film Noir" tvg-id="the-best-feature-full-length-movies-on-youtube-n-english-21-21" tvg-logo="https://archive.org/download/the-best-feature-full-length-movies-on-youtube-n-english-21-21/format=Thumbnail" tvg-language="eng",THE BIG SLEEP 1978 Robert Mitchum
+#EXTINF:-1 group-title="Film Noir" tvg-id="the-best-feature-full-length-movies-on-youtube-n-english-21-21" tvg-name="THE BIG SLEEP 1978 Robert Mitchum" tvg-logo="https://archive.org/download/the-best-feature-full-length-movies-on-youtube-n-english-21-21/format=Thumbnail" tvg-language="eng",THE BIG SLEEP 1978 Robert Mitchum
 https://archive.org/download/the-best-feature-full-length-movies-on-youtube-n-english-21-21/format=MPEG4
 #EXTINF:-1 group-title="Film Noir" tvg-id="temptation-281946-29" tvg-name="TEMPTATION" tvg-logo="https://archive.org/download/temptation-281946-29/format=Thumbnail" tvg-language="eng",TEMPTATION (1946)
 https://archive.org/download/temptation-281946-29/format=MPEG4
@@ -9873,7 +9875,7 @@ https://archive.org/download/gold-1974_202401/format=MPEG4
 https://archive.org/download/il-grande-duello-1972/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="cathys-curse-1977_202401" tvg-name="Cathy's Curse (1977)" tvg-logo="https://archive.org/download/cathys-curse-1977_202401/format=Thumbnail" tvg-language="eng",Cathy's Curse (1977)
 https://archive.org/download/cathys-curse-1977_202401/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="embryo-1976_202401" tvg-logo="https://archive.org/download/embryo-1976_202401/format=Thumbnail" tvg-language="eng",Embryo (1976)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="embryo-1976_202401" tvg-name="Embryo (1976)" tvg-logo="https://archive.org/download/embryo-1976_202401/format=Thumbnail" tvg-language="eng",Embryo (1976)
 https://archive.org/download/embryo-1976_202401/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="drive-in-massacre-1977" tvg-name="Drive in Massacre (1977)" tvg-logo="https://archive.org/download/drive-in-massacre-1977/format=Thumbnail" tvg-language="eng",Drive in Massacre (1977) (1976)
 https://archive.org/download/drive-in-massacre-1977/format=MPEG4
@@ -9903,7 +9905,7 @@ https://archive.org/download/the-forest-1982/format=MPEG4
 https://archive.org/download/the-little-dragons-1979/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="absolution-1978" tvg-logo="https://archive.org/download/absolution-1978/format=Thumbnail" tvg-language="eng",Absolution (1978)
 https://archive.org/download/absolution-1978/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="hangar-18-1980" tvg-name="Hangar 18 (1980)" tvg-logo="https://archive.org/download/hangar-18-1980/format=Thumbnail" tvg-language="eng",Hangar 18 (1980)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="hangar-18-1980" tvg-logo="https://archive.org/download/hangar-18-1980/format=Thumbnail" tvg-language="eng",Hangar 18 (1980)
 https://archive.org/download/hangar-18-1980/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="dot-and-the-bunny-1983" tvg-name="Dot and the Bunny (1983)" tvg-logo="https://archive.org/download/dot-and-the-bunny-1983/format=Thumbnail" tvg-language="eng",Dot and the Bunny (1983)
 https://archive.org/download/dot-and-the-bunny-1983/format=MPEG4
@@ -9921,7 +9923,7 @@ https://archive.org/download/happy-go-lovely-1951_202401/format=MPEG4
 https://archive.org/download/chained-for-life-1952/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="comanche-blanco-1968" tvg-name="Comanche blanco (1968)" tvg-logo="https://archive.org/download/comanche-blanco-1968/format=Thumbnail" tvg-language="eng",Comanche blanco (1968)
 https://archive.org/download/comanche-blanco-1968/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="flop-goes-the-weasel-1943" tvg-logo="https://archive.org/download/flop-goes-the-weasel-1943/format=Thumbnail" tvg-language="eng",Flop Goes the Weasel (1943)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="flop-goes-the-weasel-1943" tvg-name="Flop Goes the Weasel (1943)" tvg-logo="https://archive.org/download/flop-goes-the-weasel-1943/format=Thumbnail" tvg-language="eng",Flop Goes the Weasel (1943)
 https://archive.org/download/flop-goes-the-weasel-1943/format=MPEG4
 #EXTINF:-1 group-title="Colorized-movies" tvg-id="salute-the-toff-1952" tvg-name="Salute the Toff 1952 colorized (John Bentley)" tvg-logo="https://archive.org/download/salute-the-toff-1952/format=Thumbnail" tvg-language="eng",Salute the Toff 1952 colorized (John Bentley)
 https://archive.org/download/salute-the-toff-1952/format=MPEG4
@@ -9929,7 +9931,7 @@ https://archive.org/download/salute-the-toff-1952/format=MPEG4
 https://archive.org/download/planet-outlaws-1953/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="ercole-alla-conquista-di-atlantide-1961" tvg-name="Ercole alla conquista di Atlantide (1961)" tvg-logo="https://archive.org/download/ercole-alla-conquista-di-atlantide-1961/format=Thumbnail" tvg-language="eng",Ercole alla conquista di Atlantide (1961)
 https://archive.org/download/ercole-alla-conquista-di-atlantide-1961/format=MPEG4
-#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-incredible-petrified-world-1959" tvg-name="The Incredible Petrified World (1959)" tvg-logo="https://archive.org/download/the-incredible-petrified-world-1959/format=Thumbnail" tvg-language="eng",The Incredible Petrified World (1959)
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-incredible-petrified-world-1959" tvg-logo="https://archive.org/download/the-incredible-petrified-world-1959/format=Thumbnail" tvg-language="eng",The Incredible Petrified World (1959)
 https://archive.org/download/the-incredible-petrified-world-1959/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-ballad-of-andy-crocker-1969" tvg-name="The Ballad of Andy Crocker (1969)" tvg-logo="https://archive.org/download/the-ballad-of-andy-crocker-1969/format=Thumbnail" tvg-language="eng",The Ballad of Andy Crocker (1969)
 https://archive.org/download/the-ballad-of-andy-crocker-1969/format=MPEG4
@@ -9939,5 +9941,3 @@ https://archive.org/download/the-amazing-transparent-man-1960_202401/format=MPEG
 https://archive.org/download/dark-journey-1937/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="space-men-1960" tvg-name="Space Men (1960)" tvg-logo="https://archive.org/download/space-men-1960/format=Thumbnail" tvg-language="eng",Space Men (1960)
 https://archive.org/download/space-men-1960/format=MPEG4
-#EXTINF:-1 group-title="Colorized-movies" tvg-id="night-train-to-munich-1940" tvg-logo="https://archive.org/download/night-train-to-munich-1940/format=Thumbnail" tvg-language="eng",Night Train to Munich 1940 colorized (Margaret Lockwood‚ Rex Harrison)
-https://archive.org/download/night-train-to-munich-1940/format=MPEG4
