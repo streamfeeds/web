@@ -1,4 +1,12 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Feature films" tvg-id="7eme-compagnie-trilogy" tvg-name="La 7ème compagnie Trilogy" tvg-logo="https://archive.org/download/7eme-compagnie-trilogy/format=Thumbnail" tvg-language="fra",La 7ème compagnie Trilogy
+https://archive.org/download/7eme-compagnie-trilogy/format=h.264
+#EXTINF:-1 group-title="Feature films" tvg-id="fantomas-trilogy" tvg-name="Fantomas Trilogy" tvg-logo="https://archive.org/download/fantomas-trilogy/format=Thumbnail" tvg-language="fra",Fantomas Trilogy
+https://archive.org/download/fantomas-trilogy/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="filmography-Alain-Delon" tvg-name="Filmography: Alain Delon" tvg-logo="https://archive.org/download/filmography-Alain-Delon/format=Thumbnail" tvg-language="fra",Filmography: Alain Delon
+https://archive.org/download/filmography-Alain-Delon/format=h.264
+#EXTINF:-1 group-title="Feature films" tvg-id="filmography-Jean-Gabin" tvg-name="Filmography: Jean Gabin" tvg-logo="https://archive.org/download/filmography-Jean-Gabin/format=Thumbnail" tvg-language="fra",Filmography: Jean Gabin
+https://archive.org/download/filmography-Jean-Gabin/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="miracle-of-the-wolves_1930" tvg-name="Miracle of the Wolves" tvg-logo="https://archive.org/download/miracle-of-the-wolves_1930/format=Thumbnail" tvg-language="fra",Miracle of the Wolves (1930)
 https://archive.org/download/miracle-of-the-wolves_1930/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="miss-europe_1930" tvg-name="Miss Europe" tvg-logo="https://archive.org/download/miss-europe_1930/format=Thumbnail" tvg-language="fra",Miss Europe (1930)
@@ -477,6 +485,8 @@ https://archive.org/download/moonlight-moovies-7/format=MPEG4
 https://archive.org/download/Clodo/format=MPEG4
 #EXTINF:-1 group-title="Film Noir" tvg-id="lametamorphosedescloportes" tvg-name="Las alimañas ( 1965)" tvg-logo="https://archive.org/download/lametamorphosedescloportes/format=Thumbnail" tvg-language="fra",Las alimañas (1965)
 https://archive.org/download/lametamorphosedescloportes/format=h.264
+#EXTINF:-1 group-title="Film Noir" tvg-id="1971LeDrapeauNoirFlotteSurLaMarmite" tvg-name="1971 Le Drapeau Noir Flotte Sur La Marmite" tvg-logo="https://archive.org/download/1971LeDrapeauNoirFlotteSurLaMarmite/format=Thumbnail" tvg-language="fra",1971 Le Drapeau Noir Flotte Sur La Marmite
+https://archive.org/download/1971LeDrapeauNoirFlotteSurLaMarmite/format=h.264
 #EXTINF:-1 group-title="Film Noir" tvg-id="FearAndDesire1953_201808" tvg-name="Fear And Desire (1953)" tvg-logo="https://archive.org/download/FearAndDesire1953_201808/format=Thumbnail" tvg-language="fra",Fear And Desire (1953)
 https://archive.org/download/FearAndDesire1953_201808/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="LaSortieDeLUsineLumireLyon" tvg-name="La sortie de l'usine Lumière à Lyon" tvg-logo="https://archive.org/download/LaSortieDeLUsineLumireLyon/format=Thumbnail" tvg-language="fra",La sortie de l'usine Lumière à Lyon (1895)
