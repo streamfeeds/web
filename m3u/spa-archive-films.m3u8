@@ -1,4 +1,28 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="mafalda-cortos-animados" tvg-name="Mafalda (Cortos animados)" tvg-logo="https://archive.org/download/mafalda-cortos-animados/format=Thumbnail" tvg-language="spa",Mafalda (Cortos animados) (1971)
+https://archive.org/download/mafalda-cortos-animados/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="nosotros-y-los-miedos-1982" tvg-name="Nosotros Y Los Miedos (Serie argentina)" tvg-logo="https://archive.org/download/nosotros-y-los-miedos-1982/format=Thumbnail" tvg-language="spa",Nosotros Y Los Miedos (Serie argentina) (1982)
+https://archive.org/download/nosotros-y-los-miedos-1982/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="tachero-nocturno-1993_202609" tvg-name="Tachero Nocturno (1993)" tvg-logo="https://archive.org/download/tachero-nocturno-1993_202609/format=Thumbnail" tvg-language="spa",Tachero Nocturno (1993)
+https://archive.org/download/tachero-nocturno-1993_202609/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="la-clinica-loca-1988" tvg-name="La Clinica Loca (1988)" tvg-logo="https://archive.org/download/la-clinica-loca-1988/format=Thumbnail" tvg-language="spa",La Clinica Loca (1988)
+https://archive.org/download/la-clinica-loca-1988/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="darse-cuenta-1984" tvg-name="Darse Cuenta (1984)" tvg-logo="https://archive.org/download/darse-cuenta-1984/format=Thumbnail" tvg-language="spa",Darse Cuenta (1984)
+https://archive.org/download/darse-cuenta-1984/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="el-rey-de-los-exhortos-1979" tvg-name="El Rey De Los Exhortos (1979)" tvg-logo="https://archive.org/download/el-rey-de-los-exhortos-1979/format=Thumbnail" tvg-language="spa",El Rey De Los Exhortos (1979)
+https://archive.org/download/el-rey-de-los-exhortos-1979/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="al-grito-de-este-pueblo-1972" tvg-name="Al Grito De Este Pueblo (1972)" tvg-logo="https://archive.org/download/al-grito-de-este-pueblo-1972/format=Thumbnail" tvg-language="spa",Al Grito De Este Pueblo (1972)
+https://archive.org/download/al-grito-de-este-pueblo-1972/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="cronica-de-una-senora-1971" tvg-name="Cronica De Una Señora (1971)" tvg-logo="https://archive.org/download/cronica-de-una-senora-1971/format=Thumbnail" tvg-language="spa",Cronica De Una Señora (1971)
+https://archive.org/download/cronica-de-una-senora-1971/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="la-hosteria-del-caballito-blanco-1948" tvg-name="La Hosteria Del Caballito Blanco (1948)" tvg-logo="https://archive.org/download/la-hosteria-del-caballito-blanco-1948/format=Thumbnail" tvg-language="spa",La Hosteria Del Caballito Blanco (1948)
+https://archive.org/download/la-hosteria-del-caballito-blanco-1948/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="los-hijos-del-otro-1947" tvg-name="Los Hijos Del Otro (1947)" tvg-logo="https://archive.org/download/los-hijos-del-otro-1947/format=Thumbnail" tvg-language="spa",Los Hijos Del Otro (1947)
+https://archive.org/download/los-hijos-del-otro-1947/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="inspiracion-1946" tvg-name="Inspiracion (1946)" tvg-logo="https://archive.org/download/inspiracion-1946/format=Thumbnail" tvg-language="spa",Inspiracion (1946)
+https://archive.org/download/inspiracion-1946/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="villa-rica-del-espiritu-santo-1945" tvg-name="Villa Rica Del Espiritu Santo (1945)" tvg-logo="https://archive.org/download/villa-rica-del-espiritu-santo-1945/format=Thumbnail" tvg-language="spa",Villa Rica Del Espiritu Santo (1945)
+https://archive.org/download/villa-rica-del-espiritu-santo-1945/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="mi-amigo-luis-1972" tvg-name="Mi Amigo Luis (1972)" tvg-logo="https://archive.org/download/mi-amigo-luis-1972/format=Thumbnail" tvg-language="spa",Mi Amigo Luis (1972)
 https://archive.org/download/mi-amigo-luis-1972/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="la-nata-contra-el-vidrio-1972" tvg-name="La Ñata Contra El Vidrio (1972)" tvg-logo="https://archive.org/download/la-nata-contra-el-vidrio-1972/format=Thumbnail" tvg-language="spa",La Ñata Contra El Vidrio (1972)
