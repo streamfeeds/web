@@ -8199,10 +8199,10 @@ https://archive.org/download/Samantha_Fox_True_Devotion/format=h.264
 https://archive.org/download/Enya-On_My_Way_Home_dvd-2nafish/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Samantha_Fox_Nothings_Gonna_Stop_Me_Now" tvg-logo="https://archive.org/download/Samantha_Fox_Nothings_Gonna_Stop_Me_Now/format=Thumbnail",Samantha Fox Nothing's Gonna Stop Me Now
 https://archive.org/download/Samantha_Fox_Nothings_Gonna_Stop_Me_Now/format=h.264
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="Enya_Orinoco_Flow_Sail_Away_svcd" tvg-logo="https://archive.org/download/Enya_Orinoco_Flow_Sail_Away_svcd/format=Thumbnail",Enya Orinoco Flow Sail Away (svcd)
-https://archive.org/download/Enya_Orinoco_Flow_Sail_Away_svcd/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Samantha_Fox_I_Surrender" tvg-logo="https://archive.org/download/Samantha_Fox_I_Surrender/format=Thumbnail",Samantha Fox I Surrender
 https://archive.org/download/Samantha_Fox_I_Surrender/format=h.264
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Enya_Orinoco_Flow_Sail_Away_svcd" tvg-logo="https://archive.org/download/Enya_Orinoco_Flow_Sail_Away_svcd/format=Thumbnail",Enya Orinoco Flow Sail Away (svcd)
+https://archive.org/download/Enya_Orinoco_Flow_Sail_Away_svcd/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Enya_Its_In_The_Rain_WMA_2006" tvg-logo="https://archive.org/download/Enya_Its_In_The_Rain_WMA_2006/format=Thumbnail",Enya It's In The Rain (WMA 2006)
 https://archive.org/download/Enya_Its_In_The_Rain_WMA_2006/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Samantha_Fox_I_Promise_You" tvg-logo="https://archive.org/download/Samantha_Fox_I_Promise_You/format=Thumbnail",Samantha Fox I Promise You
@@ -12625,8 +12625,6 @@ https://archive.org/download/Michel_Fugain_Attention_Mesdames_Et_Messieurs/forma
 https://archive.org/download/Michael_McDonald_Tear_It_Up/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Michael_Gregory_Cant_Carry_You" tvg-logo="https://archive.org/download/Michael_Gregory_Cant_Carry_You/format=Thumbnail",Michael Gregory Can't Carry You
 https://archive.org/download/Michael_Gregory_Cant_Carry_You/format=h.264
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="Metallica_Nothing_Else_Matters" tvg-logo="https://archive.org/download/Metallica_Nothing_Else_Matters/format=Thumbnail",Metallica Nothing Else Matters
-https://archive.org/download/Metallica_Nothing_Else_Matters/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Merseybeats_Dusty_Springfield_Wishing_Hoping_Video" tvg-logo="https://archive.org/download/Merseybeats_Dusty_Springfield_Wishing_Hoping_Video/format=Thumbnail",Merseybeats & Dusty Springfield Wishing & Hoping
 https://archive.org/download/Merseybeats_Dusty_Springfield_Wishing_Hoping_Video/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Meredith_Brooks_Bitch" tvg-logo="https://archive.org/download/Meredith_Brooks_Bitch/format=Thumbnail",Meredith Brooks Bitch
