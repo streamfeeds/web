@@ -1,4 +1,8 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="basuras-humanas-aka-la-bastarda-1972" tvg-name="Basuras Humanas (aka La Bastarda)(1972)" tvg-logo="https://archive.org/download/basuras-humanas-aka-la-bastarda-1972/format=Thumbnail" tvg-language="spa",Basuras Humanas (aka La Bastarda)(1972)
+https://archive.org/download/basuras-humanas-aka-la-bastarda-1972/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="en-carne-viva-1954" tvg-name="En Carne Viva (1954)" tvg-logo="https://archive.org/download/en-carne-viva-1954/format=Thumbnail" tvg-language="spa",En Carne Viva (1954)
+https://archive.org/download/en-carne-viva-1954/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="el-heroico-bonifacio-1951" tvg-name="El Heroico Bonifacio (1951)" tvg-logo="https://archive.org/download/el-heroico-bonifacio-1951/format=Thumbnail" tvg-language="spa",El Heroico Bonifacio (1951)
 https://archive.org/download/el-heroico-bonifacio-1951/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="el-idolo-del-tango-1949" tvg-name="El Idolo Del Tango (1949)" tvg-logo="https://archive.org/download/el-idolo-del-tango-1949/format=Thumbnail" tvg-language="spa",El Idolo Del Tango (1949)
