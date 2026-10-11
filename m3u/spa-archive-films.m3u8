@@ -1,4 +1,14 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="el-heroico-bonifacio-1951" tvg-name="El Heroico Bonifacio (1951)" tvg-logo="https://archive.org/download/el-heroico-bonifacio-1951/format=Thumbnail" tvg-language="spa",El Heroico Bonifacio (1951)
+https://archive.org/download/el-heroico-bonifacio-1951/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="el-idolo-del-tango-1949" tvg-name="El Idolo Del Tango (1949)" tvg-logo="https://archive.org/download/el-idolo-del-tango-1949/format=Thumbnail" tvg-language="spa",El Idolo Del Tango (1949)
+https://archive.org/download/el-idolo-del-tango-1949/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="la-gran-tentacion-1948" tvg-name="La Gran Tentacion (1948)" tvg-logo="https://archive.org/download/la-gran-tentacion-1948/format=Thumbnail" tvg-language="spa",La Gran Tentacion (1948)
+https://archive.org/download/la-gran-tentacion-1948/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="de-mexico-llego-el-amor-1940" tvg-name="De Mexico Llego El Amor (1940)" tvg-logo="https://archive.org/download/de-mexico-llego-el-amor-1940/format=Thumbnail" tvg-language="spa",De Mexico Llego El Amor (1940)
+https://archive.org/download/de-mexico-llego-el-amor-1940/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="el-hijo-del-barrio-1940" tvg-name="El Hijo Del Barrio (1940)" tvg-logo="https://archive.org/download/el-hijo-del-barrio-1940/format=Thumbnail" tvg-language="spa",El Hijo Del Barrio (1940)
+https://archive.org/download/el-hijo-del-barrio-1940/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="las-modelos-1963" tvg-name="Las Modelos (1963)" tvg-logo="https://archive.org/download/las-modelos-1963/format=Thumbnail" tvg-language="spa",Las Modelos (1963)
 https://archive.org/download/las-modelos-1963/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="que-es-el-otono-1977" tvg-name="Que Es El Otoño (1977)" tvg-logo="https://archive.org/download/que-es-el-otono-1977/format=Thumbnail" tvg-language="spa",Que Es El Otoño (1977)
