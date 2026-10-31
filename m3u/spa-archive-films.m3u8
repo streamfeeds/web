@@ -1,4 +1,16 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="campo-arado-1959" tvg-name="Campo Arado (1959)" tvg-logo="https://archive.org/download/campo-arado-1959/format=Thumbnail" tvg-language="spa",Campo Arado (1959)
+https://archive.org/download/campo-arado-1959/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="los-maridos-de-mama-1956" tvg-name="Los Maridos De Mama (1956)" tvg-logo="https://archive.org/download/los-maridos-de-mama-1956/format=Thumbnail" tvg-language="spa",Los Maridos De Mama (1956)
+https://archive.org/download/los-maridos-de-mama-1956/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="canario-rojo-1955" tvg-name="Canario Rojo (1955)" tvg-logo="https://archive.org/download/canario-rojo-1955/format=Thumbnail" tvg-language="spa",Canario Rojo (1955)
+https://archive.org/download/canario-rojo-1955/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="el-vampiro-negro-1953" tvg-name="El Vampiro Negro (1953)" tvg-logo="https://archive.org/download/el-vampiro-negro-1953/format=Thumbnail" tvg-language="spa",El Vampiro Negro (1953)
+https://archive.org/download/el-vampiro-negro-1953/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="la-otra-y-yo-1949" tvg-name="La Otra Y Yo (1949)" tvg-logo="https://archive.org/download/la-otra-y-yo-1949/format=Thumbnail" tvg-language="spa",La Otra Y Yo (1949)
+https://archive.org/download/la-otra-y-yo-1949/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="pasion-imposible-1943" tvg-name="Pasion Imposible (1943)" tvg-logo="https://archive.org/download/pasion-imposible-1943/format=Thumbnail" tvg-language="spa",Pasion Imposible (1943)
+https://archive.org/download/pasion-imposible-1943/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="la-calle-corrientes-1943" tvg-name="La Calle Corrientes (1943)" tvg-logo="https://archive.org/download/la-calle-corrientes-1943/format=Thumbnail" tvg-language="spa",La Calle Corrientes (1943)
 https://archive.org/download/la-calle-corrientes-1943/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="asi-te-quiero-1942" tvg-name="Asi Te Quiero (1942)" tvg-logo="https://archive.org/download/asi-te-quiero-1942/format=Thumbnail" tvg-language="spa",Asi Te Quiero (1942)
