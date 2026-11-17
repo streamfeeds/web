@@ -1,10 +1,78 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="ulisse-ita" tvg-name="Ulysses (1954)" tvg-logo="https://archive.org/download/ulisse-ita/format=Thumbnail" tvg-language="ita",Ulysses (1954)
+https://archive.org/download/ulisse-ita/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="medea-passolini" tvg-name="Medea (1969)" tvg-logo="https://archive.org/download/medea-passolini/format=Thumbnail" tvg-language="ita",Medea (1969)
+https://archive.org/download/medea-passolini/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="il-conformista-ita" tvg-name="The Conformist (1971)" tvg-logo="https://archive.org/download/il-conformista-ita/format=Thumbnail" tvg-language="ita",The Conformist (1971)
+https://archive.org/download/il-conformista-ita/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="tempo-di-vaggio" tvg-name="Voyage in Time (1990)" tvg-logo="https://archive.org/download/tempo-di-vaggio/format=Thumbnail" tvg-language="ita",Voyage in Time (1990)
+https://archive.org/download/tempo-di-vaggio/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-desert-of-the-tatars-ita" tvg-name="The Desert of the Tartars (1976)" tvg-logo="https://archive.org/download/the-desert-of-the-tatars-ita/format=Thumbnail" tvg-language="ita",The Desert of the Tartars (1976)
+https://archive.org/download/the-desert-of-the-tatars-ita/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="i-knew-her-well" tvg-name="I Knew Her Well (1965)" tvg-logo="https://archive.org/download/i-knew-her-well/format=Thumbnail" tvg-language="ita",I Knew Her Well (1965)
+https://archive.org/download/i-knew-her-well/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="fellini-satyricon" tvg-name="Satyricon (1969)" tvg-logo="https://archive.org/download/fellini-satyricon/format=Thumbnail" tvg-language="ita",Satyricon (1969)
+https://archive.org/download/fellini-satyricon/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="la-dolce-vita-fellini" tvg-name="La Dolce Vita (1960)" tvg-logo="https://archive.org/download/la-dolce-vita-fellini/format=Thumbnail" tvg-language="ita",La Dolce Vita (1960)
+https://archive.org/download/la-dolce-vita-fellini/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="il-deserto-rosso" tvg-name="Red Desert (1964)" tvg-logo="https://archive.org/download/il-deserto-rosso/format=Thumbnail" tvg-language="ita",Red Desert (1964)
+https://archive.org/download/il-deserto-rosso/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="paisa-1946" tvg-name="Paisan (1946)" tvg-logo="https://archive.org/download/paisa-1946/format=Thumbnail" tvg-language="ita",Paisan (1946)
+https://archive.org/download/paisa-1946/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="roma-citta-aperta" tvg-name="Rome‚ Open City (1945)" tvg-logo="https://archive.org/download/roma-citta-aperta/format=Thumbnail" tvg-language="ita",Rome‚ Open City (1945)
+https://archive.org/download/roma-citta-aperta/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="mafioso-ita" tvg-name="Mafioso (1962)" tvg-logo="https://archive.org/download/mafioso-ita/format=Thumbnail" tvg-language="ita",Mafioso (1962)
+https://archive.org/download/mafioso-ita/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-flowers-of-st-francis" tvg-name="The Flowers of St. Francis (1950)" tvg-logo="https://archive.org/download/the-flowers-of-st-francis/format=Thumbnail" tvg-language="ita",The Flowers of St. Francis (1950)
+https://archive.org/download/the-flowers-of-st-francis/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="i-vitelloni-fellini" tvg-name="I Vitelloni (1953)" tvg-logo="https://archive.org/download/i-vitelloni-fellini/format=Thumbnail" tvg-language="ita",I Vitelloni (1953)
+https://archive.org/download/i-vitelloni-fellini/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="mamma-roma-ita" tvg-name="Mamma Roma (1962)" tvg-logo="https://archive.org/download/mamma-roma-ita/format=Thumbnail" tvg-language="ita",Mamma Roma (1962)
+https://archive.org/download/mamma-roma-ita/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="salvatore-giuliano-ita" tvg-name="Salvatore Giuliano (1962)" tvg-logo="https://archive.org/download/salvatore-giuliano-ita/format=Thumbnail" tvg-language="ita",Salvatore Giuliano (1962)
+https://archive.org/download/salvatore-giuliano-ita/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="bicycle-thieves-ita" tvg-name="Bicycle Thieves (1948)" tvg-logo="https://archive.org/download/bicycle-thieves-ita/format=Thumbnail" tvg-language="ita",Bicycle Thieves (1948)
+https://archive.org/download/bicycle-thieves-ita/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="umberto-d-ita" tvg-name="Umberto D. (1952)" tvg-logo="https://archive.org/download/umberto-d-ita/format=Thumbnail" tvg-language="ita",Umberto D. (1952)
+https://archive.org/download/umberto-d-ita/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="8-and-a-half-fellini" tvg-name="8½ (1963)" tvg-logo="https://archive.org/download/8-and-a-half-fellini/format=Thumbnail" tvg-language="ita",8½ (1963)
+https://archive.org/download/8-and-a-half-fellini/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="leclisse-antonioni" tvg-name="L'Eclisse (1962)" tvg-logo="https://archive.org/download/leclisse-antonioni/format=Thumbnail" tvg-language="ita",L'Eclisse (1962)
+https://archive.org/download/leclisse-antonioni/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="la-notte-antonioni" tvg-name="La Notte (1961)" tvg-logo="https://archive.org/download/la-notte-antonioni/format=Thumbnail" tvg-language="ita",La Notte (1961)
+https://archive.org/download/la-notte-antonioni/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="lavventura-antonioni" tvg-name="L'Avventura (1960)" tvg-logo="https://archive.org/download/lavventura-antonioni/format=Thumbnail" tvg-language="ita",L'Avventura (1960)
+https://archive.org/download/lavventura-antonioni/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="amarcord-ita" tvg-name="Amarcord (1973)" tvg-logo="https://archive.org/download/amarcord-ita/format=Thumbnail" tvg-language="ita",Amarcord (1973)
+https://archive.org/download/amarcord-ita/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="investigation-of-a-citizen-above-suspicion" tvg-name="Investigation of a Citizen Above Suspicion (1970)" tvg-logo="https://archive.org/download/investigation-of-a-citizen-above-suspicion/format=Thumbnail" tvg-language="ita",Investigation of a Citizen Above Suspicion (1970)
+https://archive.org/download/investigation-of-a-citizen-above-suspicion/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-stranger-1967-ita" tvg-name="The Stranger (1967)" tvg-logo="https://archive.org/download/the-stranger-1967-ita/format=Thumbnail" tvg-language="ita",The Stranger (1967)
+https://archive.org/download/the-stranger-1967-ita/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="la-terra-trema-1949" tvg-name="La Terra Trema (1949)" tvg-logo="https://archive.org/download/la-terra-trema-1949/format=Thumbnail" tvg-language="ita",La Terra Trema (1949)
+https://archive.org/download/la-terra-trema-1949/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="le-notti-bianche-ita" tvg-name="Le Notti Bianche (1957)" tvg-logo="https://archive.org/download/le-notti-bianche-ita/format=Thumbnail" tvg-language="ita",Le Notti Bianche (1957)
+https://archive.org/download/le-notti-bianche-ita/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="death-in-venice-ita" tvg-name="Death in Venice (1971)" tvg-logo="https://archive.org/download/death-in-venice-ita/format=Thumbnail" tvg-language="ita",Death in Venice (1971)
+https://archive.org/download/death-in-venice-ita/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="rocco-and-his-brothers-1960" tvg-name="Rocco and His Brothers (1960)" tvg-logo="https://archive.org/download/rocco-and-his-brothers-1960/format=Thumbnail" tvg-language="ita",Rocco and His Brothers (1960)
+https://archive.org/download/rocco-and-his-brothers-1960/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="at-the-first-breath-of-the-wind" tvg-name="At the First Breath of Wind (2003)" tvg-logo="https://archive.org/download/at-the-first-breath-of-the-wind/format=Thumbnail" tvg-language="ita",At the First Breath of Wind (2003)
+https://archive.org/download/at-the-first-breath-of-the-wind/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-tree-of-wooden-clogs-1978-ita" tvg-name="The Tree of Wooden Clogs (1978)" tvg-logo="https://archive.org/download/the-tree-of-wooden-clogs-1978-ita/format=Thumbnail" tvg-language="ita",The Tree of Wooden Clogs (1978)
+https://archive.org/download/the-tree-of-wooden-clogs-1978-ita/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="clouds-to-resistance" tvg-name="From the Clouds to the Resistance (1979)" tvg-logo="https://archive.org/download/clouds-to-resistance/format=Thumbnail" tvg-language="ita",From the Clouds to the Resistance (1979)
+https://archive.org/download/clouds-to-resistance/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="voci-nel-tempo-1996-italian" tvg-name="Voices Through Time (1996)" tvg-logo="https://archive.org/download/voci-nel-tempo-1996-italian/format=Thumbnail" tvg-language="ita",Voices Through Time (1996)
+https://archive.org/download/voci-nel-tempo-1996-italian/format=Thumbnail
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="la-canzone-dellamore_1930" tvg-name="La canzone dell'amore" tvg-logo="https://archive.org/download/la-canzone-dellamore_1930/format=Thumbnail" tvg-language="ita",La canzone dell'amore (1930)
 https://archive.org/download/la-canzone-dellamore_1930/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="django.-1966_202512" tvg-name="Django (1966)" tvg-logo="https://archive.org/download/django.-1966_202512/format=Thumbnail" tvg-language="ita",Django (1966)
 https://archive.org/download/django.-1966_202512/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the.-executioner.-1963" tvg-name="The Executioner (1963)" tvg-logo="https://archive.org/download/the.-executioner.-1963/format=Thumbnail" tvg-language="ita",The Executioner (1963)
 https://archive.org/download/the.-executioner.-1963/format=MPEG4
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="christ-stopped-at-eboli-1979" tvg-name="Christ Stopped at Eboli (1979)" tvg-logo="https://archive.org/download/christ-stopped-at-eboli-1979/format=Thumbnail" tvg-language="ita",Christ Stopped at Eboli (1979)
+https://archive.org/download/christ-stopped-at-eboli-1979/format=Thumbnail
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="exorcismo-exorcism-1975" tvg-name="Exorcismo‚ Exorcism 1975" tvg-logo="https://archive.org/download/exorcismo-exorcism-1975/format=Thumbnail" tvg-language="ita",Exorcismo‚ Exorcism 1975
 https://archive.org/download/exorcismo-exorcism-1975/format=MPEG4
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="the.day.of.the.owl.1968" tvg-name="The Day of the Owl (1968)" tvg-logo="https://archive.org/download/the.day.of.the.owl.1968/format=Thumbnail" tvg-language="ita",The Day of the Owl (1968)
@@ -23,12 +91,16 @@ https://archive.org/download/she-killed-in-ecstasy-sie-totete-in-ekstase-1971-so
 https://archive.org/download/inhibitions-inibizione-1976/format=MPEG4
 #EXTINF:-1 group-title="Comedy Films" tvg-id="la-cameriera-seduce-i-villeggianti-1980" tvg-name="La Cameriera Seduce I Villeggianti 1980" tvg-logo="https://archive.org/download/la-cameriera-seduce-i-villeggianti-1980/format=Thumbnail" tvg-language="ita",La Cameriera Seduce I Villeggianti 1980
 https://archive.org/download/la-cameriera-seduce-i-villeggianti-1980/format=MPEG4
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-odyssey-1968-" tvg-name="The Odyssey (1968)" tvg-logo="https://archive.org/download/the-odyssey-1968-/format=Thumbnail" tvg-language="ita",The Odyssey (1968)
+https://archive.org/download/the-odyssey-1968-/format=h.264
 #EXTINF:-1 group-title="Film Noir" tvg-id="diabolik_202509" tvg-name="Diabolik" tvg-logo="https://archive.org/download/diabolik_202509/format=Thumbnail" tvg-language="ita",Diabolik (1968)
 https://archive.org/download/diabolik_202509/format=h.264
 #EXTINF:-1 group-title="Comedy Films" tvg-id="le-notti-porno-nel-mondo-emmanualle-sinnlickeit-1977" tvg-name="Le Notti Porno Nel Mondo‚ Emmanualle Sinnlickeit 1977" tvg-logo="https://archive.org/download/le-notti-porno-nel-mondo-emmanualle-sinnlickeit-1977/format=Thumbnail" tvg-language="ita",Le Notti Porno Nel Mondo‚ Emmanualle Sinnlickeit 1977
 https://archive.org/download/le-notti-porno-nel-mondo-emmanualle-sinnlickeit-1977/format=h.264
 #EXTINF:-1 group-title="Comedy Films" tvg-id="bikinis-y-rock" tvg-name="Bikinis Y Rock" tvg-logo="https://archive.org/download/bikinis-y-rock/format=Thumbnail" tvg-language="ita",Bikinis Y Rock (1972)
 https://archive.org/download/bikinis-y-rock/format=MPEG4
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="the-leopard-1963" tvg-name="The Leopard (1963)" tvg-logo="https://archive.org/download/the-leopard-1963/format=Thumbnail" tvg-language="ita",The Leopard (1963)
+https://archive.org/download/the-leopard-1963/format=Thumbnail
 #EXTINF:-1 group-title="Film Noir" tvg-id="acab_20250809" tvg-name="ACAB" tvg-logo="https://archive.org/download/acab_20250809/format=Thumbnail" tvg-language="ita",ACAB (2012)
 https://archive.org/download/acab_20250809/format=h.264
 #EXTINF:-1 group-title="Comedy Films" tvg-id="at-last-at-last-la-moglie-vergine-the-virgin-wife-1975" tvg-name="At Last‚ At Last‚ La Moglie Vergine‚ The Virgin Wife 1975" tvg-logo="https://archive.org/download/at-last-at-last-la-moglie-vergine-the-virgin-wife-1975/format=Thumbnail" tvg-language="ita",At Last‚ At Last‚ La Moglie Vergine‚ The Virgin Wife 1975

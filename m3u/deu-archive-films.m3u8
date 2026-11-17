@@ -1,4 +1,48 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="metropolis-lang" tvg-name="Metropolis (1927)" tvg-logo="https://archive.org/download/metropolis-lang/format=Thumbnail" tvg-language="deu",Metropolis (1927)
+https://archive.org/download/metropolis-lang/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="life-of-marionettes-bergman" tvg-name="From the Life of the Marionettes (1980)" tvg-logo="https://archive.org/download/life-of-marionettes-bergman/format=Thumbnail" tvg-language="deu",From the Life of the Marionettes (1980)
+https://archive.org/download/life-of-marionettes-bergman/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="moloch-1999" tvg-name="Moloch (1999)" tvg-logo="https://archive.org/download/moloch-1999/format=Thumbnail" tvg-language="deu",Moloch (1999)
+https://archive.org/download/moloch-1999/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="faust-2011-sokurov" tvg-name="Faust (2011)" tvg-logo="https://archive.org/download/faust-2011-sokurov/format=Thumbnail" tvg-language="deu",Faust (2011)
+https://archive.org/download/faust-2011-sokurov/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="baal-german" tvg-name="Baal (1970)" tvg-logo="https://archive.org/download/baal-german/format=Thumbnail" tvg-language="deu",Baal (1970)
+https://archive.org/download/baal-german/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="germania-anno-zero" tvg-name="Germany‚ Year Zero (1948)" tvg-logo="https://archive.org/download/germania-anno-zero/format=Thumbnail" tvg-language="deu",Germany‚ Year Zero (1948)
+https://archive.org/download/germania-anno-zero/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="lola-fassbinder" tvg-name="Lola (1981)" tvg-logo="https://archive.org/download/lola-fassbinder/format=Thumbnail" tvg-language="deu",Lola (1981)
+https://archive.org/download/lola-fassbinder/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="veronika-voss-deu" tvg-name="Veronika Voss (1982)" tvg-logo="https://archive.org/download/veronika-voss-deu/format=Thumbnail" tvg-language="deu",Veronika Voss (1982)
+https://archive.org/download/veronika-voss-deu/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="maria-braun-fassbinder" tvg-name="The Marriage of Maria Braun (1979)" tvg-logo="https://archive.org/download/maria-braun-fassbinder/format=Thumbnail" tvg-language="deu",The Marriage of Maria Braun (1979)
+https://archive.org/download/maria-braun-fassbinder/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="vampyr-dreyer" tvg-name="Vampyr (1932)" tvg-logo="https://archive.org/download/vampyr-dreyer/format=Thumbnail" tvg-language="deu",Vampyr (1932)
+https://archive.org/download/vampyr-dreyer/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="class-relations-1984" tvg-name="Class Relations (1984)" tvg-logo="https://archive.org/download/class-relations-1984/format=Thumbnail" tvg-language="deu",Class Relations (1984)
+https://archive.org/download/class-relations-1984/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="anna-magdalena-bach" tvg-name="Chronicle of Anna Magdalena Bach (1968)" tvg-logo="https://archive.org/download/anna-magdalena-bach/format=Thumbnail" tvg-language="deu",Chronicle of Anna Magdalena Bach (1968)
+https://archive.org/download/anna-magdalena-bach/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="antigone-1992" tvg-name="Antigone (1992)" tvg-logo="https://archive.org/download/antigone-1992/format=Thumbnail" tvg-language="deu",Antigone (1992) (1982)
+https://archive.org/download/antigone-1992/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="eight-hours-dont-make-a-day" tvg-name="Eight Hours Don’t Make a Day (1972)" tvg-logo="https://archive.org/download/eight-hours-dont-make-a-day/format=Thumbnail" tvg-language="deu",Eight Hours Don’t Make a Day (1972)
+https://archive.org/download/eight-hours-dont-make-a-day/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="until-the-end-of-the-world-wenders" tvg-name="Until the End of the World (1991)" tvg-logo="https://archive.org/download/until-the-end-of-the-world-wenders/format=Thumbnail" tvg-language="deu",Until the End of the World (1991)
+https://archive.org/download/until-the-end-of-the-world-wenders/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="kaspar-hauser-1974" tvg-name="The Enigma of Kaspar Hauser (1974)" tvg-logo="https://archive.org/download/kaspar-hauser-1974/format=Thumbnail" tvg-language="deu",The Enigma of Kaspar Hauser (1974)
+https://archive.org/download/kaspar-hauser-1974/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="world-on-a-wire-fassbinder" tvg-name="World on a Wire (1973)" tvg-logo="https://archive.org/download/world-on-a-wire-fassbinder/format=Thumbnail" tvg-language="deu",World on a Wire (1973)
+https://archive.org/download/world-on-a-wire-fassbinder/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="petra-von-kant-fassbinder" tvg-name="The Bitter Tears of Petra von Kant (1972)" tvg-logo="https://archive.org/download/petra-von-kant-fassbinder/format=Thumbnail" tvg-language="deu",The Bitter Tears of Petra von Kant (1972)
+https://archive.org/download/petra-von-kant-fassbinder/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="ali-fear-eats-the-soul-ger" tvg-name="Ali: Fear Eats the Soul (1974)" tvg-logo="https://archive.org/download/ali-fear-eats-the-soul-ger/format=Thumbnail" tvg-language="deu",Ali: Fear Eats the Soul (1974)
+https://archive.org/download/ali-fear-eats-the-soul-ger/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="aguirre-deutsch" tvg-name="Aguirre‚ the Wrath of God (1972)" tvg-logo="https://archive.org/download/aguirre-deutsch/format=Thumbnail" tvg-language="deu",Aguirre‚ the Wrath of God (1972)
+https://archive.org/download/aguirre-deutsch/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="coming-out-1989-german" tvg-name="Coming Out (1989)" tvg-logo="https://archive.org/download/coming-out-1989-german/format=Thumbnail" tvg-language="deu",Coming Out (1989)
+https://archive.org/download/coming-out-1989-german/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="angst-1983-austrian" tvg-name="Angst (1983)" tvg-logo="https://archive.org/download/angst-1983-austrian/format=Thumbnail" tvg-language="deu",Angst (1983)
+https://archive.org/download/angst-1983-austrian/format=h.264
 #EXTINF:-1 group-title="Feature films unsorted" tvg-id="pandoras-box_1930" tvg-name="Pandora's Box" tvg-logo="https://archive.org/download/pandoras-box_1930/format=Thumbnail" tvg-language="deu",Pandora's Box (1930)
 https://archive.org/download/pandoras-box_1930/format=MPEG4
 #EXTINF:-1 group-title="Comedy Films" tvg-id="liebling-der-gotter_1930" tvg-name="Liebling der Götter" tvg-logo="https://archive.org/download/liebling-der-gotter_1930/format=Thumbnail" tvg-language="deu",Liebling der Götter (1930)
@@ -69,6 +113,10 @@ https://archive.org/download/asphalt_1930/format=MPEG4
 https://archive.org/download/anna-christie_1930/format=MPEG4
 #EXTINF:-1 group-title="Comedy Films" tvg-id="devil-in-miss-jonas-the-der-teufel-in-miss-jonas-1976" tvg-name="Devil In Miss Jonas‚ The‚ Der Teufel In Miss Jonas 1974" tvg-logo="https://archive.org/download/devil-in-miss-jonas-the-der-teufel-in-miss-jonas-1976/format=Thumbnail" tvg-language="deu",Devil In Miss Jonas‚ The‚ Der Teufel In Miss Jonas 1974
 https://archive.org/download/devil-in-miss-jonas-the-der-teufel-in-miss-jonas-1976/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="die-nibelungen-kriemhilds-rache" tvg-name="Die Nibelungen: Kriemhild's Revenge (1924)" tvg-logo="https://archive.org/download/die-nibelungen-kriemhilds-rache/format=Thumbnail" tvg-language="deu",Die Nibelungen: Kriemhild's Revenge (1924)
+https://archive.org/download/die-nibelungen-kriemhilds-rache/format=Thumbnail
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="die-nibelungen-siegfried" tvg-name="Die Nibelungen: Siegfried (1924)" tvg-logo="https://archive.org/download/die-nibelungen-siegfried/format=Thumbnail" tvg-language="deu",Die Nibelungen: Siegfried (1924)
+https://archive.org/download/die-nibelungen-siegfried/format=Thumbnail
 #EXTINF:-1 group-title="Silent films" tvg-id="der.-hund.-von.-baskerville.-1929" tvg-name="Der Hund Von Baskerville (1929)" tvg-logo="https://archive.org/download/der.-hund.-von.-baskerville.-1929/format=Thumbnail" tvg-language="deu",Der Hund Von Baskerville (1929)
 https://archive.org/download/der.-hund.-von.-baskerville.-1929/format=MPEG4
 #EXTINF:-1 group-title="Silent films" tvg-id="the.-hands.-of.-orlac.-1924" tvg-name="The Hands of Orlac (1924)" tvg-logo="https://archive.org/download/the.-hands.-of.-orlac.-1924/format=Thumbnail" tvg-language="deu",The Hands of Orlac (1924)
@@ -77,6 +125,8 @@ https://archive.org/download/the.-hands.-of.-orlac.-1924/format=MPEG4
 https://archive.org/download/the.-golem.-1920/format=MPEG4
 #EXTINF:-1 group-title="Comedy Films" tvg-id="madame-and-her-niece-madame-und-ihre-nichte" tvg-name="Madame And Her Niece‚ Madame Und Ihre Nichte" tvg-logo="https://archive.org/download/madame-and-her-niece-madame-und-ihre-nichte/format=Thumbnail" tvg-language="deu",Madame And Her Niece‚ Madame Und Ihre Nichte (1969)
 https://archive.org/download/madame-and-her-niece-madame-und-ihre-nichte/format=h.264
+#EXTINF:-1 group-title="Feature films unsorted" tvg-id="phoenix-2014" tvg-name="Phoenix (2014)" tvg-logo="https://archive.org/download/phoenix-2014/format=Thumbnail" tvg-language="deu",Phoenix (2014)
+https://archive.org/download/phoenix-2014/format=Thumbnail
 #EXTINF:-1 group-title="Comedy Films" tvg-id="komm-nach-wien-ich-zeig-dir-was-1970" tvg-name="Komm Nach Wien Ich Zeig Dir Was! 1970" tvg-logo="https://archive.org/download/komm-nach-wien-ich-zeig-dir-was-1970/format=Thumbnail" tvg-language="deu",Komm Nach Wien Ich Zeig Dir Was! 1970
 https://archive.org/download/komm-nach-wien-ich-zeig-dir-was-1970/format=h.264
 #EXTINF:-1 group-title="Comedy Films" tvg-id="holiday-report-urlaubsreport-woruber-reiseleiter-nicht-sprechen-durfen-1971" tvg-name="Holiday Report‚ Urlaubsreport‚ Woruber Reiseleiter Nicht Sprechen Durfen 1971" tvg-logo="https://archive.org/download/holiday-report-urlaubsreport-woruber-reiseleiter-nicht-sprechen-durfen-1971/format=Thumbnail" tvg-language="deu",Holiday Report‚ Urlaubsreport‚ Woruber Reiseleiter Nicht Sprechen Durfen 1971
