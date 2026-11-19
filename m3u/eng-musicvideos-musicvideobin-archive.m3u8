@@ -4261,8 +4261,6 @@ https://archive.org/download/c052caae924d4e43996318e1983fea5b/format=h.264
 https://archive.org/download/802a4eece4a146d784bad59906ec53c1/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="510b36180f4644c0abe7140d22a53917" tvg-logo="https://archive.org/download/510b36180f4644c0abe7140d22a53917/format=Thumbnail",showandtell099
 https://archive.org/download/510b36180f4644c0abe7140d22a53917/format=h.264
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="c27bcd36746e4e6888dff6f048825e6a" tvg-logo="https://archive.org/download/c27bcd36746e4e6888dff6f048825e6a/format=Thumbnail",Detention099
-https://archive.org/download/c27bcd36746e4e6888dff6f048825e6a/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="bdeb62f2d5da4db9ae6b8b8910261373" tvg-logo="https://archive.org/download/bdeb62f2d5da4db9ae6b8b8910261373/format=Thumbnail",justgotfaded099
 https://archive.org/download/bdeb62f2d5da4db9ae6b8b8910261373/format=h.264
 #EXTINF:-1 group-title="Borisbvideos" tvg-id="thekleptonesthissongsmells2019" tvg-logo="https://archive.org/download/thekleptonesthissongsmells2019/format=Thumbnail",The Kleptones - This Song Smells (Nirvana & Blur)
@@ -8197,10 +8195,10 @@ https://archive.org/download/Samantha_Fox_True_Devotion/format=h.264
 https://archive.org/download/Enya-On_My_Way_Home_dvd-2nafish/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Samantha_Fox_Nothings_Gonna_Stop_Me_Now" tvg-logo="https://archive.org/download/Samantha_Fox_Nothings_Gonna_Stop_Me_Now/format=Thumbnail",Samantha Fox Nothing's Gonna Stop Me Now
 https://archive.org/download/Samantha_Fox_Nothings_Gonna_Stop_Me_Now/format=h.264
-#EXTINF:-1 group-title="Musicvideobin" tvg-id="Samantha_Fox_I_Surrender" tvg-logo="https://archive.org/download/Samantha_Fox_I_Surrender/format=Thumbnail",Samantha Fox I Surrender
-https://archive.org/download/Samantha_Fox_I_Surrender/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Enya_Orinoco_Flow_Sail_Away_svcd" tvg-logo="https://archive.org/download/Enya_Orinoco_Flow_Sail_Away_svcd/format=Thumbnail",Enya Orinoco Flow Sail Away (svcd)
 https://archive.org/download/Enya_Orinoco_Flow_Sail_Away_svcd/format=h.264
+#EXTINF:-1 group-title="Musicvideobin" tvg-id="Samantha_Fox_I_Surrender" tvg-logo="https://archive.org/download/Samantha_Fox_I_Surrender/format=Thumbnail",Samantha Fox I Surrender
+https://archive.org/download/Samantha_Fox_I_Surrender/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Enya_Its_In_The_Rain_WMA_2006" tvg-logo="https://archive.org/download/Enya_Its_In_The_Rain_WMA_2006/format=Thumbnail",Enya It's In The Rain (WMA 2006)
 https://archive.org/download/Enya_Its_In_The_Rain_WMA_2006/format=h.264
 #EXTINF:-1 group-title="Musicvideobin" tvg-id="Samantha_Fox_I_Promise_You" tvg-logo="https://archive.org/download/Samantha_Fox_I_Promise_You/format=Thumbnail",Samantha Fox I Promise You
